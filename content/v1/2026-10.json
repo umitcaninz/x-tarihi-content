@@ -1,0 +1,667 @@
+{
+  "schema_version": 1,
+  "month": "2026-10",
+  "items": [
+    {
+      "id": "Q11299865",
+      "date": "2026-10-01",
+      "category": "gida-icecek",
+      "widget_title": "Klondike Bar ne zaman dondurma dünyasına katıldı?",
+      "hook": "Kocaman bir çikolataya sarılı buz gibi bir lezzet: Klondike Bar!",
+      "answer_year": 1922,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Klondike Bar'ın hikayesi, dondurma severlerin kalbini çalan sade ama efsanevi bir lezzetin doğuşuna dayanıyor. Yıl 1922'ydi ve bu ikonik lezzet ilk kez Amerika'nın Pennsylvania eyaletindeki Isaly Dairy Company tarafından üretildi. Aslında başlangıçta, yerel bir süt ürünleri firması olan Isaly's, süt ve peynir gibi ürünleriyle biliniyordu. Ancak bir fikir ortaya çıktı: dikdörtgen şeklinde, yoğun bir vanilyalı dondurmayı kalın bir çikolata tabakasıyla kaplamak. İşte bu basit ama dahiyane fikir, Klondike Bar'ın temellerini attı.\n\nİlk yıllarında Klondike Bar, sadece Pennsylvania ve Ohio gibi Amerika'nın doğu eyaletlerinde satışa sunuluyordu. Küçük bir bölgenin favorisi haline gelen bu dondurma, \"What would you do for a Klondike Bar?\" (Bir Klondike Bar için neler yapardınız?) sloganıyla ulusal çapta ün kazanmadan önce yıllarca yerel bir sır olarak kaldı. Markanın ulusal dağıtıma geçişi ve tüm Amerika'ya yayılması [DOĞRULA: markanın ulusal dağıtıma ne zaman geçtiği bilgisi] çok daha sonraki yıllarda gerçekleşti. Klondike Bar'ın mucidi [DOĞRULA: Klondike Bar'ın belirli bir mucidinin olup olmadığı veya bu ismin sadece bir şirket ürünü olarak mı ortaya çıktığı] tam olarak bilinmese de, Isaly ailesinin bu yenilikçi dondurmanın arkasındaki itici güç olduğu kabul edilir. Basitliğiyle zamana meydan okuyan bu lezzet, hala milyonların favorisi.",
+      "fun_fact": "Klondike adının, Alaska ve Kanada'da bir zamanlar altın madenciliğiyle ünlü olan Klondike bölgesinden geldiğine inanılıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11299865",
+        "https://tr.wikipedia.org/wiki/Klondike_(dondurma)",
+        "https://en.wikipedia.org/wiki/Klondike_bar"
+      ],
+      "wikidata_qid": "Q11299865"
+    },
+    {
+      "id": "Q113068",
+      "date": "2026-10-02",
+      "category": "giyim",
+      "widget_title": "Macaristan Liyakat Nişanı'nın modern hikayesi ne zaman başladı?",
+      "hook": "Macaristan'ın en prestijli ödüllerinden biri olan Liyakat Nişanı'nın tarihi, tahmin ettiğinizden daha yakın olabilir.",
+      "answer_year": 1991,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Macaristan Liyakat Nişanı, ülkenin en yüksek devlet nişanlarından biri olarak kabul edilir. Ancak bu prestijli nişanın tarihi, tahmin ettiğiniz gibi uzun yüzyıllara dayanmıyor olabilir; en azından bugünkü modern haliyle... Birçok devlet nişanının kökeni çok eskilere uzanırken, Macaristan Liyakat Nişanı'nın şimdiki yapısı, Macaristan'ın 1989'daki demokratikleşme süreci sonrasında şekillendi.\n\nTam da bu dönüşümün ardından, 1991 yılında, Macaristan Liyakat Nişanı resmen yeniden ihdas edildi. Bu nişan, Macaristan Cumhuriyeti'ne olağanüstü hizmetlerde bulunmuş kişileri, ulusal ve uluslararası alanda ülkeye fayda sağlamış bireyleri onurlandırmak amacıyla tasarlandı. Bu ödül, bilime, sanata, kültüre, spora ve diğer pek çok alana katkıda bulunan Macar vatandaşlarına veya yabancılara verilebiliyor.\n\nNişan, farklı derecelere ve sınıflara ayrılır. [DOĞRULA: Dereceleri ve sınıfları nelerdir? En yüksek derecesi hangisidir?] Genellikle madalya, kurdele ve bazen de yıldız şeklinde bir rozet olarak sunulur. Onu taşıyan kişi için büyük bir gurur kaynağıdır ve giyildiği zaman sahibinin ülkesine olan bağlılığını ve başarılarını simgeler. Yani, görünüşte eski bir geleneği temsil etse de, modern Macaristan Liyakat Nişanı'nın öyküsü aslında yakın tarihimizin önemli bir parçasıdır.",
+      "fun_fact": "Nişanın tasarımı, Macaristan'ın ulusal renklerini ve sembollerini yansıtan özel motifler içerir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q113068",
+        "https://en.wikipedia.org/wiki/Hungarian_Order_of_Merit"
+      ],
+      "wikidata_qid": "Q113068"
+    },
+    {
+      "id": "Q1808761",
+      "date": "2026-10-03",
+      "category": "gunluk-nesneler",
+      "widget_title": "Müzik dünyasında bir devrim: Panharmonicon ne zaman ortaya çıktı?",
+      "hook": "Peki ya orkestra sesini tek bir enstrümandan duymanız mümkün olsaydı?",
+      "answer_year": 1804,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1880
+      ],
+      "body": "Hayal edin: 19. yüzyılın başlarındasınız ve tek bir alet, koca bir orkestranın tüm ihtişamını, rüzgar çalgılarından vurmalılara kadar her şeyi taklit ediyor. İşte bu inanılmaz müzik aleti Panharmonicon, müzikseverleri büyülediği **1804** yılında sahneye çıktı. Kim tarafından icat edildiği tam olarak bilinmese de [DOĞRULA: Panharmonicon'un mucidinin kesin olarak bilinip bilinmediği veya Johann Nepomuk Maelzel'in adı geçirilmesi gerekip gerekmediği], bu dahiyane cihaz, döneminin en sofistike otomatik müzik enstrümanlarından biriydi.\n\nPanharmonicon, adından da anlaşılacağı gibi ('pan' her şey, 'harmonicon' uyum), çeşitli müzik aletlerinin seslerini mekanik olarak üretme yeteneğine sahipti. Yaylılar, nefesliler, vurmalılar... Neredeyse her sesi taklit edebiliyordu. Bu, o dönem için gerçek bir mühendislik ve sanatsal harikaydı. Büyük boyutlarda inşa edilen bu enstrümanlar, bir odanın ortasına yerleştirildiğinde kendi başına bir konser verebiliyordu.\n\nYaygın bir yanlış anlaşılma, ünlü besteci Ludwig van Beethoven'ın 'Wellington'ın Zaferi' (veya 'Savaş Senfonisi') eserini doğrudan Panharmonicon için yazdığıdır. Aslında bu eser, Beethoven'ın mucit [DOĞRULA: Panharmonicon ile ilişkili olarak anılan mucidin adını (örneğin Maelzel)] ile olan işbirliği sonucu, daha sonraki ve belki de geliştirilmiş otomatik enstrümanlar için uyarlanmıştır. Orijinal Panharmonicon'un sesi ve yetenekleri, modern konser salonlarına ilham veren ilk adımlardan biriydi.",
+      "fun_fact": "Bu şaşırtıcı enstrüman, bir zamanlar tek başına bir orkestranın yerini alabilen nadir mekanik müzik harikalarından biriydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1808761",
+        "https://en.wikipedia.org/wiki/Panharmonicon"
+      ],
+      "wikidata_qid": "Q1808761"
+    },
+    {
+      "id": "Q1132481",
+      "date": "2026-10-04",
+      "category": "gida-icecek",
+      "widget_title": "Fioravanti lezzeti gıda dünyasına ne zaman girdi?",
+      "hook": "Bu özel İtalyan isminin lezzet dolu tarihi, hangi yılda başladı?",
+      "answer_year": 1898,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Fioravanti adını duyduğunuzda aklınıza ne geliyor? Belki de İtalyan esintili bir lezzet, belki de köklü bir aile geleneği... Gıda ve içecek dünyasındaki bu özel ismin tarih sahnesine çıktığı yıl tam olarak 1898. Bu tarih, Fioravanti isminin, damakları şenlendiren ürünlerle özdeşleşmeye başladığı dönemi işaret ediyor.\n\nPek çok İtalyan markasında olduğu gibi, Fioravanti de büyük olasılıkla bir ailenin soyadından geliyor. 19. yüzyılın sonları, Avrupa'da yiyecek ve içecek üretiminin sanayileştiği, yeni markaların ortaya çıktığı hareketli bir dönemdi. Bu süreçte, Fioravanti ismi de bu heyecan verici değişimin bir parçası oldu. Tam olarak hangi ürünle veya hangi girişimle başladığına dair kesin bilgiler olmasa da, 1898 yılının bu lezzet yolculuğunun başlangıcı olduğunu biliyoruz. O dönemde İtalya'da şaraplar, likörler, şuruplar veya özel tatlılar gibi birçok farklı gıda ve içecek ürünü popülerdi. Fioravanti'nin de bu geniş yelpazeden birinde kendine yer bulmuş olması kuvvetle muhtemeldir. Bu, bir likör markasının, bir tatlı tarifinin ya da bir içecek şirketinin kuruluşu olabilir. Hikayesi belki de nesilden nesile aktarılan gizli bir tarifle başladı, kim bilir? Bu gizem, Fioravanti'nin cazibesini daha da artırıyor. Ancak kesin olan şey, 1898'in bu lezzetli ismin dönüm noktası olduğudur.",
+      "fun_fact": "Fioravanti soyadı İtalya'da oldukça yaygın olup, 'çiçek açan' veya 'çiçekli' gibi anlamlara gelmektedir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1132481",
+        "https://tr.wikipedia.org/wiki/Fioravanti",
+        "https://en.wikipedia.org/wiki/Fioravanti_(soft_drink)"
+      ],
+      "wikidata_qid": "Q1132481"
+    },
+    {
+      "id": "Q12116001",
+      "date": "2026-10-05",
+      "category": "giyim",
+      "widget_title": "Kelch Hen adlı giysi ne zaman icat edildi?",
+      "hook": "Kelch Hen... Bu isim size bir şey ifade ediyor mu? 1898 yılına ait, giyim kategorisindeki bu ilginç terim, kendi hikayesini bekliyor.",
+      "answer_year": 1898,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Yıl 1898. Victoria döneminin son demlerinde, moda dünyasında pek çok yenilik ve değişim rüzgarı esiyordu. Kadın giyiminde korse kullanımı hala yaygın olsa da, daha pratik ve rahat giysilere yönelik arayışlar da başlamıştı. Dönemin kıyafetleri genellikle ağır kumaşlardan yapılıyor, bol katmanlar ve detaylı süslemeler içeriyordu. Erkek modasında ise centilmenler için takım elbiseler, silindir şapkalar ve bastonlar vazgeçilmezdi. Bu hareketli ve dönüşümcü dönemde karşımıza çıkan 'Kelch Hen' ise başlı başına bir muamma. Giyim kategorisinde listelenmesine rağmen, tam olarak ne tür bir giysi, aksesuar ya da moda öğesi olduğu kesin olarak bilinmiyor. [DOĞRULA: Kelch Hen'in giyim kategorisindeki kesin anlamını ve neyi ifade ettiğini belirle]. Adının kökeni de oldukça ilginç: Almanca'da 'kadeh' veya 'kupa' anlamına gelen 'Kelch' ve İngilizce'de 'tavuk' anlamına gelen 'Hen' kelimelerinin birleşimi, bu terimin ardındaki gizemi daha da derinleştiriyor. Acaba dönemin şakacı bir ifadesi miydi, özel bir terzi atölyesinin adı mı, yoksa çok kısa ömürlü bir moda akımının sembolü mü? Kesin olan tek şey, 1898 yılında bu gizemli ismin giyim tarihiyle bir şekilde kesiştiği. Belki de tarihin tozlu raflarında unutulmuş, ancak varlığıyla bile merak uyandıran bir parça. Onun hikayesi, moda arkeologlarını bekliyor.",
+      "fun_fact": "1898 yılında kadın giyiminde 'S-bend' korsesi popülerliğini sürdürüyordu, bu da beli öne doğru itip kalçaları arkaya doğru vurgulayan bir siluet yaratıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12116001",
+        "https://en.wikipedia.org/wiki/Kelch_Hen_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q12116001"
+    },
+    {
+      "id": "Q221720",
+      "date": "2026-10-06",
+      "category": "gunluk-nesneler",
+      "widget_title": "Uluslararası Uzay İstasyonu'nun yedek kalbi ne zaman tasarlandı?",
+      "hook": "Uzayın derinliklerinde, büyük bir projenin sigortası olarak geliştirilen, ama hiç kullanılmayan bir kahramanın hikayesini merak ediyor musunuz?",
+      "answer_year": 1997,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Uluslararası Uzay İstasyonu (ISS) gibi devasa bir uluslararası projenin inşası, sayısız mühendislik harikasını ve aynı zamanda 'ya olursa?' senaryolarını beraberinde getirir. İşte 'Geçici Kontrol Modülü' (Interim Control Module - ICM) tam da böyle bir senaryo için tasarlanmış bir yedek kahramandı. Bu modülün hikayesi 1990'ların ortalarına, yani ISS'in ilk adımlarının atıldığı döneme dayanıyor. Anahtar rolü, istasyonun ilk Rus modülü olan Zvezda Hizmet Modülü'nün fırlatılmasında yaşanabilecek olası gecikmelerde devreye girmekti.\n\nZvezda, ISS'in yaşam destek sistemleri, itki gücü ve yörünge kontrolü gibi hayati fonksiyonları için kritikti. Eğer Zvezda zamanında fırlatılamasaydı, uzaydaki ISS parçalarının yörüngeden çıkma veya kontrolünü kaybetme riski vardı. İşte bu noktada, Amerikan Deniz Araştırma Laboratuvarı (Naval Research Laboratory - NRL) tarafından geliştirilen ICM devreye girecekti. Temel amacı, Zvezda gelene kadar istasyonun yörüngesini ve konumunu korumak için gerekli itki ve kontrolü sağlamaktı. ICM'nin [DOĞRULA: geliştirme süreci ne zaman tamamlandı veya göreve hazır hale geldi] 1997 yılına işaret ediyor ki bu, onun göreve hazır bir yedek olarak beklediği zaman dilimiydi.\n\nNeyse ki, Zvezda 2000 yılında başarıyla fırlatıldı ve ICM'ye hiçbir zaman ihtiyaç duyulmadı. Böylece, milyarlarca dolarlık bir uzay projesinin güvenliğini sağlamak için tasarlanmış bu yüksek teknoloji ürünü modül, uzayda görev yapamadan Dünya'da beklemeye devam etti. Belki de bir gün başka bir görevde kullanılabilir. Kim bilir?",
+      "fun_fact": "Geçici Kontrol Modülü, hiç uzaya çıkmamış olsa da, Uluslararası Uzay İstasyonu'nun erken dönemdeki olası bir felaketini önlemek için kritik bir 'B Planı' olarak Dünya'da hazır bekledi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q221720",
+        "https://en.wikipedia.org/wiki/Interim_Control_Module"
+      ],
+      "wikidata_qid": "Q221720"
+    },
+    {
+      "id": "Q1133127",
+      "date": "2026-10-07",
+      "category": "gida-icecek",
+      "widget_title": "Amerikan Kızartılmış Sosis (Corn Dog) Ne Zaman Ortaya Çıktı?",
+      "hook": "Sosis, mısır unu harcı ve kızgın yağ... Bu üçlünün birleşimi nasıl ve ne zaman bir Amerikan klasiği haline geldi?",
+      "answer_year": 1920,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Amerikan filmlerinden ya da panayırlardan aşina olduğumuz, çıtır dış kabuğu ve içindeki sosisiyle gönülleri fetheden corn dog, aslında sanıldığı kadar eski bir geçmişe sahip değil. Bu pratik ve lezzetli atıştırmalığın ilk kez 1920'lerde ortaya çıktığı düşünülüyor. Tam olarak kimin veya hangi tarihte icat ettiği net olmasa da, hikayesi genellikle Amerikan Midwest'inde, özellikle de Teksas gibi eyaletlerdeki Alman göçmenlerinin sosisli sandviçlere olan düşkünlüğüyle ilişkilendirilir.\n\nGeleneksel sosisli sandviç ekmeği yerine, sosisin mısır unu bazlı kalın bir hamura bulanıp kızgın yağda kızartılması fikri, pratikliği ve taşınabilirliği sayesinde hızla popüler oldu. Panayırlarda ve festivallerde, elde kolayca yenilebilen bu yeni sosisli formatı, büyük ilgi gördü. Bu yiyecek sadece doyurucu olmakla kalmıyor, aynı zamanda renkli panayır atmosferinin de ayrılmaz bir parçası haline geliyordu. Birçok iddia sahibi olsa da, çoğu kaynak corn dog'un tek bir mucidi olmadığını, aksine 1920'ler ve 1930'lar boyunca farklı girişimciler tarafından benzer fikirlerin paralel olarak geliştirildiğini öne sürer. Örneğin, [DOĞRULA: Oregon'dan Carl ve Faye Karcher gibi isimlerin, ya da Teksas'taki Fletcher kardeşlerin 1930'larda Teksas Eyalet Fuarı'nda \"Corny Dogs\" adıyla sattığı ürünlerin popülerleşmesinde önemli rol oynadığı düşünülüyor.] Bu durum, bazen en sevdiğimiz yiyeceklerin bile net bir doğum belgesi olmadığını, ama lezzetleri ve kültürel etkileriyle birer efsaneye dönüştüğünü gösteriyor. Modern corn dog'lar genellikle ahşap çubuklara saplanmış halde servis edilir ve hardal ya da ketçapla enfes bir ikili oluşturur.",
+      "fun_fact": "Ulusal Corn Dog Günü, her yıl Mart ayının üçüncü Cumartesi günü kutlanan bir gelenektir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1133127",
+        "https://tr.wikipedia.org/wiki/Corn_dog",
+        "https://en.wikipedia.org/wiki/Corn_dog"
+      ],
+      "wikidata_qid": "Q1133127"
+    },
+    {
+      "id": "Q12137142",
+      "date": "2026-10-08",
+      "category": "giyim",
+      "widget_title": "\"On Beşinci Yıldönümü\" giysileri ne zaman çıktı?",
+      "hook": "Moda dünyasında bir kutlamanın adı olan 'On Beşinci Yıldönümü' sizce ne anlama geliyordu?",
+      "answer_year": 1911,
+      "year_precision": "year",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Yıl 1911... Avrupa'da modanın rüzgarları yavaş yavaş değişirken, kadın giyiminde daha akıcı silüetler kendini göstermeye başlamıştı. Korse kullanımı hala yaygın olsa da, daha serbest formlara doğru bir geçişin ilk sinyalleri hissediliyordu. İşte bu döneme ait ilginç bir giyim terimi ya da konseptiyle karşı karşıyayız: 'On Beşinci Yıldönümü'.\n\nBu isim, ilk bakışta kafa karıştırıcı görünebilir. Bir giysi koleksiyonunun mu, özel bir kumaşın mı, yoksa belirli bir stilin mi adıydı? Maalesef detaylar zamanın sisleri arasında kaybolmuş durumda. Ancak 'On Beşinci Yıldönümü' adından yola çıkarak, bu giyim parçasının veya koleksiyonun 1896 yılında başlayan önemli bir olayın, bir markanın kuruluşunun, bir tasarımcının ilk çıkışının ya da moda dünyasını etkileyen başka bir dönüm noktasının 15. yılını kutlamak amacıyla ortaya çıktığını düşünebiliriz. [DOĞRULA: 1911'de \"On Beşinci Yıldönümü\" adıyla bilinen özel bir giyim koleksiyonu veya stilinin gerçekten de 1896'da bir başlangıcı işaret edip etmediği.]\n\nNe yazık ki bu özel giysiyi veya trendi kimin yarattığı ya da tam olarak neye benzediği bilgisi günümüze ulaşamamış. Ancak bu durum, moda tarihinin bazen böyle gizemli notlarla dolu olduğunu bize hatırlatıyor. Belki de dönemin özel bir etkinliği için tasarlanmış sınırlı sayıda bir parçaydı ya da zamanla unutulmuş bir moda akımının adıydı. Kesin olan tek şey, 1911 yılında moda sahnesinde 'On Beşinci Yıldönümü' diye bir kavramın var olduğu.",
+      "fun_fact": "Moda dünyasında bazı tasarımlar veya koleksiyonlar, belirli bir olayı veya dönüm noktasını kutlamak için özel isimlerle anılır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12137142",
+        "https://en.wikipedia.org/wiki/Fifteenth_Anniversary_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q12137142"
+    },
+    {
+      "id": "Q2268940",
+      "date": "2026-10-09",
+      "category": "gunluk-nesneler",
+      "widget_title": "Deniz Org'u ne zaman sesini duyurdu?",
+      "hook": "Dalgaların çaldığı, rüzgarın bestelediği bir enstrüman düşünün.",
+      "answer_year": 2005,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Hayal edin: Hırvatistan'ın Zadar şehrinde, Adriyatik Denizi'nin kıyısında, dalgaların müziğiyle canlanan bir enstrüman var. Bu, Deniz Org'u! Geleneksel orglara hiç benzemiyor; klavyesi yok, tuşları yok. Onun yerine, merdivenlerin altına gizlenmiş bir dizi polietilen boru ve rezonatörden oluşuyor. Deniz suyu, bu boruların içine girip çıktıkça, içindeki havayı iterek benzersiz, huzur verici ve zaman zaman melankolik sesler yaratıyor.\n\nBu büyüleyici mimari ses enstalasyonu, [DOĞRULA: mimar Nikola Bašić tarafından mı tasarlandı?] 2005 yılında tamamlandı. Aslında İkinci Dünya Savaşı sonrası harap olan kıyı şeridini yeniden canlandırmak ve Zadar'ın eşsiz ruhunu yansıtmak amacıyla yaratıldı. Dalgaların ve rüzgarın sürekli değişen ritmiyle çalan bu doğal orkestra, her ziyaretçiye farklı bir deneyim sunuyor. Kimi zaman sakin bir ninni gibi fısıldarken, kimi zaman denizin gücünü hissettiren derin notalarla yankılanıyor. Sadece dinlemekle kalmıyor, aynı zamanda görsel olarak da denizin sonsuzluğunu ve gücünü hatırlatıyor. Gerçekten de doğanın kendi müziğini yaptığı eşsiz bir yer.",
+      "fun_fact": "Deniz Org'u, her dalganın farklı bir nota çalmasıyla sürekli değişen, eşsiz bir konser sunar.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2268940",
+        "https://en.wikipedia.org/wiki/Sea_organ"
+      ],
+      "wikidata_qid": "Q2268940"
+    },
+    {
+      "id": "Q1142160",
+      "date": "2026-10-10",
+      "category": "gida-icecek",
+      "widget_title": "İspanya'nın popüler birası Cruzcampo ne zaman doğdu?",
+      "hook": "İspanya'nın sıcak güneşi altında doğan bu ikonik bira, yüzyılı aşkın süredir lezzetini koruyor.",
+      "answer_year": 1904,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "İspanya'nın güneyindeki Endülüs bölgesinin kalbinde, güneşli Sevilla şehrinde, bira tutkunlarının yüzünü güldürecek bir lezzet doğdu: Cruzcampo. Takvimler 1904 yılını gösterdiğinde, [DOĞRULA: Osborne kardeşler tarafından kurulduğu söylenir.] Bu sadece yeni bir bira markasının değil, aynı zamanda İspanyol bira kültürünün önemli bir simgesinin de başlangıcıydı.\n\nCruzcampo, kuruluşundan itibaren kısa sürede İspanya'nın en sevilen biralarından biri haline geldi. Özellikle sıcak iklimiyle bilinen Endülüs'te, serinletici ve ferahlatıcı tadıyla tam bir vazgeçilmez oldu. Yıllar geçtikçe, kendine özgü karakterini ve kalitesini koruyarak sadece İspanya içinde değil, uluslararası arenada da tanınan bir marka haline geldi.\n\nPeki, Cruzcampo'yu bu kadar özel yapan neydi? Belki de ustalıkla harmanlanmış [DOĞRULA: şerbetçiotu ve malt dengesiydi], belki de Endülüs'ün ruhunu yansıtan o hafif ve içimi kolay yapısı. Ne olursa olsun, Cruzcampo nesiller boyu İspanyolların sofralarında, barlarında ve kutlamalarında yerini aldı. Reklam kampanyalarıyla da sıkça adından söz ettiren marka, İspanyol yaşam tarzının ayrılmaz bir parçası oldu.\n\nGünümüzde de İspanya'nın en çok tüketilen biralarından biri olmaya devam eden Cruzcampo, geleneksel bira üretim tekniklerini modern yaklaşımlarla birleştirerek mirasın değerini koruyor. Bir asrı aşkın süredir devam eden bu hikaye, biranın sadece bir içecek değil, aynı zamanda bir kültürün, bir bölgenin ve insanların bir araya gelişinin sembolü olabileceğinin en güzel örneklerinden.",
+      "fun_fact": "Cruzcampo'nun sembolik maskotu, elinde bir bardak bira tutan, tipik bir Endülüslü figürü olan \"Gambrinus\"tur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1142160",
+        "https://ca.wikipedia.org/wiki/Cruzcampo"
+      ],
+      "wikidata_qid": "Q1142160"
+    },
+    {
+      "id": "Q12162508",
+      "date": "2026-10-11",
+      "category": "giyim",
+      "widget_title": "Bu zarif 'Çelenkli Beşik' hangi yılda tasarlandı?",
+      "hook": "Beşikler sadece miniklerin tatlı rüyalara daldığı yerler midir, yoksa birer sanat eseri de olabilir mi?",
+      "answer_year": 1907,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "1907 yılına damgasını vuran bu 'Çelenkli Beşik' tasarımı, bebeklerin dünyasına sanatsal bir dokunuş katıyor. Erken 20. yüzyılın estetik anlayışını yansıtan bu özel beşik, fonksiyonellikle zarafeti bir araya getiriyor. O dönemlerde sanat ve zanaat, gündelik eşyaları bile birer başyapıta dönüştürme eğilimindeydi. 'Çelenkli Beşik' de bu akımın güzel bir örneği olarak karşımıza çıkıyor.\n\nTasarımın en dikkat çekici yanı, adından da anlaşıldığı gibi çelenk motifleriyle bezenmiş olması. Çelenkler, antik çağlardan beri kutlama, onur ve doğanın bereketi gibi anlamlar taşıyan süsleme öğeleri olmuştur. Bu beşiğin üzerindeki çelenkler de, yeni bir hayatın başlangıcını, saflığı ve masumiyeti temsil ediyor olabilir. Ne yazık ki bu eşsiz tasarımın arkasındaki dahi isim günümüze ulaşamamış. Ancak bilinen bir mucidinin olmaması, dönemin zanaatkarlarının kolektif ustalığını veya [DOĞRULA: belirli bir mobilya atölyesinin veya tasarım stüdyosunun] imzası olabileceği gerçeğini değiştirmiyor. Beşik, muhtemelen varlıklı aileler için özel olarak üretilmiş, nesilden nesile aktarılacak değerli bir miras parçasıydı. 1907'nin romantik ve detaycı ruhunu yansıtan bu beşik, günümüzde de görenleri kendine hayran bırakmaya devam ediyor.",
+      "fun_fact": "Beşikler tarih boyunca sadece çocuk yatakları olmanın ötesinde, kültürel ve sanatsal ifadenin de önemli bir aracı olmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12162508",
+        "https://en.wikipedia.org/wiki/Cradle_with_Garlands_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q12162508"
+    },
+    {
+      "id": "Q23670513",
+      "date": "2026-10-12",
+      "category": "gunluk-nesneler",
+      "widget_title": "Petya fidye yazılımı ne zaman ortaya çıktı?",
+      "hook": "2017'de dünya genelinde büyük bir paniğe yol açan Petya, aslında bir yıl öncesinden sinyal vermeye başlamıştı.",
+      "answer_year": 2016,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Bugün günlük eşyalar arasında dolaşırken, dijital dünyamızın görünmez 'nesnelerinden' birine, yani fidye yazılımlarına değinelim. Karşınızda: Petya! İlk olarak 2016 yılında, teknoloji dünyasının henüz çok da alışık olmadığı bir tehdit olarak kendini gösterdi. Petya, adını aldığı Rusya'daki popüler bir erkek isminden ilham alsa da, etkisi hiç de masum değildi. Bu kötü niyetli yazılım, bilgisayarınıza bulaştığında sadece dosyalarınızı şifrelemekle kalmıyor, aynı zamanda sabit diskinizin ana önyükleme kaydını (MBR) ele geçirerek bilgisayarınızı kullanılamaz hale getiriyordu. Kurbanlardan fidye olarak kripto para talep ediliyordu.\n\nAncak Petya'nın hikayesi sadece 2016 ile sınırlı değil. Asıl büyük yankısını, bir yıl sonra, 2017'de koparacaktı. O dönemde ortaya çıkan ve \"NotPetya\" olarak bilinen varyantı, Petya'nın daha yıkıcı bir versiyonuydı. NotPetya, Ukrayna'yı hedef alan ve oradan dünyaya yayılan, [DOĞRULA: küresel çapta milyarlarca dolarlık zarara yol açan] bir siber saldırıda kullanıldı. Bazıları NotPetya'nın aslında bir fidye yazılımı kılığına girmiş bir 'temizleyici' olduğunu, yani amacının veri silmek olduğunu iddia etti. Bu iki fidye yazılımı genellikle birbiriyle karıştırılsa da, Petya'nın 2016'daki ilk çıkışı, dijital tehditlerin ne kadar hızlı evrilebileceğinin bir göstergesiydi. O günden bu yana siber güvenlik uzmanları, benzer saldırılara karşı sürekli tetikte.",
+      "fun_fact": "Petya'nın ismi, Rus çocuk romanı 'Petya ve Kurt'tan esinlenilerek verilmiş olabilir, ancak yarattığı kaos bir peri masalı değildi. [DOĞRULA: Petya isminin kökeni]",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23670513",
+        "https://en.wikipedia.org/wiki/Petya_(malware_family)"
+      ],
+      "wikidata_qid": "Q23670513"
+    },
+    {
+      "id": "Q1156882",
+      "date": "2026-10-13",
+      "category": "gida-icecek",
+      "widget_title": "Nane ferahlığı Minttu ilk ne zaman ortaya çıktı?",
+      "hook": "Finlandiya'nın buz gibi soğuğuna inat, iç ısıtan Minttu'nun hikayesi sandığından daha yakın bir tarihte başlıyor!",
+      "answer_year": 1979,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Minttu, nanenin ferahlatıcı etkisiyle alkolün sıcaklığını buluşturan, özellikle Kuzey Avrupa'da popüler bir likör. Çoğunlukla \"shot\" olarak tüketilen bu içecek, adı gibi naneli tadıyla biliniyor ve Finlandiya'nın soğuk kış günlerinde içleri ısıtmak için tercih ediliyor. Peki, bu buz gibi içecek ne zaman ilk kez kadehlerimize konuk oldu? Cevap, tahmin ettiğimizden çok da eski değil: 1979 yılı! Minttu'nun piyasaya sürülüşü bu yıla dayanıyor. İlk başta sadece naneli (peppermint) çeşidiyle piyasaya çıkan Minttu, zamanla çikolata ve karamel gibi farklı lezzetler de sunmaya başladı. [DOĞRULA: Minttu'nun ilk kez hangi şirket tarafından üretildiği?] Bu içkinin arkasındaki fikir, muhtemelen sert kış koşullarına dayanıklı, enerji veren ve aynı zamanda ferahlatıcı bir içki yaratmaktı. Özellikle kış sporları sonrası veya partilerde sosyalleşirken popüler bir seçenek haline geldi. Yüksek alkol oranıyla tanınan Minttu, sadece bir içecekten öte, Finlandiya'nın sosyal yaşamının ve soğuk hava koşullarına direnişinin bir sembolü haline gelmiş durumda.",
+      "fun_fact": "Minttu, buz gibi dondurucudan çıkarılıp direkt shot olarak içildiğinde en otantik deneyimi sunar!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1156882",
+        "https://en.wikipedia.org/wiki/Minttu"
+      ],
+      "wikidata_qid": "Q1156882"
+    },
+    {
+      "id": "Q12340677",
+      "date": "2026-10-14",
+      "category": "giyim",
+      "widget_title": "Gizemli Veksø Miğferleri ne zaman keşfedildi?",
+      "hook": "Kuzey Avrupa'nın Tunç Çağı'ndan kalma bu etkileyici miğferler, bataklığın derinliklerinde bir sır gibi saklıydı.",
+      "answer_year": 1942,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Danimarka'nın Veksø köyü yakınlarındaki bir bataklıkta, 1942 yılında yapılan bir kazı, arkeoloji dünyasını heyecanlandıran bir keşfe sahne oldu. Ortaya çıkanlar, o dönemin savaşçıları veya rahipleri tarafından kullanıldığı düşünülen, boynuzlu ve son derece estetik iki bronz miğferdi: Veksø Miğferleri. Bu miğferler binlerce yıl önce, [DOĞRULA: Veksø miğferlerinin tahmini yapım tarihi, yaklaşık MÖ 1100-900 yılları arasında gibi] Tunç Çağı'nda yapılmış olsa da, modern dünyanın onları yeniden 'gördüğü' ve incelemeye başladığı yıl 1942'ydi. Veksø Miğferleri, benzersiz tasarımları, özellikle de kavisli boynuzları sayesinde hemen dikkat çeker. Bu boynuzların, dönemin kült inançları ve ritüelleriyle bağlantılı olduğuna inanılıyor. Belki de bu miğferler, sadece birer savunma aracı değil, aynı zamanda statü sembolü veya dini törenlerde kullanılan kutsal objelerdi. Bataklığın oksijensiz ortamı, miğferlerin şaşırtıcı derecede iyi korunmasını sağlamıştır. Bu sayede, Tunç Çağı insanlarının sanatı, zanaatkarlığı ve dünya görüşü hakkında paha biçilmez bilgiler edinmemizi sağladılar. Bugün Kopenhag'daki Danimarka Ulusal Müzesi'nde sergilenen Veksø Miğferleri, geçmişin karanlık dehlizlerinden gelen, hala tam olarak çözemediğimiz sırları fısıldayan birer zaman kapsülü olmaya devam ediyor.",
+      "fun_fact": "Veksø Miğferleri, Tunç Çağı'nda Kuzey Avrupa'da boynuzlu miğfer kullanımının en bilinen ve en çarpıcı örneklerinden biridir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12340677",
+        "https://en.wikipedia.org/wiki/Veks%C3%B8_Helmets"
+      ],
+      "wikidata_qid": "Q12340677"
+    },
+    {
+      "id": "Q292238",
+      "date": "2026-10-15",
+      "category": "gunluk-nesneler",
+      "widget_title": "Klasik AGA fırınlar mutfaklara ne zaman girdi?",
+      "hook": "Mutfakların zamansız klasiği AGA fırın, aslında bir bilim insanının dehasından doğdu desek şaşırır mısınız?",
+      "answer_year": 1922,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Bugünün modern mutfaklarında sıkça gördüğümüz akıllı fırınlardan çok önce, mutfaklara farklı bir sıcaklık ve işlevsellik getiren bir devrim yaşandı. Yıl 1922'yi gösterdiğinde, İsveçli dahi bilim insanı Gustaf Dalén, mutfaklara sadece yemek pişiren bir aletten öte, evin kalbini oluşturan bir cihaz hediye etti: AGA fırını.\n\nDalén'in kendi yaşamındaki zorluklar, bu ikonik fırının doğuşunda önemli bir rol oynadı. [DOĞRULA: 1912 yılında, lamba gazıyla yapılan bir deney sırasında görme yeteneğini kaybeden Dalén,] evdeki eşinin mutfaktaki sürekli çabasını ve tehlikeleri fark etti. Kör bir mucit olarak, herkesin güvenle ve kolayca kullanabileceği, aynı zamanda enerjiyi verimli kullanan bir fırın hayal etti. Sonuç, sürekli açık kalan, ağır dökme demir yapısıyla ısıyı hapseden ve farklı sıcaklıklara sahip pişirme alanları sunan AGA fırın oldu.\n\nAGA fırın, geleneksel fırınların aksine, bir kez ısıtıldıktan sonra gün boyu sıcaklığını koruyordu. Bu, sadece lezzetli yemekler pişirmekle kalmıyor, aynı zamanda mutfaklara sürekli bir sıcaklık kaynağı da sağlıyordu. Yavaş ve eşit pişirme yeteneği sayesinde yemeklerin tadı bambaşka olurken, dayanıklı yapısıyla nesilden nesile aktarılan bir miras haline geldi. Kısacası, AGA sadece bir fırın değil, bir yaşam tarzının ve mutfak kültürünün sembolü haline geldi.",
+      "fun_fact": "AGA kelimesi, mucidi Gustaf Dalén'in çalıştığı \"Aktiebolaget Gasaccumulator\" şirketinin kısaltmasıdır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q292238",
+        "https://en.wikipedia.org/wiki/AGA_cooker"
+      ],
+      "wikidata_qid": "Q292238"
+    },
+    {
+      "id": "Q1171787",
+      "date": "2026-10-16",
+      "category": "gida-icecek",
+      "widget_title": "Dasani şişe suyu ilk kez ne zaman piyasaya çıktı?",
+      "hook": "Bugün market raflarından tanıdığımız Dasani şişe suyunun hikayesi ne zaman başladı?",
+      "answer_year": 1999,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Bugün market raflarında her köşe başında gördüğümüz şişe suları, hayatımızın ayrılmaz bir parçası haline geldi. Peki, bu büyük pazarın önemli oyuncularından Dasani'nin hikayesi ne zaman başladı? Küresel içecek devi Coca-Cola, 1990'lı yılların sonuna doğru şişe su pazarındaki potansiyeli fark etti. Kendi ürün gamına bir şişe suyu markası ekleme vizyonuyla, 1999 yılında Dasani'yi tüketicilerle buluşturdu.\n\nDasani, piyasaya sürülürken sadece \"su\" olmaktan öte bir iddiayla geldi: arıtılmış şebeke suyuna özel bir mineral karışımı eklenerek, ferahlatıcı ve tutarlı bir tat profili sunmak. Marka, bu yaklaşımıyla, suyun saflığına ve zenginleştirilmiş tadına vurgu yaparak kendine özgü bir yer edinmeyi hedefledi. 1990'ların sonları ve 2000'lerin başları, tüketicilerin daha sağlıklı içecek seçeneklerine yöneldiği, \"hareket halindeyken\" tüketim alışkanlıklarının yaygınlaştığı bir dönemdi. Dasani de bu trendi yakalayarak kısa sürede popülerleşti ve birçok farklı ülkede raflardaki yerini aldı. Markanın stratejisi, yaygın dağıtım ağı ve Coca-Cola'nın marka gücüyle birleşince, Dasani küresel bir marka haline geldi.",
+      "fun_fact": "Dasani'nin adının, bazı kaynaklara göre İtalyanca'da \"su kaynağından\" anlamına gelen bir ifadeye gönderme yaptığı düşünülmektedir. [DOĞRULA: Dasani adının etimolojisi]",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1171787",
+        "https://tr.wikipedia.org/wiki/Dasani",
+        "https://en.wikipedia.org/wiki/Dasani"
+      ],
+      "wikidata_qid": "Q1171787"
+    },
+    {
+      "id": "Q1253796",
+      "date": "2026-10-17",
+      "category": "giyim",
+      "widget_title": "Ursula Andress'in ikonik beyaz bikinisi ne zaman ortaya çıktı?",
+      "hook": "Bir bikiniden çok daha fazlası olan bu parça, sinema tarihinin unutulmaz anlarından birine imza attı.",
+      "answer_year": 1962,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Beyaz bikiniler günümüzde plajların ve havuz başlarının vazgeçilmezi olabilir, ama 1962 yılına kadar durum hiç de öyle değildi. İşte tam o yıl, Ursula Andress'in James Bond filmi 'Dr. No'da giydiği o ikonik beyaz bikini, hem sinema tarihine hem de moda dünyasına damgasını vurdu. Andress'in canlandırdığı Honey Ryder karakterinin Karayip Denizi'nden çıkışı, sinema salonlarında nefesleri kesti ve anında kült bir sahne haline geldi. Bu sahne sadece Andress'i bir yıldız yapmakla kalmadı, aynı zamanda 'Bond kızı' arketipini de tanımladı ve sonraki tüm Bond filmlerinin estetiğini derinden etkiledi.\n\nBu özel bikini, dönemin modasına göre oldukça cüretkârdı ve bikinilerin ana akım kabul görmesinde önemli bir rol oynadı. Aslında bikini 1946'da tanıtılmış olsa da, Andress'in bu sahnesiyle birlikte küresel bir fenomene dönüştü. Kostümün tasarımının [DOĞRULA: Tessa Prendergast tarafından yapıldığı söylenir, ancak Ursula Andress'in de tasarım sürecine dahil olduğu biliniyor.] Bu sade ama çarpıcı parça, sadece bir mayo olmaktan öte, kadın gücünün ve cazibesinin bir sembolü haline geldi. Günümüzde bile, bu beyaz bikini tüm zamanların en ünlü film kostümlerinden biri olarak anılmaktadır.",
+      "fun_fact": "Ursula Andress'in bu bikinisi, 'Bond kızı' estetiğini belirleyen ilk ve en etkili moda parçalarından biri oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1253796",
+        "https://en.wikipedia.org/wiki/White_bikini_of_Ursula_Andress"
+      ],
+      "wikidata_qid": "Q1253796"
+    },
+    {
+      "id": "Q2957596",
+      "date": "2026-10-18",
+      "category": "gunluk-nesneler",
+      "widget_title": "Monteleone Savaş Arabası ne zaman bulundu?",
+      "hook": "Bu paha biçilmez hazine, modern dünyanın gözleri önüne serilene dek toprağın derinliklerinde saklı kalmıştı.",
+      "answer_year": 1902,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Hikayemiz 1902 yılında, İtalya'nın Umbria bölgesindeki Monteleone di Spoleto yakınlarında başlıyor. Bir çiftçi, tarlasını sürerken beklenmedik bir şeye rastladı: Toprağın altından çıkan, göz kamaştırıcı bir eser. Bu eser, yaklaşık 2500 yıl önce, M.Ö. 6. yüzyılda Etrüskler tarafından yapıldığı düşünülen, bugün Monteleone Savaş Arabası olarak bildiğimiz paha biçilmez bir hazineydi.\n\nBu görkemli, bronz ve fildişi kaplı savaş arabası, antik dünyanın zenginliğini ve el işçiliğini gözler önüne seriyor. Üzerindeki yaldızlı bronz panellerde, Truva Savaşı'nın kahramanı Akhilleus'un hayatından çarpıcı sahneler betimlenmiş. Her bir detayı adeta bir sanat eseri olan bu araba, antik çağın lüksünü ve gücünü yansıtan, muhtemelen törensel amaçlar için veya yüksek rütbeli bir kişinin cenaze töreninde kullanılmıştı.\n\n1902'deki keşfi, arkeoloji dünyasında büyük yankı uyandırdı ve Etrüsk medeniyetine dair bilgilerimizi zenginleştirdi. Çiftçi tarafından şans eseri bulunan bu eser, kısa sürede uluslararası ilgi gördü. Maalesef, orijinal olarak bulunduğu mezar odası ve çevresindeki diğer buluntular, keşfin ardından yeterince belgelenemediği için, o döneme ait kontekstsel bilgilerde bazı boşluklar oluştu. Ancak Monteleone Savaş Arabası, günümüzde New York'taki Metropolitan Sanat Müzesi'nde ziyaretçilerini büyülemeye devam ediyor. Onun keşfi, toprağın altında hala ne gibi hazinelerin yattığının adeta bir kanıtı.",
+      "fun_fact": "Monteleone Savaş Arabası, bilinen sadece birkaç antik bronz savaş arabasından biri olup, neredeyse tamamen sağlam bir şekilde günümüze ulaşmıştır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2957596",
+        "https://en.wikipedia.org/wiki/Monteleone_chariot"
+      ],
+      "wikidata_qid": "Q2957596"
+    },
+    {
+      "id": "Q1197104",
+      "date": "2026-10-19",
+      "category": "gida-icecek",
+      "widget_title": "Mısır'ın kalbinden çıkan Koşari ne zaman hayatımıza girdi?",
+      "hook": "Pirinç, makarna, mercimek ve nohutun bu inanılmaz uyumu, Mısır sokaklarının ruhunu taşıyor.",
+      "answer_year": 1800,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1880
+      ],
+      "body": "Mısır'ın simgelerinden biri haline gelen Koşari, damaklarda şenlik yaratan, oldukça doyurucu bir sokak lezzeti. Bu eşsiz yemek, 19. yüzyılın başlarında, yani 1800'lü yıllarda ortaya çıktı. Kim tarafından ya da tam olarak nerede icat edildiği kesin olarak bilinmese de, Koşari'nin farklı kültürlerin etkisiyle harmanlanmış bir lezzet olduğu düşünülüyor. Bazı kaynaklar, [DOĞRULA: Koşari'nin kökenlerinin aslında Hindistan'a dayandığını ve Mısır'a o dönemlerde ulaştığını] öne sürse de, bugünkü bildiğimiz haliyle tamamen Mısır mutfağının bir parçası haline gelmiştir ve kendine özgü Mısır yorumunu kazanmıştır.\n\nPirinç, mercimek, nohut ve makarnanın mükemmel birleşimiyle hazırlanan bu tabak, genellikle özel domates sosu, sarımsaklı sirke ve acı biberle zenginleştirilir. Her bir malzemenin ayrı ayrı pişirilip bir araya gelmesi, Koşari'ye kendine has bir doku ve lezzet katıyor. Başlangıçta daha çok işçi sınıfının uygun fiyatlı ve besleyici tercihi olan Koşari, zamanla her kesimden insanın severek tükettiği ulusal bir yemek haline geldi. Mısır'ın kalabalık çarşılarında, küçük lokantalarda ya da evlerde, Koşari her zaman sofraların vazgeçilmezi. Sadece karnı doyurmakla kalmıyor, aynı zamanda Mısır'ın misafirperverliğini ve mutfak zenginliğini de temsil ediyor. Yurt dışına çıkan Mısırlılar için de memleket özlemini gideren, tanıdık bir tat olarak büyük önem taşıyor. Bu basit ama lezzetli karışım, zamanla Mısır kültürünün ayrılmaz bir parçası olmuştur.",
+      "fun_fact": "Koşari, et içermeyen tamamen vejetaryen bir yemek olmasıyla da öne çıkıyor ve bu özelliğiyle dünya genelinde vegan dostu lezzetler arasında popülerliğini artırıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1197104",
+        "https://tr.wikipedia.org/wiki/Ko%C5%9Fari",
+        "https://en.wikipedia.org/wiki/Koshary"
+      ],
+      "wikidata_qid": "Q1197104"
+    },
+    {
+      "id": "Q12756733",
+      "date": "2026-10-20",
+      "category": "giyim",
+      "widget_title": "Sırbistan Cumhuriyeti Nişanı hangi yıl kuruldu?",
+      "hook": "Sırbistan Cumhuriyeti'nin en yüksek onuru, ne zaman kuruldu?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Her ulusun, vatandaşlarının ülkeye olağanüstü hizmetlerini takdir etmek için özel yolları vardır. Sırbistan Cumhuriyeti de bu geleneği yaşatan modern devletlerden biri. Takvimler 2009 yılını gösterdiğinde, Sırbistan Cumhuriyeti Nişanı resmen ihdas edildi ve böylece Sırbistan'ın kahramanlarını onurlandırma yolu belirlendi. Bu nişan, Sırbistan'ın bağımsızlığını, egemenliğini ve toprak bütünlüğünü korumaya yönelik çabaları, ülkenin uluslararası alanda tanıtımını ve itibarını yükseltmeye katkıda bulunanları veya diğer alanlarda olağanüstü başarılar gösterenleri onurlandırmak amacıyla tasarlandı. Genellikle devlet başkanları, diplomatlar, askeri liderler veya bilim, kültür ve sanat gibi çeşitli alanlarda ülkeye büyük katkılar sağlamış kişilere verilir. Nişan, sahibinin giyebileceği fiziksel bir madalya veya yaka rozetinden oluşur ve bu yönüyle 'giyim' kategorisine girer. Sırbistan, modern devlet yapısını oluştururken kendi kimliğine uygun semboller ve ödül sistemleri kurma ihtiyacı hissetti. Bu nişanın ortaya çıkışı, ülkenin kendi değerlerini ve kahramanlarını yüceltme arzusunun bir göstergesidir. Tıpkı çoğu ulusal nişan gibi, belirli bir 'mucidi' yoktur; bu tür onurlar genellikle yasama organları veya devlet kurumları tarafından uzun bir tasarım ve onay sürecinin ardından oluşturulur. Bu, bireysel bir 'icat'tan ziyade, ulusal bir iradenin ürünüdür.",
+      "fun_fact": "Birçok ülkede nişanların dereceleri bulunur; bazıları sadece devlet başkanlarına, bazıları ise geniş bir yelpazedeki başarılara verilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12756733",
+        "https://en.wikipedia.org/wiki/Order_of_the_Republic_of_Serbia"
+      ],
+      "wikidata_qid": "Q12756733"
+    },
+    {
+      "id": "Q331460",
+      "date": "2026-10-21",
+      "category": "gunluk-nesneler",
+      "widget_title": "Amerika Birleşik Devletleri Virjin Adaları arması ne zaman kabul edildi?",
+      "hook": "Tropik bir cennetin sembolü olan bu arma, ne zaman resmiyet kazandı dersin?",
+      "answer_year": 1967,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Her ülkenin, bölgenin ya da eyaletin kendine özgü bir sembolü vardır; kimisi bayrakla, kimisi de arma ile hikayesini anlatır. Amerika Birleşik Devletleri Virjin Adaları da bu geleneği sürdüren, kendi özel armasına sahip bir ABD toprağıdır. Bu arma, sadece bir simgeden çok daha fazlası; adaların coğrafyasını, bağlılığını ve ruhunu yansıtan detaylarla dolu.\n\nArmanın merkezinde, üç ana adayı (Saint Croix, Saint John ve Saint Thomas) temsil eden bir kalkan bulunur. Bu kalkanın üstünde, Amerika Birleşik Devletleri'ni simgeleyen, denize doğru bakan güçlü bir kartal yer alır. Kartalın pençelerinde ise hem barışı temsil eden zeytin dalı, hem de gücü simgeleyen ok demeti bulunur. Armanın alt kısmında yer alan kurdele üzerinde ise adaların mottosu olan \"United in Pride and Hope\" (Gurur ve Umutla Birleşmiş) yazılıdır. Bu dikkat çekici ve anlamlı arma, adaların kimliğini pekiştirmek ve uluslararası alanda temsilini sağlamak amacıyla **1967 yılında** resmen kabul edildi. O günden bu yana, bu tropik cennetin resmi belgelerinde, kamu binalarında ve çeşitli etkinliklerinde gururla kullanılmaya devam ediyor.",
+      "fun_fact": "Amerika Birleşik Devletleri Virjin Adaları, aslında Danimarka'dan satın alınmıştır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q331460",
+        "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Virjin_Adalar%C4%B1_armas%C4%B1",
+        "https://en.wikipedia.org/wiki/Seal_of_the_United_States_Virgin_Islands"
+      ],
+      "wikidata_qid": "Q331460"
+    },
+    {
+      "id": "Q120189941",
+      "date": "2026-10-22",
+      "category": "gida-icecek",
+      "widget_title": "Grimace Shake ne zaman hayatımıza girdi?",
+      "hook": "Sosyal medyayı kasıp kavuran o meşhur mor içecek, Grimace Shake'in doğuş hikayesini merak ediyor musunuz?",
+      "answer_year": 2023,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "McDonald's'ın sevilen karakteri Grimace'in doğum gününü kutlamak amacıyla 2023 yılında piyasaya sürülen Grimace Shake, kısa sürede bir içecek olmaktan çıkıp küresel bir internet fenomenine dönüştü. Mor rengi ve yaban mersini ağırlıklı meyveli tadıyla dikkat çeken bu özel milkshake, ilk başta sadece belirli bir zaman dilimi için menüye eklendi. Ancak asıl ününü, özellikle TikTok platformunda başlayan ve hızla yayılan tuhaf bir akıma borçlu. Bu akımda, kullanıcılar Grimace Shake'i içtikten sonra kendilerini beklenmedik, hatta abartılı şekillerde \"ölmüş\" veya garip durumlarda bulmuş gibi mizahi videolar çekip paylaşmaya başladılar. Kanlı sahneler, tuhaf pozlar ve absürt mizahın birleşimiyle bu trend, milyonlarca izlenmeye ulaştı. Kimileri için bu sadece eğlenceli bir şakayken, kimileri ise bu içeceğin yarattığı gizemli havaya kapıldı. McDonald's bile bu akıma esprili bir şekilde dahil olarak, Grimace'in kendi TikTok hesabından \"Bu trendin ne olduğunu anlıyormuş gibi yapıyorum...\" yazılı bir paylaşım yaptı. Grimace Shake, basit bir promosyon ürünü olmasına rağmen, dijital çağın pazarlama gücünü ve viral potansiyelini gözler önüne serdi. Pazarlama dünyasında \"negatif pazarlama\" denilen, ürünün etrafında bir gizem veya ironi yaratma prensibinin en çarpıcı örneklerinden biri oldu. Sonuç olarak, o mor içecek sadece damaklarda değil, akıllarda da unutulmaz bir iz bıraktı ve 2023 yazının en çok konuşulan olaylarından biri haline geldi.",
+      "fun_fact": "Grimace'in doğum günü için hazırlanan bu mor içecek, sosyal medyadaki mizahi videolarla kısa sürede viral bir fenomene dönüştü!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q120189941",
+        "https://tr.wikipedia.org/wiki/Grimace_Shake",
+        "https://en.wikipedia.org/wiki/Grimace_Shake"
+      ],
+      "wikidata_qid": "Q120189941"
+    },
+    {
+      "id": "Q129325",
+      "date": "2026-10-23",
+      "category": "giyim",
+      "widget_title": "Hayat Kurtarma Madalyası ilk kez ne zaman takdim edildi?",
+      "hook": "İnsan hayatını kurtaran kahramanları ödüllendirme geleneği ne kadar eskiye dayanıyor dersiniz?",
+      "answer_year": 1833,
+      "year_precision": "day",
+      "guess_range": [
+        1730,
+        1910
+      ],
+      "body": "Hayat kurtarma eylemlerini ödüllendirme geleneği oldukça eskilere dayansa da, günümüzdeki anlamıyla, resmi bir madalya ile bu cesareti onurlandırmak, 1833 yılında önemli bir dönüm noktasına ulaştı. Bu yıl, kahramanlık gösterenleri tanımak ve takdir etmek için özel olarak tasarlanmış bir \"Hayat Kurtarma Madalyası\"nın [DOĞRULA: Bu madalyayı ilk kez tasarlayan ve veren kurum veya ülkenin hangisi olduğu] ortaya çıktığı dönemdir. Bu madalyalar, denizde, yangınlarda veya diğer tehlikeli durumlarda başkalarının hayatını kurtarmak için kendi hayatlarını riske atan bireylere verildi.\n\nBu tür ödüller, sadece kahramanları yüceltmekle kalmaz, aynı zamanda toplumu benzer fedakarlık eylemlerine teşvik eder. Madalyanın kendisi, bir gurur ve onur simgesi olarak taşınırken, arkasındaki hikayeler de nesilden nesile aktarılan ilham kaynakları haline gelmiştir. Bu madalyaların ortaya çıkışı, toplumların kahramanlık kavramına bakış açısını değiştirdi ve resmi bir tanıma biçimi sundu. Öncesinde bireysel fedakarlıklar genellikle yerel halkın takdirleriyle sınırlı kalırken, madalyalar bu eylemleri daha geniş bir platforma taşıdı ve evrensel bir saygı ifadesi haline getirdi. Bu sayede, cankurtaranların özverili çabaları devletler ve büyük organizasyonlar tarafından da resmen onaylanmış oldu. 1833'ten itibaren bu madalyalar, sadece birer metal parçası olmaktan öte, insanlığın birbirine karşı duyduğu sorumluluğun ve cesaretin somut birer göstergesi haline geldi. Bu asil geleneğin başlangıcı, kuşkusuz insanlık tarihinin en parlak sayfalarından birini oluşturuyor.",
+      "fun_fact": "Bazı ülkelerde, hayat kurtarma madalyaları hala en prestijli sivil nişanlardan biri olarak kabul edilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q129325",
+        "https://en.wikipedia.org/wiki/Lifesaving_Medal_(Prussia)"
+      ],
+      "wikidata_qid": "Q129325"
+    },
+    {
+      "id": "Q331865",
+      "date": "2026-10-24",
+      "category": "gunluk-nesneler",
+      "widget_title": "Amerikan Samoası arması ne zaman kabul edildi?",
+      "hook": "Bu uzak ada grubunun sembolü, hem tarihini hem de coğrafyasını bir araya getiriyor.",
+      "answer_year": 1973,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Her bölgenin veya topluluğun kendi kimliğini yansıtan, gururla sergilediği bir sembolü vardır. Amerikan Samoası için bu sembol, 1973 yılında resmiyet kazanmış olan armasıdır. Bu arma, sadece bir görselden ibaret değil; adaların tarihini, kültürünü ve coğrafyasını özetleyen derin bir anlam taşır. Genellikle bu tür armalarda, bölgenin kendine özgü değerlerini, doğal güzelliklerini ve halkın yaşam biçimini yansıtan detaylar bulunur. Amerikan Samoası arması da büyük olasılıkla, Pasifik adalarının zengin mirasına atıfta bulunan geleneksel objeleri, belki de denizi ve adaların verimli topraklarını simgeleyen öğeleri barındırır. [DOĞRULA: Amerikan Samoası armasının temel görsel unsurları nelerdir?] Ayrıca, bölgenin Amerika Birleşik Devletleri ile olan ilişkisini gösteren semboller de armanın bir parçası olabilir. Bir armanın kabul süreci, genellikle o bölgenin kendi kimliğini pekiştirdiği ve dış dünyaya nasıl görünmek istediğini belirlediği önemli bir dönüm noktasıdır. 1973 yılı, Amerikan Samoası'nın bu görsel kimliğini resmen onayladığı ve geleceğe yönelik sembolik bir adımı attığı yıl olarak tarihe geçmiştir. Bu arma, sadece resmi belgelerde kullanılan bir mühürden çok daha fazlasıdır; Samoalıların bağımsız ruhunu ve benzersiz kültürel mirasını temsil eder.",
+      "fun_fact": "Amerikan Samoası, Amerika Birleşik Devletleri'nin tek Güney Yarımküre toprağıdır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q331865",
+        "https://tr.wikipedia.org/wiki/Amerikan_Samoas%C4%B1_armas%C4%B1",
+        "https://en.wikipedia.org/wiki/Seal_of_American_Samoa"
+      ],
+      "wikidata_qid": "Q331865"
+    },
+    {
+      "id": "Q12618459",
+      "date": "2026-10-25",
+      "category": "gida-icecek",
+      "widget_title": "Chapagetti'nin o eşsiz lezzeti ne zaman doğdu?",
+      "hook": "Kore mutfağının popüler lezzetlerinden biri olan Chapagetti, noodle severlerin kalbini ne zaman fethetti?",
+      "answer_year": 1984,
+      "year_precision": "day",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Chapagetti, anlık noodle dünyasına yepyeni bir soluk getiren, Kore'nin o meşhur siyah fasulye soslu noodle'ı jjajangmyeon'dan ilham alan eşsiz bir lezzet. Bu yenilikçi füzyon, 1984 yılında piyasaya sürüldüğünde, hem pratikliği hem de tanıdık ama farklı tadıyla hızla dikkat çekti ve kısa sürede geniş bir hayran kitlesi edindi. Aslında Chapagetti, geleneksel jjajangmyeon'un zengin ve doyurucu lezzetini, hızlı hazırlanan bir ramen formatıyla ustaca bir araya getiriyor. Bu sayede, evde kolayca hazırlanabilen ama dışarıda yenen özel bir yemeğin tadını aratmayan bir deneyim sunuyor. İçindeki kıvamlı, koyu renkli sosu ve bol malzemeleriyle, tüketenlere doyurucu ve lezzetli bir öğün vadediyor. Özellikle genç nesiller ve yoğun çalışanlar arasında popülerleşmesi, onun hızlı ve lezzetli bir seçenek olmasından kaynaklanıyor. Kore dizileri ve filmleri aracılığıyla dünya çapında tanınır hale gelmesiyle, küresel bir fenomen haline geldi. 'Parasite' gibi Oscar ödüllü filmlerdeki görünüşü, 'jjapaguri' (Chapagetti ve Neoguri'nin karışımı) gibi yaratıcı tariflerin popülerleşmesine yol açarak, Chapagetti'yi sadece bir anlık noodle olmaktan çıkarıp, Kore mutfağının kültürel bir parçası haline getirdi. Kendi başına bir öğün olarak tüketilebildiği gibi, farklı malzemelerle zenginleştirilerek (örneğin haşlanmış yumurta, taze sebzeler veya et eklenerek) kişiselleştirilebilir olması da onu vazgeçilmez kılıyor. Bu yönleriyle Chapagetti, sadece bir yiyecek olmanın ötesinde, lezzet ve kültürel bir deneyim sunuyor.",
+      "fun_fact": "Chapagetti'nin ismi, 'jjajang' (siyah fasulye sosu) ve 'spagetti' kelimelerinin birleşiminden geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12618459",
+        "https://en.wikipedia.org/wiki/Chapagetti"
+      ],
+      "wikidata_qid": "Q12618459"
+    },
+    {
+      "id": "Q1294341",
+      "date": "2026-10-26",
+      "category": "giyim",
+      "widget_title": "Aziz Edward'ın Tacı ne zaman ortaya çıktı?",
+      "hook": "İngiliz monarşisinin en kutsal simgelerinden Aziz Edward'ın Tacı'nın hikayesi düşündüğünüzden çok daha eskilere dayanıyor.",
+      "answer_year": 1602,
+      "year_precision": "year",
+      "guess_range": [
+        1500,
+        1680
+      ],
+      "body": "\"Aziz Edward'ın Tacı\" denildiğinde aklımıza hemen İngiliz monarşisinin o görkemli sembolü gelir, değil mi? Aslında bu tacın hikayesi oldukça katmanlı ve kökleri çok eskilere dayanıyor. Verilen bilgiye göre 1602 yılında, bu efsanevi tacın bir versiyonu zaten tahtta oturan hükümdarlar tarafından kullanılıyordu. Bu, o dönemdeki törenlerin ve krallığın gücünün önemli bir parçasıydı.\n\nPeki, günümüzdeki göz alıcı taç aynı mı? İşte burada küçük bir not düşmek gerekiyor. İngiliz İç Savaşı sırasında, 1649'da, Parlamento güçleri kraliyet mücevherlerini eritmişti ve o dönemdeki Aziz Edward'ın Tacı da ne yazık ki bu kaderi paylaştı. Ancak monarşi 1660'ta restore edildiğinde, yeni kral II. Charles için 1661 yılında yepyeni bir Aziz Edward'ın Tacı yapıldı. Bu yeni taç, selefinin tasarımını ve adını taşıyarak geleneği yaşattı. Yani, 1602'de var olan taç, aslında günümüzde gördüğümüz tacın atasıydı diyebiliriz. Bu, sembollerin fiziksel formları değişse de, taşıdıkları anlamın ve geleneğin nasıl devam ettiğinin güzel bir örneği. [DOĞRULA: 1602'de kullanılan Aziz Edward'ın Tacı'nın tasarımına dair detaylar.]",
+      "fun_fact": "Bugünkü Aziz Edward'ın Tacı, taç giyme töreninde sadece kısa bir an için takılır ve daha sonra daha hafif olan İmparatorluk Devlet Tacı ile değiştirilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1294341",
+        "https://tr.wikipedia.org/wiki/Aziz_Edward%27%C4%B1n_Tac%C4%B1",
+        "https://en.wikipedia.org/wiki/St_Edward%27s_Crown"
+      ],
+      "wikidata_qid": "Q1294341"
+    },
+    {
+      "id": "Q3455860",
+      "date": "2026-10-27",
+      "category": "gunluk-nesneler",
+      "widget_title": "Genaille–Lucas cetvelleri hesaplamayı ne zaman kolaylaştırdı?",
+      "hook": "Hesap makinesinden önce karmaşık çarpma işlemlerini kâğıt kalemle yapmak ne kadar zordu, değil mi?",
+      "answer_year": 1885,
+      "year_precision": "year",
+      "guess_range": [
+        1780,
+        1960
+      ],
+      "body": "Günümüzde akıllı telefonlarımızdaki basit bir uygulama ya da cebimizdeki hesap makineleriyle anında çözebildiğimiz çarpma işlemleri, bir zamanlar epey zahmetliydi. Özellikle büyük sayılarla uğraşmak, hem zaman alıcı hem de hata yapmaya çok açıktı. İşte bu noktada, insanlığın hesaplama yolculuğunda önemli bir durak olan Genaille–Lucas cetvelleri sahneye çıkıyor.\n\nFransız matematikçi Édouard Lucas tarafından 1885 yılında geliştirilen bu özel cetveller, adını yaratıcısından alıyor. [DOĞRULA: Cetvellerin ismindeki \"Genaille\" kısmının Édouard Lucas'ın bir öğrencisi olan Henri Genaille'den mi geldiği.] Bu cetveller, basit toplama işlemleriyle karmaşık çarpmaları çözmeye yarayan dâhiyane bir düzenek sunuyordu. Aslında, John Napier tarafından 17. yüzyılda icat edilen Napier'in Kemikleri olarak bilinen daha eski bir hesaplama aracının da gelişmiş bir versiyonu olarak görülebilirler. Lucas'ın buluşu, çarpma tablosu ezberinize veya uzun çarpma işlemlerine gerek kalmadan, yalnızca cetvelleri doğru sıraya dizerek ve üzerindeki sayıları okuyarak sonuca ulaşmanızı sağlıyordu. Her bir cetvelin üzerindeki özel işaretler ve sayılar, bir önceki adımdan gelen taşma değerlerini otomatik olarak hesaba katarak, doğru basamağı bulmayı kolaylaştırıyordu. Bu, özellikle o dönemde matematiksel hesaplamalarla sıkça uğraşan mühendisler, bilim insanları ve tüccarlar için büyük bir kolaylıktı. Elektronik hesap makinelerinin ortaya çıkışından çok önce, bu tür mekanik veya yarı-mekanik araçlar, insan zekasının problem çözme yeteneğinin ve hesaplamayı kolaylaştırma arayışının ne kadar yaratıcı olabileceğinin güzel birer örneğiydi.",
+      "fun_fact": "Édouard Lucas, aynı zamanda ünlü matematiksel bulmaca 'Hanoi Kulesi'nin de mucididir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3455860",
+        "https://en.wikipedia.org/wiki/Genaille%E2%80%93Lucas_rulers"
+      ],
+      "wikidata_qid": "Q3455860"
+    },
+    {
+      "id": "Q1269232",
+      "date": "2026-10-28",
+      "category": "gida-icecek",
+      "widget_title": "Lapin Kulta ne zaman ortaya çıktı?",
+      "hook": "Kuzeyin buz gibi sularından gelen bu altın rengi lezzetin hikayesi, sizi Fin topraklarının derinliklerine götürecek.",
+      "answer_year": 1873,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Finlandiya'nın kuzeyinden, Laponya'nın el değmemiş doğasından ilham alan Lapin Kulta, adını \"Laponya'nın Altını\" anlamına gelen bu bölgeden alıyor. Bu ferahlatıcı lezzet, ilk olarak 1873 yılında Finlandiya'nın Tornio şehrinde ortaya çıktı. O zamanlar bira üretimi, bölge ekonomisi için önemli bir yer tutuyordu ve yerel halkın damak tadına uygun içecekler büyük ilgi görüyordu.\n\nLapin Kulta'nın kökleri, [DOĞRULA: Lapin Kulta'nın başlangıçta Tornio Birahanesi olarak bilindiği bilgisi doğru mu?] gibi erken dönem bira fabrikalarına dayanıyor. Kuruluşundan bu yana, biranın kalitesi ve saflığı, Laponya'nın berrak sularından ve kuzeyin soğuk ikliminden gelen özel bileşenlerle korunmaya çalışıldı. Yıllar içinde Lapin Kulta, sadece Finlandiya'nın değil, dünya çapında da tanınan bir bira markası haline geldi. Özellikle lager tipi biralarıyla bilinen marka, sadık bir tüketici kitlesine sahip oldu.\n\nFinlandiya'nın ulusal kimliğinin bir parçası haline gelen Lapin Kulta, aynı zamanda [DOĞRULA: Lapin Kulta'nın logo ve şişe tasarımında Laponya'nın doğasından esinlenildiği ve geyik motiflerinin kullanıldığı bilgisi doğru mu?] gibi unsurlarla da dikkat çekiyor. Bazen insanlar Lapin Kulta'nın daha yeni bir marka olduğunu düşünebilir, ancak 1873 yılına uzanan köklü tarihiyle aslında bir hayli eski ve geleneksel bir Fin birasıdır.",
+      "fun_fact": "Lapin Kulta'nın şişelerindeki geyik logosu, Laponya'nın el değmemiş doğasından ve bölgenin simgesel hayvanından ilham alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1269232",
+        "https://tr.wikipedia.org/wiki/Lapin_Kulta",
+        "https://en.wikipedia.org/wiki/Lapin_Kulta"
+      ],
+      "wikidata_qid": "Q1269232"
+    },
+    {
+      "id": "Q1297660",
+      "date": "2026-10-29",
+      "category": "giyim",
+      "widget_title": "Kutsal Bakire Meryem Tarikatı ne zaman kuruldu?",
+      "hook": "Orta Çağ'dan günümüze uzanan bu özel giysilerin arkasındaki hikayeyi hiç merak ettiniz mi?",
+      "answer_year": 1261,
+      "year_precision": "year",
+      "guess_range": [
+        1160,
+        1340
+      ],
+      "body": "Orta Çağ Avrupası'nda, inanç ve adanmışlık yaşamın merkezindeydi. Bu dönemde birçok dini tarikat kuruldu ve her birinin kendine özgü bir yaşam biçimi, misyonu ve elbette ki giyim tarzı vardı. 'Kutsal Bakire Meryem Tarikatı' da işte tam da böyle bir dönemde, 1261 yılında ortaya çıktı. Bu tarihte [DOĞRULA: nerede kurulduğu ve kimler tarafından kurulduğu] net olmasa da, tarikatın temel amacının Bakire Meryem'e adanmışlık ve Hristiyanlık değerlerini yaymak olduğu biliniyor.\n\nTarikat üyeleri, o dönemin diğer dini toplulukları gibi, belirli bir 'cüppe' veya 'rahip giysisi' giyerlerdi. Bu giysiler sadece bir kıyafet olmaktan öte, onların yeminlerini, yaşam biçimlerini ve tarikatlarına olan bağlılıklarını simgelerdi. Kumaşın rengi, kesimi ve üzerindeki detaylar [DOĞRULA: Kutsal Bakire Meryem Tarikatı'nın giysisinin spesifik özellikleri ve sembolizmi] genellikle tarikatın kurallarına ve felsefesine göre belirlenirdi. Bu özel kıyafetler, onları toplumun diğer kesimlerinden ayırır, aynı zamanda kardeşliklerinin ve ortak amaçlarının bir göstergesi olurdu. 1261 yılı, bu özel tarikatın ve dolayısıyla onun sembolik giysilerinin tarih sahnesine çıktığı önemli bir dönüm noktasıdır. Onların giydiği bu basit ama anlamlı kıyafetler, yüzyıllar boyunca inancın ve adanmışlığın sessiz tanıkları olmuştur.",
+      "fun_fact": "Birçok dini tarikatın kıyafetleri, zamanla evrim geçirse de, temel renk ve biçimlerini yüzlerce yıl korumuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1297660",
+        "https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary"
+      ],
+      "wikidata_qid": "Q1297660"
+    },
+    {
+      "id": "Q347597",
+      "date": "2026-10-30",
+      "category": "gunluk-nesneler",
+      "widget_title": "Wyoming Eyalet Mührü ne zaman resmileşti?",
+      "hook": "Amerika'nın 'Eşit Haklar Eyaleti' olarak bilinen Wyoming'in gurur verici mührünün ardındaki hikayeyi merak ettiniz mi?",
+      "answer_year": 1893,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Her eyaletin kendine özgü bir kimliği vardır ve Wyoming de bu kimliği mühründe gururla taşır. Wyoming Eyalet Mührü, eyaletin zengin tarihini, değerlerini ve doğal güzelliklerini sembolize eden çarpıcı detaylarla dolu. Peki, bu ikonik mühür ne zaman ortaya çıktı? Cevap, eyaletin resmi olarak benimsenmesinden kısa bir süre sonra, **1893** yılında yatıyor.\n\nWyoming eyalet mührü, ikinci eyalet yasama meclisi tarafından 1893'te yasal olarak kabul edildi. Mührün kalbinde, eyaletin ruhunu yansıtan güçlü semboller bulunur. Ortada, eyaletin temel direklerini oluşturan iki önemli endüstriyi temsil eden bir madenci ve bir kovboy figürü yer alır. Madenci, zengin doğal kaynaklara ve madencilik mirasına işaret ederken, kovboy eyaletin hayvancılık ve Vahşi Batı kültürünü simgeler.\n\nMührün üst kısmında, Wyoming'in \"Eşit Haklar\" (Equal Rights) sloganı bulunur. Bu motto, eyaletin kadınlara oy hakkı veren ilk eyalet olmasının gururlu bir yansımasıdır ve eyaletin eşitlikçi ruhunu vurgular. Mührün üzerinde ayrıca iki önemli tarih yer alır: '1869', Wyoming Bölgesi'nin kurulduğu yılı; ve '1890', Wyoming'in eyalet olduğu yılı işaret eder. [DOĞRULA: Mühürde yer alan kartalın taşıdığı kalkan üzerindeki 'XLIV' Roma rakamı, Wyoming'in Birleşik Devletler'in 44. eyaleti olduğunu simgeler.] Mührün genel tasarımı, eyaletin doğal güzellikleri ve tarihsel önemini vurgulayan detaylarla doludur. Resmi belgelerin tasdiki ve eyaletin egemenliğinin temsili için kullanılan bu mühür, Wyoming'in kimliğinin zamana meydan okuyan bir simgesidir.",
+      "fun_fact": "Wyoming, 1869 yılında kadınlara oy hakkı veren ilk ABD bölgesi olmuş ve bu nedenle 'Eşit Haklar Eyaleti' olarak anılmıştır, ki bu da mühründeki mottoda yaşar.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q347597",
+        "https://en.wikipedia.org/wiki/Seal_of_Wyoming"
+      ],
+      "wikidata_qid": "Q347597"
+    },
+    {
+      "id": "Q1322238",
+      "date": "2026-10-31",
+      "category": "gida-icecek",
+      "widget_title": "Radenska şifalı suyu ne zaman şişelenmeye başlandı?",
+      "hook": "Slovenya'nın kalbinden gelen bu ikonik içecek, sadece bir su değil, aynı zamanda bir tarih dilimi.",
+      "answer_year": 1869,
+      "year_precision": "year",
+      "guess_range": [
+        1760,
+        1940
+      ],
+      "body": "Radenska, sadece bir maden suyu markası olmanın ötesinde, Slovenya'nın en tanınmış simgelerinden biri haline gelmiş eşsiz bir miras. Hikayesi, 19. yüzyılın ortalarına kadar uzanıyor. Bölgedeki maden suyu kaynaklarının faydaları yüzyıllardır bilinse de, ticari olarak şişelenip geniş kitlelere ulaşması 1869 yılında gerçekleşti. Bu tarihte, [DOĞRULA: Radenci bölgesindeki kaynaklardan ilk kez ticari ölçekte şişelenmeye başlandı.]\n\nRadenska'nın suyu, bölgedeki volkanik aktivite sayesinde benzersiz bir mineral bileşimine sahip. Bu doğal köpüklü su, mide rahatsızlıklarından kalp hastalıklarına kadar birçok konuda şifa kaynağı olarak görüldü. [DOĞRULA: Hatta Avusturya-Macaristan İmparatorluğu döneminde sarayın favori içeceklerinden biri haline geldiği söylenir.] Markanın üç kalpli logosu da oldukça ikonik; bu kalpler, iyilik, sağlık ve aşkı temsil ediyor.\n\nYıllar içinde Radenska, sadece bir içecek değil, aynı zamanda bir kültürel sembol haline geldi. Günümüzde dünya çapında tanınan ve sevilen bir marka olmaya devam ediyor. Sofraların vazgeçilmezi olan bu maden suyu, aynı zamanda Slovenya'nın doğal zenginliklerinin ve tarihi derinliğinin de bir yansıması.",
+      "fun_fact": "Radenska'nın meşhur üç kalpli logosunun, üç farklı medeniyeti ya da üç farklı milletin birliğini temsil ettiğine dair farklı efsaneler bulunur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1322238",
+        "https://en.wikipedia.org/wiki/Radenska"
+      ],
+      "wikidata_qid": "Q1322238"
+    }
+  ]
+}

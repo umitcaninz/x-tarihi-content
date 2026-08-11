@@ -1,0 +1,670 @@
+{
+  "schema_version": 1,
+  "month": "2027-01",
+  "items": [
+    {
+      "id": "Q1632941",
+      "date": "2027-01-01",
+      "category": "gida-icecek",
+      "widget_title": "Hubba Bubba sakızı ne zaman hayatımıza girdi?",
+      "hook": "Dev baloncukların ve eşsiz lezzetin markası Hubba Bubba'nın ilk çıkış tarihi sizi şaşırtabilir.",
+      "answer_year": 1979,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Çocukluğumuzun vazgeçilmez lezzetlerinden, dev baloncukların şampiyonu Hubba Bubba, aslında çok da eski değil! İlk kez 1979 yılında piyasaya sürülen bu ikonik sakız, kısa sürede tüm dünyada çocukların ve gençlerin favorisi haline geldi. Peki, onu bu kadar özel yapan neydi? Geleneksel baloncuk sakızlarının aksine, Hubba Bubba daha az yapışkan bir formüle sahipti. Bu da demek oluyordu ki, yüzünüze veya saçınıza yapıştığında çıkarması çok daha kolaydı! Annelerin ve babaların da favorisi olması şaşırtıcı değil.\n\nHubba Bubba, ilk çıktığı günden itibaren farklı ve canlı renklerdeki ambalajları, benzersiz lezzetleri ve tabii ki o meşhur 'daha uzun süre dayanan dev baloncuklar' vaadiyle öne çıktı. Sakızın mucitleri, baloncukların kolayca patlamamasını ve daha uzun süre ağızda kalmasını sağlayacak özel bir formül üzerinde çalıştılar. Yıllar içinde çilek, üzüm, karpuz gibi birçok farklı çeşidi raflardaki yerini aldı. Sakızın [DOĞRULA: Wrigley Company tarafından geliştirildiği] biliniyor ve markanın arkasındaki vizyon, eğlenceyi ve lezzeti bir araya getirmekti. Belki de bu yüzden, Hubba Bubba denince aklımıza hemen neşeli anılar ve devasa baloncuklar geliyor. Çocukluk hatıralarımızın tatlı bir parçası olan bu sakız, piyasaya çıktığı günden beri popülerliğini hiç kaybetmedi.",
+      "fun_fact": "Hubba Bubba'nın isminin, II. Dünya Savaşı'nda askerler arasında popüler olan bir ifade olan 'Hubba Hubba'dan esinlenerek verildiği söylenir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1632941",
+        "https://tr.wikipedia.org/wiki/Hubba_Bubba",
+        "https://en.wikipedia.org/wiki/Hubba_Bubba"
+      ],
+      "wikidata_qid": "Q1632941"
+    },
+    {
+      "id": "Q1650629",
+      "date": "2027-01-02",
+      "category": "giyim",
+      "widget_title": "Param Vir Chakra ne zaman ihdas edildi?",
+      "hook": "Hindistan'ın en yüksek cesaret madalyası Param Vir Chakra'nın hikayesi, kahramanlık ve fedakarlıkla dolu.",
+      "answer_year": 1950,
+      "year_precision": "day",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Cesaretin ve üstün fedakarlığın sembolü Param Vir Chakra, Hindistan'ın en yüksek askeri nişanıdır. Bu özel madalya, 26 Ocak 1950 tarihinde, yani Hindistan'ın cumhuriyet ilan ettiği gün resmi olarak yürürlüğe girdi. Hindistan'ın bağımsızlığını kazanmasının ardından, ulusun kahramanlık geleneğini taçlandırmak ve askerlerinin gösterdiği eşsiz cesareti onurlandırmak amacıyla oluşturulan Param Vir Chakra, düşman karşısında gösterilen emsalsiz cesaret ve kendini feda etme ruhu için verilir. Bu, sıradan bir cesaretin çok ötesinde, olağanüstü ve belirgin bir kahramanlık gerektirir.\n\nMadalyanın adı, Sanskritçe'de 'En Yüksek Kahramanlık Çarkı' anlamına gelir ve bu isim, taşıdığı derin anlamı mükemmel bir şekilde yansıtır. Kuruluşundan bu yana, bugüne kadar sadece sınırlı sayıda askere layık görülen bu nişan, Hint Silahlı Kuvvetleri'nin en prestijli ve saygın ödülü olarak kabul edilir. Nadirliği ve kazanılması için gereken olağanüstü koşullar, onu daha da özel kılar. Madalyanın tasarımı da oldukça anlamlıdır: Bronzdan yapılmış, merkezinde Hindistan'ın ulusal amblemi olan Asoka Sütunu'nun kabartması bulunur ve etrafında dört adet Indra'nın Şimşek Kama'sı (Vajra) figürü yer alır. [DOĞRULA: Bu madalyanın orijinal tasarımını kim yapmıştır ve bu tasarımın arkasındaki hikaye nedir?]\n\nParam Vir Chakra, sadece bir metal parçası değil, aynı zamanda ulusuna hizmet eden en yiğit askerlerin anısını yaşatan, gelecek nesillere ilham veren gurur verici bir semboldür. Onu takan her asker, Hindistan'ın fedakarlık ve vatanseverlik ruhunun canlı bir kanıtı haline gelir ve isimleri tarihin sayfalarına altın harflerle yazılır.",
+      "fun_fact": "Param Vir Chakra, sahiplerine ölümünden sonra da verilebilen nadir ve prestijli askeri nişanlardan biridir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1650629",
+        "https://en.wikipedia.org/wiki/Param_Vir_Chakra"
+      ],
+      "wikidata_qid": "Q1650629"
+    },
+    {
+      "id": "Q16587531",
+      "date": "2027-01-03",
+      "category": "gida-icecek",
+      "widget_title": "Patatesin insanlık tarihindeki yolculuğu ne zaman başladı?",
+      "hook": "Kızartması, püresi, yemeği... Patatesin sofralarımızdaki yeri tartışılmaz, peki bu mucizevi bitki hayatımıza ne zaman girdi?",
+      "answer_year": -8000,
+      "year_precision": "year",
+      "guess_range": [
+        -8100,
+        -7920
+      ],
+      "body": "Patates, dünya mutfaklarının adeta gizli kahramanı. O olmadan birçoğumuzun favori yemeklerini hayal etmek bile zor. Peki bu lezzetli kök sebze, insanlık tarihine ne zaman dahil oldu? Cevap oldukça şaşırtıcı: yaklaşık olarak M.Ö. 8000 yılı! Evet, yanlış duymadınız, patates tam 10.000 yıl önce hayatımıza girdi.\n\nBu kadim bitkinin doğduğu yer, Güney Amerika'daki And Dağları'nın yüksek platoları. Bölgede yaşayan kadim medeniyetler, vahşi patates türlerini ehlileştirerek tarıma başlamışlar. Hatta İnka İmparatorluğu döneminde patates, o kadar değerliymiş ki sadece bir yiyecek değil, aynı zamanda kültürel ve ekonomik bir simgeymiş. Binlerce yıldır bu topraklarda farklı çeşitleri yetiştirilmiş ve depolanmış.\n\nAvrupa ile tanışması ise çok daha sonra, 16. yüzyılda İspanyol kaşifler sayesinde gerçekleşmiş. Ancak patatesin Avrupa'da hemen kucaklanmadığını biliyor muydunuz? İlk başlarda zehirli olduğu düşünülmüş, hatta bazıları görünüşü nedeniyle şeytanla ilişkilendirmiş. Özellikle köylüler arasında büyük bir şüphe varmış. Krallıklar ve aydınlar, patatesin besin değerini anladıktan sonra halkı ikna etmek için çeşitli yöntemlere başvurmuşlar. Fransa'da [DOĞRULA: Antoine-Augustin Parmentier'in] patatesin tanıtımında önemli bir rol oynadığı söylenir. [DOĞRULA: Kraliçe Marie Antoinette'in bile patates çiçeklerinden bir broş taktığı rivayet edilir.]\n\nBugün patates, Antarktika hariç her kıtada yetiştirilen, mısır ve buğdaydan sonra dünyanın en büyük üçüncü gıda mahsulü haline geldi. Kim bilebilirdi ki, binlerce yıl önceki bir dağ bitkisinin tüm dünyayı doyuracağını?",
+      "fun_fact": "Dünya üzerinde 4.000'den fazla patates çeşidi olduğu tahmin ediliyor, bunlardan bazıları sadece And Dağları'nda bulunuyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16587531",
+        "https://en.wikipedia.org/wiki/Potato_(food)"
+      ],
+      "wikidata_qid": "Q16587531"
+    },
+    {
+      "id": "Q1653924",
+      "date": "2027-01-04",
+      "category": "giyim",
+      "widget_title": "Sovyet Milisinin 50 Yılı Jübile Madalyası ne zaman çıkarıldı?",
+      "hook": "Sovyetler Birliği'nin köklü güvenlik gücünün yarım asrını kutlayan bu madalyanın hikayesini merak ediyor musun?",
+      "answer_year": 1967,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Sovyetler Birliği tarihi, sayısız madalya ve nişanla dolu bir geçittir. Özellikle önemli yıldönümlerini kutlamak ve hizmetleri onurlandırmak için çıkarılan jübile madalyaları, bu dönemin kültürel ve siyasi dokusunun önemli bir parçasıydı. İşte 'Sovyet Milisinin 50 Yılı Jübile Madalyası' da tam da bu amaca hizmet etmek üzere 1967 yılında hayata geçirildi.\n\nPeki, Sovyet Milisi kimdi? Temelde, Sovyet Sosyalist Cumhuriyetler Birliği'nin ana kolluk kuvvetiydi. 1917 Ekim Devrimi'nden kısa bir süre sonra kurulan Milis, zamanla ülkenin düzenini sağlamaktan, suçla mücadeleye kadar geniş bir yelpazede görevler üstlendi. Bu madalya, kuruluşlarının 50. yıl dönümünü, yani yarım asırlık hizmeti taçlandırmak için tasarlandı.\n\nMadalya, Milis teşkilatında [DOĞRULA: belirli bir süre hizmet etmiş veya önemli başarılara imza atmış] çalışanlara, emeklilere ve hatta bazı sivil çalışanlara verilirdi. Amacı, hem geçmişin mirasını onurlandırmak hem de mevcut personeli motive etmekti. Madalyanın üzerinde [DOĞRULA: genellikle orak ve çekiç, Kızıl Yıldız gibi Sovyet sembolleri ve ilgili yıl dönümü yazısı bulunurdu], bu da onun hem ideolojik hem de tarihi önemini vurgulardı. Bu tür madalyalar, sadece birer metal parça olmanın ötesinde, sahipleri için bir gurur kaynağı ve Sovyet devletine bağlılığın bir göstergesiydi. 1967 yılındaki bu özel madalya da, Sovyetler Birliği'nin güçlü ve sürekli varlığının bir sembolü olarak yerini aldı.",
+      "fun_fact": "Sovyetler Birliği, tarih boyunca neredeyse her önemli yıldönümü veya başarı için özel bir jübile madalyası çıkarmasıyla biliniyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1653924",
+        "https://tr.wikipedia.org/wiki/Sovyet_Milisinin_50_Y%C4%B1l%C4%B1_J%C3%BCbile_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Jubilee_Medal_%2250_Years_of_the_Soviet_Militia%22"
+      ],
+      "wikidata_qid": "Q1653924"
+    },
+    {
+      "id": "Q1713793",
+      "date": "2027-01-05",
+      "category": "gida-icecek",
+      "widget_title": "Fransa'nın özel lezzeti Jura şarabı ne zaman hayatımıza girdi?",
+      "hook": "Fransa'nın doğusundan gelen bu eşsiz şarap türünün kökenleri sizi şaşırtabilir.",
+      "answer_year": 1935,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Jura bölgesinde şarap üretimi, yüzyıllardır süregelen köklü bir geleneğe sahip. Fransa'nın doğusunda, İsviçre sınırına yakın bu küçük ama prestijli bölge, kendine özgü üzüm çeşitleri ve sıra dışı üretim teknikleriyle dünya şarap haritasında özel bir yere sahiptir. Peki, bu eşsiz şarap türü tam olarak ne zaman \"ortaya çıktı\" ya da bugünkü kimliğini kazandı?\n\nAslında, Jura'da şarap yapımının kendisi çok eski tarihlere, hatta Roma dönemine kadar uzanır [DOĞRULA: Jura bölgesinde şarap üretiminin kesin başlangıç tarihi ve arkeolojik kanıtlar]. Bölgenin soğuk iklimi ve toprağının kendine has yapısı, şaraplara benzersiz bir karakter katmıştır. Ancak \"Jura şarabı\" teriminin ve onun bugünkü anlamda resmi statüsünün oluşması, yirminci yüzyılın başlarına denk gelir.\n\n1935 yılı, Jura şarapları için oldukça önemli bir dönüm noktasıdır. Bu tarih, Fransa'daki \"Appellation d'Origine Contrôlée\" (AOC) sisteminin kurulduğu ve şarapların menşeilerinin ve üretim metotlarının yasal olarak koruma altına alındığı dönemlere işaret eder. Jura şarapları da bu süreçte kendi kimliklerini pekiştirmiş ve resmi olarak tanınmıştır. Özellikle Savagnin üzümünden yapılan Vin Jaune (Sarı Şarap) ve asmaların kurutulmuş üzümlerinden elde edilen Vin de Paille (Saman Şarabı) gibi ikonik Jura şarapları, bu koruma sayesinde eşsiz özelliklerini günümüze dek taşımayı başarmıştır. Bu şaraplar, sadece üzümün yetiştiği toprağın değil, aynı zamanda bölgenin kültürel mirasçılığının da bir parçasıdır. Yani 1935, Jura şarabının icat edildiği bir yıl olmaktan çok, onun kimliğinin, kalitesinin ve eşsizliğinin resmiyet kazandığı, güvence altına alındığı bir tarih olarak hafızalarımıza kazınmıştır. Bu sayede Jura şarapları, dünya genelinde hak ettiği prestiji elde etmiştir.",
+      "fun_fact": "Jura şarabının en meşhurlarından Vin Jaune, adını kehribar renginden alır ve özel flor tabakası altında yıllandırılır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1713793",
+        "https://tr.wikipedia.org/wiki/Jura_%C5%9Farab%C4%B1",
+        "https://en.wikipedia.org/wiki/Jura_wine"
+      ],
+      "wikidata_qid": "Q1713793"
+    },
+    {
+      "id": "Q1714745",
+      "date": "2027-01-06",
+      "category": "giyim",
+      "widget_title": "Jamaika Liyakat Nişanı ne zaman kuruldu?",
+      "hook": "Üstün başarıları onurlandırmak için verilen bu nişanın arkasındaki hikayeyi merak ediyor musunuz?",
+      "answer_year": 1969,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "\"Liyakat Nişanı\" terimi, aslında birçok ülkenin kendi değerli vatandaşlarını onurlandırmak için kullandığı bir isimdir. Ancak bugün odaklandığımız nişan, Karayipler'in incisi Jamaika'ya ait olanıdır ve bu prestijli ödül **1969** yılında resmen kurulmuştur. Düşünsenize, bağımsızlığını yeni kazanmış bir ulus, kendi kahramanlarını ve üstün yeteneklerini takdir etmek için böylesine özel bir onur nişanı yaratıyor. Bu, sadece bir madalya vermekten çok daha fazlası; ulusal kimliğin ve değerlerin bir ilanıdır.\n\nJamaika Liyakat Nişanı, sanat, bilim, edebiyat veya uluslararası alanda ülkeye büyük bir şöhret kazandırmış diğer alanlarda olağanüstü başarılar elde eden kişilere verilir. Bu nişan, sıradan bir takdirin ötesine geçerek, bireylerin kendi alanlarındaki derin etkilerini ve adanmışlıklarını kutlar. Nişanın sahipleri, toplumlarına ve dünyaya yaptıkları katkılarla sadece kendilerine değil, tüm Jamaika ulusuna da onur getirirler. Nadir verilen bir onur olan bu nişan, genellikle yaşayan üye sayısı ile sınırlıdır, bu da onu daha da özel kılar. [DOĞRULA: Nişanın yaşayan üye sayısının sınırlı olup olmadığı bilgisini teyit etmeli.] Bu ödül, bir milletin \"sizi takdir ediyoruz ve başarılarınızla gurur duyuyoruz!\" deme şeklidir.",
+      "fun_fact": "Bu nişanın mottosu, 'Gerçeği yapan ışığa gelir' anlamındaki 'He that does truth comes to the light' cümlesidir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1714745",
+        "https://en.wikipedia.org/wiki/Order_of_Merit_(Jamaica)"
+      ],
+      "wikidata_qid": "Q1714745"
+    },
+    {
+      "id": "Q1753595",
+      "date": "2027-01-07",
+      "category": "gida-icecek",
+      "widget_title": "Grey Goose Votkası İlk Kez Ne Zaman Üretildi?",
+      "hook": "Piyasadaki en prestijli votkalardan biri olarak kabul edilen Grey Goose'un, aslında sandığınızdan çok daha genç bir marka olduğunu biliyor muydunuz?",
+      "answer_year": 1997,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Grey Goose votkası, lüks ve zarafet denince akla gelen ilk markalardan biri olsa da, aslında tahmin ettiğinizden çok daha genç bir geçmişe sahip. İlk kez 1997 yılında piyasaya sürülen bu Fransız votkası, Amerikalı iş insanı Sidney Frank'in cesur vizyonunun bir ürünüydü. Frank, votkanın anavatanı olarak kabul edilen Doğu Avrupa yerine, dünya çapında lüks ve kalite algısıyla eşleşen Fransa'da ultra premium bir votka yaratma fikrini hayata geçirdi.\n\nBu iddialı proje, \"Fransız Votkası\" konseptini dünyaya tanıttı. Grey Goose, üretiminde Fransa'nın Picardie bölgesinden seçilen yüksek kaliteli kış buğdayını ve Gensac-la-Pallue'deki doğal kaynak suyunu kullanır. Beş aşamalı benzersiz bir damıtma sürecinden geçerek, son derece pürüzsüz ve karakteristik bir tat profili elde edilir. Marka, kısa sürede premium votka pazarında kendine sağlam bir yer edindi ve adeta bir statü sembolü haline geldi. Sidney Frank'in pazarlama dehası ve ürünün kalitesi sayesinde, Grey Goose hızla büyüdü ve 2004 yılında içki devi Bacardi tarafından satın alındı. Böylece, henüz çok genç olmasına rağmen, votka dünyasının en ikonik markalarından biri haline geldi.",
+      "fun_fact": "Grey Goose'un şişesi, Fransa'nın kaz yetiştiriciliği geleneği ve teruarından ilham alan gri kaz figürüyle dikkat çeker.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1753595",
+        "https://en.wikipedia.org/wiki/Grey_Goose_(vodka)"
+      ],
+      "wikidata_qid": "Q1753595"
+    },
+    {
+      "id": "Q17231052",
+      "date": "2027-01-08",
+      "category": "giyim",
+      "widget_title": "N95 maskesi ne zaman ortaya çıktı?",
+      "hook": "Pandemilerde en büyük kurtarıcılarımızdan biri olan N95 maskesi, aslında düşündüğümüzden daha yakın bir geçmişe sahip olabilir mi?",
+      "answer_year": 1995,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "N95 maskesi, özellikle son yıllarda yaşadığımız küresel salgınlarla birlikte adını tüm dünyaya duyuran, neredeyse herkesin tanıdığı bir yüz koruyucusu haline geldi. Peki, bu denli hayati bir koruyucunun tarihi ne kadar eskiye dayanıyor? Pek çok kişi onun son pandemilerle birlikte hayatımıza girdiğini düşünse de, aslında \"N95\" adlandırması çok daha erken, tam olarak 1995 yılında şekillendi.\n\nAslında N95, bir markanın adı olmaktan ziyade, Amerika Birleşik Devletleri Ulusal İş Sağlığı ve Güvenliği Enstitüsü (NIOSH) tarafından belirlenen bir performans standardını ifade eder. Bu standart, maskenin havadaki en az %95 oranındaki 0,3 mikron boyutundaki partikülleri filtreleyebildiğini gösterir. Bu, N95'i sadece büyük damlacıklardan değil, aynı zamanda virüsler ve bakteriler gibi çok daha küçük aerosollerden korunmada etkili kılar.\n\nElbette, insanlık tarihi boyunca nefes yoluyla bulaşan hastalıklardan veya tozdan korunma çabaları hep oldu. [DOĞRULA: Venedik veba doktorlarının gagalı maskeleri gibi erken örnekler verilebilir mi?] [DOĞRULA: Endüstriyel devrimle birlikte madencilik ve diğer kirli iş kollarında kullanılan ilk filtreli maske prototipleri ne zaman ortaya çıktı?] Ancak 1995 yılındaki NIOSH düzenlemesi, bu koruyucu ekipmanların belirli ve ölçülebilir bir performansa sahip olmasını sağlayarak, işçi sağlığı ve halk sağlığı alanında önemli bir dönüm noktasını işaret etti. Bu tarihten itibaren N95, sadece bir koruma aracı değil, aynı zamanda güvenilirliğin ve etkinliğin bir sembolü haline geldi. O günden bu yana, sağlık çalışanlarından inşaat işçilerine kadar pek çok farklı sektörde güvenle kullanılmaya devam ediyor.",
+      "fun_fact": "N95 maskelerindeki 'N' harfi 'yağa dayanıklı değil' (Not resistant to oil) anlamına gelirken, '95' sayısı ise havadaki partiküllerin en az %95'ini filtreleme kapasitesini ifade eder.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17231052",
+        "https://tr.wikipedia.org/wiki/N95_maske",
+        "https://en.wikipedia.org/wiki/N95_respirator"
+      ],
+      "wikidata_qid": "Q17231052"
+    },
+    {
+      "id": "Q1758887",
+      "date": "2027-01-09",
+      "category": "gida-icecek",
+      "widget_title": "Maker's Mark markası ne zaman kuruldu?",
+      "hook": "Viski dünyasının ikonik markalarından Maker's Mark'ın kökenleri tahmin ettiğinizden çok daha eskiye dayanıyor olabilir mi?",
+      "answer_year": 1889,
+      "year_precision": "year",
+      "guess_range": [
+        1780,
+        1960
+      ],
+      "body": "Maker's Mark, o ikonik kırmızı mühürlü şişeleriyle viski dünyasının en tanınmış simgelerinden biri. Peki, bu efsanevi içkinin tarihi, ailenin damıtım geleneği olarak 1889'a kadar uzanıyor desek şaşırır mıydınız? Çoğu kişi Maker's Mark'ın görece yeni bir marka olduğunu düşünse de, aslında arkasındaki Samuels ailesinin viski yapımındaki kökleri 19. yüzyılın sonlarına dayanıyor. Evet, 1889 yılı, ailenin Kentucky'deki damıtım mirasının başladığı, belki de ilk damıtım tesislerinden birinin kurulduğu önemli bir dönüm noktasıydı [DOĞRULA: 1889 yılının Maker's Mark ile doğrudan ilişkili aile mirası veya ilgili bir damıtım faaliyeti başlangıcı olup olmadığı]. Ancak bugünkü bildiğimiz, buğday bazlı, pürüzsüz tadıyla öne çıkan Maker's Mark markasının doğuşu ise çok daha yakın bir tarihe, 1950'li yıllara denk geliyor. T. William \"Bill\" Samuels Sr., geleneksel tariflerden sıkılıp kendi yenilikçi viskisini yaratmaya karar verdi. Ailesinin 170 yıllık eski tarifi de dahil olmak üzere tüm viski tariflerini yaktığı ve ardından eşi Margie Samuels'in de büyük katkılarıyla bugün sevdiğimiz Maker's Mark'ı geliştirdiği söylenir. Şişe tasarımı ve o kendine özgü kırmızı balmumu mühür de Margie'nin fikriydi. Yani 1889, kökleri; 1950'ler ise bugünkü markanın doğuşunu temsil ediyor. Bu iki tarih, hem geçmişin mirasını hem de yeniliğin gücünü bir araya getiriyor.",
+      "fun_fact": "Maker's Mark'ın o meşhur kırmızı balmumu mührünü tasarlayan ve marka ismine de ilham veren kişi, kurucu T. William \"Bill\" Samuels Sr.'ın eşi Margie Samuels'tir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1758887",
+        "https://en.wikipedia.org/wiki/Maker%27s_Mark"
+      ],
+      "wikidata_qid": "Q1758887"
+    },
+    {
+      "id": "Q1750653",
+      "date": "2027-01-10",
+      "category": "giyim",
+      "widget_title": "Kral IV. George'un ihtişamlı tacı ne zaman yapıldı?",
+      "hook": "Bir kraliyet töreninin vazgeçilmezi olan bu taç, sadece göz kamaştırıcı bir mücevherden çok daha fazlasını temsil ediyor.",
+      "answer_year": 1820,
+      "year_precision": "year",
+      "guess_range": [
+        1720,
+        1900
+      ],
+      "body": "Tarih 1820'yi gösterdiğinde, Avrupa'da krallıklar ihtişam ve gösterişle varlıklarını sürdürüyordu. İşte tam da o yıl, İngiliz Kraliyet ailesinin mücevher koleksiyonuna, adını taşıyan hükümdardan da öte bir önem kazanacak olan eşsiz bir eser eklendi: \"George IV State Diadem.\" Bu taç, sadece bir başlık olmanın çok ötesinde, Britanya monarşisinin ve geleneğinin en parlak simgelerinden biri olarak kabul ediliyor.\n\nBu paha biçilmez diadem, en çok Kraliçe II. Elizabeth'in taç giyme törenindeki görkemli görüntüsü ve İngiliz paraları ile pulları üzerindeki ikonik portrelerinden tanınıyor olabilir. Ancak onun hikayesi çok daha eskiye, Kral IV. George'un 1821'deki taç giyme törenine uzanıyor. [DOĞRULA: Kral IV. George'un taç giyme töreninin tarihi 1821 miydi ve taç özellikle o tören için mi sipariş edilmişti?] O dönemde, kraliyet törenleri büyük bir şatafatla düzenlenir, her detay titizlikle planlanırdı. Diadem de bu gösterişin en dikkat çekici parçalarından biri olarak tasarlanmıştı.\n\nTasarımı, Birleşik Krallık'ın birliğini ve kültürel çeşitliliğini zarifçe yansıtır: İngiltere'nin gülü, İskoçya'nın devedikeni ve İrlanda'nın yoncası motifleri, ustaca bir araya getirilmiştir. Bu narin bitki motifleri, ışığı her açıdan yakalayan 1.333 elmas ve çok sayıda inciyle bezenmiştir. [DOĞRULA: Toplam elmas ve inci sayısı doğru mu?] Dönemin en yetenekli zanaatkarları tarafından yaratılan bu eser, sadece mücevher işçiliğinin değil, aynı zamanda dönemin sanatsal anlayışının da bir göstergesidir. Yıllar boyunca birçok hükümdarın başını süsleyen George IV State Diadem, zamanla sadece bir aksesuar olmaktan çıkıp, Britanya tarihinin yaşayan, nefes alan bir parçası haline gelmiştir. Onun hikayesi, kralların ve kraliçelerin, törenlerin ve geleneklerin hiç bitmeyen masalını fısıldar gibidir.",
+      "fun_fact": "Kraliçe II. Elizabeth'in taç giyme töreninde taktığı bu taç, aynı zamanda İngiliz paralarının ve pullarının da vazgeçilmez bir parçası oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1750653",
+        "https://en.wikipedia.org/wiki/Diamond_Diadem"
+      ],
+      "wikidata_qid": "Q1750653"
+    },
+    {
+      "id": "Q1763921",
+      "date": "2027-01-11",
+      "category": "gida-icecek",
+      "widget_title": "Pıtırtılı Rice Krispies ne zaman hayatımıza girdi?",
+      "hook": "Sütle buluştuğunda çıkardığı o eğlenceli seslerle kahvaltılarımızı şenlendiren Rice Krispies'in hikayesine dalmaya hazır mısın?",
+      "answer_year": 1927,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Sabah kahvaltılarının en neşeli ve sesli üyelerinden biri olan Rice Krispies, sofralarımızla ilk kez 1927 yılında buluştu. Kellogg's tarafından tanıtılan bu pirinç bazlı gevrek, kısa sürede çocukların ve yetişkinlerin favorisi haline geldi. Sade pirinç tanelerinin özel bir işlemden geçirilerek şişirilmesiyle elde edilen Rice Krispies, özellikle süte döküldüğünde çıkardığı o ikonik 'pıtırtı, hışırtı, patırtı' sesleriyle tanındı. Bu eğlenceli sesler, gıda dünyasında benzersiz bir deneyim sunarak kahvaltı alışkanlıklarımıza yeni bir boyut getirdi. Peki, bu seslerin sırrı neydi dersin? Aslında her bir minik pirinç taneciğinin içinde hapsolan hava kabarcıkları, sütle buluştuğunda genleşip patlayarak o tanıdık melodiyi oluşturuyor. Başlangıçta sadece kahvaltılık bir gevrek olarak düşünülse de, Rice Krispies zamanla mutfaklarda çok yönlü bir malzeme oldu. Özellikle Rice Krispies Treats gibi basit ama lezzetli tatlıların ana maddesi haline gelerek tarif defterlerinde kendine sağlam bir yer edindi. [DOĞRULA: Rice Krispies Treats tarifinin ilk popülerleşme dönemi ne zamandı?] Hatta sadece yemeklerde değil, sanatsal çalışmalarda ve çeşitli el işlerinde bile kullanıldığını görmek mümkün. Kellogg's'un bu yenilikçi ürünü, sadece bir kahvaltılık olmaktan çok öteye geçerek, bir kültür ikonu haline geldi ve yıllar boyunca milyonlarca insanın keyifli anılarına eşlik etti. O taptaze sesi ve doyurucu lezzetiyle Rice Krispies, kahvaltıda bir klasik olmaya devam ediyor.",
+      "fun_fact": "Rice Krispies'in 'Snap, Crackle, Pop' sesleri, her bir pirinç taneciğinin içindeki hava boşluklarının sütle temas ettiğinde patlamasıyla ortaya çıkar.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1763921",
+        "https://tr.wikipedia.org/wiki/Rice_Krispies",
+        "https://en.wikipedia.org/wiki/Rice_Krispies"
+      ],
+      "wikidata_qid": "Q1763921"
+    },
+    {
+      "id": "Q1754284",
+      "date": "2027-01-12",
+      "category": "giyim",
+      "widget_title": "Demir Haç'a Toka Eklentisi ne zaman geldi?",
+      "hook": "Ünlü Demir Haç'ın hikayesinde gizli kalmış bir detayı keşfetmeye hazır mısınız?",
+      "answer_year": 1939,
+      "year_precision": "day",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Demir Haç, Almanya'nın askeri tarihinde derin izler bırakmış, en bilinen nişanlardan biridir. Özellikle Birinci ve İkinci Dünya Savaşları'nda binlerce askere cesaretleri ve hizmetleri karşılığında verilmiştir. Ancak bu ünlü madalyanın hikayesinde, çoğu kişinin gözünden kaçan, pratik bir detay da bulunur: Demir Haç'a eklenen özel toka. Bu tokanın ortaya çıkışı, takvimler 1939'u gösterdiğinde, İkinci Dünya Savaşı'nın ilk yıllarına denk gelir. Birinci Dünya Savaşı'nda Demir Haç ile ödüllendirilmiş pek çok deneyimli asker, yeni savaşta da aynı nişana tekrar layık görüldüğünde ilginç bir durumla karşılaşıldı. Zaten sahip oldukları madalyanın aynısını bir kez daha takmak yerine, bu ikinci onuru farklı bir şekilde sergilemek gerekiyordu. İşte bu ihtiyaca cevap olarak, 'Demir Haç'a Toka Eklentisi' tasarımları yapıldı ve yürürlüğe konuldu. Bu eklenti, 1914 tarihli orijinal Demir Haç madalyasının şeridine tutturularak kullanılıyordu. Böylece, askerler eski madalyalarını çıkarmadan, yeni kazandıkları nişanın anlamını bu tokayla net bir şekilde gösterebiliyorlardı. Genellikle üzerinde bir kartal figürü ve '1939' tarihi barındıran bu toka, madalyanın görsel zenginliğini artırırken, taşıyıcısının birden fazla savaşta gösterdiği üstün hizmeti de sembolize ediyordu. Bu küçük parça, sadece bir aksesuar olmanın ötesinde, askeri nişan sistemlerinin zaman içinde nasıl evrildiğini ve askerlerin başarılarını onurlandırmak için ne kadar yaratıcı çözümler bulunduğunu gösteren önemli bir örnektir.",
+      "fun_fact": "Bu toka eklentisi sayesinde, bir asker aynı madalyanın iki farklı dönemdeki ödülünü aynı anda gururla taşıyabiliyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1754284",
+        "https://tr.wikipedia.org/wiki/Demir_Ha%C3%A7%27a_Toka_Eklentisi",
+        "https://en.wikipedia.org/wiki/Clasp_to_the_Iron_Cross"
+      ],
+      "wikidata_qid": "Q1754284"
+    },
+    {
+      "id": "Q1763924",
+      "date": "2027-01-13",
+      "category": "gida-icecek",
+      "widget_title": "Beefeater Gin'in enfes yolculuğu ne zaman başladı?",
+      "hook": "Klasik bir Londra cininin hikayesi sizi 19. yüzyıla götürmeye hazır mı?",
+      "answer_year": 1876,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Beefeater Gin, adını duyduğumuzda aklımıza hemen Londra'nın o eşsiz atmosferi gelir, değil mi? İşte bu ikonik cinin serüveni, 1876 yılında başladı. O dönemde cin, İngiltere'de oldukça popüler bir içkiydi ve birçok damıtımevi kendi özel tariflerini yaratmak için uğraşıyordu. Beefeater da bu rekabetçi ortamda, kaliteli ve kendine özgü bir lezzet profiliyle öne çıkmayı başardı. Tam olarak kimin tarafından icat edildiği bilinmese de, bu tarihte temelleri atılan marka, kısa sürede İngiliz cin geleneğinin önemli bir parçası haline geldi.\n\nBeefeater ismini, Londra Kulesi'nin geleneksel muhafızları olan \"Yeomen Warders\"dan, yani halk arasında bilinen adıyla \"Beefeaterlar\"dan alması, markanın İngiliz kimliğine yaptığı güçlü bir göndermedir. Bu muhafızlar, yüzyıllardır Kule'yi korumuş ve İngiliz tarihinin yaşayan sembolleri haline gelmiştir. Cinin şişesinin üzerindeki Beefeater figürü de bu mirasın bir parçasıdır.\n\nBeefeater'ı diğer cinlerden ayıran en önemli özelliklerden biri, üretiminde kullanılan botaniklerin özenle seçilmesi ve damıtma sürecidir. Ardıç, meyan kökü, kişniş tohumu, badem gibi klasik cin bileşenleri, [DOĞRULA: belirli bir süre mi bekletiliyor?] ve özel imbiklerde damıtılarak o karakteristik, dengeli ve ferahlatıcı tadı ortaya çıkarır. Yıllar içinde tüm dünyada kokteyl barlarının ve cin severlerin favorisi haline gelen Beefeater, klasik bir Dry Gin olmaya devam ediyor ve hala Londra'da damıtılıyor.",
+      "fun_fact": "Beefeater'ın orijinal tarifi, markanın kurulduğu 1876 yılından bu yana neredeyse hiç değişmeden günümüze ulaşmıştır. [DOĞRULA: Tarifenin 1876'dan beri neredeyse hiç değişmediği bilgisi.]",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1763924",
+        "https://tr.wikipedia.org/wiki/Beefeater_Gin",
+        "https://en.wikipedia.org/wiki/Beefeater_Gin"
+      ],
+      "wikidata_qid": "Q1763924"
+    },
+    {
+      "id": "Q177128",
+      "date": "2027-01-14",
+      "category": "giyim",
+      "widget_title": "Odessa Savunması Madalyası ne zaman verildi?",
+      "hook": "Tarihin en çetin savunmalarından birini onurlandıran bu madalyanın hikayesini biliyor musunuz?",
+      "answer_year": 1942,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "İkinci Dünya Savaşı, tarihin gördüğü en yıkıcı çatışmalardan biriydi ve bu savaşta birçok şehir kahramanca direniş gösterdi. Karadeniz'in incisi Odessa da, 1941 yılında faşist güçlerin kuşatması altında kalarak büyük bir destana imza attı. Tam 73 gün süren bu kuşatma boyunca, şehir halkı ve savunucuları inanılmaz bir azimle savaştı. Bu kahramanca direniş, savaşın seyrinde önemli bir yer tuttu ve Odessa'ya daha sonra 'Kahraman Şehir' unvanı verilmesine yol açtı.\n\nİşte bu direnişi ölümsüzleştirmek ve o zorlu günlerde mücadele eden herkesi onurlandırmak amacıyla, özel bir madalya ihdas edildi. Odessa Savunması Madalyası, tam da bu amaçla, 1942 yılında Sovyetler Birliği tarafından resmi olarak verildi. Bu madalya, kuşatma sırasında Odessa'yı savunan askerlere, denizcilere, NKVD birliklerine ve sivil halktan direnişçilere takdim edildi. Madalyanın tasarımı, [DOĞRULA: madalyanın tasarımcısı kimdi?] dönemine uygun, Sovyet askeri sembollerini ve Odessa'nın denizcilik mirasını yansıtan unsurlar içeriyordu. Bugün bile, bu madalya, Odessa'nın direniş ruhunun ve insan azminin güçlü bir sembolü olarak tarihteki yerini koruyor.",
+      "fun_fact": "Odessa Savunması Madalyası, İkinci Dünya Savaşı sırasında verilen bir dizi Sovyet 'Şehir Savunması' madalyasından yalnızca biriydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q177128",
+        "https://tr.wikipedia.org/wiki/Odessa_Savunmas%C4%B1_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Medal_%22For_the_Defence_of_Odessa%22"
+      ],
+      "wikidata_qid": "Q177128"
+    },
+    {
+      "id": "Q176927",
+      "date": "2027-01-15",
+      "category": "gida-icecek",
+      "widget_title": "Gofret, bu çıtır lezzet, ne zaman icat edildi?",
+      "hook": "Kat kat lezzetiyle gönlümüzü çalan gofretin aslında oldukça eski bir geçmişi var!",
+      "answer_year": 1898,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Gofret, o incecik katmanları ve arasına gizlenmiş krema ile çocukluğumuzdan beri vazgeçilmez bir atıştırmalık. Peki, bu çıtır çıtır lezzetin mutfak tarihindeki yolculuğu ne zaman başladı dersiniz? Gofretin temelleri çok eskilere, hatta Orta Çağ'a kadar uzanıyor olsa da, günümüzdeki haliyle tanıdığımız, özellikle \"Neapolitan gofret\" olarak bilinen türün doğuşu net bir tarihe sahip. **1898 yılı**, bu özel lezzetin dünya sahnesine çıktığı yıl olarak kayıtlara geçti.\n\nBu tarihte, Avusturyalı bir şekerlemeci olan Josef Manner'in Viyana'da kurduğu şirketinin, beş katmanlı, fındık kremalı bu gofret çeşidini piyasaya sürdüğüne inanılıyor. [DOĞRULA: Josef Manner'in şirketinin 1898'de ilk Neapolitan gofreti üreten şirket olduğu bilgisi] Adı neden \"Neapolitan\" mı? Çünkü bu eşsiz lezzetin ana maddelerinden biri olan fındıklar, İtalya'nın Napoli bölgesinden geliyordu ve kalite standartlarıyla biliniyordu. Manner, bu gofreti uygun fiyata, her kesimden insanın ulaşabileceği bir lezzet olarak piyasaya sürdü ve kısa sürede büyük bir başarı elde etti. O gün bu gündür gofret, dünyanın dört bir yanında kahve molalarının, ara öğünlerin ve tatlı krizlerinin vazgeçilmezi olmaya devam ediyor. Basit malzemelerle yaratılan bu katmanlı mucize, zamanla birçok farklı çeşide bürünse de, 1898'de popülerleşen Neapolitan gofretin orijinal tadı ve dokusu hala birçok kişi için ilk tercihtir. Bu lezzet, sadece bir atıştırmalık değil, aynı zamanda nostaljik anıların da bir parçası.",
+      "fun_fact": "Neapolitan gofret adını, içinde kullanılan fındıkların İtalya'nın Napoli bölgesinden gelmesinden almıştır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q176927",
+        "https://en.wikipedia.org/wiki/Neapolitan_wafer"
+      ],
+      "wikidata_qid": "Q176927"
+    },
+    {
+      "id": "Q1783760",
+      "date": "2027-01-16",
+      "category": "giyim",
+      "widget_title": "Romanya Çelik Tacı ne zaman kraliyet sembolü oldu?",
+      "hook": "Bir topun küllerinden doğan bir taç hayal edin, hem de çelikten!",
+      "answer_year": 1881,
+      "year_precision": "year",
+      "guess_range": [
+        1780,
+        1960
+      ],
+      "body": "Kralların başını süsleyen taçlar genellikle altın, elmas ve incilerle bezenmiş olur, değil mi? Ama Romanya'nın Çelik Tacı bambaşka bir hikayeye sahip. Bu özel taç, ülkenin tam bağımsızlığını kazanıp bir krallık olarak ilan edildiği 1881 yılında hayat buldu. Onu bu kadar eşsiz yapan, sıradan bir metalden değil, 1877-1878 Osmanlı-Rus Savaşı sırasında [DOĞRULA: Romanya Bağımsızlık Savaşı olarak da bilinen] ele geçirilen bir Osmanlı topunun eritilmiş çeliğinden yapılmış olması. Bu top, Romanya'nın bağımsızlık mücadelesindeki kararlılığının ve zaferinin bir sembolüydü. Dolayısıyla, taç sadece bir hükümdarlık alameti değil, aynı zamanda ulusal onurun ve fedakarlığın da bir nişanesiydi. İlk kez, Romanya Prensi I. Carol, ülkesinin krallığa yükselmesiyle birlikte 10 Mayıs 1881'de Bükreş'teki Parlamento'da bu taç ile taç giydi. Bu an, Romanya tarihinde bir dönüm noktasıydı ve Carol'un demir iradesini ve yeni kurulan krallığın gücünü temsil ediyordu. Sonraki Romanya kralları da bu çelik tacı taşıyarak mirasın devamlılığını vurguladı. Bugün bile bu taç, Romanya ulusunun bağımsızlık yolculuğunda attığı en önemli adımlardan birinin canlı bir hatırası olarak kalmaya devam ediyor.",
+      "fun_fact": "Avrupa'daki krallık taçları arasında, değerli metallerden yapılmamış olmasıyla Romanya Çelik Tacı nadir bir örnektir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1783760",
+        "https://en.wikipedia.org/wiki/Steel_Crown_of_Romania"
+      ],
+      "wikidata_qid": "Q1783760"
+    },
+    {
+      "id": "Q1789031",
+      "date": "2027-01-17",
+      "category": "gida-icecek",
+      "widget_title": "Sovetskoye Shampanskoye ne zaman hayatımıza girdi?",
+      "hook": "Sosyalist bir rüyadan doğan bu köpüklü içeceğin hikayesi, beklediğinizden çok daha ilginç olabilir!",
+      "answer_year": 1936,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "1936 yılına dönüyoruz! İşte o yıl, Sovyetler Birliği'nin köpüklü şarabı, yani 'Sovetskoye Shampanskoye' resmen üretilmeye başlandı. Ancak bu sadece bir içeceğin doğuşu değildi, aynı zamanda bir ideolojinin de yansımasıydı. Dönemin lideri Josef Stalin, elitist Fransız şampanyasının karşısına, 'emekçilerin şampanyasını' koymak istemişti. Amacı basitti: köpüklü şarabı sıradan vatandaşlar için erişilebilir ve uygun fiyatlı hale getirmek. Böylece, kutlamaların lüks bir ayrıcalık olmaktan çıkıp halkın bir parçası olmasını sağlamayı hedefliyordu.\n\nBu iddialı proje için Sovyet bilim insanları ve mühendisler harekete geçti. Geleneksel Fransız yöntemleri yerine, daha hızlı ve endüstriyel üretime olanak tanıyan Charmat yöntemini geliştirdiler ve uyguladılar. Bu yöntem, ikinci fermantasyonun şişelerde değil, büyük tanklarda yapılmasını sağlayarak üretimi hızlandırdı ve maliyetleri düşürdü. Sonuçta ortaya çıkan Sovetskoye Shampanskoye, kısa sürede ülkede büyük bir popülerlik kazandı ve Yeni Yıl kutlamalarından düğünlere kadar birçok özel anın vazgeçilmez içeceği oldu.\n\nSovyetler Birliği'nin dağılmasının ardından bile bu köpüklü şarap yaşamaya devam etti. Bugün hala eski Sovyet ülkelerinde ve hatta uluslararası pazarda çeşitli markalar altında üretiliyor ve nostaljik bir tat arayanlar için özel bir yere sahip. Bir zamanlar lüksün sembolü olan şampanyayı herkese ulaştırma fikriyle başlayan bu macera, gerçekten de tarihsel bir başarı öyküsü haline geldi.",
+      "fun_fact": "Sovyetler Birliği'nde üretilen ilk parti Sovetskoye Shampanskoye'nin [DOĞRULA: 1937'de yaklaşık bir milyon şişe üretildiği] tahmin edilmektedir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1789031",
+        "https://en.wikipedia.org/wiki/Sovetskoye_Shampanskoye"
+      ],
+      "wikidata_qid": "Q1789031"
+    },
+    {
+      "id": "Q1788812",
+      "date": "2027-01-18",
+      "category": "giyim",
+      "widget_title": "Avusturya-Macaristan Savaş Madalyası ne zaman ortaya çıktı?",
+      "hook": "Savaşın izlerini taşıyan, cesaretin bir nişanesi olan bu madalya ne zaman tarih sahnesine çıktı?",
+      "answer_year": 1873,
+      "year_precision": "day",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Savaş madalyaları, yüzyıllardır orduların kahramanlıklarını ve hizmetlerini taltif etmek için kullanılıyor. Avusturya-Macaristan İmparatorluğu da bu geleneği sürdürerek, 1873 yılında kendi özel savaş madalyasını hayata geçirdi. Bu madalya, imparatorluğun çeşitli askeri harekatlarında görev almış, cesaretini ve sadakatini kanıtlamış tüm rütbelerden askerlere verilmek üzere tasarlanmıştı.\n\nGenellikle \"Savaş Madalyası\" olarak anılan bu nişan, İmparator I. Franz Joseph'in emriyle oluşturuldu. Temel amacı, askerlerin savaş zamanındaki hizmetlerini resmen tanımak ve onlara somut bir takdir nişanesi sunmaktı. Madalyanın tasarımı, imparatorluk sembollerini ve dönemin sanatsal anlayışını yansıtırdı. [DOĞRULA: Madalyanın ön yüzünde İmparator I. Franz Joseph'in portresi mi vardı?] ve [DOĞRULA: Arka yüzünde \"Verdienste um den Staat\" (Devlet Uğruna Hizmetler) gibi bir yazı mı bulunuyordu?] gibi detaylar, madalyanın kimliğini pekiştirirdi. Bu madalya, özellikle Birinci Dünya Savaşı öncesindeki ve sırasındaki çeşitli çatışmalarda görev alan askerler için büyük bir moral kaynağı oldu. Savaşın zorlu koşullarında görev yapan her askerin göğsünü süsleyebilecek bu madalya, imparatorluğun askeri gücünün ve disiplininin de bir göstergesiydi. O dönemde, böyle bir nişanı taşımak, toplum içinde belirli bir saygınlık ve onur anlamına geliyordu.",
+      "fun_fact": "Avusturya-Macaristan Savaş Madalyası, imparatorluk ordusundaki farklı rütbelerden binlerce askere takdim edildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1788812",
+        "https://en.wikipedia.org/wiki/War_Medal_1873"
+      ],
+      "wikidata_qid": "Q1788812"
+    },
+    {
+      "id": "Q1789361",
+      "date": "2027-01-19",
+      "category": "gida-icecek",
+      "widget_title": "Magners Irish Cider hayatımıza ne zaman girdi?",
+      "hook": "İrlanda'nın serinletici elma şarabı geleneğinin kalbinde yatan Magners'ın hikayesine hazır mısınız?",
+      "answer_year": 1935,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "İrlanda'nın yemyeşil topraklarından yükselen, serinletici ve lezzetli bir miras: Magners Irish Cider. Peki bu ferahlatıcı içecek, bardaklarımıza ne zaman doldu dersiniz? Takvimler 1935'i gösterdiğinde, [DOĞRULA: William Magner'ın Clonmel, County Tipperary'de] kurduğu bu marka, kısa sürede İrlanda'nın kalbinde özel bir yer edindi. Magners, nesillerdir süregelen geleneksel yöntemlerle, özenle seçilmiş elmaların fermantasyonuyla üretiliyor. Her yudumda İrlanda'nın tarlalarının ve zanaatkarlığının izlerini taşıyan bu elma şarabı, o günden bu yana kalitesinden ödün vermeden yoluna devam ediyor.\n\nPiyasaya çıktığında İrlanda Cumhuriyeti'nde 'Bulmers Irish Cider' adıyla bilinen bu marka, uluslararası pazarlarda ise 'Magners' adını kullanıyor. Bu isim farklılığı, Birleşik Krallık'ta zaten 'Bulmers' adında farklı bir elma şarabı markasının bulunmasından kaynaklanıyor. Yani eğer yurt dışında bir mekanda 'Magners' görüyorsanız, bilin ki aslında İrlanda'nın o bildik, meşhur elma şarabını tadıyorsunuz. Magners, kendine özgü dengeli tadı ve ferahlatıcı yapısıyla sadece İrlanda'da değil, tüm dünyada cider severlerin favorisi olmayı başardı. Başladığı 1935 yılından bu yana, elma bahçelerinden sofralarınıza ulaşan bu lezzetli yolculuk, hiç hız kesmeden devam ediyor.",
+      "fun_fact": "Magners Irish Cider'ın o eşsiz tadı, [DOĞRULA: 18 aya kadar sürebilen] uzun bir fermantasyon sürecinin sonucudur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1789361",
+        "https://en.wikipedia.org/wiki/Magners"
+      ],
+      "wikidata_qid": "Q1789361"
+    },
+    {
+      "id": "Q1788876",
+      "date": "2027-01-20",
+      "category": "giyim",
+      "widget_title": "Savaş Liyakat Haçı ne zaman kuruldu?",
+      "hook": "Cephede değil, cephe gerisinde gösterilen olağanüstü hizmetler için bir ödül düşünün.",
+      "answer_year": 1939,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "II. Dünya Savaşı'nın gölgesinde, cephedeki kahramanlıklar kadar, cephe gerisindeki lojistik, planlama ve sivil hizmetler de kritik önem taşıyordu. Almanya, işte tam da bu tür görevlerde gösterilen üstün gayreti takdir etmek amacıyla özel bir madalya tasarladı: Savaş Liyakat Haçı. 1939 yılında, yani savaşın patlak verdiği yıl, bu nişan resmen yürürlüğe kondu.\n\nSavaş Liyakat Haçı, doğrudan çatışmaya girmeyen ancak savaş çabalarına önemli katkılarda bulunan kişilere verilmek üzere tasarlanmıştı. Bu, hem askerleri hem de sivilleri kapsıyordu. Özellikle, mühimmat üretiminde çalışan fabrika işçilerinden, askeri planlamacılara, ulaşım ağlarını yönetenlerden, cephe gerisinde tıbbi destek sağlayanlara kadar geniş bir yelpazede hizmet edenler bu nişana layık görülebilirdi.\n\nMadalyanın iki ana versiyonu vardı: \"kılıçlı\" ve \"kılıçsız\". Kılıçlı versiyon, düşman ateşi altında olmasa bile askeri çabalar için gösterilen cesaret ve liyakati onurlandırırken, kılıçsız versiyon genellikle savaş çabasına sivil veya askeri düzeyde önemli katkılarda bulunanlara verilirdi. Bu ayrım, madalyanın esnekliğini ve farklı hizmet alanlarını kapsama arzusunu gösteriyordu. Savaş boyunca [DOĞRULA: Bu madalyadan kaç adet verildiği ve en yaygın verilen nişanlardan biri olup olmadığı] Savaş Liyakat Haçı sahibini buldu ve o dönemin en yaygın verilen Alman nişanlarından biri haline geldi. Bu haç, savaşın karmaşık dinamikleri içinde, gözden kaçabilecek ancak vazgeçilmez hizmetlerin bir sembolüydü.",
+      "fun_fact": "Savaş Liyakat Haçı'nın tasarımında [DOĞRULA: Adolf Hitler'in doğrudan bir etkisi olup olmadığı] tartışma konusu olmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1788876",
+        "https://tr.wikipedia.org/wiki/Sava%C5%9F_Liyakat_Ha%C3%A7%C4%B1",
+        "https://en.wikipedia.org/wiki/War_Merit_Cross"
+      ],
+      "wikidata_qid": "Q1788876"
+    },
+    {
+      "id": "Q1798985",
+      "date": "2027-01-21",
+      "category": "gida-icecek",
+      "widget_title": "Skyy Votka Ne Zaman Hayatımıza Girdi?",
+      "hook": "Mavi şişesiyle tanınan Skyy Votka'nın hikayesi, pürüzsüz bir başlangıçla dolu.",
+      "answer_year": 1992,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "1992 yılı, votka dünyasında pürüzsüzlüğe odaklanmış yepyeni bir markanın doğuşuna sahne oldu: Skyy Votka. O yıllarda votkaların genellikle keskin bir tadı olduğu düşünülürken, bir girişimci bu algıyı değiştirmeyi kafasına koydu. Amaç, kokteyllerde rahatlıkla kullanılabilecek, damakta daha az yanma hissi bırakan, daha saf ve yumuşak içimli bir votka yaratmaktı.\n\nBu iddialı hedefi gerçekleştirmek için, Skyy alışılmışın dışında bir üretim sürecini benimsedi. Marka, votkasını dört kez damıtarak ve üç kez filtreleyerek, o dönem için oldukça yenilikçi bir yaklaşım sergiledi. Bu detaylı ve özenli süreç, ürünün saflığını maksimize ederken, alkolün keskin tatlarını minimize etmeyi hedefliyordu. Sonuç, gerçekten de daha \"yumuşak\" olarak tanımlanan, daha az tortulu bir içki oldu.\n\nSkyy'ın sadece tadıyla değil, aynı zamanda ikonik kobalt mavisi şişesiyle de dikkat çekmesi tesadüf değildi. Bu modern ve göz alıcı tasarım, markanın yenilikçi ruhunu ve premium imajını vurguluyordu. Kısa sürede bar raflarının vazgeçilmezi haline gelen Skyy, votka pazarında \"pürüzsüzlük\" trendini başlatan öncülerden biri oldu ve dünya genelinde kendine sağlam bir yer edindi. [DOĞRULA: Skyy Votka'nın ilk olarak San Francisco'da piyasaya sürülüp sürülmediği.]",
+      "fun_fact": "Skyy Votka'nın geliştirilmesindeki ana motivasyon, votkanın yarattığı akşamdan kalma etkisini azaltmaktı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1798985",
+        "https://en.wikipedia.org/wiki/Skyy"
+      ],
+      "wikidata_qid": "Q1798985"
+    },
+    {
+      "id": "Q1796163",
+      "date": "2027-01-22",
+      "category": "giyim",
+      "widget_title": "Kraliçe Maria Luisa Nişanı ne zaman kuruldu?",
+      "hook": "İspanyol Kraliyet ailesinin sadece kadınlara özel kurduğu bu prestijli nişanın kökenleri seni şaşırtabilir.",
+      "answer_year": 1792,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1870
+      ],
+      "body": "Takvimler 1792 yılını gösterdiğinde, İspanya Kralı IV. Carlos, eşi Kraliçe Maria Luisa'ya özel bir jest yaparak ve onun adını yaşatarak çok değerli bir nişan ihdas etti: Kraliçe Maria Luisa Nişanı. Bu nişan, aslında Kraliçe'ye duyulan sevgi, saygı ve takdirin somut bir sembolü olarak doğdu. Başlangıçta amacı, özellikle İspanyol soylu kadınları arasında sadakati, erdemi ve kraliyet hizmetini ödüllendirmekti.\n\nNişan, Kraliçe'nin çevresindeki hanımefendilere ve krallığa üstün hizmetlerde bulunmuş kadınlara veriliyordu. Zamanla, bu prestijli onur daha geniş bir kitleye ulaşarak, İspanya'ya önemli katkıları olan veya üst düzey görevlerde bulunmuş [DOĞRULA: uluslararası kadınlara da verildi mi?] kadınları da kapsayacak şekilde genişledi. Nişanın kendisi, genellikle Kraliçe Maria Luisa'nın bir portresini veya özel bir armayı taşıyan zarif bir madalyondan oluşur ve geleneksel olarak mor bir kurdeleyle taşınırdı.\n\nKraliçe Maria Luisa Nişanı, yüzyıllar boyunca İspanyol monarşisinin önemli bir sembolü olarak kalmış ve kadınların toplumsal ve kraliyet hizmetlerindeki rolünü takdir etmede öncü bir adım olmuştur. Bu nişan, sadece bir onur değil, aynı zamanda kadınların İspanya tarihindeki görünürlüğünü artıran değerli bir mirastır. Bugün bile, nişanın [DOĞRULA: hala veriliyor mu veya onursal bir statüsü var mı?] İspanya'nın kültürel ve tarihsel dokusunun ayrılmaz bir parçası olduğu kabul ediliyor.",
+      "fun_fact": "Bu nişan, kurulduğu dönemde Avrupa'da sadece kadınlara adanmış kraliyet nişanları arasında oldukça özel ve nadir bir yere sahipti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1796163",
+        "https://en.wikipedia.org/wiki/Order_of_Queen_Maria_Luisa"
+      ],
+      "wikidata_qid": "Q1796163"
+    },
+    {
+      "id": "Q18191476",
+      "date": "2027-01-23",
+      "category": "gida-icecek",
+      "widget_title": "İsrail'in ünlü birası Goldstar ne zaman yudumlanmaya başlandı?",
+      "hook": "Köpüklü, serinletici ve İsrail'in simgesi haline gelmiş Goldstar birası, bakalım tarihin hangi sayfasında ilk kez boy gösterdi?",
+      "answer_year": 1950,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Bugün İsrail denince akla ilk gelen biralardan biri olan Goldstar, 1950 yılında bira severlerle buluştu. Bu ikonik lager, o günden bu yana ülkenin en sevilen içeceklerinden biri haline geldi ve adeta bir ulusal sembole dönüştü. Goldstar'ın hikayesi, aslında İsrail devletinin kuruluşundan kısa bir süre sonrasına denk geliyor ve yeni kurulan bir ulusun kendine has tatlar yaratma arayışının bir parçası olarak da görülebilir.\n\nGoldstar, kendine özgü hafif acımsı tadı ve ferahlatıcı yapısıyla tanınır. Markanın ayırt edici kırmızı yıldız logosu ve koyu renkli şişesi, raflarda kolayca fark edilmesini sağlar. Yıllar içinde sadece bir içecek olmaktan çıkıp, İsrail kültürünün önemli bir parçası haline gelmiştir; sosyalleşmelerin, kutlamaların ve günlük anların vazgeçilmezidir. Bugün Goldstar'ın üretimini Tempo Beverages şirketi üstlenmektedir [DOĞRULA: Goldstar'ı ilk üreten firma Tempo Beverages miydi, yoksa sonradan mı devraldı?]. Şirket, orijinal tarifin yanı sıra, son yıllarda piyasaya sürülen filtrelenmemiş versiyonu Goldstar Unfiltered gibi farklı çeşitleriyle de bira deneyimini zenginleştirmeyi sürdürüyor. 1950'den beri değişmeyen kalitesi ve popülaritesiyle Goldstar, biranın sadece bir içecek değil, aynı zamanda bir yaşam tarzı ve kültürün aynası olabileceğinin en güzel örneklerinden biri.",
+      "fun_fact": "Goldstar, İsrail'de sadece bir içecek değil, aynı zamanda arkadaşlarla buluşmaların ve rahat anların vazgeçilmezi olarak kültürel bir simge haline gelmiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18191476",
+        "https://en.wikipedia.org/wiki/Goldstar_(beer)"
+      ],
+      "wikidata_qid": "Q18191476"
+    },
+    {
+      "id": "Q1796419",
+      "date": "2027-01-24",
+      "category": "giyim",
+      "widget_title": "Fransa Kralı XV. Louis'in ihtişamlı tacı ne zaman yapıldı?",
+      "hook": "Fransız monarşisinin görkemini yansıtan bu taç, hangi yılda kraliyet başlarını süslemeye başladı dersiniz?",
+      "answer_year": 1722,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1800
+      ],
+      "body": "Fransa Kralı XV. Louis için özel olarak tasarlanan bu muhteşem taç, 1722 yılında tamamlandı. Küçük yaşta tahta geçen Louis'nin taç giyme töreni, geleneksel olarak Reims Katedrali'nde gerçekleşti ve bu görkemli olay için bu eşsiz taç hazırlandı. Taç, sadece bir aksesuar olmaktan öte, Fransız monarşisinin zenginliğini, gücünü ve ihtişamını sembolize ediyordu. Tamamen altından yapılmış olup, üzerine paha biçilmez elmaslar ve diğer değerli taşlar ustaca işlenmiştir. Özellikle [DOĞRULA: tacın üst kısmında yer alan Floransa Elması'nın mı yoksa farklı bir büyük elmasın mı olduğu] gibi göz alıcı mücevherlerle bezenmişti. Bu taç, eski krallık taçlarının, özellikle de [DOĞRULA: Aziz Louis Tacı'nın veya Charlemagne Tacı'nın] aksine, Fransız İhtilali'nin çalkantılı yıllarından şans eseri kurtulmayı başarmıştır. Bilindiği üzere, çoğu kraliyet mücevheri o dönemde ya eritilmiş ya da kaybolmuştur. Günümüzde, bu tarihi ve sanatsal başyapıtı Paris'teki Louvre Müzesi'nde ziyaret etmek mümkün. XV. Louis'in Tacı, sadece bir kraliyet sembolü değil, aynı zamanda 18. yüzyıl Fransız mücevher sanatının zirve noktalarından biridir ve geçmişin görkemli hikayelerini fısıldar.",
+      "fun_fact": "XV. Louis'in Tacı, Fransız İhtilali'nin çalkantılı döneminden sağlam çıkmayı başaran nadir kraliyet mücevherlerinden biridir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1796419",
+        "https://tr.wikipedia.org/wiki/XV._Louis%27in_Tac%C4%B1",
+        "https://en.wikipedia.org/wiki/Crown_of_Louis_XV_of_France"
+      ],
+      "wikidata_qid": "Q1796419"
+    },
+    {
+      "id": "Q1862698",
+      "date": "2027-01-25",
+      "category": "gida-icecek",
+      "widget_title": "Tiger Beer ilk kez ne zaman bardağımıza kondu?",
+      "hook": "Güneydoğu Asya'nın en ikonik biralarından biri olan Tiger Beer'ın hikayesi sizi şaşırtabilir.",
+      "answer_year": 1932,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Bugün dünyanın dört bir yanında serinletici tadıyla bilinen Tiger Beer, hikayesine 1932 yılında Singapur'da başladı. O yıllarda, Güneydoğu Asya'da yerel bira üretimi pek yaygın değildi ve pazar çoğunlukla ithal biraların egemenliğindeydi. İşte tam bu dönemde, Hollandalı bira devi Heineken ve Singapurlu holding Fraser and Neave (F&N) ortaklığıyla Malayan Breweries Limited kuruldu. Amaçları basitti: bölgeye özel, tropikal iklime uygun, kaliteli bir bira üretmek. Ve bu amaçla yola çıkan ekip, kısa sürede Tiger Beer'ı yarattı.\n\nTiger Beer, sadece bir içecekten fazlasıydı; o, Singapur'un bağımsızlık ruhunun ve yerel üretim gücünün de bir sembolü haline geldi. İlk yıllarında Güneydoğu Asya'da popülerleşen Tiger, zamanla sınırları aşarak küresel bir marka olmayı başardı. Özel olarak formüle edilmiş maya ve kaliteli ham maddelerle üretilen bu lager bira, hafif acı ve ferahlatıcı tadıyla hızla favoriler arasına girdi. Belirli bir 'mucidi' olmasa da, bu cesur girişimin arkasındaki ortaklık ve onların vizyonu, milyonların bildiği ve sevdiği bir markayı ortaya çıkardı.\n\nZamanla farklı ülkelerde de üretilmeye başlanan Tiger Beer, uluslararası arenada birçok ödül kazandı. Bugün hala Heineken çatısı altında global bir başarı hikayesi yazmaya devam ediyor ve Asya'nın tropik sıcaklarında serinlemenin ikonik yollarından biri olarak kabul ediliyor.",
+      "fun_fact": "Tiger Beer, 1930'larda Asya'da üretilen ilk yerel biralardan biriydi ve kısa sürede 'Asya'nın gururu' olarak anılmaya başlandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1862698",
+        "https://en.wikipedia.org/wiki/Tiger_Beer"
+      ],
+      "wikidata_qid": "Q1862698"
+    },
+    {
+      "id": "Q18385381",
+      "date": "2027-01-26",
+      "category": "giyim",
+      "widget_title": "Benin Kolye Maskeleri Hangi Yüzyıla Ait?",
+      "hook": "Batı Afrika'nın kadim krallıklarından Benin'in sanatsal zenginliğini yansıtan bu eşsiz kolye maskelerinin hikayesine dalmaya hazır mısınız?",
+      "answer_year": 1550,
+      "year_precision": "year",
+      "guess_range": [
+        1450,
+        1630
+      ],
+      "body": "Batı Afrika'nın tarihine ışık tutan Benin Kolye Maskeleri, sadece birer sanat eseri değil, aynı zamanda derin kültürel ve siyasi anlamlar taşıyan objelerdir. Özellikle 16. yüzyılın ortaları, yani 1550 civarı, Benin Krallığı'nın sanatsal ve politik olarak en parlak dönemlerinden birine denk gelir. Bu dönemde krallık, güçlü bir orduya, gelişmiş bir ekonomiye ve zengin bir sanatsal geleneğe sahipti.\n\nBu özel kolye maskeleri genellikle fildişinden ustaca oyulur ve Benin Krallığı'nın en önemli figürleri olan Obası (kral) ve Iyobası'nı (kraliçe anne) tasvir ederdi. Maskeler, törenlerde ve önemli devlet etkinliklerinde, Obanın ya da yüksek rütbeli şahsiyetlerin kıyafetlerini süslemek amacıyla kullanılırdı. Onların gücünü, ilahi otoritesini ve atalarına olan saygısını sembolize ederlerdi. Her bir maskenin üzerindeki detaylar, krallığın mitolojisinden ve günlük yaşamından izler taşır; balıklar, yılanlar ve diğer semboller sıkça görülür. Bu maskeler, krallığın gücünü ve zenginliğini dünyaya ilan eden sessiz elçiler gibiydi.",
+      "fun_fact": "Fildişi oyma sanatındaki bu ustalık, Benin Krallığı'nın uzun yıllara dayanan köklü bir zanaatkarlık geleneğinin bir parçasıydı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18385381",
+        "https://en.wikipedia.org/wiki/Benin_ivory_mask"
+      ],
+      "wikidata_qid": "Q18385381"
+    },
+    {
+      "id": "Q187155",
+      "date": "2027-01-27",
+      "category": "gida-icecek",
+      "widget_title": "Tanqueray'in efsanevi yolculuğu ne zaman başladı?",
+      "hook": "Cinin aristokratı olarak bilinen Tanqueray, barmenlerin favorisi olmadan önce nasıl bir yolculuktan geçti?",
+      "answer_year": 1830,
+      "year_precision": "year",
+      "guess_range": [
+        1730,
+        1910
+      ],
+      "body": "Cinin dünyasına 1830 yılında adım atan Tanqueray, adını kurucusu Charles Tanqueray'den alıyor. Genç Charles, o dönemde moda olan tatlı ve şuruplu cinlerin aksine, daha rafine ve dengeli bir lezzet yaratma peşindeydi. Londra'nın Bloomsbury semtinde kurduğu damıtımevinde, yıllar süren denemeler sonucunda, bugün bile tarifin temelini oluşturan dört temel botanikle (ardıç, kişniş, melekotu kökü ve meyan kökü) eşsiz bir formül geliştirdi. [DOĞRULA: Bu dört botanik bitkinin başlangıçtan itibaren Tanqueray cininde kullanılıp kullanılmadığı]. Onun amacı sadece bir cin üretmek değil, gerçekten de türünün en iyisini ortaya koymaktı; o, cinin kalitesini yeniden tanımlamak istiyordu.\n\nCharles'ın bu yenilikçi yaklaşımı, kendi döneminde büyük bir fark yarattı. İnce düşünülmüş damıtma süreci ve seçkin botaniklerin birleşimi, Tanqueray cinine o kendine has, keskin ve ferahlatıcı tadı kazandırdı. Charles Tanqueray'in ölümünden sonra işleri oğlu Charles Waugh Tanqueray devraldı ve babasının mirasını başarıyla sürdürdü, markayı daha da büyüttü. Özellikle 20. yüzyılın başlarında, yasaklar döneminde bile gizlice popülerliğini koruduğu ve kokteyl kültürünün yükselişiyle birlikte uluslararası alanda tanındığı söylenir. Tanqueray'in ikonik yeşil şişesi ve barların vazgeçilmezi haline gelmesi de bu süreçte gerçekleşti. Bugün Tanqueray, klasik cinin en bilinen ve saygı duyulan temsilcilerinden biri olarak kabul ediliyor. O basit başlangıçtan itibaren, Charles'ın mükemmellik arayışı bugüne kadar taşınan bir miras haline geldi.",
+      "fun_fact": "Charles Tanqueray'in orijinal cin tarifi, bugün bile çok az değişiklikle kullanılmaya devam ediyor ve sır gibi saklanıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q187155",
+        "https://tr.wikipedia.org/wiki/Tanqueray",
+        "https://en.wikipedia.org/wiki/Tanqueray"
+      ],
+      "wikidata_qid": "Q187155"
+    },
+    {
+      "id": "Q187549",
+      "date": "2027-01-28",
+      "category": "giyim",
+      "widget_title": "Hospitalier Şövalyeleri ne zaman ortaya çıktı?",
+      "hook": "Kılıç sallayan savaşçılarla hastalara bakan merhametli şifacıların aynı kimlikte buluştuğu bir düzen hayal edebilir misiniz?",
+      "answer_year": 1099,
+      "year_precision": "year",
+      "guess_range": [
+        990,
+        1170
+      ],
+      "body": "Hospitalier Şövalyeleri'nin hikayesi, günümüzdeki haliyle bile şaşırtıcı ve ilham verici. Aslında onlar, Orta Çağ'ın tozlu yollarında hacıların ve hastaların yardımına koşan mütevazı bir sağlık ekibi olarak başladı. Kudüs'te [DOĞRULA: Tapınak Şövalyeleri'nden önce mi kuruldu?] 1099 yılında kurulan bu topluluk, önceleri hastaneler işleterek yorgun düşmüş, hastalanmış veya yaralanmış herkese kucak açtı. Temel amaçları, dini ayrım gözetmeksizin ihtiyacı olanlara şifa dağıtmaktı.\n\nAncak zamanla, özellikle Haçlı Seferleri'nin getirdiği çalkantılı dönemlerde, bu merhametli şifacılar kendilerini ve himaye ettikleri yerleri koruma ihtiyacı hissetti. İşte o zaman, duaların ve merhametin yanına kılıç ve kalkan da eklendi. Düzen, askeri bir karaktere bürünerek \"Hospitalier Şövalyeleri\" adını aldı. Kudüs'ten Rodos'a, oradan da Malta'ya uzanan maceralı bir yolculukları oldu. Yüzyıllar boyunca hem önemli bir askeri güç hem de yenilikçi bir sağlık hizmeti sağlayıcısı olarak tarihe damga vurdular. Günümüzde bile varlığını sürdüren düzen, hala insani yardım ve sağlık hizmetleri alanında önemli çalışmalar yapıyor. Bu da onların sadece savaşçı değil, aynı zamanda çağlarının en ileri insani yardım organizasyonlarından biri olduğunu gösteriyor.",
+      "fun_fact": "Hospitalier Şövalyeleri'nin beyaz haçlı siyah pelerinleri, hem dini bağlılıklarını hem de askeri disiplinlerini simgelerdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q187549",
+        "https://tr.wikipedia.org/wiki/Hospitalier_%C5%9E%C3%B6valyeleri",
+        "https://en.wikipedia.org/wiki/Knights_Hospitaller"
+      ],
+      "wikidata_qid": "Q187549"
+    },
+    {
+      "id": "Q1871906",
+      "date": "2027-01-29",
+      "category": "gida-icecek",
+      "widget_title": "Lav Pivo'nun köpüklü yolculuğu ne zaman başladı?",
+      "hook": "Bu 'Aslan Birası'nın ilk yudumu hangi yılda tadıldı dersiniz?",
+      "answer_year": 1892,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Lav Pivo'nun ilk yudumu ne zaman tadıldı dersiniz? Bu 'Aslan Birası'nın sahneye çıktığı yıl 1892. Peki, bu köpüklü lezzetin hikayesi nasıl başladı? 19. yüzyılın sonları, Avrupa'da bira üretiminin altın çağıydı diyebiliriz. Sanayi devrimiyle birlikte yeni üretim teknikleri gelişiyor, soğutma sistemleri sayesinde bira kalitesi artıyor ve farklı bölgeler kendi yerel lezzetlerini dünyaya sunmaya başlıyordu. İşte Lav Pivo da tam bu hareketli dönemde, 1892 yılında, Sırbistan topraklarında doğdu.\n\nAdını Sırpçada 'aslan' anlamına gelen 'lav' kelimesinden alan bu bira, güçlü ve karakterli bir imajla bira severlerin karşısına çıktı. O dönemde [DOĞRULA: Lav Pivo'nun ilk olarak hangi şehirdeki bira fabrikasında veya hangi girişimci tarafından üretildiğine dair detaylı bilgilere ulaşmak zor olabilir], ancak bu tarihin markanın resmi başlangıcı olduğu kabul ediliyor. Belki de yerel bir usta, ülkesinin coğrafyasından ilham alarak, tadına doyulmaz bir lager yaratmak istedi ve bu 'aslan'ın kükremesini sağladı. Lav Pivo, o günden bu yana Sırp bira kültürünün önemli bir parçası haline geldi ve günümüzde de [DOĞRULA: Apatinska Pivara tarafından üretilmeye devam eden] popüler bir seçimdir. Köklü geçmişi ve damaklarda bıraktığı izle, Lav Pivo adının hakkını vermeye devam ediyor.",
+      "fun_fact": "Lav Pivo, adını ve güçlü imajını Sırpçada 'aslan' anlamına gelen 'lav' kelimesinden alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1871906",
+        "https://en.wikipedia.org/wiki/Lav_pivo"
+      ],
+      "wikidata_qid": "Q1871906"
+    },
+    {
+      "id": "Q18817156",
+      "date": "2027-01-30",
+      "category": "giyim",
+      "widget_title": "Gürcistan Kartal Nişanı ne zaman kuruldu?",
+      "hook": "Bir nişan düşünün ki tarihi neredeyse bin yıl öncesine uzanıyor ve Gürcistan'ın köklü geçmişinden bir iz taşıyor.",
+      "answer_year": 1184,
+      "year_precision": "year",
+      "guess_range": [
+        1080,
+        1260
+      ],
+      "body": "Gürcistan Kartal Nişanı, tarihi Gürcistan Krallığı'nın en eski ve en saygın nişanlarından biridir. Kökenleri, Gürcistan'ın Altın Çağı olarak bilinen döneme, yani 12. yüzyılın sonlarına dayanır. Resmi kuruluş yılı olarak 1184 kabul edilir ki bu da Kraliçe Tamar'ın tahta çıktığı döneme denk gelir. Kraliçe Tamar'ın hükümdarlığı (1184-1213), Gürcistan tarihinin en parlak dönemlerinden biriydi ve ülkenin siyasi, ekonomik ve kültürel anlamda zirveye ulaştığı bir zamandı.\n\nBu nişan, Gürcistan kraliyet ailesi Bagrationi Hanedanı'nın himayesinde kurulmuştur ve hanedanın egemenliğini, gücünü ve tarihsel sürekliliğini temsil etmiştir. Nişan, adını Gürcistan'ın milli sembollerinden biri olan kartaldan alır. Kartal, tarih boyunca birçok kültürde soyluluğun, cesaretin ve özgürlüğün simgesi olmuştur.\n\nNişanın tam olarak ne zaman ve kim tarafından kurulduğuna dair detaylı kayıtlar zamanla kaybolmuş olsa da, 1184 tarihi onun ilk kez ortaya çıktığı veya resmiyet kazandığı yıl olarak kabul edilir. Günümüzde de Bagrationi Hanedanı tarafından [DOĞRULA: Nişanın günümüzdeki statüsü ve kime verildiği] yaşatılmaya devam etmektedir. Bu nişan, sadece bir onur simgesi olmakla kalmayıp, Gürcistan'ın zengin ve köklü tarihine açılan bir pencere niteliğindedir.",
+      "fun_fact": "Bu nişanın arması, Gürcistan krallarının gücünü ve ülkenin kadim ruhunu temsil eden çift başlı kartalı içerir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18817156",
+        "https://en.wikipedia.org/wiki/Order_of_the_Eagle_of_Georgia"
+      ],
+      "wikidata_qid": "Q18817156"
+    },
+    {
+      "id": "Q192892",
+      "date": "2027-01-31",
+      "category": "gida-icecek",
+      "widget_title": "Ayranın serinletici hikayesi ne zaman başladı?",
+      "hook": "Yoğurt ve suyun bu eşsiz birleşimi, insanlık tarihinin çok eski dönemlerinden beri bizimle.",
+      "answer_year": -5000,
+      "year_precision": "year",
+      "guess_range": [
+        -5100,
+        -4920
+      ],
+      "body": "Ayran, Türk mutfağının belki de en bilinen ve sevilen içeceklerinden biri. Ama bu buz gibi ferahlatıcının serinletici hikayesi, sanılanın aksine çok daha eskilere, ta MÖ 5000'li yıllara kadar uzanıyor. Evet, yanlış duymadınız, ayranın kökenleri günümüzden tam 7000 yıl öncesine dayanıyor! Bu, onu insanlık tarihinin en eski içeceklerinden biri yapıyor.\n\nAyranın doğuşu, belirli bir mucide veya \"icat edildiği ana\" bağlanamıyor. Tıpkı yoğurdun kendisi gibi, göçebe Türk kavimlerinin yaşam tarzı ve ihtiyaçlarından doğal bir şekilde ortaya çıkmış. Özellikle Orta Asya'daki Türk toplulukları, yanlarında taşıdıkları yoğurdu sıcak iklim koşullarında daha uzun süre korumak ve susuzluklarını gidermek amacıyla suyla inceltmeyi akıl etmişler. Bu basit ama zekice fikir, hem besleyici hem de ferahlatıcı bir içecek olan ayranın temellerini atmış.\n\nYüzyıllar boyunca nesilden nesile aktarılan bu geleneksel lezzet, Anadolu'ya ve daha sonra Osmanlı İmparatorluğu aracılığıyla Balkanlar'dan Orta Doğu'ya kadar geniş bir coğrafyaya yayılmış. Her bölgede kendine has yorumlar ve eklemelerle karşılaşsa da (kimi zaman nane, kimi zaman farklı baharatlarla), yoğurt ve suyun o eşsiz uyumu hiç değişmemiş. Ayran, sadece bir içecek değil, aynı zamanda kültürel bir miras. Sofralarımızın ayrılmaz bir parçası olmaya devam eden bu kadim lezzet, her yudumda hem geçmişin serinletici esintisini hem de geleneğin tadını bize sunuyor.",
+      "fun_fact": "Ayran, yoğurdun sulandırılmasıyla ortaya çıkan bir içecek olmasının yanı sıra, probiyotik içeriği sayesinde sindirim sistemine de faydalıdır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q192892",
+        "https://tr.wikipedia.org/wiki/Ayran",
+        "https://en.wikipedia.org/wiki/Ayran"
+      ],
+      "wikidata_qid": "Q192892"
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "month": "2027-06",
+  "items": [
+    {
+      "id": "Q3268",
+      "date": "2027-06-01",
+      "category": "gida-icecek",
+      "widget_title": "Fransa'nın meşhur elma brendisi Kalvados ne zaman başladı?",
+      "hook": "Elmanın bambaşka bir yorumu olan, sıcak sohbetlerin eşlikçisi Kalvados'un hikayesi çok eskilere dayanıyor.",
+      "answer_year": 1600,
+      "year_precision": "year",
+      "guess_range": [
+        1500,
+        1680
+      ],
+      "body": "Fransa'nın kuzeybatısındaki yemyeşil Normandiya bölgesinden dünyaya yayılan Kalvados, aslında fermente edilmiş elma şarabı yani 'sidr'ın damıtılmasıyla elde edilen özel bir brendi. Adını da geldiği coğrafyadan, Calvados departmanından alıyor. Peki bu eşsiz içki ne zaman başladı dersiniz? Elma şarabı damıtımının Normandiya'da çok daha eskiye, [DOĞRULA: ilk elma şarabı damıtma lisansının ne zaman verildiği ve ilk damıtıcıların ne zaman ortaya çıktığı] 16. yüzyıla kadar dayandığına dair kayıtlar olsa da, 'Kalvados' adıyla bu içkinin resmi olarak tanınması ve popülerleşmesi yaklaşık olarak 1600'lü yıllara rastlar.\n\nKalvados, tıpkı şarap gibi coğrafi işaret korumasına sahip, yani her elma brendisine Kalvados denmiyor. Sadece belirli elma türlerinden, belirli yöntemlerle ve belirli bir bölgede üretilenler bu adı taşıyabiliyor. Bu da ona hem kalite hem de özgünlük katıyor. Genellikle yemek öncesi iştah açıcı olarak veya sindirime yardımcı olarak tercih edilse de, uzun yıllar meşe fıçılarda dinlenerek kompleks aromalar kazanan Kalvados, başlı başına keyifli bir içki haline geliyor. Tıpkı Fransız mutfağının diğer incileri gibi, Kalvados da tarih boyunca sofraların ve özel anların vazgeçilmezi olmayı sürdürmüş. Özellikle 'Trou Normand' adı verilen geleneksel öğünde, ana yemekler arasında sindirimi kolaylaştırmak için küçük bir kadeh Kalvados içme geleneği bile var!",
+      "fun_fact": "Bir kadeh Kalvados için ideal kadeh şekli, konyağa benzer, geniş altlıklı ve ağzı daralan bir kadehtir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3268",
+        "https://tr.wikipedia.org/wiki/Kalvados",
+        "https://en.wikipedia.org/wiki/Calvados"
+      ],
+      "wikidata_qid": "Q3268"
+    },
+    {
+      "id": "Q4010435",
+      "date": "2027-06-02",
+      "category": "giyim",
+      "widget_title": "Marilyn Monroe'nun ikonik pembe elbisesi ne zaman ortaya çıktı?",
+      "hook": "Marilyn Monroe'nun hafızalara kazınan o pembe elbisesi, sinema tarihine damgasını vurduğu gibi moda dünyasını da derinden etkiledi.",
+      "answer_year": 1953,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Marilyn Monroe denince akla gelen ilk görüntülerden biri, şüphesiz 'Erkekler Sarışınları Sever' (Gentlemen Prefer Blondes) filmindeki o göz kamaştırıcı pembe elbisesidir. Özellikle 'Diamonds Are a Girl's Best Friend' şarkısını söylerken giydiği bu straplez, fuşya renkli kostüm, sadece bir film sahnesinin değil, tüm zamanların en ikonik moda anlarından birinin sembolü haline geldi.\n\nBu unutulmaz elbise, Hollywood'un efsanevi kostüm tasarımcısı [DOĞRULA: Elbisenin tasarımcısının adı \"William Travilla\" mıydı?] William Travilla tarafından yaratıldı. Travilla, Monroe için birçok kostüm tasarlamış olsa da, bu pembe kreasyon belki de en ünlüsüydü. Elbisenin hikayesi, filmin vizyona girdiği yıl olan 1953'te başladı ve o günden bu yana sayısız taklite, ilhama ve popüler kültür göndermesine konu oldu. Pembe elbise, Monroe'nun cazibesini, zarafetini ve aynı zamanda filmin ana mesajlarından biri olan kadınların lüks düşkünlüğünü vurguluyordu.\n\nAslında filmde Marilyn'in karakteri Lorelei Lee, başka kostümler de giymişti ancak bu pembe elbise sahnesi, filmin adeta görsel imzası haline geldi. Elbise o kadar ikonik hale geldi ki, yıllar sonra Christie's müzayedesinde [DOĞRULA: Orijinal elbisenin Christie's müzayedesinde satıldığı bilgisi doğru mu?] rekor bir fiyata alıcı buldu. Bu elbise, sadece bir giysi olmanın ötesinde, sinema tarihinin ve moda dünyasının unutulmaz bir parçası olarak yerini koruyor.",
+      "fun_fact": "Elbisenin popülaritesi o kadar büyüktü ki, Madonna'nın 'Material Girl' klibindeki kıyafeti de bu ikonik pembe elbiseden ilham alınarak tasarlanmıştır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4010435",
+        "https://en.wikipedia.org/wiki/Pink_dress_of_Marilyn_Monroe"
+      ],
+      "wikidata_qid": "Q4010435"
+    },
+    {
+      "id": "Q3270660",
+      "date": "2027-06-03",
+      "category": "gida-icecek",
+      "widget_title": "Voss suyunun hikayesi ne zaman başladı?",
+      "hook": "O kendine özgü şişesiyle tanınan Voss suyunun aslında sandığınızdan çok daha genç bir geçmişi var!",
+      "answer_year": 1998,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Bugün lüks restoranların, şık otellerin ve ünlülerin masalarından tanıdığımız Voss suyunun hikayesi, aslında çok da eskilere dayanmıyor. Bu premium markanın macerası, 1998 yılında Norveç'te başladı. Peki, bu kadar kısa sürede nasıl dünya çapında bir fenomen haline geldi? Sadece suyundan mı ibaret? Aslında Voss'u Voss yapan en önemli unsurlardan biri, şüphesiz ikonik şişe tasarımı. Silindirik, minimalist ve son derece şık bu tasarım, suyu başlı başına bir moda aksesuarına dönüştürdü. Voss'un Norveç'in güneyindeki Iveland bölgesinde bulunan bir artezyen kuyusundan elde edildiği belirtiliyor. Bu bölge, nispeten insan yerleşiminden uzak ve temiz bir doğaya sahip olmasıyla biliniyor. Suyun düşük mineral içeriği ve yumuşak tadı öne çıkarılsa da, asıl başarısı akıllı pazarlama stratejisinde gizliydi. Marka, başlangıcından itibaren kendisini üst düzey segmentte konumlandırdı. Ünlülerle yapılan anlaşmalar, lüks etkinliklerdeki varlığı ve prestijli satış noktaları sayesinde kısa sürede bir statü sembolü haline geldi. Böylece sıradan bir içecek olmaktan çıkıp, bir yaşam tarzı seçimi olarak algılanmaya başladı. Bu durum, suyun kalitesi kadar, sunumun ve marka imajının ne denli önemli olduğunu gösteren güzel bir örnek.",
+      "fun_fact": "Voss şişeleri, tekrar kullanılabilirlikleri sayesinde birçok DIY projesinde ve dekorasyonda da yer buldu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3270660",
+        "https://tr.wikipedia.org/wiki/Voss_(su)",
+        "https://en.wikipedia.org/wiki/Voss_(water)"
+      ],
+      "wikidata_qid": "Q3270660"
+    },
+    {
+      "id": "Q4010442",
+      "date": "2027-06-04",
+      "category": "giyim",
+      "widget_title": "Jennifer Lopez'in ikonik yeşil elbisesi ne zaman görüldü?",
+      "hook": "Tek bir elbise, internetin çehresini nasıl değiştirebilir dersin?",
+      "answer_year": 1999,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Jennifer Lopez'in üzerinde ilk kez görüldüğünde dünyanın nefesini kesen bu ikonik yeşil Versace elbise, takvimler 1999'u gösterirken podyumlarda yerini almıştı. Ancak asıl şöhretine kavuşması, 2000 yılındaki Grammy Ödülleri töreninde Jennifer Lopez'in üzerinde görüldüğü o anla gerçekleşti. İtalyan moda evi Versace tarafından tasarlanan bu cesur parça, tropikal yaprak ve bambu desenleriyle, derin V yakası ve etek ucuna kadar uzanan cesur yırtmacıyla adeta bir moda manifestosuydu. Elbisenin o gece yarattığı görsel şölen o kadar büyüktü ki, bir anda tüm dünyada en çok konuşulan konulardan biri haline geldi. İnsanlar bilgisayarlarının başına geçip \"Jennifer Lopez yeşil elbise\" aramaları yapmaya başladı. Ancak o dönemki internetin arama motorları çoğunlukla metin tabanlıydı ve bu kadar yoğun bir görsel arama talebini karşılamakta zorlanıyordu. İşte tam da bu noktada, bu elbisenin yarattığı etki, Google'ın mühendislerini harekete geçirdi. Milyonlarca kullanıcının sadece o elbiseyi görmek için yaptığı aramalar, Google Görseller gibi bir aracın ne kadar gerekli olduğunu gözler önüne serdi. Bu sayede, internetin en popüler ve olmazsa olmaz özelliklerinden biri olan görsel arama, aslında bu tek bir elbisenin yarattığı küresel merak sayesinde doğdu diyebiliriz. Moda ve teknolojinin kesiştiği, tarihe damga vuran nadir anlardan biriydi bu.",
+      "fun_fact": "Bu elbisenin o kadar çok arandığına inanılıyor ki, Google Görseller'in doğuşuna ilham verdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4010442",
+        "https://en.wikipedia.org/wiki/Green_Versace_dress_of_Jennifer_Lopez"
+      ],
+      "wikidata_qid": "Q4010442"
+    },
+    {
+      "id": "Q3286616",
+      "date": "2027-06-05",
+      "category": "gida-icecek",
+      "widget_title": "Mantecadas de Astorga: Bu eşsiz lezzet ne zaman doğdu?",
+      "hook": "İspanya'nın Astorga bölgesinden dünyaya yayılan bu nefis kek, ilk kez ne zaman fırından çıktı dersiniz?",
+      "answer_year": 2004,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "İspanya'nın León eyaletindeki Astorga şehrinden adını alan Mantecadas de Astorga, puf puf kabaran, tereyağlı ve hafif limon veya tarçın aromalı, minik kare kalıplarda pişirilen geleneksel bir kek veya kurabiye çeşididir. Genellikle özel kağıt kalıplarda sunulan bu narin tatlı, ağızda dağılan yapısıyla İspanyol kahve molalarının ve tatlı sohbetlerinin vazgeçilmezidir. Astorga ve çevresinde yüzyıllardır üretildiği bilinen bu lezzetin tarihi derinlere inse de, 'ne zaman ortaya çıktı?' sorusunun resmi yanıtı 2004 yılıdır. Bu tarih, Mantecadas de Astorga'nın Avrupa Birliği tarafından [DOĞRULA: Mantecadas de Astorga'nın tam olarak hangi statüde (örneğin Coğrafi İşaretli Ürün - IGP) tescillendiğini teyit et.] coğrafi işaret koruması altına alınarak tescillendiği yıldır. Yani 2004, bu lezzetli kekin icat edildiği değil, tam aksine, yüzyıllardır süregelen üretim geleneğinin ve eşsiz karakterinin resmiyet kazandığı zamandır. Bu koruma sayesinde, 'Mantecadas de Astorga' adını taşıyan ürünlerin belirli kalite standartlarını ve geleneksel üretim yöntemlerini karşılaması zorunlu hale gelmiştir. Böylece bu özel lezzetin özgünlüğü ve kalitesi gelecek nesillere de aktarılmaya devam ediyor.",
+      "fun_fact": "Mantecadas de Astorga, genellikle özel olarak tasarlanmış katlanmış kağıt kalıplarda pişirilir ve bu da onlara kendine özgü bir görünüm kazandırır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3286616",
+        "https://en.wikipedia.org/wiki/Mantecada"
+      ],
+      "wikidata_qid": "Q3286616"
+    },
+    {
+      "id": "Q4062714",
+      "date": "2027-06-06",
+      "category": "giyim",
+      "widget_title": "Elmas Kafes deseni ilk ne zaman parladı?",
+      "hook": "Bu göz alıcı desen, gardıroplarımızda ne zamandan beri yer alıyor dersiniz?",
+      "answer_year": 1892,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Elmas Kafes deseni, adını şeklinden alan zarif ve göz alıcı bir motif. Genellikle birbirine bağlı, düzenli elmas şekilli formlardan oluşan bu desen, dokuma, nakış, kapitone veya örgü gibi çeşitli tekstil sanatlarında karşımıza çıkar. 1892 yılında ortaya çıktığı kabul edilen bu estetik desenin belirli bir 'mucidi' bilinmese de, zamanının estetik anlayışını ve el işçiliğindeki ustalığı yansıttığı su götürmez bir gerçek.\n\n19. yüzyılın sonları, tekstil tasarımında büyük bir değişim ve yenilenme dönemine işaret ediyordu. Bir yandan Art Nouveau gibi yeni akımlar yeşerirken, diğer yandan geleneksel motifler de zamansız çekicilikleriyle varlığını sürdürüyordu. Elmas kafes deseni, işte bu dönemin hem klasik geometrik formlara olan bağlılığını hem de zarafet arayışını birleştirerek doğmuş olabilir. [DOĞRULA: Bu dönemde özellikle Viktorya dönemi sonu veya Edward dönemi öncesi moda ve ev tekstilinde benzer desenlerin yaygınlığı incelenebilir mi?] Gerek yorganlarda sıcak bir dokunuş, gerekse giysilerde şık bir detay olarak, elmas kafes kısa sürede geniş bir kullanım alanı buldu.\n\nBu desenin evrensel çekiciliği, matematiksel düzeninden ve görsel harmonisinden gelir. Gözü yormadan tekrarlayan, ancak her tekrarında yeni bir derinlik sunan yapısı, onu hem işlevsel hem de sanatsal kılıyor. Günümüzde de tasarımcılar, bu klasik motifi modern yorumlarla yeniden canlandırarak koleksiyonlarına taşıyor. 1892'den beri varlığını sürdüren Elmas Kafes deseni, adeta bir zaman yolcusu gibi, farklı çağlarda ve kültürlerdeki yerini korumayı başarmış, modanın hızına inat zamana meydan okuyan bir miras.",
+      "fun_fact": "Elmas kafes deseni, genellikle derinlik ve boyut yanılsaması yaratarak gözü cezbeder.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4062714",
+        "https://en.wikipedia.org/wiki/Diamond_Trellis_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q4062714"
+    },
+    {
+      "id": "Q3303325",
+      "date": "2027-06-07",
+      "category": "gida-icecek",
+      "widget_title": "Pepsi Twist'in ferahlatıcı hikayesi ne zaman başladı?",
+      "hook": "Pepsi Twist, ferahlatıcı limon tadını kola ile birleştirerek raflarda ne zaman yerini aldı?",
+      "answer_year": 2000,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Yıl 2000… Kola pazarında yenilik rüzgarları eserken, tüketiciler farklı lezzet arayışlarına yöneliyordu. İşte tam da bu dönemde, Pepsi markası cesur bir adım atarak Pepsi Twist'i tanıttı. Peki, neydi Pepsi Twist'i bu kadar özel kılan? Cevap basit ve bir o kadar da dahiyaneydi: Kola ve limonun eşsiz uyumu. Limonun ferahlatıcı, hafif ekşi tadı, Pepsi'nin klasik ve sevilen kola formülüyle buluştuğunda ortaya gerçekten de farklı bir deneyim çıktı. Bu yenilikçi içecek, yaz aylarının vazgeçilmezi olmaya adaydı ve birçok kişi için sıradan koladan sıkıldıkları anlarda harika bir alternatif sundu. Pepsi Twist, sadece bir içecekten fazlasıydı; adeta damaklarda yeni bir sayfa açan, beklentileri aşan bir lezzet yolculuğunun başlangıcıydı. Bu dönemde, diğer kola markaları da benzer aromalı ürünlerle piyasaya çıkma denemeleri yapsa da, Pepsi Twist limonlu kola segmentinde kendine sağlam bir yer edinmeyi başardı. O günden bu yana, limonlu kola konsepti popülerliğini korudu ve Pepsi Twist, bu trendin öncülerinden biri olarak anılmaya devam etti. [DOĞRULA: Pepsi Twist'in pazarlama stratejileri ve tüketici geri bildirimleri hakkında ek bilgiler]",
+      "fun_fact": "Limon, dünya genelinde kolalı içeceklerle en çok yakıştırılan aromalardan biridir ve Pepsi Twist bu uyumu zirveye taşıdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3303325",
+        "https://en.wikipedia.org/wiki/Pepsi_Twist"
+      ],
+      "wikidata_qid": "Q3303325"
+    },
+    {
+      "id": "Q4067881",
+      "date": "2027-06-08",
+      "category": "giyim",
+      "widget_title": "Pansy giyimde ne zaman moda oldu?",
+      "hook": "Pansy çiçeği, narin görüntüsüyle moda dünyasını ne zaman süslemeye başladı dersin?",
+      "answer_year": 1899,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Pansy çiçeğinin narin güzelliği ve canlı renkleri, yüzyıllardır sanatçılara ve doğa tutkunlarına ilham kaynağı olmuştur. Peki bu zarif motif, giyim dünyasına ne zaman güçlü bir giriş yaparak moda akımlarına yön verdi? Takvimler 1899 yılını gösterdiğinde, pansy deseni kendisini adeta giysi dolaplarımıza taşımaya başladı. Özellikle kadın modasında, elbiselerin yakalarından etek uçlarına, şapkalardan eldivenlere kadar pek çok yerde bu sevimli çiçekleri görmek mümkündü.\n\nBu dönem, Viktorya döneminin son demlerine ve Art Nouveau akımının yükselişine denk geliyordu. Doğanın kıvrımlı hatları ve organik formları, sanatın her alanında olduğu gibi modayı da derinden etkiliyordu. Pansy, işte bu doğal esinlenme hareketinin en sevilen sembollerinden biri haline geldi. Genellikle menekşelerin melezlenmesiyle ortaya çıkan bu çiçeğin adı, Fransızca'da \"düşünce\" anlamına gelen \"pensée\" kelimesinden geliyor. Bu anlam derinliği, pansy motifini sadece estetik bir süs olmaktan çıkarıp, giyenin duygusal dünyasına dair ipuçları veren, \"düşünceleri\" ifade eden bir araca dönüştürdü.\n\nGiyimde kullanılışı genellikle nakışlar, baskılar ve aplikeler şeklinde oldu. Kadınların elbiselerinde, ceketlerinde ve hatta saç aksesuarlarında pansy motifleri zarafetin ve romantizmin bir nişanesi olarak yer aldı. Kimi zaman tek bir büyük çiçek figürü, kimi zaman da küçük, tekrarlayan desenler halinde karşımıza çıkan pansy, 1899'dan sonraki yıllarda da popülaritesini sürdürdü. Kıyafetlere narin bir dokunuş katan bu motif, dönemin estetik anlayışını yansıtan özel bir imza haline geldi. Kimin tam olarak başlattığı bilinmese de, pansy deseninin giyimdeki bu yükselişi, doğanın modaya ilham vermeye devam ettiğinin güzel bir örneğidir.",
+      "fun_fact": "Pansy adının kökeni olan Fransızca 'pensée' kelimesi, düşünceyi temsil eder ve Shakespeare'in Hamlet'inde Ophelia'nın meşhur 'pansies for thoughts' repliğinde de geçer.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4067881",
+        "https://en.wikipedia.org/wiki/Pansy_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q4067881"
+    },
+    {
+      "id": "Q33105701",
+      "date": "2027-06-09",
+      "category": "gida-icecek",
+      "widget_title": "Chimay birası ilk ne zaman üretildi?",
+      "hook": "Bir manastırın duvarları arasında doğan bu efsanevi lezzetin hikayesi, sizi şaşırtabilir!",
+      "answer_year": 1862,
+      "year_precision": "day",
+      "guess_range": [
+        1760,
+        1940
+      ],
+      "body": "Belçika'nın yemyeşil Ardenler bölgesinde, Scourmont Manastırı'nın sakin duvarları arasında gizlenen bir sır var: Chimay biraları. Bu efsanevi lezzet, sadece bir içecekten çok daha fazlası; yüz yılı aşkın bir geleneğin, adanmışlığın ve manevi bir mirasın şişelenmiş hali. Trappist birası denince akla gelen ilk isimlerden olan Chimay'ın hikayesi, 1862 yılına dayanıyor.\n\nO yıl, Scourmont keşişleri, manastırın geçimini sağlamak ve yerel topluluğa destek olmak amacıyla bir bira fabrikası kurmaya karar verdiler. Bu, sadece bir ticari girişim değildi; aynı zamanda manastırın kendi kendine yeterlilik felsefesinin bir uzantısıydı. Keşişler, yüzyıllardır süregelen bira yapım geleneğini titizlikle uygulayarak, eşsiz tatlara sahip biralar üretmeye başladılar. Chimay, adını sadece üretildiği bölgeden değil, aynı zamanda manastırın katı kurallarına bağlı kalarak, keşişler tarafından veya onların gözetiminde üretilme şartından da alıyor. Bu durum, onu \"Gerçek Trappist Ürünü\" logosu taşımaya hak kazanan [DOĞRULA: \"Gerçek Trappist Ürünü\" logosunu taşıyan bira sayısı] az sayıdaki biradan biri yapıyor. Her şişe Chimay, geleneksel yöntemlerle, özenle ve sabırla demlenir. Yüksek alkol oranları ve zengin, karmaşık aromalarıyla tanınan Chimay, bira dünyasında kendine özel bir yer edinmiştir. Her yudumda, manastırın huzurunu ve keşişlerin emeğini hissetmek mümkün.",
+      "fun_fact": "Chimay biralarının tüm geliri, manastırın ihtiyaçları ve hayırsever projelere harcanır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q33105701",
+        "https://en.wikipedia.org/wiki/Chimay_Beer"
+      ],
+      "wikidata_qid": "Q33105701"
+    },
+    {
+      "id": "Q41300",
+      "date": "2027-06-10",
+      "category": "giyim",
+      "widget_title": "Tapınak Şövalyeleri'nin destansı macerası hangi yıl başladı?",
+      "hook": "Orta Çağ'ın en güçlü askeri tarikatlarından Tapınak Şövalyeleri'nin destansı hikayesi ne zaman başladı?",
+      "answer_year": 1120,
+      "year_precision": "day",
+      "guess_range": [
+        1020,
+        1200
+      ],
+      "body": "Orta Çağ'ın sisli perdeleri arasında yükselen Tapınak Şövalyeleri, adını Kudüs'teki Süleyman Tapınağı'ndan alan, Hristiyanlığın en etkili askeri tarikatlarından biriydi. Kuruluşları, Haçlı Seferleri dönemine, özellikle de Kutsal Topraklar'a giden hacıları koruma ihtiyacına dayanır. Bu soylu görev için bir araya gelen dokuz Fransız şövalye, [DOĞRULA: Hugo de Payens önderliğinde miydi?] 1120 yılında bu büyük hareketi başlattı.\n\nBaşlangıçta mütevazı bir grup olsalar da, kilise tarafından kısa sürede tanındılar ve desteklendiler. Özellikle Aziz Bernard Clairvaux'nun desteğiyle hızla büyüdüler. Onlara verilen beyaz pelerin üzerindeki kırmızı haç, cesaretlerinin ve fedakarlıklarının sembolü haline geldi. Savaş meydanlarında gösterdikleri üstün başarılar ve disiplinleri sayesinde hem askeri hem de siyasi arenada büyük bir güç kazandılar. Sadece bir savaş gücü olmakla kalmayıp, aynı zamanda o dönemin ilk uluslararası bankacılık sistemlerinden birini de kurdular. Hacılar için para transferi hizmetleri sunarak büyük bir servet edindiler.\n\nAncak bu muazzam güç ve zenginlik, beraberinde kıskançlıkları ve düşmanlıkları da getirdi. Özellikle Fransa Kralı IV. Philip'in [DOĞRULA: Tapınak Şövalyelerine karşı kişisel bir borcu veya başka bir çıkarı var mıydı?] etkisiyle 1312 yılında tarikat Papa tarafından resmen lağvedildi ve liderleri trajik bir şekilde yargılanarak idam edildi. Tapınak Şövalyeleri'nin hikayesi, günümüzde hala komplo teorilerine ve gizemli efsanelere ilham veren, tarihin en büyüleyici sayfalarından birini oluşturuyor.",
+      "fun_fact": "Günümüzde hala popüler kültürde yerini koruyan Tapınak Şövalyeleri, birçok film, kitap ve video oyununa ilham kaynağı olmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41300",
+        "https://tr.wikipedia.org/wiki/Tap%C4%B1nak_%C5%9E%C3%B6valyeleri",
+        "https://en.wikipedia.org/wiki/Knights_Templar"
+      ],
+      "wikidata_qid": "Q41300"
+    },
+    {
+      "id": "Q331630",
+      "date": "2027-06-11",
+      "category": "gida-icecek",
+      "widget_title": "Pilsner Urquell'in altın çağı ne zaman başladı?",
+      "hook": "Bugün tüm dünyada severek içtiğimiz açık renkli, berrak biraların atası nerede ve nasıl doğdu dersiniz?",
+      "answer_year": 1842,
+      "year_precision": "year",
+      "guess_range": [
+        1740,
+        1920
+      ],
+      "body": "19. yüzyılın başlarında, bugünkü Çek Cumhuriyeti topraklarında yer alan Plzeň şehrinin bira meraklıları, içtikleri biraların kalitesinden pek de memnun değillerdi. Hatta 1838'de bazı fıçılar halkın gözü önünde dökülecek kadar durum vahimdi! İşte bu hayal kırıklığı, şehrin ileri gelenlerini harekete geçirdi ve yepyeni bir bira fabrikası kurma kararı aldılar. Bu modern tesise, Bavyeralı genç bir bira ustası olan Josef Groll'u davet ettiler.\n\nGroll'un görevi belliydi: Şehrin gurur duyacağı, lezzetli ve kaliteli bir bira yaratmak. Ve tam da 1842 yılında, Plzeň'in o ünlü yumuşak suyu, yerel Saaz şerbetçiotu ve o zamana dek pek kullanılmayan açık renkli maltlarla harikalar yarattı. Groll, alt fermantasyon tekniğini kullanarak, altın sarısı renginde, berrak, köpüklü ve ferahlatıcı bir bira üretti. Bu bira, dönemin bulanık ve koyu renkli biralarından o kadar farklıydı ki, kısa sürede Plzeň'in sembolü haline geldi. Adını da şehrinden alarak 'Pilsner' olarak dünyaya yayıldı. [DOĞRULA: Pilsner isminin dünyaya yayılış hızı ve ilk pazarlama yöntemleri hakkında daha detaylı bilgi]\n\nPilsner Urquell'in doğuşu, aslında biranın altın çağını başlattı diyebiliriz. Groll'un geliştirdiği bu yöntem, daha sonra 'Pilsner' tipi bira olarak tüm dünyada popülerleşti ve bugün süpermarket raflarında gördüğümüz açık renkli, lager biraların çoğunun atası oldu. Kendi kategorisini yaratan bu bira, ilk yudumlandığı günden bu yana lezzetinden ödün vermeden milyonlarca insanı serinletmeye devam ediyor.",
+      "fun_fact": "Pilsner Urquell, dünyadaki ilk açık renkli alt fermantasyon bira (lager) olarak kabul edilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q331630",
+        "https://tr.wikipedia.org/wiki/Pilsner_Urquell",
+        "https://en.wikipedia.org/wiki/Pilsner_Urquell"
+      ],
+      "wikidata_qid": "Q331630"
+    },
+    {
+      "id": "Q41898",
+      "date": "2027-06-12",
+      "category": "giyim",
+      "widget_title": "Beş kelimelik bu Latince bulmaca ne zaman ortaya çıktı?",
+      "hook": "Hem ileri hem geri okunan bu beş kelimelik Latince karenin sırrı ne zaman başladı?",
+      "answer_year": 1,
+      "year_precision": "year",
+      "guess_range": [
+        -100,
+        80
+      ],
+      "body": "Antik dünyanın en büyüleyici bilmecelerinden biri olan Sator Karesi, sadece beş Latince kelimeden oluşmasına rağmen yüzyıllardır araştırmacıların zihnini meşgul ediyor. Bu gizemli kare, \"SATOR, AREPO, TENET, OPERA, ROTAS\" kelimelerini öyle bir düzenle bir araya getirir ki, ister yukarıdan aşağı, ister aşağıdan yukarı, ister soldan sağa, ister sağdan sola okuyun, sonuç hep aynıdır! Bu palindromik yapı, onu kelime oyunlarının en erken ve en sofistike örneklerinden biri yapar.\n\nSator Karesi'nin ortaya çıkışı [DOĞRULA: Sator Karesi'nin kesin ortaya çıkış tarihi ve ilk bilinen örnekleri], tahminlere göre İsa'dan sonraki ilk yüzyıla, yani yaklaşık MS 1 yılı civarına dayanıyor. En eski örneklerinden bazıları, MS 79'da Vezüv Yanardağı patlamasıyla küller altına gömülen Pompeii'nin duvarlarında bulunmuştur. Bu, karenin o dönemde zaten popüler olduğunu gösterir. Kelimelerin anlamlarına gelince: SATOR 'ekin eken', AREPO'nun anlamı tartışmalı ve [DOĞRULA: 'Arepo' kelimesinin tam anlamı veya kökeni net değil], TENET 'tutar', OPERA 'iş, çaba' ve ROTAS ise 'tekerlekler' veya 'döndürür' anlamına gelir.\n\nPeki, bu kare ne amaçla yapılmıştı? Kimi teorisyenler onu erken Hristiyanlığın gizli bir sembolü olarak görürken, kimileri ise büyülü güçleri olduğuna inanır; yangınları söndürmekten nazardan korumaya kadar çeşitli faydaları olduğuna dair inançlar yaygındır. Ancak belki de en basit açıklama, sadece zekice tasarlanmış bir kelime oyunu, antik dünyanın bir tür \"sudoku\"su olduğudur. Her ne olursa olsun, Sator Karesi hala sırrını koruyor ve bize geçmişin ne kadar karmaşık ve yaratıcı olabileceğini fısıldıyor.",
+      "fun_fact": "Bazı dilbilimciler, Sator Karesi'ndeki harflerin farklı bir düzenlemeyle 'Pater Noster' (Latince 'Babamız') duasını oluşturduğunu iddia eder.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41898",
+        "https://tr.wikipedia.org/wiki/Sator_Karesi",
+        "https://en.wikipedia.org/wiki/Sator_Square"
+      ],
+      "wikidata_qid": "Q41898"
+    },
+    {
+      "id": "Q332378",
+      "date": "2027-06-13",
+      "category": "gida-icecek",
+      "widget_title": "Absolut Vodka ne zaman şişelenmeye başlandı?",
+      "hook": "O ikonik şişesiyle dünya barlarını fetheden Absolut Vodka'nın kökleri, hayal ettiğinizden çok daha eskilere dayanıyor.",
+      "answer_year": 1879,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Absolut Vodka denince aklınıza modern bir tasarım, şık reklamlar ve belki de enfes kokteyller geliyor olabilir. Ancak bu ikonik markanın hikayesi, düşündüğünüzden çok daha eskilere, 1879 yılına dayanıyor. O yıl, İsveçli girişimci Lars Olsson Smith, \"Absolut Rent Brännvin\" (Mutlak Saf Votka) adını verdiği bir votka üretmeye başladı. Smith, bu içkinin kalitesini, o zamanın votkalarından ayıran yenilikçi bir damıtma yöntemiyle garantilemişti: sürekli damıtma. Bu yöntem, geleneksel damıtmanın aksine, votkanın istenmeyen safsızlıklardan tamamen arınmasını sağlıyor ve ona olağanüstü bir saflık kazandırıyordu.\n\nSmith'in hedefi, İsveç'teki alkollü içki tekelini kırmaktı ve bunu başarmak için ürününü kalite ve saflık üzerine konumlandırdı. Orijinal şişe tasarımı bile, eczane şişelerinden ilham alarak saflığı ve tıbbi hassasiyeti çağrıştırıyordu [DOĞRULA: Eczane şişesi ilhamı]. Absolut Rent Brännvin, İsveç'te kısa sürede popülerlik kazandı ve uzun yıllar boyunca ülkenin önde gelen votkası oldu. Ancak bildiğimiz modern \"Absolut Vodka\" kimliğine kavuşması, markanın uluslararası pazarlara açılmaya karar verdiği 1970'li yılları buldu. 1979'da, yani kuruluşunun yüzüncü yılında, bugünkü ikonik şişesi ve \"Absolut Vodka\" adıyla dünya çapında lanse edildi ve o günden beri global bir başarı hikayesi yazmaya devam ediyor.",
+      "fun_fact": "Absolut'un ilk pazarlama kampanyalarından biri, dönemin ünlü sanatçılarıyla işbirlikleri yaparak, şişesini bir sanat eseri gibi konumlandırmasıyla çığır açmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q332378",
+        "https://tr.wikipedia.org/wiki/Absolut_Vodka",
+        "https://en.wikipedia.org/wiki/Absolut_Vodka"
+      ],
+      "wikidata_qid": "Q332378"
+    },
+    {
+      "id": "Q4191977",
+      "date": "2027-06-14",
+      "category": "giyim",
+      "widget_title": "Kışlık giyim modası ne zaman başladı?",
+      "hook": "Kışın dondurucu soğuklarından korunmak için giydiğimiz o kat kat giysiler ne zamandan beri bizimle?",
+      "answer_year": 1913,
+      "year_precision": "year",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "İnsanoğlu var olduğundan beri soğuktan korunma ihtiyacı duydu. Ancak günümüzdeki gibi tasarlanmış, katmanlı ve çeşitli kışlık giysilerin ne zaman hayatımıza girdiği, aslında tahmin ettiğimizden daha yakın bir döneme denk geliyor olabilir.\n\n1913 yılı, kışlık giyim tarihinde dikkat çekici bir dönüm noktası olarak karşımıza çıkıyor. Bu dönemde, özellikle batı dünyasında, moda ve fonksiyonellik bir araya gelmeye başladı. Sanayi Devrimi'nin tekstil üzerindeki etkisiyle, daha dayanıklı ve estetik kumaşlar üretmek mümkün hale geldi. Artık sadece sıcak tutmak değil, aynı zamanda şık görünmek de önemliydi. Bu dönemde kadın ve erkek modasında, ağır paltolar, yün ceketler ve kürk detaylı giysiler yaygınlaştı. Özellikle açık hava etkinliklerinin ve sporların artmasıyla, soğuktan korunurken hareket özgürlüğü sağlayan tasarımlara da talep yükseldi. Kışlık giysiler, yalnızca zorunluluk olmaktan çıkıp, kişisel stilin bir parçası haline gelmeye başladı. Bu, soğuk mevsimle başa çıkma şeklimizde önemli bir değişimdi ve günümüzdeki kış modasının temellerini attı. Günümüzde severek giydiğimiz şişme montlardan, zarif kaşe kabanlara kadar pek çok kışlık giysi tasarımının kökleri, bu dönemin yenilikçi yaklaşımlarına dayanıyor olabilir. İnsanların soğuktan korunma yöntemleri çağlar boyunca değişse de, 1913 yılı gibi dönemler, bu evrimin hız kazandığı ve modern kışlık giyim kültürünün oluşmaya başladığı zaman dilimleri olarak öne çıkıyor. [DOĞRULA: 1913 yılında kışlık giyimde hangi spesifik materyaller veya tasarımlar öne çıktı?]",
+      "fun_fact": "Kışlık montların vazgeçilmez bir parçası olan fermuarlar, giysilerde yaygın olarak kullanılmaya başlanmadan önce, aslında botlarda ve postalarda daha sık görülüyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4191977",
+        "https://en.wikipedia.org/wiki/Winter_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q4191977"
+    },
+    {
+      "id": "Q3394030",
+      "date": "2027-06-15",
+      "category": "gida-icecek",
+      "widget_title": "Estrella Galicia'nın serinletici hikayesi ne zaman başladı?",
+      "hook": "İspanya'nın kuzeybatısından tüm dünyaya yayılan bu lezzetli biranın hikayesi ne zaman başladı dersiniz?",
+      "answer_year": 1906,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Estrella Galicia'nın kökleri, İspanya'nın yemyeşil Galicya bölgesine, tam da 1906 yılına dayanıyor. Hikaye, bölgeden çıkıp Latin Amerika'da iş hayatına atılan ve sonra memleketine dönen José María Rivera Corral'ın vizyonuyla başladı. [DOĞRULA: José María Rivera Corral'ın kuruculuğu ve Latin Amerika'dan dönüşü]. Rivera Corral, döndüğünde Avrupa'daki bira yapım tekniklerini öğrenmek için Almanya ve Fransa'ya seyahat etti. Bu bilgi birikimiyle, kendi bira fabrikasını kurma hayalini A Coruña şehrinde gerçeğe dönüştürdü. Başlangıçta \"La Estrella de Galicia\" adıyla küçük bir aile işletmesi olarak faaliyete geçen fabrika, kısa sürede yerel halkın favorisi haline geldi.\n\nEstrella Galicia, kuruluşundan itibaren kaliteden ödün vermeyen bir üretim felsefesi benimsedi. Özel mayası, özenle seçilmiş doğal içerikleri ve geleneksel üretim yöntemleri sayesinde Galicya bira kültürünün önemli bir parçası oldu. Yıllar içinde sadece İspanya'nın değil, dünyanın dört bir yanındaki kadehlerde yerini aldı. Bugün hala kurucu ailenin mirasçısı olan Hijos de Rivera şirketi tarafından yönetiliyor olması, markanın köklerine ne kadar bağlı olduğunun en güzel göstergesi. Bir asrı aşkın süredir lezzetinden ve karakterinden ödün vermeden yoluna devam eden Estrella Galicia, bira dünyasında endüstriyel devlere kafa tutan bağımsız ruhuyla tanınıyor. Adı gibi, Galicya'nın ve kaliteli biracılığın gerçek bir yıldızı.",
+      "fun_fact": "Estrella Galicia'nın logosundaki yıldız, adının doğrudan bir yansıması: \"Galicia Yıldızı\" anlamına geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3394030",
+        "https://en.wikipedia.org/wiki/Estrella_Galicia"
+      ],
+      "wikidata_qid": "Q3394030"
+    },
+    {
+      "id": "Q4192947",
+      "date": "2027-06-16",
+      "category": "giyim",
+      "widget_title": "Combat Infantryman Rozeti ne zaman ortaya çıktı?",
+      "hook": "Piyadelerin cephedeki cesaretini onurlandıran bu rozetin hikayesi ne zaman başladı?",
+      "answer_year": 1943,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Amerikan ordusunda görev yapan piyadelerin muharebedeki üstün cesaretini ve doğrudan çatışmada bulunma deneyimini onurlandırmak amacıyla tasarlanan Combat Infantryman Badge (CIB), tarihteki yerini 1943 yılında aldı. İkinci Dünya Savaşı'nın çetin koşulları altında, cephede görev yapan piyadelerin diğer askeri birimlerden ayırt edilmesi ve özel takdir görmesi gerektiği fikri doğdu. Bu rozet, sadece piyade sınıfında hizmet veren ve düşman ateşi altında aktif olarak muharebeye katılan askerlere verilmek üzere özel olarak hazırlandı.\n\nCIB'nin ortaya çıkışı, savaşın ortasında morali yüksek tutma ve piyadelerin benzersiz katkısını tanıma ihtiyacından kaynaklanıyordu. Bu rozet, diğer tüm nişan ve madalyalardan ayrılarak, askerlerin göğsünde taşıdığı bir gurur ve kardeşlik nişanı haline geldi. Amacı, sadece bir nişan olmanın ötesinde, savaşın en ön saflarında görev yapanların gösterdiği eşsiz fedakarlığı ve cesareti somut bir şekilde tescillemekti. Rozet, üzerinde bir M1 Garand tüfeği ve meşe yapraklarından oluşan bir çelenk ile tasarlandı. Bu semboller, piyadenin temel silahını ve kahramanlığı temsil eder. CIB, o günden bu yana Amerikan ordusunda piyadeliğin en saygın nişanlarından biri olmaya devam ediyor ve hala aktif çatışmalara katılan piyadelere verilmeye devam ediyor.",
+      "fun_fact": "CIB, sadece ABD Ordusu piyadelerine özeldir ve başka hiçbir ordu birimine verilmez.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4192947",
+        "https://en.wikipedia.org/wiki/Combat_Infantryman_Badge"
+      ],
+      "wikidata_qid": "Q4192947"
+    },
+    {
+      "id": "Q34172",
+      "date": "2027-06-17",
+      "category": "gida-icecek",
+      "widget_title": "Tereyağı sofralarımızdaki yerini ne zaman aldı?",
+      "hook": "Mutfakların vazgeçilmezi tereyağının hikayesi, insanlık tarihi kadar eski.",
+      "answer_year": -8000,
+      "year_precision": "year",
+      "guess_range": [
+        -8100,
+        -7920
+      ],
+      "body": "Bugün kahvaltılarımızın ve yemeklerimizin yıldızı olan tereyağının hikayesi, insanlık tarihi kadar eski, hatta belki de ondan bile daha yaşlı! Yapılan arkeolojik ve tarihi bulgular, tereyağının yaklaşık M.Ö. 8000 yılına kadar uzanan bir geçmişi olduğunu gösteriyor. Evet, doğru duydunuz, Neolitik Çağ'dan bahsediyoruz!\n\nPeki, bu lezzetli ürün nasıl keşfedildi? Muhtemelen, sütü deriden yapılma tulumlarda taşıyan kadim insanlar, tulumların sallanmasıyla sütün kıvamının değiştiğini ve ayrıştığını fark ettiler. Bu şans eseri keşif, insanlık için yeni bir lezzet ve besin kaynağının kapılarını araladı. İlk başlarda sadece bir gıda maddesi olarak değil, aynı zamanda merhem, yakıt, kozmetik ve hatta dini ritüellerde kurban olarak da kullanıldığına dair kanıtlar bulunuyor. [DOĞRULA: Farklı kültürlerde tereyağının kullanım alanları ve örnekleri.]\n\nTereyağı, özellikle soğuk iklimlerde yaşayan topluluklar için önemli bir enerji ve yağ kaynağıydı. Orta Doğu'dan Avrupa'ya, Hindistan'dan İskandinavya'ya kadar pek çok farklı coğrafyada kendine yer buldu. Roma ve Yunan medeniyetlerinde daha çok ilaç ve kozmetik amaçlı kullanılırken, kuzeydeki barbar kabileler için temel bir besin maddesiydi. Kimin icat ettiğini asla bilemeyecek olsak da, bu mucizevi besinin ortaya çıkışı, insanların doğayı anlama ve ondan faydalanma yeteneğinin çarpıcı bir göstergesidir.",
+      "fun_fact": "Antik çağlarda tereyağı sadece yemek değil, aynı zamanda ilaç, kozmetik ve hatta dini törenlerde kutsal bir sunu olarak da kullanılırdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q34172",
+        "https://tr.wikipedia.org/wiki/Tereya%C4%9F%C4%B1",
+        "https://en.wikipedia.org/wiki/Butter"
+      ],
+      "wikidata_qid": "Q34172"
+    },
+    {
+      "id": "Q420789",
+      "date": "2027-06-18",
+      "category": "giyim",
+      "widget_title": "Adidas Predator kramponlar ne zaman efsane oldu?",
+      "hook": "Futbol sahalarının ikonik kramponu Adidas Predator, oyunun kurallarını nasıl değiştirdi dersiniz?",
+      "answer_year": 1994,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Futbol sahalarında bir ikon haline gelen Adidas Predator kramponları, 1994 yılında tanıtıldığında futbol ayakkabısı dünyasında gerçek bir devrim başlattı. O güne dek alışılagelmiş krampon tasarımlarının ötesine geçen Predator, top kontrolünü ve vuruş gücünü artırmak amacıyla tasarlanmış özel kauçuk elemanlarıyla dikkat çekti. Bu çıkıntılı kauçuk şeritler, oyuncuların topa daha fazla falso vermesini ve isabetli paslar atmasını sağlarken, aynı zamanda vuruşlarda da ekstra güç katıyordu. Kısa sürede dünyanın dört bir yanındaki profesyonel futbolcuların vazgeçilmezi haline gelen Predator, [DOĞRULA: Zinedine Zidane, David Beckham, Alessandro Del Piero gibi efsanevi isimlerin ayağında] sahalarda sayısız gole ve unutulmaz ana imza attı. Sadece performansıyla değil, aynı zamanda agresif ve cesur tasarımıyla da tanınan Predator serisi, yıllar içinde birçok farklı modele evrildi ve her yeni versiyonuyla teknolojiyi ve estetiği bir araya getirme geleneğini sürdürdü. Predator, bir krampondan daha fazlasıydı; sahadaki bir duruşun, bir tutkunun ve oyuna hükmetme arzusunun sembolü haline geldi. Futbol ayakkabılarının sadece bir koruyucu ekipman değil, aynı zamanda bir performans artırıcı olabileceği fikrini pekiştirdi.",
+      "fun_fact": "Adidas Predator'ın ikonik kauçuk çıkıntıları fikrinin, eski Avustralyalı futbolcu Craig Johnston'ın ıslak zeminlerdeki bir topu daha iyi kontrol etme arzusundan doğduğu ve hatta bir bisiklet lastiğinin dişlerinden ilham aldığı rivayet edilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q420789",
+        "https://en.wikipedia.org/wiki/Adidas_Predator"
+      ],
+      "wikidata_qid": "Q420789"
+    },
+    {
+      "id": "Q343276",
+      "date": "2027-06-19",
+      "category": "gida-icecek",
+      "widget_title": "Actimel ilk kez ne zaman raflardaki yerini aldı?",
+      "hook": "Bağışıklık sistemine destek denince akla gelen ilk markalardan Actimel'in doğuş tarihi neydi?",
+      "answer_year": 1994,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Günümüz kahvaltı rutinlerinin ve sağlıklı yaşam trendlerinin vazgeçilmezlerinden biri olan Actimel, probiyotik yoğurt içecekleri denince akla gelen ilk markalardan. Peki, bu küçük şişelerin serüveni ne zaman başladı? Takvimler 1994 yılını gösterdiğinde, Fransız gıda devi Danone, özel olarak geliştirilmiş L. casei Danone suşunu içeren bu yenilikçi ürünü Avrupa pazarına sundu. O dönemde, probiyotiklerin sindirim sistemine faydaları üzerine araştırmalar hız kazanmış ve Danone de bu alandaki potansiyeli görmüştü. Actimel, özellikle bağışıklık sistemini destekleme vaadiyle öne çıkarak kısa sürede tüketicilerin ilgisini çekmeyi başardı. Küçük, tek kullanımlık şişe formatı sayesinde hem pratikti hem de hareket halindeki yaşam tarzına uyum sağlıyordu. Avrupa'da başlayan bu yolculuk, zamanla Actimel'in dünya çapında popülerlik kazanmasına ve farklı pazar ihtiyaçlarına göre çeşitli tatlar ve formüllerle genişlemesine olanak tanıdı. Bugün hala milyonlarca insanın güne başlarken tercih ettiği bir ürün olmayı sürdürüyor, 'iyi bakterilerin' gücünü her yudumda sunuyor. Unutmayalım ki, bu tarz ürünlerin faydaları kişiden kişiye değişebilir ve dengeli bir beslenmenin yerini tutmaz.",
+      "fun_fact": "Actimel'in gücü, içerdiği özel L. casei Danone bakterisinin mide asidine karşı gösterdiği doğal dirençten geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q343276",
+        "https://tr.wikipedia.org/wiki/Actimel",
+        "https://en.wikipedia.org/wiki/Actimel"
+      ],
+      "wikidata_qid": "Q343276"
+    },
+    {
+      "id": "Q4233054",
+      "date": "2027-06-20",
+      "category": "giyim",
+      "widget_title": "Çiçek Sepeti deseni giyimde ne zaman popülerleşti?",
+      "hook": "Doğanın zarafetini üzerimizde taşımayı her zaman sevmişizdir, peki ya bu özel desenin moda sahnesine çıkış hikayesi?",
+      "answer_year": 1901,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "1900'lerin başları, moda dünyası için zarafetin ve doğa ilhamının altın çağıydı. Belle Époque veya Edward Dönemi olarak adlandırılan bu dönemde, kadın giyimi ince siluetler, danteller ve narin işlemelerle bezeliydi. Çiçekler, baharın ve tazeliğin sembolü olarak her zaman modanın vazgeçilmez bir parçası olmuştur. Ancak \"Çiçek Sepeti\" gibi spesifik bir motifin giyimde belirgin bir trend haline gelmesi, dönemin romantik ve pastoral estetiğiyle mükemmel bir uyum içindeydi.\n\nBu motif, genellikle elbiselerin eteklerinde, bluzlarda veya şapkalarda zarif nakışlar ya da desenler şeklinde kendini gösteriyordu. Belki de bir sepet içinde düzenlenmiş rengarenk çiçekler, dönemin kadınlarının bahçelere ve doğaya olan düşkünlüğünü yansıtıyordu. [DOĞRULA: \"Çiçek Sepeti\" motifinin 1901 civarında giyimde özel bir popülerlik kazanıp kazanmadığına dair somut bir trend bilgisi] Bu tür detaylar, günlük kıyafetlere bile sanatsal bir dokunuş katıyor, giyen kişiye nazik ve sofistike bir hava veriyordu. Sanki küçük bir bahçe, üzerinizde taşınıyordu. Dönemin popüler moda dergileri ve kumaş tasarımları incelendiğinde, bu tür pastoral temalı desenlerin yaygın olduğu görülür. 1901 yılı, bu narin ve doğayla iç içe estetiğin giyimde zirveye ulaştığı zamanlardan biriydi, kadınlar adeta birer çiçek bahçesi gibi sokağa çıkıyorlardı.",
+      "fun_fact": "O dönemde şapka tasarımlarında da canlı çiçek aranjmanları ve kuş tüyleri gibi doğal ögeler oldukça sık kullanılıyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4233054",
+        "https://en.wikipedia.org/wiki/Basket_of_Flowers_(Faberg%C3%A9_egg)"
+      ],
+      "wikidata_qid": "Q4233054"
+    },
+    {
+      "id": "Q347187",
+      "date": "2027-06-21",
+      "category": "gida-icecek",
+      "widget_title": "Dom Pérignon markası hangi yıl ortaya çıktı?",
+      "hook": "Şampanyanın efsanevi ismi, aslında düşündüğünüzden çok daha genç bir hikayeye sahip olabilir!",
+      "answer_year": 1921,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Birçoğumuz Dom Pérignon ismini duyduğumuzda aklımıza hemen şampanyanın mucidi ve yüzlerce yıllık bir tarih gelir, değil mi? Oysa bu efsanevi ismin modern şampanya dünyasındaki yolculuğu, düşündüğümüzden biraz daha farklı bir başlangıca sahip. Evet, Dom Pierre Pérignon adında gerçek bir keşiş, 17. yüzyılın sonları ve 18. yüzyılın başlarında yaşamış ve Şampanya bölgesinde şarapçılık tekniklerinin geliştirilmesinde önemli rol oynamıştır. Özellikle şişe içinde ikinci fermantasyonun kontrolü ve farklı üzüm bağlarından gelen şarapları harmanlama konusunda çığır açan çalışmaları olduğu düşünülür. Ancak yaygın inanışın aksine, Dom Pérignon şampanyayı tek başına 'icat etmedi' ve o dönemde şampanya bugünkü gazlı haliyle bilinmiyordu. Hatta birçok tarihçi, günümüzdeki 'köpüklü' şampanyanın keşfinin [DOĞRULA: İngilizlerin de bu sürece katkısı olduğunu belirt] İngiliz şarap tüccarlarının şişeleme teknikleriyle bağlantılı olduğunu belirtir. Peki, 1921 tarihi ne anlama geliyor? İşte tam da bu noktada hikaye ilginçleşiyor: 1921, Dom Pérignon markası altında üretilen ilk prestij şampanyasının *vintage* (yani hasat) yılıdır! Bu özel şampanya aslında 1936 yılında piyasaya sürülmüştür. Yani Dom Pérignon, köklü bir geçmişe saygı duruşunda bulunan, ama kendisi de oldukça prestijli ve özel bir tarihe sahip modern bir markadır. Şarapçılık dünyasına bıraktığı miras ise gerçekten paha biçilmez.",
+      "fun_fact": "Dom Pérignon şampanyaları yalnızca belirli 'vintage' yıllarda, yani üzümlerin kalitesinin olağanüstü olduğu dönemlerde üretilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q347187",
+        "https://tr.wikipedia.org/wiki/Dom_P%C3%A9rignon_(%C5%9Farap)",
+        "https://en.wikipedia.org/wiki/Dom_P%C3%A9rignon"
+      ],
+      "wikidata_qid": "Q347187"
+    },
+    {
+      "id": "Q4233950",
+      "date": "2027-06-22",
+      "category": "giyim",
+      "widget_title": "Raven Crown olarak bilinen bu gizemli taç ne zaman yapıldı?",
+      "hook": "Kuzeyin derinliklerinden gelen bir fısıltı gibi, bu taç da kendi sırlarını fısıldıyor.",
+      "answer_year": 1907,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "\"Raven Crown\", yani \"Kuzgun Tacı\" adıyla anılan bu büyüleyici eser, tarih sahnesine 1907 yılında çıktı. İsmi bile başlı başına bir gizem perdesi aralıyor; kuzgunların mitolojideki, destanlardaki ve folklorlardaki yerini düşündüğümüzde, bu tacın belki de derin anlamlar taşıdığını ya da belirli bir kültüre ait güçlü sembolizmi yansıttığını hayal edebiliriz. Kuzgunlar, bilgelik, gizem ve hatta kimi zaman da kehanetle ilişkilendirilir; bu isim, tacın yalnızca bir süs eşyası olmaktan öte, daha derin bir hikayeye sahip olabileceğine işaret ediyor.\n\n20. yüzyılın başları, sanat ve zanaatta büyük değişimlerin yaşandığı bir dönemdi. Endüstrileşmenin hız kazandığı bu yıllarda, el yapımı sanatsal ürünler ve özgün tasarımlar yeniden değer kazanıyordu. Art Nouveau gibi akımlar, doğadan ilham alan, akıcı hatlara sahip ve sembolik anlamlar yüklenen tasarımları ön plana çıkarıyordu. Raven Crown'un da, bu dönemin estetik anlayışıyla birleşen [DOĞRULA: belirli bir sanat akımının etkisi altında mı tasarlandığı veya hangi tarzda yapıldığı?] bir parça olması muhtemeldir.\n\nAncak, bu görkemli tacın tam olarak kim tarafından yapıldığı veya hangi özel amaçla kullanıldığına dair bilgiler günümüze tam olarak ulaşamamış. Bilinmeyen bir yaratıcının elinden çıktığı düşünülen bu parça, bir dönemin modasını, zanaat becerisini ve belki de ruhani inançlarını yansıtan önemli bir giyim öğesi olarak kabul ediliyor. Taçlar, asırlardır krallık ve gücün sembolü olmasının yanı sıra, aynı zamanda kişisel süs eşyaları ve toplumsal statü belirteçleri olarak da önem taşımıştır. Raven Crown da, üzerinde taşıdığı gizemle, hem bir sanat eseri hem de 1907 yılının sanatsal ve kültürel havasını bize fısıldayan değerli bir parça olarak merak uyandırmaya devam ediyor. [DOĞRULA: Tacın coğrafi kökeni veya yapıldığı malzeme hakkında detaylar.]",
+      "fun_fact": "Kuzgunlar, gezegenimizdeki en zeki kuş türlerinden biri olarak bilinir ve oldukça karmaşık sosyal yapılar kurabilirler.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4233950",
+        "https://en.wikipedia.org/wiki/Raven_Crown"
+      ],
+      "wikidata_qid": "Q4233950"
+    },
+    {
+      "id": "Q3493770",
+      "date": "2027-06-23",
+      "category": "gida-icecek",
+      "widget_title": "Şekersiz ama tam lezzet: Pepsi Max ne zaman ortaya çıktı?",
+      "hook": "Şekersiz kolalı içecekler dünyasında kendine sağlam bir yer edinen Pepsi Max'in hikayesini merak ediyor musunuz?",
+      "answer_year": 1993,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "1993 yılı, kolalı içecekler pazarında önemli bir yeniliğe tanıklık etti. Tüketicilerin hem şekersiz seçeneklere yönelme arzusu hem de geleneksel kolanın zengin tadından vazgeçmeme isteği, markaları yeni formüller denemeye itiyordu. İşte tam da bu arayışın bir sonucu olarak PepsiCo, Pepsi Max'i piyasaya sürdü. Bu içeceğin temel vaadi basitti: 'Maksimum tat, sıfır şeker'. O döneme kadar piyasada bulunan diyet kolaların genellikle hafif ve bazen tat açısından eksik algılanması, Pepsi Max'in konumlandırmasını farklılaştırdı. Marka, özellikle genç ve dinamik bir hedef kitleye odaklanarak, şekersiz bir içeceğin de tam ve doyurucu bir tat sunabileceğini kanıtladı. Pepsi Max, sıfır kalori sunarken, birçok kişinin beklediği 'kola tadından' ödün vermemesiyle kısa sürede dünya genelinde popülerlik kazandı. [DOĞRULA: Pepsi Max'in piyasaya sürülmesinde hangi pazar araştırmaları etkili oldu?] Bu yenilikçi yaklaşım, diyet içeceklere karşı önyargılı olanları bile kendisine çekmeyi başardı ve o günden bu yana, şekersiz kola pazarının en güçlü oyuncularından biri olarak varlığını sürdürüyor.",
+      "fun_fact": "Pepsi Max, piyasaya çıktığı ilk yıllarda, şekerli kolalardan vazgeçmek istemeyen ancak şeker alımını azaltmak isteyen tüketiciler arasında hızla büyük ilgi gördü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3493770",
+        "https://tr.wikipedia.org/wiki/Pepsi_Max",
+        "https://en.wikipedia.org/wiki/Pepsi_Max"
+      ],
+      "wikidata_qid": "Q3493770"
+    },
+    {
+      "id": "Q426575",
+      "date": "2027-06-24",
+      "category": "giyim",
+      "widget_title": "Aziz Stephen Nişanı (Toskana) ne zaman kuruldu?",
+      "hook": "Denizlerdeki bir tehdide karşı koymak için kurulan bu özel şövalye nişanı, köklerini Toskana'nın görkemli geçmişine salıyor.",
+      "answer_year": 1561,
+      "year_precision": "year",
+      "guess_range": [
+        1460,
+        1640
+      ],
+      "body": "\"Aziz Stephen Nişanı\" dendiğinde akla ilk gelenlerden biri, Büyük Toskana Dükalığı'nın kurucusu Cosimo I de' Medici tarafından 1561 yılında kurulan bu prestijli şövalye nişanıdır. Nişan, özellikle Akdeniz'deki Osmanlı ve Berberi korsan tehditlerine karşı Hristiyan dünyasının deniz gücünü pekiştirmek amacıyla ortaya çıktı. Cosimo, bu nişanı hem kendi dükalığının itibarını artırmak hem de bölgedeki deniz güvenliğini sağlamak için önemli bir araç olarak gördü.\n\nNişanın adı, [DOĞRULA: Cosimo'nun doğum gününe denk gelen Aziz Stephen'a bir gönderme miydi yoksa başka bir anlamı mı vardı?] Bu nişan, şövalyelerini deniz savaşlarına katılmaya, gemi inşa etmeye ve denizcilik becerilerini geliştirmeye teşvik etti. Üyeleri, nişanlarına özgü kıyafetler ve sembollerle tanınır, askeri ve dini görevleri bir arada yürütürlerdi. Kuruluşundan itibaren uzun yıllar boyunca Toskana'nın ve genel olarak İtalya'nın deniz gücüne önemli katkılarda bulundu. Adı her ne kadar \"giyim\" kategorisinde geçse de, aslında çok daha büyük bir yapıyı, denizlerdeki gücünü artırma hedefi güden bir şövalye birliğini temsil ederdi.",
+      "fun_fact": "Nişanın üyeleri, Toskana bayrağını da taşıyan kırmızı haçlı beyaz bir pelerin giyerlerdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q426575",
+        "https://en.wikipedia.org/wiki/Order_of_Saint_Stephen"
+      ],
+      "wikidata_qid": "Q426575"
+    },
+    {
+      "id": "Q3503168",
+      "date": "2027-06-25",
+      "category": "gida-icecek",
+      "widget_title": "Żywiec birası ne zaman üretilmeye başlandı?",
+      "hook": "Polonya'nın en köklü bira markalarından Żywiec'in nefes kesen yolculuğuna hazır mısın?",
+      "answer_year": 1856,
+      "year_precision": "year",
+      "guess_range": [
+        1750,
+        1930
+      ],
+      "body": "1856 yılı, Polonya bira tarihinde altın harflerle yazılmış önemli bir dönüm noktasına işaret ediyor. Bu tarihte, Habsburg Hanedanı'ndan Archduke Albert Frederick Habsburg'un vizyonuyla, bugün tüm dünyanın yakından tanıdığı Żywiec Bira Fabrikası'nın temelleri atıldı. Żywiec kasabasında, o dönemde Avusturya İmparatorluğu'nun bir parçası olan [DOĞRULA: O dönemde Żywiec'in ait olduğu ülke veya bölge ve idari yapısı] topraklarında kurulan bu fabrika, kısa sürede kalitesiyle bölgesinde nam saldı.\n\nŻywiec, geleneksel bira yapım tekniklerini zamanın en ileri teknolojileriyle harmanlayarak hızla popülerlik kazandı. Fabrikanın ilk yıllarında, [DOĞRULA: Żywiec'in başlangıçta hangi bira stilini ön planda tuttuğu] gibi stillerde biralar üreterek dönemin bira trendlerine yön verdi. Ancak Żywiec'in hikayesi sadece bir üretim başarısı değil, aynı zamanda bir dayanıklılık öyküsü. İki Dünya Savaşı'nın yıkımını, ardından gelen komünist dönemin zorluklarını ve Polonya'nın çalkantılı siyasi tarihini büyük bir direnişle atlattı. Her dönemde kendi özgün karakterini ve lezzetini korumayı başaran Żywiec, Polonya halkının azmini ve kültürel mirasın gücünü de adeta şişelere doldurdu.\n\nGünümüzde Żywiec, sadece Polonya'nın değil, uluslararası arenanın da en saygın ve sevilen bira markalarından biri olarak yolculuğuna devam ediyor. Yıllar içinde edindiği tecrübe ve değişmeyen kalite anlayışı sayesinde, dünya çapında bira severlerin sofralarında yerini alıyor. Tıpkı 1856'da olduğu gibi, bugün de Żywiec adını duyduğumuzda aklımıza sadece bir bira değil, köklü bir tarih ve tutku geliyor.",
+      "fun_fact": "Żywiec'in sembolü olan dans eden çift, Polonya folklorundan esinlenilmiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3503168",
+        "https://commons.wikimedia.org/wiki/Category:%C5%BBywiec_beer"
+      ],
+      "wikidata_qid": "Q3503168"
+    },
+    {
+      "id": "Q4286835",
+      "date": "2027-06-26",
+      "category": "giyim",
+      "widget_title": "Varşova 1939-1945 Madalyası ne zaman takdim edildi?",
+      "hook": "Savaşın küllerinden doğan bu özel madalya, bir şehrin direnişini ve yeniden doğuşunu nasıl sembolize etti?",
+      "answer_year": 1945,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Varşova, İkinci Dünya Savaşı'nda belki de en çok acı çeken şehirlerden biriydi. 1939'da Naziler tarafından kuşatılan ve direnişle karşılaşan şehir, 1944 Varşova Ayaklanması sırasında adeta yerle bir edildi. Milyonlarca insan hayatını kaybetti, şehrin mimarisi ve kültürel mirası büyük ölçüde yok oldu. Ancak bu yıkımın ortasında bile Varşovalıların direniş ruhu hiç sönmedi. Savaşın sona ermesiyle birlikte, bu inanılmaz direnişi ve ardından gelen yeniden inşa çabalarını anmak için özel bir ödül gerektiği hissedildi. İşte tam da bu nedenle, 1945 yılında 'Varşova 1939-1945 Madalyası' takdim edilmeye başlandı. Bu madalya, sadece savaşın ön saflarında savaşan kahramanlara değil, aynı zamanda şehrin savunmasına katılan sivillere ve savaş sonrası Varşova'yı küllerinden yeniden inşa etmek için omuz veren herkese verildi. Madalya, Varşova'nın sadece fiziksel yıkımına değil, aynı zamanda insan ruhunun gücüne, dayanıklılığına ve umuda olan inancına bir saygı duruşuydu. Bugün bile bu madalya, o zorlu günleri ve bir şehrin inanılmaz azmini hatırlatıyor.",
+      "fun_fact": "Madalyanın ön yüzünde, Varşova'nın ikonik sembolü olan deniz kızı Syrenka'nın kabartması yer alırdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4286835",
+        "https://en.wikipedia.org/wiki/Medal_for_Warsaw_1939%E2%80%931945"
+      ],
+      "wikidata_qid": "Q4286835"
+    },
+    {
+      "id": "Q356346",
+      "date": "2027-06-27",
+      "category": "gida-icecek",
+      "widget_title": "Fakirlerin karnını doyuran Rumford Çorbası ne zaman icat edildi?",
+      "hook": "Savaş zamanı beslenmenin zorluklarına çözüm arayan bir bilim insanının hikayesi...",
+      "answer_year": 1800,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1880
+      ],
+      "body": "Bugün menüde belki de bilmediğiniz ama zamanında birçok kişinin hayatını kurtarmış özel bir çorba var: Rumford Çorbası! Bu çorbanın hikayesi, [DOĞRULA: 18. yüzyıl sonu ile 19. yüzyıl başında Avrupa'yı kasıp kavuran savaşlar ve kıtlıkla] mücadele eden bir dünyada başlıyor. Amerikalı-İngiliz fizikçi ve mucit Benjamin Thompson, nam-ı diğer Kont Rumford, hem bilime hem de insanlığa hizmet etmeyi kendine misyon edinmiş ilginç bir karakterdi.\n\nKont Rumford, 1800 yılında [DOĞRULA: Bavyera'da bir askeri hastanede veya fakirhanede] görevliyken, düşük maliyetle yüksek besin değeri sağlayabilecek bir yemek formülü üzerinde çalıştı. Amacı, o dönemde açlık ve yoksullukla boğuşan insanlara hem doyurucu hem de ekonomik bir çözüm sunmaktı. Geliştirdiği çorba, arpa, bezelye, patates ve ekmek gibi malzemelerle hazırlanıyordu ve ucuz olmasına rağmen oldukça besleyiciydi. Hatta bazı kaynaklar, bu çorbanın askerlerin ve yoksulların hayatta kalmasında önemli bir rol oynadığını belirtir.\n\nRumford Çorbası, sadece bir yemek tarifi olmanın ötesinde, sosyal reform ve halk sağlığı hareketinin de bir sembolü haline geldi. Kont Rumford'un amacı, sadece karın doyurmak değil, aynı zamanda beslenmenin bilimsel prensiplerini kullanarak toplumsal sorunlara çözüm bulmaktı. Onun bu çabaları, modern beslenme biliminin temellerinin atılmasına da katkıda bulunmuştur.",
+      "fun_fact": "Kont Rumford'un icatları arasında sadece çorba değil, aynı zamanda şöminelerin verimliliğini artıran tasarımlar ve kahve makinesi de bulunur!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q356346",
+        "https://en.wikipedia.org/wiki/Rumford%27s_Soup"
+      ],
+      "wikidata_qid": "Q356346"
+    },
+    {
+      "id": "Q430502",
+      "date": "2027-06-28",
+      "category": "giyim",
+      "widget_title": "1914-15 Yıldızı Madalyası ilk kez ne zaman verildi?",
+      "hook": "Birinci Dünya Savaşı'nın ilk yıllarındaki fedakarlıkları onurlandıran bu özel nişan, hangi tarihte tarihe geçti dersiniz?",
+      "answer_year": 1918,
+      "year_precision": "month",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Birinci Dünya Savaşı'nın çetin koşullarında görev alan askerler ve denizciler için anlamı büyük olan 1914-15 Yıldızı Madalyası, adında taşıdığı tarihlerden daha sonra, **1918** yılında verilmeye başlandı. Bu madalya, İngiliz İmparatorluğu'nun bir savaş nişanıydı ve özellikle 5 Ağustos 1914 ile 31 Aralık 1915 tarihleri arasında herhangi bir savaş bölgesinde hizmet veren personele takdim edildi.\n\nBelki de en ilginç yanı, bu madalyanın tek başına verilmemesiydi. Genellikle Birleşik Krallık'ta \"Üçlü\" olarak bilinen bir setin parçasıydı; yani 1914-15 Yıldızı Madalyası alan herkes aynı zamanda İngiliz Savaş Madalyası'nı ve Zafer Madalyası'nı da alırdı. Bu durum, madalyanın sadece belirli bir zaman dilimindeki hizmeti değil, aynı zamanda o dönemin genel askeri çabasını da simgelediğini gösteriyor. Madalyanın amacı, savaşın ilk evrelerinde ön saflarda yer alanlara özel bir tanınma sağlamaktı. Bu sayede, o kritik başlangıç döneminde gösterilen cesaret ve azim ödüllendirilmiş oluyordu. [DOĞRULA: Madalyanın tam olarak kim tarafından tasarlandığı veya resmi olarak ne zaman duyurulduğu bilgisi.] Madalyanın kendisi, bronzdan yapılmış dört köşeli bir yıldız şeklindeydi ve üzerinde [DOĞRULA: Madalyanın üzerindeki detaylar, örneğin krallık arması veya yazılar.] gibi süslemeler bulunuyordu. Bu özel nişan, savaşın ilk ve en zorlu günlerinde gösterilen fedakarlığın somut bir simgesi olarak tarihteki yerini aldı.",
+      "fun_fact": "Bu madalya, savaşın ilerleyen dönemlerinde hizmet verenlere verilen 1914 Yıldızı'ndan farklıydı ve özellikle savaşın ilk 17 ayındaki hizmeti ödüllendiriyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q430502",
+        "https://en.wikipedia.org/wiki/1914%E2%80%9315_Star"
+      ],
+      "wikidata_qid": "Q430502"
+    },
+    {
+      "id": "Q36465",
+      "date": "2027-06-29",
+      "category": "gida-icecek",
+      "widget_title": "Un insanlık tarihinde ne zaman yerini aldı?",
+      "hook": "Tarihin tozlu sayfalarında, unun hikayesi sandığımızdan çok daha eskilere dayanıyor.",
+      "answer_year": -14000,
+      "year_precision": "year",
+      "guess_range": [
+        -14100,
+        -13920
+      ],
+      "body": "Un, mutfaklarımızın vazgeçilmezi olsa da, aslında insanlık tarihindeki en eski gıdalardan biri. Çoğumuz onu sadece ekmek yapımıyla ilişkilendirse de, bu temel gıda maddesinin kökenleri sandığımızdan çok daha derinlere uzanıyor. Yapılan arkeolojik buluntular, insanların tahılları öğütmeye başladığını ve un benzeri maddeler ürettiğini yaklaşık 14.000 yıl öncesine tarihlendiriyor. Bu kadar eski bir geçmişe sahip olması, unun sadece beslenme alışkanlıklarımızı değil, aynı zamanda yerleşik yaşama geçişimizi ve hatta medeniyetlerin temelini atan kritik unsurlardan biri olduğunu gösteriyor.\n\nDüşünün, Paleolitik dönemde yaşayan atalarımız, önce yabani tahılları özenle toplayıp ardından taşlar arasında ezerek basit bir \"un\" elde ediyordu. Bu ilk öğütülmüş tahıllar, belki de doğrudan çiğ olarak tüketilmiyor, belki de suyla karıştırılıp bir çeşit lapa veya ilkel yiyecekler yapımında kullanılıyordu. Bu basit işlem, enerjik ve besleyici bir gıda kaynağına ulaşmanın ilk adımıydı. Zamanla, bu ilkel yöntemler gelişti ve Neolitik Çağ'da tarımın başlamasıyla un üretimi, insanlığın beslenme tarihinde adeta devrim niteliğinde bir adım oldu. Unun belirli bir \"mucidi\" olmaması aslında çok doğal; o, binlerce yıl süren bir gözlem, keşif ve evrim sürecinin ürünü. İnsanlığın ortak zekası ve hayatta kalma mücadelesinin bir parçası olarak, bu toz haline getirilmiş tahıl, medeniyetlerin gelişiminde kilit bir rol oynamıştır.",
+      "fun_fact": "Un, tarihin en eski ve en önemli işlenmiş gıdalarından biri olup, neredeyse her kültürün mutfağında merkezi bir role sahiptir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q36465",
+        "https://tr.wikipedia.org/wiki/Un",
+        "https://en.wikipedia.org/wiki/Flour"
+      ],
+      "wikidata_qid": "Q36465"
+    },
+    {
+      "id": "Q4375583",
+      "date": "2027-06-30",
+      "category": "giyim",
+      "widget_title": "SSCB Kan Bağışçıları Madalyası ne zaman verildi?",
+      "hook": "Kan vermek hayat kurtarır, peki bu fedakarlığın onurlandırıldığı özel bir madalyanın hikayesini biliyor musunuz?",
+      "answer_year": 1944,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "İnsanlık tarihi boyunca kan bağışı, çoğu zaman görünmez kahramanların sessiz fedakarlığı olmuştur. Ancak bazı dönemlerde, bu yaşam kurtarıcı eylemin önemi öylesine artar ki, devletler bağışçılarını özel nişanlarla onurlandırma ihtiyacı hisseder. SSCB Kan Bağışçıları Madalyası da tam olarak böyle bir dönemin ürünüdür. Bu özel madalya, 1944 yılında, yani İkinci Dünya Savaşı'nın en çetin günlerinde, cephede yaralanan askerlerin ve sivil halkın hayatlarını kurtarmak için kan bağışlayan Sovyet vatandaşlarını onurlandırmak amacıyla [DOĞRULA: resmen yürürlüğe kondu/tesis edildi ifadesini kullanmalı mıyım?] yürürlüğe kondu. Savaş zamanı koşullarında, kan bankalarının ve tıbbi kaynakların kısıtlı olduğu bir dönemde, gönüllü kan bağışçıları hayati bir rol oynuyordu. Madalya, bu fedakarlığın tanınması ve takdir edilmesi için bir semboldü. Hem düzenli kan bağışçılarını teşvik ediyor hem de o zorlu yıllarda toplumsal dayanışmayı pekiştiriyordu. Madalyanın tam olarak kim tarafından tasarlandığı veya ilk olarak kimlere verildiği bilgisi [DOĞRULA: yaygın olarak biliniyor mu/kayıtlara geçmiş mi?] net olmasa da, onun temsil ettiği değer tartışılmazdı: savaşın yaralarını sarmak için gösterilen insanüstü çaba ve dayanışma ruhu. Bu madalya, basit bir metal parçasından çok daha fazlasıydı; kurtarılan her hayatın ve gösterilen her cesur adımın bir nişanıydı.",
+      "fun_fact": "Bugün birçok ülkede kan bağışçıları farklı seviyelerde ödüllendirilirken, SSCB'deki bu madalya, tarihin belirli bir dönemindeki kolektif fedakarlığın nadir bir sembolüdür.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4375583",
+        "https://tr.wikipedia.org/wiki/SSCB_Kan_Ba%C4%9F%C4%B1%C5%9F%C3%A7%C4%B1lar%C4%B1_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Honoured_Blood_Donor_of_the_USSR"
+      ],
+      "wikidata_qid": "Q4375583"
+    }
+  ]
+}
