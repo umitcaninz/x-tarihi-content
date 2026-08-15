@@ -3,664 +3,664 @@
   "month": "2026-11",
   "items": [
     {
-      "id": "Q194297",
+      "id": "Q2625790",
       "date": "2026-11-01",
       "category": "gida-icecek",
-      "widget_title": "İkonik Guinness birası ne zamandan beri bizimle?",
-      "hook": "Koyu rengi ve kremalı köpüğüyle bira dünyasının efsanesi Guinness'in hikayesi oldukça köklü.",
-      "answer_year": 1759,
+      "widget_title": "Frosted Flakes kahvaltı sofralarına ne zaman geldi?",
+      "hook": "O buz gibi, tatlı kaplamalı mısır gevrekleri sofralarımıza nasıl girdi dersiniz?",
+      "answer_year": 1952,
       "year_precision": "year",
       "guess_range": [
-        1700,
-        1830
-      ],
-      "body": "Bugün dünyanın dört bir yanında barmenlerin ustalıkla doldurduğu, o eşsiz koyu rengi ve kremalı köpüğüyle tanınan Guinness birasının kökenleri oldukça eskiye dayanıyor. Hikaye, 1759 yılında İrlanda'nın Dublin şehrinde başlıyor. İşte o yıl, Arthur Guinness adında vizyoner bir girişimci, St. James's Gate'deki ünlü bira fabrikasını kiraladı. Üstelik bu kiralama sözleşmesi tam 9.000 yıllık bir süre için yapılmıştı – evet, yanlış duymadın, 9.000 yıl! [DOĞRULA: 9000 yıllık kira anlaşmasının detayları ve gerçekliği] Bu cesur anlaşma, Guinness'in uzun ömürlü serüveninin ilk adımı oldu. Başlangıçta farklı türde biralar üretilse de, Arthur Guinness zamanla stout birasına odaklandı ve kısa sürede bu özel tarifiyle büyük ün kazandı. Guinness'in ayırt edici tadı ve görünümü, kavrulmuş malt arpa kullanımı ve nitrojen gazının eklenmesiyle oluşuyor, bu da ona o meşhur kadifemsi dokuyu ve zengin aromayı veriyor. İrlanda'dan yola çıkan bu efsanevi içki, zamanla bir kültür ikonuna dönüştü ve bugün 150'den fazla ülkede milyonlarca insan tarafından keyifle tüketiliyor. Guinness sadece bir bira markası değil, aynı zamanda İrlanda mirasının ve misafirperverliğinin de bir sembolü haline gelmiştir. Onun hikayesi, bir hayalin nasıl dünya çapında bir başarıya dönüşebileceğinin enfes bir kanıtı.",
-      "fun_fact": "Dünyaca ünlü 'Guinness Rekorlar Kitabı'nın ilham kaynağının da bizzat Guinness bira şirketi olduğunu biliyor muydun?",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q194297",
-        "https://tr.wikipedia.org/wiki/Guinness",
-        "https://en.wikipedia.org/wiki/Guinness"
-      ],
-      "wikidata_qid": "Q194297"
-    },
-    {
-      "id": "Q215248",
-      "date": "2026-11-02",
-      "category": "giyim",
-      "widget_title": "Dizbağı Nişanı'nın hikayesi hangi yıla dayanıyor?",
-      "hook": "Avrupa'nın en eski şövalyelik nişanlarından biri olan Dizbağı Nişanı'nın ardındaki efsaneyi merak ediyor musunuz?",
-      "answer_year": 1348,
-      "year_precision": "year",
-      "guess_range": [
-        1240,
-        1420
-      ],
-      "body": "İngiltere'nin ve hatta dünyanın en prestijli şövalyelik nişanlarından biri olan Dizbağı Nişanı, kökleri derinlere inen, asırlık bir geleneğin temsilcisidir. Bu özel nişan, [DOĞRULA: Yüz Yıl Savaşları'nın ortasında mıydı?] 1348 yılında İngiltere Kralı III. Edward tarafından kuruldu. Kral, dönemin siyasi çalkantıları ve askeri ihtiyaçları arasında kendine sadık, seçkin bir şövalye topluluğu oluşturmak istiyordu. Ancak Dizbağı Nişanı'nın kuruluşuna dair dilden dile dolaşan çok daha ilginç bir efsane var. Rivayete göre, bir baloda [DOĞRULA: Salisbury Kontesi miydi?] düşen bir dizbağı, kralın bir şövalyesi tarafından yerden alındığında, çevredeki soylular arasında alay konusu olmuş. Kral III. Edward ise bu duruma sinirlenerek, 'Honi soit qui mal y pense' yani 'Kötü düşünenin ayıp olsun' anlamına gelen ünlü sözünü sarf etmiş ve o andan itibaren dizbağını bir onur nişanına dönüştürme kararı almış. Bu, aslında bir utanç sembolünü gurur ve ayrıcalık nişanına dönüştüren zekice bir hareketti. Dizbağı Nişanı, o günden bu yana İngiliz monarşisinin en yüksek onurlarından biri olmaya devam ediyor ve üyeleri sadece krallık ailesi ve çok seçkin şahsiyetlerden oluşuyor. Nişanın arması, içindeki dizbağı motifiyle bu efsaneye atıfta bulunurken, aynı zamanda üyelerin şeref ve sadakatini temsil ediyor. Kuruluşundan bu yana kesintisiz varlığını sürdüren bu nişan, tarihin tozlu sayfalarından günümüze uzanan eşsiz bir hikaye sunuyor.",
-      "fun_fact": "Dizbağı Nişanı'nın mottosu olan 'Honi soit qui mal y pense', aynı zamanda İngiliz Kraliyet Arması'nda da yer alır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q215248",
-        "https://tr.wikipedia.org/wiki/Dizba%C4%9F%C4%B1_Ni%C5%9Fan%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_the_Garter"
-      ],
-      "wikidata_qid": "Q215248"
-    },
-    {
-      "id": "Q19757757",
-      "date": "2026-11-03",
-      "category": "gida-icecek",
-      "widget_title": "Between the Sheets kokteyli ne zaman ortaya çıktı?",
-      "hook": "Adı kadar baştan çıkarıcı, tadı kadar gizemli bu klasik kokteylin hikayesine hazır mısınız?",
-      "answer_year": 1930,
-      "year_precision": "year",
-      "guess_range": [
-        1830,
-        2010
-      ],
-      "body": "Between the Sheets kokteyli, adı gibi akılda kalıcı ve merak uyandırıcı bir geçmişe sahip. Bu baştan çıkarıcı içki, 1930 yılında ortaya çıktığı düşünülüyor ve adını içerdiği alkollerin uyumu ve belki de sonrasındaki etkisinden alıyor. Pek çok klasik kokteylde olduğu gibi, Between the Sheets'in de kesin doğuş yeri ve mucidi hakkında farklı hikayeler var. En popüler efsanelerden biri, [DOĞRULA: Harry MacElhone veya Harry's New York Bar ile ilişkisi] kokteylin Paris'teki ünlü Harry's New York Bar'ında veya yine Paris'teki Ritz Hotel'de, [DOĞRULA: Frank Meier'in yaratıcılığı] Frank Meier tarafından yaratıldığı yönünde. Bu içki, aslında klasik Sidecar kokteylinin bir çeşidi olarak kabul edilir. Sidecar'da brendi ve Cointreau ile limon suyu bulunurken, Between the Sheets formülüye beyaz rom eklenerek daha zengin ve karmaşık bir profil kazanıyor. İçeriğindeki konyak, rom, portakal likörü ve taze limon suyunun mükemmel dengesi, onu hem sofistike hem de kolay içimli kılıyor. Özellikle Yasak Dönem (Prohibition) sonrası Avrupa'da popülerleştiği düşünülüyor. Bazı kaynaklar, adının daha çok 'yatak odası' çağrışımı yaparak, içenleri sıcak ve samimi bir ruh haline soktuğunu ima ettiğini belirtir. Gerçekten de, bu kokteylin her yudumu, sanki bir sırrı fısıldar gibi...",
-      "fun_fact": "Between the Sheets kokteyli, adının çağrıştırdığı gibi, içeriğindeki yüksek alkol oranıyla da bilinen, 'tehlikeli derecede kolay içimli' kokteyllerden biri olarak kabul edilir!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q19757757",
-        "https://tr.wikipedia.org/wiki/Between_the_sheets",
-        "https://en.wikipedia.org/wiki/Between_the_sheets_(cocktail)"
-      ],
-      "wikidata_qid": "Q19757757"
-    },
-    {
-      "id": "Q222973",
-      "date": "2026-11-04",
-      "category": "giyim",
-      "widget_title": "Prag'ın Kurtuluşu Madalyası ne zaman verildi?",
-      "hook": "İkinci Dünya Savaşı'nın son günlerinde verilen bu madalya, Prag'ın özgürlüğünü hangi yıl kutladı?",
-      "answer_year": 1945,
-      "year_precision": "day",
-      "guess_range": [
-        1840,
-        2020
-      ],
-      "body": "İkinci Dünya Savaşı'nın sonuna doğru Avrupa'da yankılanan özgürlük çanları, 1945 yılının Mayıs ayında Prag'da da çaldı. Nazi işgalinden kurtarılan Çekoslovakya'nın başkenti Prag, savaşın en önemli simgelerinden biri haline geldi. Bu tarihi zaferi ölümsüzleştirmek ve bu uğurda mücadele edenleri onurlandırmak amacıyla, Sovyetler Birliği tarafından \"Prag'ın Kurtuluşu Madalyası\" ihdas edildi.\n\nBu madalya, 9 Mayıs 1945'te Prag Operasyonu'na katılan tüm Sovyet ordusu askerlerine, subaylarına ve generallerine verilmek üzere tasarlanmıştır. Ayrıca, şehrin kurtarılmasına doğrudan katkı sağlayan bazı sivil halk üyeleri de bu onura layık görülmüştür. Madalyanın verilmeye başlanması, savaşın Avrupa cephesindeki son büyük zaferlerden birini kutlamanın yanı sıra, Doğu Avrupa'daki Sovyet etkisinin de bir nişanesiydi.\n\nMadalyanın ön yüzünde [DOĞRULA: Kremlin'in tasviri, bir tank veya asker figürleri gibi tasarım detayları ve üzerinde \"Za Osvobozhdenie Pragi\" (Prag'ın Kurtuluşu İçin) yazısı] yer alıyordu. Arka yüzünde ise [DOĞRULA: Tarih \"9 Mayıs 1945\" ve/veya çekiç-orak sembolü] bulunuyordu. Bu madalya, savaşın bitişinin ve Avrupa'nın yeniden şekillenişinin bir sembolü olarak tarihe geçti. Sadece bir metal parçası değil, aynı zamanda direnişin, özgürlüğün ve fedakarlığın somut bir anıtıydı. Bugün bile, bu madalya, o dönemin zorlu koşullarını ve kazanılan büyük zaferleri hatırlatan önemli bir tarihsel belge niteliğindedir.",
-      "fun_fact": "Prag, İkinci Dünya Savaşı'nda kurtarılan son büyük Avrupa başkentlerinden biriydi.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q222973",
-        "https://tr.wikipedia.org/wiki/Prag%27%C4%B1n_Kurtulu%C5%9Fu_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_the_Liberation_of_Prague%22"
-      ],
-      "wikidata_qid": "Q222973"
-    },
-    {
-      "id": "Q19820584",
-      "date": "2026-11-05",
-      "category": "gida-icecek",
-      "widget_title": "Nohut suyu, nam-ı diğer Aquafaba, mutfağa ne zaman girdi?",
-      "hook": "Mutfağın en şaşırtıcı ve kurtarıcı kahramanlarından biri olan aquafaba'nın hikayesi, aslında çok da uzak olmayan bir tarihte başlıyor.",
-      "answer_year": 2014,
-      "year_precision": "year",
-      "guess_range": [
-        1910,
+        1850,
         2026
       ],
-      "body": "Geleneksel tariflerde yumurtanın yerini alan, vegan mutfakların gözdesi aquafaba, aslında basitçe nohut haşlama suyundan ibaret! Kim derdi ki, bunca zaman lavabolardan akıp giden bu su, çırpıldığında yumurta akı gibi köpürüp harikalar yaratacak? Bu sihirli keşif, tam da tahmininizin aksine, oldukça yakın bir geçmişe dayanıyor. Aquafaba'nın potansiyeli ilk olarak 2014 yılında fark edildi. Fransız müzisyen ve vegan yemek meraklısı Joël Roessel, baklagil sularının köpürme yeteneği üzerine yaptığı deneylerde, nohut suyunun yumurta akına benzer özellikler gösterdiğini keşfetti. Onun bulguları, kısa sürede vegan topluluklar arasında hızla yayıldı ve mutfaklarda yeni bir çığır açtı. Özellikle meringues, mayonez ve mus gibi tariflerde yumurta yerine kullanılmasıyla, hem veganlar hem de yumurta alerjisi olanlar için gerçek bir nimet haline geldi. Aquafaba'nın keşfi, aslında atık olarak görülen bir malzemenin nasıl mucizevi bir içerik olabileceğini gösteren harika bir örnek. Bu basit nohut suyu, günümüzde dünya genelindeki şeflerden ev aşçılarına kadar herkesin menülerinde kendine sağlam bir yer edinmiş durumda.",
-      "fun_fact": "Aquafaba kelimesi, Latince 'aqua' (su) ve 'faba' (bakla/fasulye) kelimelerinin birleşiminden türetilmiştir.",
+      "body": "Frosted Flakes, ya da bilinen adıyla Kellogg's Frosted Flakes, kahvaltı masalarının vazgeçilmez lezzetlerinden biri haline gelmeyi başarmış, şekerli mısır gevreği dendiğinde akla ilk gelen markalardan. Bu ikonik gevrek, tatlı ve çıtır dokusuyla milyonların gönlünü fethetti. Peki, bu lezzet yolculuğuna ne zaman çıktı? Takvimler 1952 yılını gösterdiğinde, Kellogg's şirketi kahvaltı dünyasına yepyeni bir soluk getirdi. Aslında Kellogg's'un mısır gevreği tarihi çok daha eskilere dayansa da, bu özel, şekerle kaplanmış versiyonu işte o yıl ortaya çıktı. Özellikle çocuklara hitap eden tatlı kahvaltılık gevrek trendinin önemli öncülerinden biri olan Frosted Flakes, kısa sürede büyük bir popülerlik kazandı. Markanın başarısının arkasında, sadece lezzetli bir ürün değil, aynı zamanda akılda kalıcı bir pazarlama stratejisi de vardı. \"They're GR-R-REAT!\" sloganıyla ve enerjik maskotu Tony the Tiger (Kaplan Tony) ile özdeşleşen Frosted Flakes, Tony'nin 1952'de ürünüyle birlikte tanıtılmasıyla tam bir efsane haline geldi. Tony the Tiger, o günden bu yana markanın yüzü olarak kalmış, gevreğin cazibesini artıran neşeli ve güçlü bir figür olmuştur. Gevreğin temel fikri basitti: Zaten sevilen mısır gevreğini, çekici bir şeker kaplamasıyla daha da lezzetli ve eğlenceli hale getirmek. Bu basit ama etkili formül, Frosted Flakes'in dünya çapında milyonlarca insanın kahvaltı kasesinde yerini almasını sağladı ve onu modern kahvaltı kültürünün ayrılmaz bir parçası yaptı.",
+      "fun_fact": "Frosted Flakes'in maskotu Tony the Tiger'ın ilk çizimleri arasında bir panda, bir puma ve bir ayı da adaylar arasındaydı!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q19820584",
-        "https://tr.wikipedia.org/wiki/Aquafaba",
-        "https://en.wikipedia.org/wiki/Aquafaba"
+        "https://www.wikidata.org/wiki/Q2625790",
+        "https://tr.wikipedia.org/wiki/Frosted_Flakes",
+        "https://en.wikipedia.org/wiki/Frosted_Flakes"
       ],
-      "wikidata_qid": "Q19820584"
+      "wikidata_qid": "Q2625790"
     },
     {
-      "id": "Q241821",
-      "date": "2026-11-06",
-      "category": "giyim",
-      "widget_title": "Stalingrad Savunması Madalyası ne zaman oluşturuldu?",
-      "hook": "Tarihin en kanlı ve en belirleyici savaşlarından birinde gösterilen eşsiz kahramanlığı onurlandıran bu madalya, nasıl bir hikayeye sahip?",
-      "answer_year": 1942,
-      "year_precision": "day",
+      "id": "Q273027",
+      "date": "2026-11-02",
+      "category": "gida-icecek",
+      "widget_title": "Klasik Martini kokteyli ilk kez ne zaman karıştırıldı?",
+      "hook": "Adını sıkça duyduğumuz, zarif bardağıyla ikonikleşen Martini'nin kökenleri sandığınızdan daha eskiye dayanıyor olabilir mi?",
+      "answer_year": 1880,
+      "year_precision": "year",
       "guess_range": [
-        1840,
-        2020
+        1780,
+        1960
       ],
-      "body": "II. Dünya Savaşı'nın belki de en dönüm noktası ve en acımasız muharebelerinden biri olan Stalingrad Savunması, insanlık tarihine adını altın harflerle yazdıran bir direniş destanıdır. İşte bu destansı direnişi ve bu uğurda verilen inanılmaz mücadeleyi ölümsüzleştirmek amacıyla, Stalingrad Savunması Madalyası 1942 yılında Sovyetler Birliği tarafından ihdas edildi. Madalya, sadece Kızıl Ordu'nun askerlerine değil, aynı zamanda şehrin savunmasına omuz veren, yiyecek taşıyan, siper kazan veya sağlık hizmeti sunan tüm sivil halka da verildi. Aylarca süren çatışmalarda, dondurucu soğuklar ve kıtlık da düşman kadar çetindi. Şehrin her bir sokağı, her bir binası için kanlı mücadeleler yaşandı. Bu madalya, Stalingrad'ı savunanların fedakarlığını, yılmaz ruhunu ve azmini resmen tanımak için yaratıldı. Yaklaşık 760.000 kişiye verildiği tahmin edilen bu nişan, savaştan sonra da o korkunç günleri ve kazanılan zaferi hatırlatan bir gurur simgesi olmaya devam etti.",
-      "fun_fact": "Bu madalya, II. Dünya Savaşı sırasında Sovyetler Birliği tarafından çıkarılan altı farklı 'Şehir Savunması Madalyası'ndan biriydi.",
+      "body": "Kokteyl dünyasının en ikonik ve tartışmasız klasikleri arasında yer alan Martini, sadece bir içecekten çok daha fazlası; o bir stil ve zarafet sembolü. Peki, bu efsanevi kokteylin kökenleri ne zaman ve nasıl ortaya çıktı? Tam olarak kimin yarattığı gizemini korusa da, modern Martini'nin bildiğimiz şeklini alması 1880 yılına işaret ediyor.\n\nMartini'nin doğuşu üzerine birçok efsane ve teori mevcut. En yaygın hikayelerden biri, 1860'lı yıllarda Kaliforniya'daki Martinez kasabasında, bir altın madencisinin özel bir içki talebi üzerine ortaya çıkan 'Martinez Special' kokteyliyle başladığını öne sürer. Zamanla bu ismin kısalarak Martini'ye dönüştüğü düşünülür. Başka bir hipotez ise, kokteylin adını popüler İtalyan vermut markası Martini & Rossi'den aldığını iddia eder. Çünkü bu vermut, kokteylin vazgeçilmez bir bileşeni haline gelmiştir. Ancak bu köken teorilerinin hiçbirinin kesin bir kanıtı bulunmamaktadır.\n\nKesin olan şu ki, 1880'ler Martini'nin tarihindeki önemli bir dönüm noktası oldu. Bu yıllarda cin ve vermutun ustaca harmanlandığı tarifler barmenlerin menülerinde yerini bulmaya başladı. Başlangıçta genellikle tatlı vermutla hazırlanan Martini, zamanla sek vermuta doğru evrildi ve günümüzdeki kuru, keskin lezzetine ulaştı. James Bond gibi kült karakterlerle ve sayısız Hollywood filmiyle özdeşleşen Martini, kısa sürede dünya çapında bir fenomen haline geldi. Dolayısıyla 1880 yılı, bu zarif kokteylin bilinmeyen mucitleri tarafından adeta yeniden keşfedildiği, modern ve sofistike karakterini kazandığı bir başlangıç noktası oldu.",
+      "fun_fact": "Martini'nin 'sek' veya 'ıslak' olması, içine konulan vermut miktarına göre belirlenir: ne kadar az vermut, o kadar sek!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q241821",
-        "https://tr.wikipedia.org/wiki/Stalingrad_Savunmas%C4%B1_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_the_Defence_of_Stalingrad%22"
+        "https://www.wikidata.org/wiki/Q273027",
+        "https://tr.wikipedia.org/wiki/Martini_(kokteyl)",
+        "https://en.wikipedia.org/wiki/Martini_(cocktail)"
       ],
-      "wikidata_qid": "Q241821"
+      "wikidata_qid": "Q273027"
     },
     {
-      "id": "Q19904106",
+      "id": "Q275508",
+      "date": "2026-11-03",
+      "category": "gida-icecek",
+      "widget_title": "Meşhur Sezar salatası kaç yılında ortaya çıktı?",
+      "hook": "Tüm dünyada sevilerek tüketilen bu efsanevi salatanın hikayesi, aslında oldukça sıcak bir başlangıca sahip.",
+      "answer_year": 1924,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Dünyaca ünlü Sezar salatası, tahmin edebileceğiniz gibi Roma İmparatoru Julius Caesar ile değil, yaratıcısı İtalyan asıllı şef Caesar Cardini ile anılan bir lezzettir. Bu ikonik salatanın doğuşu, 1924 yılına dayanıyor ve hikayesi de oldukça ilginç.\n\nRivayete göre, Cardini'nin Meksika'nın Tijuana şehrindeki veya [DOĞRULA: Cardini'nin restoranının tam konumu, Tijuana mı yoksa San Diego'da da şubesi var mıydı, netleştirilmeli. Tijuana daha yaygın bir inanış.] restoranında bir Pazar akşamı, 4 Temmuz hafta sonu gibi yoğun bir zamanda malzemeler tükenmeye başlamış. Mutfağında kalan az sayıdaki malzemeyle misafirlerine sunabileceği yaratıcı bir şeyler düşünmek zorunda kalan şef, elindeki marul, zeytinyağı, yumurta, parmesan peyniri, Worcestershire sosu, sarımsak ve krutonları bir araya getirerek o meşhur salatayı doğaçlama olarak hazırlamış. Hatta bazı kaynaklar, Cardini'nin bu salatayı kendi evinde, misafirleri için hazırladığını söyler. [DOĞRULA: Hikayenin restoran mutfağında mı yoksa şefin evinde mi geçtiği detaylandırılmalı.]\n\nSezar salatası, kısa sürede sınırların ötesine geçerek hem Meksika'da hem de Amerika'da popülerlik kazanmış. Özellikle Hollywood yıldızları arasında favori bir lezzet haline gelmesi, ününü daha da artırmış. Orijinal tarifte, günümüzde birçok restoranda kullanılan ançuez bulunmadığını belirtmekte fayda var; o kendine özgü umami tadı, büyük ölçüde Worcestershire sosundan geliyordu. Basit malzemelerle yaratılan bu lezzet şöleni, günümüzde dünya mutfağının vazgeçilmezleri arasında yer alıyor.",
+      "fun_fact": "Sezar salatasının orijinal tarifinde ançuez bulunmadığını biliyor muydunuz?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q275508",
+        "https://tr.wikipedia.org/wiki/Sezar_salatas%C4%B1",
+        "https://en.wikipedia.org/wiki/Caesar_salad"
+      ],
+      "wikidata_qid": "Q275508"
+    },
+    {
+      "id": "Q28165",
+      "date": "2026-11-04",
+      "category": "gida-icecek",
+      "widget_title": "Tarçın hayatımıza ne zaman girdi?",
+      "hook": "Antik çağlardan beri mutfaklarımızda ve şifa reçetelerimizde yer alan bu egzotik baharatın yolculuğuna çıkmaya hazır mısın?",
+      "answer_year": -1999,
+      "year_precision": "year",
+      "guess_range": [
+        -2100,
+        -1920
+      ],
+      "body": "Tarçın... sadece mutfaklarımızın vazgeçilmezi mi, yoksa binlerce yıllık bir efsanenin başrol oyuncusu mu? Bu egzotik kokulu ağaç kabuğu, insanoğlunun bilinen en eski ve en değerli baharatlarından biri. Hikayesi o kadar eskiye dayanıyor ki, tarçının hayatımıza tam olarak ne zaman girdiğini bilmek neredeyse imkansız. Ancak elimizdeki veriler, onun M.Ö. 2000'li yıllardan bile önce, yani dört bin yıldan uzun bir süredir bizimle olduğunu gösteriyor.\n\nAntik Mısır'da, tarçın sadece lezzet için değil, aynı zamanda mumyalama ritüellerinde ve kutsal tütsülerde kullanılıyordu. Değeri o kadar büyüktü ki, altın ve gümüşle eş tutulur, hatta bazen onlardan bile daha kıymetli sayılırdı. Çin ve Hindistan gibi kadim medeniyetlerde ise tarçın, geleneksel tıbbın önemli bir parçası olmuş, çeşitli rahatsızlıkların tedavisinde kullanılmıştır. Onun sadece yemeklere kattığı eşsiz aroma değil, aynı zamanda sağlık üzerindeki olumlu etkileri de nesiller boyu aktarılmıştır.\n\nDoğu'nun uzak diyarlarından, zorlu ticaret yolları üzerinden Batı'ya ulaşan tarçın, aslında bir doğa harikası. İnsan eliyle \"icat\" edilmese de, keşfedildiği andan itibaren medeniyetlerin gelişiminde, ticaretin ve kültürlerin harmanlanmasında büyük rol oynamış bir hazine. Bu değerli baharatın serüveni, insanlık tarihi kadar eski ve büyüleyici.",
+      "fun_fact": "Antik Mısır'da, tarçın o kadar değerliydi ki, firavunların mezarlarında bile bulunmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28165",
+        "https://tr.wikipedia.org/wiki/Tar%C3%A7%C4%B1n",
+        "https://en.wikipedia.org/wiki/Cinnamon"
+      ],
+      "wikidata_qid": "Q28165"
+    },
+    {
+      "id": "Q285480",
+      "date": "2026-11-05",
+      "category": "gida-icecek",
+      "widget_title": "Baileys Irish Cream hangi yıl içimizi ısıtmaya başladı?",
+      "hook": "Kremalı bir rüya, viskinin sıcaklığıyla buluştuğunda ortaya çıkan bu lezzet harikasının hikayesine hazır mısın?",
+      "answer_year": 1974,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Bir zamanlar İrlanda'nın yeşil tepelerinde, akıllara kazınacak bir lezzet yaratma fikri dolaşıyordu: İrlanda viskisinin o eşsiz sıcaklığını, taze İrlanda kremasının kadifemsi dokusuyla birleştirmek. Kulağa hoş gelse de, bu ikilinin birbirine uyumlu ve stabil bir şekilde karışmasını sağlamak hiç de kolay değildi. Kremayı alkolle birleştirip bozulmadan uzun süre dayanmasını sağlamak, dönemin gıda bilimcileri ve içecek uzmanları için gerçek bir meydan okumaydı. Ancak 1974 yılında, dört yıllık yoğun bir araştırma ve geliştirme sürecinin sonunda, bu zorluğun üstesinden gelindi ve Baileys Irish Cream doğdu! Bu yenilikçi içecek, krema ve viskinin, bir tür doğal koruyucu görevi görerek bozulmasını engelleyen benzersiz bir emülsiyon tekniği sayesinde buzdolabına bile ihtiyaç duymadan, açılmadığı sürece iki yıla kadar raf ömrüne sahip oldu. Kısa sürede dünya genelinde büyük bir popülerlik kazandı ve İrlanda'nın en sevilen ihracat ürünlerinden biri haline geldi. Baileys, sadece bir içki değil, aynı zamanda dostlukların, sohbetlerin ve tatlı kaçamakların vazgeçilmez bir parçası oldu. Her yudumda İrlanda'nın ruhunu ve kremalı lezzetini hissettiren bu özel içki, günümüzde de milyonlarca kişinin favorisi olmaya devam ediyor.",
+      "fun_fact": "Baileys, dünyada en çok satan kremalı likör unvanını gururla taşıyor ve her yıl milyonlarca şişesi dünya çapında tüketiliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q285480",
+        "https://tr.wikipedia.org/wiki/Baileys_Irish_Cream",
+        "https://en.wikipedia.org/wiki/Baileys_Irish_Cream"
+      ],
+      "wikidata_qid": "Q285480"
+    },
+    {
+      "id": "Q2915859",
+      "date": "2026-11-06",
+      "category": "gida-icecek",
+      "widget_title": "Fettuccine Alfredo sofralarımıza ne zaman geldi?",
+      "hook": "Tereyağı ve parmesanla dans eden bu lezzet şöleni ne zaman doğdu dersiniz?",
+      "answer_year": 1907,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Fettuccine Alfredo'nun hikayesi, Roma'nın kalbinde, 20. yüzyılın başlarında başlıyor. Takvimler 1907'yi gösterdiğinde, Alfredo Di Lelio adında, lezzet tutkunu bir restoran sahibi, hamile eşi Ines'in iştahsızlığını gidermek için mutfakta harikalar yaratmaya karar verir. Basit ama dahiyane bir fikirle yola çıkar: taze çekilmiş fettuccine makarnasını bol tereyağı ve iyi yaşlandırılmış parmesan peyniriyle harmanlamak. Sonuç, eşinin ağzına layık, besleyici ve son derece lezzetli bir yemek olur. Adeta bir şifa gibi gelen bu tarif, kısa sürede \"Fettuccine al Burro\" (Tereyağlı Fettuccine) olarak bilinir hale gelir, ancak Alfredo'nun kendi adını taşıyan hali çok daha ünlenecektir.\n\nBu sade ama bir o kadar da zengin lezzet, kısa sürede Alfredo'nun restoranının imza yemeği haline gelir. Alfredo, makarnayı masada, özel bir sunumla karıştırmasıyla da ün kazanır. Yıllar içinde ünü Roma sınırlarını aşar ve [DOĞRULA: 1920'lerin sonlarına doğru mu?] Hollywood yıldızlarının Roma'yı ziyaret etmesiyle dünyaya yayılır. Mary Pickford ve Douglas Fairbanks gibi dönemin ünlü aktörlerinin bu lezzeti tatması ve tarifini [DOĞRULA: Amerika'ya götürmeleriyle mi?] Fettuccine Alfredo, uluslararası bir fenomene dönüşür. Bugün bildiğimiz haliyle, bazı tariflerde kremalı soslar veya tavuk gibi eklemelerle karşılaşsak da, orijinal tarifin o saf tereyağı ve parmesan uyumu, gerçek gurmeler için hala vazgeçilmez bir zerafet taşır. Bu yemek, bir yemeğin en basit haliyle bile nasıl ikonikleşebileceğinin en güzel örneklerinden biridir.",
+      "fun_fact": "Orijinal Fettuccine Alfredo tarifinde kremaya yer yoktur; lezzetini sadece tereyağı ve parmesan peynirinden alır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2915859",
+        "https://tr.wikipedia.org/wiki/Fettuccine_Alfredo",
+        "https://en.wikipedia.org/wiki/Fettuccine_Alfredo"
+      ],
+      "wikidata_qid": "Q2915859"
+    },
+    {
+      "id": "Q2916558",
       "date": "2026-11-07",
       "category": "gida-icecek",
-      "widget_title": "Espresso Martini ne zaman hayatımıza girdi?",
-      "hook": "Kahve ve kokteylin bu büyüleyici buluşması, nasıl oldu da bir anda barmenlerin ve misafirlerin favorisi haline geldi?",
-      "answer_year": 1983,
+      "widget_title": "Orbit markasının kökenleri ne zaman atıldı?",
+      "hook": "Günümüzde bildiğimiz o ferahlatıcı sakızın adının, tahmin ettiğimizden çok daha eski bir hikayesi olduğunu biliyor muydunuz?",
+      "answer_year": 1899,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Her çiğnediğimizde ağzımızda ferah bir tat bırakan Orbit sakızı, aslında sandığımızdan çok daha uzun ve ilginç bir geçmişe sahip. Çoğumuzun modern bir marka olarak tanıdığı Orbit'in kökenleri, şaşırtıcı bir şekilde 1899 yılına kadar uzanıyor. Evet, yanlış duymadınız, ta o yıllarda gıda ve içecek sektöründe \"Orbit\" adını taşıyan bir ürünün ilk kez ortaya çıktığına dair kayıtlar bulunuyor.\n\nAncak hemen belirtelim: Bugün market raflarından aldığımız, şeker içermeyen ve çeşitli aromalarıyla hayatımıza giren o ikonik Orbit çiğneme sakızının küresel çapta yaygınlaşması ve tanınması çok daha sonraki yıllara, özellikle 1970'lere dayanır. Markanın modern anlamdaki ilk çıkışı, [DOĞRULA: bazı kaynaklara göre 1944 yılında Amerika Birleşik Devletleri'nde II. Dünya Savaşı sırasında şeker kısıtlamaları nedeniyle geçici olarak gerçekleşmiştir.] O dönemdeki ürün, günümüzdeki formundan farklıydı ve savaş şartları sona erdiğinde üretimi durdurulmuştu.\n\nPeki, 1899'daki \"Orbit\" neydi? İşte bu soru, markaların ve isimlerin zaman içinde nasıl evrildiğini bize net bir şekilde gösteriyor. O yıllarda \"Orbit\" adının [DOĞRULA: tam olarak hangi türde bir gıda veya içecek ürünü için kullanıldığı ya da bu ismin bugünkü Orbit çiğneme sakızı markasıyla doğrudan bir kurumsal veya ürün devamlılığı içinde olup olmadığı] net bir şekilde bilinmiyor. Ancak bu erken başlangıç, bir ismin veya kavramın onlarca yıl sonra bambaşka bir ürünle nasıl özdeşleşebileceğinin ilginç bir kanıtı. Tıpkı bir yıldızın kendi yörüngesinde (İngilizce'de \"orbit\") dönmesi gibi, \"Orbit\" adı da kendi zaman çizgisinde farklı ürünlere ve dönemlere yayılan bir yolculuk geçirmiş.",
+      "fun_fact": "Orbit çiğneme sakızının erken formlarından biri, II. Dünya Savaşı sırasında Amerika'da şeker kısıtlamaları yüzünden ortaya çıkmış ve askerler arasında popüler olmuştu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2916558",
+        "https://tr.wikipedia.org/wiki/Orbit_(marka)",
+        "https://en.wikipedia.org/wiki/Orbit_(gum)"
+      ],
+      "wikidata_qid": "Q2916558"
+    },
+    {
+      "id": "Q2964257",
+      "date": "2026-11-08",
+      "category": "gida-icecek",
+      "widget_title": "Chocapic kahvaltı sofralarımıza ne zaman girdi?",
+      "hook": "Chocapic'in o meşhur çikolatalı tadı, mutfaklarımıza ilk ne zaman ulaştı dersiniz?",
+      "answer_year": 1984,
       "year_precision": "year",
       "guess_range": [
         1880,
         2026
       ],
-      "body": "Espresso Martini, kafein tutkunlarını ve kokteyl severleri aynı anda mest eden o eşsiz buluşma... Bu modern klasiğin hikayesi, barmenlik dünyasının efsanevi isimlerinden Dick Bradsell'in ellerinde şekillendi. Takvimler 1983 yılını gösterirken, Londra'da, Dick'in çalıştığı barda ilginç bir istek kapısını çaldı. İddiaya göre, ünlü bir model, 'Beni önce uyandıracak, sonra da dağıtacak bir içki yap' ricasıyla geldi. İşte o an, Dick Bradsell'in yaratıcılığı devreye girdi ve bu ikonik içecek doğdu.\n\nVodka, kahve likörü, taze demlenmiş espresso ve biraz şeker şurubu... Bu basit ama dahiyane birleşim, kısa sürede barmenlerin repertuvarında vazgeçilmez bir yere sahip oldu. Espresso Martini'nin karakteristik köpüklü tepesi ve üzerine konan üç adet kahve çekirdeği, hem görsel bir şölen sunar hem de içeceğin dengeli tat profilini yansıtır. Başlangıçta [DOĞRULA: \"Vodka Espresso\" adıyla mı biliniyordu?] gibi farklı isimlerle anılsa da, \"Espresso Martini\" ismiyle tüm dünyaya yayıldı ve özellikle 90'larda büyük bir popülerlik kazandı. Günümüzde de menülerin en gözde seçeneklerinden biri olmaya devam ediyor. Soğuk ve canlandırıcı etkisiyle, geceye başlamak ya da yemeğin ardından keyifli bir kapanış yapmak için ideal bir tercih.",
-      "fun_fact": "Espresso Martini'nin geleneksel sunumunda üzerine konan üç adet kahve çekirdeği, genellikle 'sağlık, zenginlik ve mutluluk' anlamlarını taşır.",
+      "body": "Sabah kahvaltılarının vazgeçilmezi, sütle buluştuğunda o eşsiz çikolatalı tadı bırakan Chocapic… Birçok neslin çocukluğuna damga vurmuş bu lezzet, aslında 1984 yılında hayatımıza girdi. Chocapic, adını içerdiği yoğun çikolata parçacıklarından ve çıtır mısır gevreği tanelerinden alıyor. Nestlé tarafından geliştirilen bu özel kahvaltılık gevrek, kısa sürede dünya genelinde büyük bir popülarite kazandı. Özellikle çocukların favorisi haline gelmesinde, rengarenk kutuları ve sevimli maskotu Pico'nun da önemli bir rolü oldu. Pico, Chocapic'in enerjik ve eğlenceli ruhunu yansıtan, maceraperest bir karakter olarak hafızalarımıza kazındı. Bazı kişiler Chocapic'in daha eski bir tarihe sahip olduğunu düşünse de, o kendine has çikolata patlamasıyla 1984'ten bu yana kahvaltı sofralarımızı şenlendiriyor. Geçen on yıllar içinde çikolatalı gevrek pazarında önemli bir yer edinen Chocapic, hala birçok evde güne tatlı bir başlangıç yapmanın vazgeçilmez tercihlerinden biri olmaya devam ediyor. Chocapic sadece bir kahvaltılık gevrek değil, aynı zamanda birçok kişi için çocukluk anılarını canlandıran nostaljik bir tat.",
+      "fun_fact": "Chocapic'in reklamlarında sıkça vurgulanan 'ooh la la Chocapic' sloganı, markanın akılda kalıcılığında büyük rol oynamıştır [DOĞRULA: 'Ooh la la Chocapic' sloganının kullanıldığı ilk dönemler].",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q19904106",
-        "https://tr.wikipedia.org/wiki/Espresso_martini",
-        "https://en.wikipedia.org/wiki/Espresso_martini"
+        "https://www.wikidata.org/wiki/Q2964257",
+        "https://tr.wikipedia.org/wiki/Chocapic",
+        "https://en.wikipedia.org/wiki/Chocapic"
       ],
-      "wikidata_qid": "Q19904106"
+      "wikidata_qid": "Q2964257"
     },
     {
-      "id": "Q2588747",
-      "date": "2026-11-08",
-      "category": "giyim",
-      "widget_title": "Rusya Donanma Liyakat Nişanı ne zaman ihdas edildi?",
-      "hook": "Denizlerin çetin koşullarında gösterilen kahramanlıklar nasıl taçlandırılır? Rusya Donanma Liyakat Nişanı'nın hikayesi seni şaşırtacak!",
-      "answer_year": 2002,
-      "year_precision": "day",
-      "guess_range": [
-        1900,
-        2026
-      ],
-      "body": "Mavi derinliklerin cesur bekçileri, denizlerin fatiheleri... Rusya'nın geniş deniz sahalarında gösterilen üstün hizmet ve kahramanlıklar, tarih boyunca farklı şekillerde onurlandırılmıştır. İşte bu onurlardan biri de, modern Rusya'nın deniz kuvvetlerindeki seçkin başarıları taltif etmek amacıyla ortaya çıkan Donanma Liyakat Nişanı'dır.\n\nBu özel nişan, takvimler 2002 yılını gösterirken [DOĞRULA: Rusya Federasyonu Devlet Başkanı'nın kararnamesiyle mi?] resmiyet kazanmıştır. Denizde vatan hizmeti için gösterilen olağanüstü cesaret, kritik görevlerdeki başarı, denizcilik teknolojilerinin geliştirilmesi veya askeri denizcilik eğitimindeki üstün katkılar gibi pek çok farklı alandaki başarılar bu nişanla taltif edilir. Bir asker için uniformasının üzerinde taşıdığı bu nişan, sadece metalden bir parça değil, aynı zamanda ulusuna adanmışlığın, fedakarlığın ve denizcilik geleneğine duyulan saygının somut bir nişanesidir.\n\nKim tarafından tasarlandığına dair kesin bir bilgi olmasa da, bu nişanın Rusya'nın zengin askeri nişan geleneğinin modern bir devamı olduğu söylenebilir. [DOĞRULA: Nişanın tasarımında kullanılan semboller ve renklerin ne anlama geldiği araştırılmalı.] Genellikle göğüste taşınan, detaylı işlenmiş bu madalya, denizcilerin gururla taşıdığı bir onur sembolüdür. Rusya Federasyonu'nun deniz gücünü simgeleyen ve denizcilerine minnettarlığını ifade eden bu nişan, 2002'den bu yana pek çok kahramanın üniformasını süslemiştir.",
-      "fun_fact": "Birçok askeri nişan gibi, Rus Donanma Liyakat Nişanı da kahramanlık ve fedakarlığın görsel bir sembolü olarak gururla taşınır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q2588747",
-        "https://tr.wikipedia.org/wiki/Donanma_Liyakat_Ni%C5%9Fan%C4%B1_(Rusya)",
-        "https://en.wikipedia.org/wiki/Order_of_Naval_Merit_(Russia)"
-      ],
-      "wikidata_qid": "Q2588747"
-    },
-    {
-      "id": "Q2061707",
+      "id": "Q3007961",
       "date": "2026-11-09",
       "category": "gida-icecek",
-      "widget_title": "Wild Turkey, ismini ne zaman alarak efsane oldu?",
-      "hook": "Kentucky'nin kalbinden gelen bu meşhur bourbon'ın adının hikayesi, tahmin ettiğinizden çok daha ilginç olabilir.",
-      "answer_year": 1940,
-      "year_precision": "year",
-      "guess_range": [
-        1840,
-        2020
-      ],
-      "body": "Vahşi hindi adı verilen bir viski... Kulağa tuhaf geliyor, değil mi? Ama bu ismin ardında yatan hikaye, en az tadı kadar derin ve ilginç. Eğer 1940 yılını tahmin ettiyseniz, çok yaklaştınız, çünkü Wild Turkey markası ismini tam da o yıl aldı!\n\nHikaye, Austin, Nichols & Co. adlı bir dağıtım şirketinin yöneticisi olan Thomas McCarthy Jr. ile başlıyor. McCarthy, 1940 yılında arkadaşlarıyla geleneksel bir vahşi hindi avı gezisine çıktı. Yanında da, o zamanlar henüz bir adı olmayan, kendi özel stoğundan bir fıçı dolusu viski vardı. Av gezisi boyunca bu viskiyi yudumlayan arkadaşları tadına doyamadı.\n\nBir sonraki yıl, aynı arkadaşlar McCarthy'den o eşsiz viskiden getirmesini istediklerinde, akıllarına gelen ilk şey \"o vahşi hindi viskisi\" oldu. İşte bu an, markanın kaderini mühürledi. McCarthy bu hikayeyi duyunca, viskiye \"Wild Turkey\" adını vermenin harika bir fikir olduğunu düşündü. Ve böylece, dünyaca ünlü bir viski markasının adı, dostluk ve bir av gezisinin tesadüfüyle doğmuş oldu.\n\nPek çok kişi Wild Turkey damıtımevinin 1940'ta kurulduğunu sanır; oysa damıtımevinin kökleri çok daha eskilere dayanır. Ancak o ikonik ismi kazandığı, tüm dünyaya yayılan efsanesinin başladığı yıl, evet, 1940'tır. Bir sonraki Wild Turkey kadehinizde, bu hikayeyi anımsayın!",
-      "fun_fact": "Markanın maskotu olan vahşi hindi, viski şişelerinin etiketlerinde gururla yer alır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q2061707",
-        "https://tr.wikipedia.org/wiki/Wild_Turkey",
-        "https://en.wikipedia.org/wiki/Wild_Turkey_(bourbon)"
-      ],
-      "wikidata_qid": "Q2061707"
-    },
-    {
-      "id": "Q41300",
-      "date": "2026-11-10",
-      "category": "giyim",
-      "widget_title": "Tapınak Şövalyeleri'nin destansı macerası hangi yıl başladı?",
-      "hook": "Orta Çağ'ın en güçlü askeri tarikatlarından Tapınak Şövalyeleri'nin destansı hikayesi ne zaman başladı?",
-      "answer_year": 1120,
+      "widget_title": "Cutty Sark viskisi ilk ne zaman şişelendi?",
+      "hook": "Denizlerin hırçın ruhunu taşıyan bu efsanevi içki, ilk kez hangi yıl kadehlerle buluştu?",
+      "answer_year": 1923,
       "year_precision": "day",
       "guess_range": [
-        1020,
-        1200
+        1820,
+        2000
       ],
-      "body": "Orta Çağ'ın sisli perdeleri arasında yükselen Tapınak Şövalyeleri, adını Kudüs'teki Süleyman Tapınağı'ndan alan, Hristiyanlığın en etkili askeri tarikatlarından biriydi. Kuruluşları, Haçlı Seferleri dönemine, özellikle de Kutsal Topraklar'a giden hacıları koruma ihtiyacına dayanır. Bu soylu görev için bir araya gelen dokuz Fransız şövalye, [DOĞRULA: Hugo de Payens önderliğinde miydi?] 1120 yılında bu büyük hareketi başlattı.\n\nBaşlangıçta mütevazı bir grup olsalar da, kilise tarafından kısa sürede tanındılar ve desteklendiler. Özellikle Aziz Bernard Clairvaux'nun desteğiyle hızla büyüdüler. Onlara verilen beyaz pelerin üzerindeki kırmızı haç, cesaretlerinin ve fedakarlıklarının sembolü haline geldi. Savaş meydanlarında gösterdikleri üstün başarılar ve disiplinleri sayesinde hem askeri hem de siyasi arenada büyük bir güç kazandılar. Sadece bir savaş gücü olmakla kalmayıp, aynı zamanda o dönemin ilk uluslararası bankacılık sistemlerinden birini de kurdular. Hacılar için para transferi hizmetleri sunarak büyük bir servet edindiler.\n\nAncak bu muazzam güç ve zenginlik, beraberinde kıskançlıkları ve düşmanlıkları da getirdi. Özellikle Fransa Kralı IV. Philip'in [DOĞRULA: Tapınak Şövalyelerine karşı kişisel bir borcu veya başka bir çıkarı var mıydı?] etkisiyle 1312 yılında tarikat Papa tarafından resmen lağvedildi ve liderleri trajik bir şekilde yargılanarak idam edildi. Tapınak Şövalyeleri'nin hikayesi, günümüzde hala komplo teorilerine ve gizemli efsanelere ilham veren, tarihin en büyüleyici sayfalarından birini oluşturuyor.",
-      "fun_fact": "Günümüzde hala popüler kültürde yerini koruyan Tapınak Şövalyeleri, birçok film, kitap ve video oyununa ilham kaynağı olmuştur.",
+      "body": "1923 yılı, viski dünyası için önemli bir dönüm noktasına işaret ediyor: Cutty Sark'ın doğuşu. Bu ikonik harmanlanmış İskoç viskisi, adını dünyanın en hızlı yelkenli çay gemilerinden biri olan efsanevi Cutty Sark gemisinden alıyor. [DOĞRULA: Bu viski, Londra merkezli şarap ve içki tüccarı Berry Bros. & Rudd tarafından yaratıldı.] Amaçları, o dönemin ağır ve yoğun viskilerine bir alternatif sunmaktı; daha hafif, daha pürüzsüz ve ferahlatıcı bir tat profiline sahip bir içki.\n\nCutty Sark, özellikle Amerikan yasağı (Prohibition) döneminde, yasadışı yollarla ABD'ye sokularak büyük ün kazandı. [DOĞRULA: Viskinin bu dönemde ne kadar popüler olduğu ve \"rum-runner\"lar tarafından taşındığına dair hikayeler var.] Canlı sarı etiketi ve kendine özgü tadıyla kısa sürede dünya çapında tanındı. O, sadece bir içki değil, aynı zamanda hızın, maceranın ve özgürlüğün bir sembolü haline geldi. Tadına baktığınızda, bir geminin rüzgarla dans ettiği o özgürlüğü hissedeceğiniz söylenir. Viski severler arasında hızla kendine yer bulan bu harika içki, bugüne kadar popülerliğini koruyor.",
+      "fun_fact": "Cutty Sark gemisi, aynı zamanda ünlü şair Robert Burns'ün bir şiirindeki cadının gömleğinin adıydı!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q41300",
-        "https://tr.wikipedia.org/wiki/Tap%C4%B1nak_%C5%9E%C3%B6valyeleri",
-        "https://en.wikipedia.org/wiki/Knights_Templar"
+        "https://www.wikidata.org/wiki/Q3007961",
+        "https://tr.wikipedia.org/wiki/Cutty_Sark_(viski)",
+        "https://en.wikipedia.org/wiki/Cutty_Sark_(whisky)"
       ],
-      "wikidata_qid": "Q41300"
+      "wikidata_qid": "Q3007961"
     },
     {
-      "id": "Q206978",
+      "id": "Q3076217",
+      "date": "2026-11-10",
+      "category": "gida-icecek",
+      "widget_title": "Dewar's viski markası ne zaman kuruldu?",
+      "hook": "İskoç viskisi Dewar's, macerasına ne zaman başladı?",
+      "answer_year": 1846,
+      "year_precision": "year",
+      "guess_range": [
+        1740,
+        1920
+      ],
+      "body": "Dewar's viski markasının kökenleri, viski dünyasının altın çağına denk gelen 1846 yılına uzanıyor. İskoçya'nın Perth şehrinde, kurucusu John Dewar, küçük bir şarap ve alkollü içki dükkanı açarak bu büyük maceranın ilk adımını attı. Dewar'ın amacı basitti ama iddialıydı: Farklı malt ve tahıl viskilerini ustaca harmanlayarak (blend), her zaman aynı pürüzsüzlükte ve tutarlı lezzette, kaliteden ödün vermeyen bir içki yaratmak. Bu vizyonu sayesinde, Dewar's kısa sürede yerel halk arasında favori haline geldi ve kalite anlayışıyla ün saldı.\n\nAncak Dewar's'ın asıl yükselişi ve küresel çapta tanınması, John'ın oğulları John Alexander ve Tommy Dewar'ın işleri devralmasıyla başladı. Özellikle Tommy Dewar, döneminin ötesinde bir pazarlama ve girişimcilik anlayışına sahipti. [DOĞRULA: Tommy Dewar'ın pazarlama dehası olduğu ifadesinin genel kabul görüp görmediği.] Onun yenilikçi ruhu ve dünya çapındaki seyahatleri, markayı İskoçya sınırlarının dışına taşıdı. Tommy, markayı tanıtmak için okyanusları aştı, şehir şehir dolaştı ve Dewar's'ın adını Amerika'dan Avustralya'ya kadar her yere ulaştırdı. Bu çabalar sayesinde, Dewar's kısa sürede global bir ikona dönüştü ve birçok uluslararası ödül kazandı.\n\nBugün bile Dewar's, aynı tutku ve özenle üretilmeye devam ediyor. Harmanlanmış İskoç viskisi geleneğinin en güçlü ve saygın temsilcilerinden biri olarak, yarım asırdan fazla süren tecrübesiyle, her şişesinde John Dewar'ın ilk günkü kalite arayışını yansıtıyor.",
+      "fun_fact": "Dewar's, harmanlanmış viskilerin birbirine daha iyi karışmasını sağlamak için fıçılarda ekstra bir \"evlendirme\" (marrying) sürecinden geçmesiyle biliniyor, bu da ona eşsiz pürüzsüzlüğünü veriyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3076217",
+        "https://tr.wikipedia.org/wiki/Dewar%27s",
+        "https://en.wikipedia.org/wiki/Dewar%27s"
+      ],
+      "wikidata_qid": "Q3076217"
+    },
+    {
+      "id": "Q3268",
       "date": "2026-11-11",
       "category": "gida-icecek",
-      "widget_title": "Sprite ne zaman ferahlık dünyasına adım attı?",
-      "hook": "Limona ve misket limonuna batırılmış buz gibi bir ferahlık hissiyle tanıştığımız o meşhur içecek, aslında düşündüğünüzden daha eski olabilir.",
-      "answer_year": 1961,
+      "widget_title": "Fransa'nın meşhur elma brendisi Kalvados ne zaman başladı?",
+      "hook": "Elmanın bambaşka bir yorumu olan, sıcak sohbetlerin eşlikçisi Kalvados'un hikayesi çok eskilere dayanıyor.",
+      "answer_year": 1600,
       "year_precision": "year",
       "guess_range": [
-        1860,
+        1500,
+        1680
+      ],
+      "body": "Fransa'nın kuzeybatısındaki yemyeşil Normandiya bölgesinden dünyaya yayılan Kalvados, aslında fermente edilmiş elma şarabı yani 'sidr'ın damıtılmasıyla elde edilen özel bir brendi. Adını da geldiği coğrafyadan, Calvados departmanından alıyor. Peki bu eşsiz içki ne zaman başladı dersiniz? Elma şarabı damıtımının Normandiya'da çok daha eskiye, [DOĞRULA: ilk elma şarabı damıtma lisansının ne zaman verildiği ve ilk damıtıcıların ne zaman ortaya çıktığı] 16. yüzyıla kadar dayandığına dair kayıtlar olsa da, 'Kalvados' adıyla bu içkinin resmi olarak tanınması ve popülerleşmesi yaklaşık olarak 1600'lü yıllara rastlar.\n\nKalvados, tıpkı şarap gibi coğrafi işaret korumasına sahip, yani her elma brendisine Kalvados denmiyor. Sadece belirli elma türlerinden, belirli yöntemlerle ve belirli bir bölgede üretilenler bu adı taşıyabiliyor. Bu da ona hem kalite hem de özgünlük katıyor. Genellikle yemek öncesi iştah açıcı olarak veya sindirime yardımcı olarak tercih edilse de, uzun yıllar meşe fıçılarda dinlenerek kompleks aromalar kazanan Kalvados, başlı başına keyifli bir içki haline geliyor. Tıpkı Fransız mutfağının diğer incileri gibi, Kalvados da tarih boyunca sofraların ve özel anların vazgeçilmezi olmayı sürdürmüş. Özellikle 'Trou Normand' adı verilen geleneksel öğünde, ana yemekler arasında sindirimi kolaylaştırmak için küçük bir kadeh Kalvados içme geleneği bile var!",
+      "fun_fact": "Bir kadeh Kalvados için ideal kadeh şekli, konyağa benzer, geniş altlıklı ve ağzı daralan bir kadehtir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3268",
+        "https://tr.wikipedia.org/wiki/Kalvados",
+        "https://en.wikipedia.org/wiki/Calvados"
+      ],
+      "wikidata_qid": "Q3268"
+    },
+    {
+      "id": "Q3270660",
+      "date": "2026-11-12",
+      "category": "gida-icecek",
+      "widget_title": "Voss suyunun hikayesi ne zaman başladı?",
+      "hook": "O kendine özgü şişesiyle tanınan Voss suyunun aslında sandığınızdan çok daha genç bir geçmişi var!",
+      "answer_year": 1998,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
         2026
       ],
-      "body": "Sprite, pek çoğumuzun sıcak yaz günlerinde veya sadece serinlemek istediğimizde aklına gelen ilk gazlı içeceklerden biri. O keskin limon ve misket limonu aroması, ferahlatıcı köpükleriyle adeta bir klasiğe dönüştü. Peki, bu ikonik içeceğin hikayesi nerede başlıyor?\n\nSprite'ın dünyaya tanıtıldığı yıl 1961. Coca-Cola şirketinin Almanya'daki iştiraki tarafından geliştirilen bu içecek, başlangıçta \"Fanta Klare Zitrone\" (Fanta Berrak Limon) adıyla piyasaya sürüldü. Evet, yanlış duymadınız, kökenlerinde Fanta ile bir bağlantısı var! Amerika Birleşik Devletleri'ne gelişi ise kısa süre sonra, [DOĞRULA: ABD'ye tam olarak hangi yıl geldi?] gerçekleşti ve burada bugünkü adıyla \"Sprite\" olarak tescil edildi.\n\nO dönemde piyasada benzer limon-misket limonu gazlı içecekler bulunsa da, Sprite kısa sürede kendi hayran kitlesini oluşturdu. Özellikle genç nesiller arasında popülerlik kazanmasının ardında, enerjik reklam kampanyaları ve elbette o eşsiz, canlandırıcı tadı yatıyordu. Başlangıçta yeşil cam şişelerde sunulan Sprite, zamanla ambalajında da değişikliklere gitti ancak o karakteristik yeşil rengini ve ferahlık imajını korumayı başardı. [DOĞRULA: Yeşil cam şişelerin ne zaman karton/plastik ambalaja geçtiğini araştır.] Günümüzde dünya genelinde milyarlarca insan tarafından tüketilen Sprite, sadece bir içecek olmaktan öte, bir kültür ikonu haline geldi.",
-      "fun_fact": "Sprite'ın isminin, 1940'larda Coca-Cola'nın reklamlarında kullanılan 'Sprite Boy' adlı yaramaz, gümüş saçlı bir elften geldiği söylenir.",
+      "body": "Bugün lüks restoranların, şık otellerin ve ünlülerin masalarından tanıdığımız Voss suyunun hikayesi, aslında çok da eskilere dayanmıyor. Bu premium markanın macerası, 1998 yılında Norveç'te başladı. Peki, bu kadar kısa sürede nasıl dünya çapında bir fenomen haline geldi? Sadece suyundan mı ibaret? Aslında Voss'u Voss yapan en önemli unsurlardan biri, şüphesiz ikonik şişe tasarımı. Silindirik, minimalist ve son derece şık bu tasarım, suyu başlı başına bir moda aksesuarına dönüştürdü. Voss'un Norveç'in güneyindeki Iveland bölgesinde bulunan bir artezyen kuyusundan elde edildiği belirtiliyor. Bu bölge, nispeten insan yerleşiminden uzak ve temiz bir doğaya sahip olmasıyla biliniyor. Suyun düşük mineral içeriği ve yumuşak tadı öne çıkarılsa da, asıl başarısı akıllı pazarlama stratejisinde gizliydi. Marka, başlangıcından itibaren kendisini üst düzey segmentte konumlandırdı. Ünlülerle yapılan anlaşmalar, lüks etkinliklerdeki varlığı ve prestijli satış noktaları sayesinde kısa sürede bir statü sembolü haline geldi. Böylece sıradan bir içecek olmaktan çıkıp, bir yaşam tarzı seçimi olarak algılanmaya başladı. Bu durum, suyun kalitesi kadar, sunumun ve marka imajının ne denli önemli olduğunu gösteren güzel bir örnek.",
+      "fun_fact": "Voss şişeleri, tekrar kullanılabilirlikleri sayesinde birçok DIY projesinde ve dekorasyonda da yer buldu!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q206978",
-        "https://tr.wikipedia.org/wiki/Sprite",
-        "https://en.wikipedia.org/wiki/Sprite_(drink)"
+        "https://www.wikidata.org/wiki/Q3270660",
+        "https://tr.wikipedia.org/wiki/Voss_(su)",
+        "https://en.wikipedia.org/wiki/Voss_(water)"
       ],
-      "wikidata_qid": "Q206978"
+      "wikidata_qid": "Q3270660"
     },
     {
-      "id": "Q41898",
-      "date": "2026-11-12",
-      "category": "giyim",
-      "widget_title": "Beş kelimelik bu Latince bulmaca ne zaman ortaya çıktı?",
-      "hook": "Hem ileri hem geri okunan bu beş kelimelik Latince karenin sırrı ne zaman başladı?",
-      "answer_year": 1,
-      "year_precision": "year",
-      "guess_range": [
-        -100,
-        80
-      ],
-      "body": "Antik dünyanın en büyüleyici bilmecelerinden biri olan Sator Karesi, sadece beş Latince kelimeden oluşmasına rağmen yüzyıllardır araştırmacıların zihnini meşgul ediyor. Bu gizemli kare, \"SATOR, AREPO, TENET, OPERA, ROTAS\" kelimelerini öyle bir düzenle bir araya getirir ki, ister yukarıdan aşağı, ister aşağıdan yukarı, ister soldan sağa, ister sağdan sola okuyun, sonuç hep aynıdır! Bu palindromik yapı, onu kelime oyunlarının en erken ve en sofistike örneklerinden biri yapar.\n\nSator Karesi'nin ortaya çıkışı [DOĞRULA: Sator Karesi'nin kesin ortaya çıkış tarihi ve ilk bilinen örnekleri], tahminlere göre İsa'dan sonraki ilk yüzyıla, yani yaklaşık MS 1 yılı civarına dayanıyor. En eski örneklerinden bazıları, MS 79'da Vezüv Yanardağı patlamasıyla küller altına gömülen Pompeii'nin duvarlarında bulunmuştur. Bu, karenin o dönemde zaten popüler olduğunu gösterir. Kelimelerin anlamlarına gelince: SATOR 'ekin eken', AREPO'nun anlamı tartışmalı ve [DOĞRULA: 'Arepo' kelimesinin tam anlamı veya kökeni net değil], TENET 'tutar', OPERA 'iş, çaba' ve ROTAS ise 'tekerlekler' veya 'döndürür' anlamına gelir.\n\nPeki, bu kare ne amaçla yapılmıştı? Kimi teorisyenler onu erken Hristiyanlığın gizli bir sembolü olarak görürken, kimileri ise büyülü güçleri olduğuna inanır; yangınları söndürmekten nazardan korumaya kadar çeşitli faydaları olduğuna dair inançlar yaygındır. Ancak belki de en basit açıklama, sadece zekice tasarlanmış bir kelime oyunu, antik dünyanın bir tür \"sudoku\"su olduğudur. Her ne olursa olsun, Sator Karesi hala sırrını koruyor ve bize geçmişin ne kadar karmaşık ve yaratıcı olabileceğini fısıldıyor.",
-      "fun_fact": "Bazı dilbilimciler, Sator Karesi'ndeki harflerin farklı bir düzenlemeyle 'Pater Noster' (Latince 'Babamız') duasını oluşturduğunu iddia eder.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q41898",
-        "https://tr.wikipedia.org/wiki/Sator_Karesi",
-        "https://en.wikipedia.org/wiki/Sator_Square"
-      ],
-      "wikidata_qid": "Q41898"
-    },
-    {
-      "id": "Q207711",
+      "id": "Q331630",
       "date": "2026-11-13",
       "category": "gida-icecek",
-      "widget_title": "Bloody Mary kokteyli ne zaman ortaya çıktı?",
-      "hook": "Sabah kahvaltılarının, brunch'ların ve bazen de 'ertesi gün' sendromunun vazgeçilmezi Bloody Mary'nin hikayesi oldukça ilginç.",
+      "widget_title": "Pilsner Urquell'in altın çağı ne zaman başladı?",
+      "hook": "Bugün tüm dünyada severek içtiğimiz açık renkli, berrak biraların atası nerede ve nasıl doğdu dersiniz?",
+      "answer_year": 1842,
+      "year_precision": "year",
+      "guess_range": [
+        1740,
+        1920
+      ],
+      "body": "19. yüzyılın başlarında, bugünkü Çek Cumhuriyeti topraklarında yer alan Plzeň şehrinin bira meraklıları, içtikleri biraların kalitesinden pek de memnun değillerdi. Hatta 1838'de bazı fıçılar halkın gözü önünde dökülecek kadar durum vahimdi! İşte bu hayal kırıklığı, şehrin ileri gelenlerini harekete geçirdi ve yepyeni bir bira fabrikası kurma kararı aldılar. Bu modern tesise, Bavyeralı genç bir bira ustası olan Josef Groll'u davet ettiler.\n\nGroll'un görevi belliydi: Şehrin gurur duyacağı, lezzetli ve kaliteli bir bira yaratmak. Ve tam da 1842 yılında, Plzeň'in o ünlü yumuşak suyu, yerel Saaz şerbetçiotu ve o zamana dek pek kullanılmayan açık renkli maltlarla harikalar yarattı. Groll, alt fermantasyon tekniğini kullanarak, altın sarısı renginde, berrak, köpüklü ve ferahlatıcı bir bira üretti. Bu bira, dönemin bulanık ve koyu renkli biralarından o kadar farklıydı ki, kısa sürede Plzeň'in sembolü haline geldi. Adını da şehrinden alarak 'Pilsner' olarak dünyaya yayıldı. [DOĞRULA: Pilsner isminin dünyaya yayılış hızı ve ilk pazarlama yöntemleri hakkında daha detaylı bilgi]\n\nPilsner Urquell'in doğuşu, aslında biranın altın çağını başlattı diyebiliriz. Groll'un geliştirdiği bu yöntem, daha sonra 'Pilsner' tipi bira olarak tüm dünyada popülerleşti ve bugün süpermarket raflarında gördüğümüz açık renkli, lager biraların çoğunun atası oldu. Kendi kategorisini yaratan bu bira, ilk yudumlandığı günden bu yana lezzetinden ödün vermeden milyonlarca insanı serinletmeye devam ediyor.",
+      "fun_fact": "Pilsner Urquell, dünyadaki ilk açık renkli alt fermantasyon bira (lager) olarak kabul edilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q331630",
+        "https://tr.wikipedia.org/wiki/Pilsner_Urquell",
+        "https://en.wikipedia.org/wiki/Pilsner_Urquell"
+      ],
+      "wikidata_qid": "Q331630"
+    },
+    {
+      "id": "Q332378",
+      "date": "2026-11-14",
+      "category": "gida-icecek",
+      "widget_title": "Absolut Vodka ne zaman şişelenmeye başlandı?",
+      "hook": "O ikonik şişesiyle dünya barlarını fetheden Absolut Vodka'nın kökleri, hayal ettiğinizden çok daha eskilere dayanıyor.",
+      "answer_year": 1879,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Absolut Vodka denince aklınıza modern bir tasarım, şık reklamlar ve belki de enfes kokteyller geliyor olabilir. Ancak bu ikonik markanın hikayesi, düşündüğünüzden çok daha eskilere, 1879 yılına dayanıyor. O yıl, İsveçli girişimci Lars Olsson Smith, \"Absolut Rent Brännvin\" (Mutlak Saf Votka) adını verdiği bir votka üretmeye başladı. Smith, bu içkinin kalitesini, o zamanın votkalarından ayıran yenilikçi bir damıtma yöntemiyle garantilemişti: sürekli damıtma. Bu yöntem, geleneksel damıtmanın aksine, votkanın istenmeyen safsızlıklardan tamamen arınmasını sağlıyor ve ona olağanüstü bir saflık kazandırıyordu.\n\nSmith'in hedefi, İsveç'teki alkollü içki tekelini kırmaktı ve bunu başarmak için ürününü kalite ve saflık üzerine konumlandırdı. Orijinal şişe tasarımı bile, eczane şişelerinden ilham alarak saflığı ve tıbbi hassasiyeti çağrıştırıyordu [DOĞRULA: Eczane şişesi ilhamı]. Absolut Rent Brännvin, İsveç'te kısa sürede popülerlik kazandı ve uzun yıllar boyunca ülkenin önde gelen votkası oldu. Ancak bildiğimiz modern \"Absolut Vodka\" kimliğine kavuşması, markanın uluslararası pazarlara açılmaya karar verdiği 1970'li yılları buldu. 1979'da, yani kuruluşunun yüzüncü yılında, bugünkü ikonik şişesi ve \"Absolut Vodka\" adıyla dünya çapında lanse edildi ve o günden beri global bir başarı hikayesi yazmaya devam ediyor.",
+      "fun_fact": "Absolut'un ilk pazarlama kampanyalarından biri, dönemin ünlü sanatçılarıyla işbirlikleri yaparak, şişesini bir sanat eseri gibi konumlandırmasıyla çığır açmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q332378",
+        "https://tr.wikipedia.org/wiki/Absolut_Vodka",
+        "https://en.wikipedia.org/wiki/Absolut_Vodka"
+      ],
+      "wikidata_qid": "Q332378"
+    },
+    {
+      "id": "Q34172",
+      "date": "2026-11-15",
+      "category": "gida-icecek",
+      "widget_title": "Tereyağı sofralarımızdaki yerini ne zaman aldı?",
+      "hook": "Mutfakların vazgeçilmezi tereyağının hikayesi, insanlık tarihi kadar eski.",
+      "answer_year": -8000,
+      "year_precision": "year",
+      "guess_range": [
+        -8100,
+        -7920
+      ],
+      "body": "Bugün kahvaltılarımızın ve yemeklerimizin yıldızı olan tereyağının hikayesi, insanlık tarihi kadar eski, hatta belki de ondan bile daha yaşlı! Yapılan arkeolojik ve tarihi bulgular, tereyağının yaklaşık M.Ö. 8000 yılına kadar uzanan bir geçmişi olduğunu gösteriyor. Evet, doğru duydunuz, Neolitik Çağ'dan bahsediyoruz!\n\nPeki, bu lezzetli ürün nasıl keşfedildi? Muhtemelen, sütü deriden yapılma tulumlarda taşıyan kadim insanlar, tulumların sallanmasıyla sütün kıvamının değiştiğini ve ayrıştığını fark ettiler. Bu şans eseri keşif, insanlık için yeni bir lezzet ve besin kaynağının kapılarını araladı. İlk başlarda sadece bir gıda maddesi olarak değil, aynı zamanda merhem, yakıt, kozmetik ve hatta dini ritüellerde kurban olarak da kullanıldığına dair kanıtlar bulunuyor. [DOĞRULA: Farklı kültürlerde tereyağının kullanım alanları ve örnekleri.]\n\nTereyağı, özellikle soğuk iklimlerde yaşayan topluluklar için önemli bir enerji ve yağ kaynağıydı. Orta Doğu'dan Avrupa'ya, Hindistan'dan İskandinavya'ya kadar pek çok farklı coğrafyada kendine yer buldu. Roma ve Yunan medeniyetlerinde daha çok ilaç ve kozmetik amaçlı kullanılırken, kuzeydeki barbar kabileler için temel bir besin maddesiydi. Kimin icat ettiğini asla bilemeyecek olsak da, bu mucizevi besinin ortaya çıkışı, insanların doğayı anlama ve ondan faydalanma yeteneğinin çarpıcı bir göstergesidir.",
+      "fun_fact": "Antik çağlarda tereyağı sadece yemek değil, aynı zamanda ilaç, kozmetik ve hatta dini törenlerde kutsal bir sunu olarak da kullanılırdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q34172",
+        "https://tr.wikipedia.org/wiki/Tereya%C4%9F%C4%B1",
+        "https://en.wikipedia.org/wiki/Butter"
+      ],
+      "wikidata_qid": "Q34172"
+    },
+    {
+      "id": "Q343276",
+      "date": "2026-11-16",
+      "category": "gida-icecek",
+      "widget_title": "Actimel ilk kez ne zaman raflardaki yerini aldı?",
+      "hook": "Bağışıklık sistemine destek denince akla gelen ilk markalardan Actimel'in doğuş tarihi neydi?",
+      "answer_year": 1994,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Günümüz kahvaltı rutinlerinin ve sağlıklı yaşam trendlerinin vazgeçilmezlerinden biri olan Actimel, probiyotik yoğurt içecekleri denince akla gelen ilk markalardan. Peki, bu küçük şişelerin serüveni ne zaman başladı? Takvimler 1994 yılını gösterdiğinde, Fransız gıda devi Danone, özel olarak geliştirilmiş L. casei Danone suşunu içeren bu yenilikçi ürünü Avrupa pazarına sundu. O dönemde, probiyotiklerin sindirim sistemine faydaları üzerine araştırmalar hız kazanmış ve Danone de bu alandaki potansiyeli görmüştü. Actimel, özellikle bağışıklık sistemini destekleme vaadiyle öne çıkarak kısa sürede tüketicilerin ilgisini çekmeyi başardı. Küçük, tek kullanımlık şişe formatı sayesinde hem pratikti hem de hareket halindeki yaşam tarzına uyum sağlıyordu. Avrupa'da başlayan bu yolculuk, zamanla Actimel'in dünya çapında popülerlik kazanmasına ve farklı pazar ihtiyaçlarına göre çeşitli tatlar ve formüllerle genişlemesine olanak tanıdı. Bugün hala milyonlarca insanın güne başlarken tercih ettiği bir ürün olmayı sürdürüyor, 'iyi bakterilerin' gücünü her yudumda sunuyor. Unutmayalım ki, bu tarz ürünlerin faydaları kişiden kişiye değişebilir ve dengeli bir beslenmenin yerini tutmaz.",
+      "fun_fact": "Actimel'in gücü, içerdiği özel L. casei Danone bakterisinin mide asidine karşı gösterdiği doğal dirençten geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q343276",
+        "https://tr.wikipedia.org/wiki/Actimel",
+        "https://en.wikipedia.org/wiki/Actimel"
+      ],
+      "wikidata_qid": "Q343276"
+    },
+    {
+      "id": "Q347187",
+      "date": "2026-11-17",
+      "category": "gida-icecek",
+      "widget_title": "Dom Pérignon markası hangi yıl ortaya çıktı?",
+      "hook": "Şampanyanın efsanevi ismi, aslında düşündüğünüzden çok daha genç bir hikayeye sahip olabilir!",
       "answer_year": 1921,
       "year_precision": "year",
       "guess_range": [
         1820,
         2000
       ],
-      "body": "Bloody Mary kokteyli, brunch masalarının ve ‘ertesi gün’ iyileşme seanslarının vazgeçilmezi olarak bilinse de, aslında oldukça köklü bir geçmişe sahip. Bu ikonik içecek, tahmin ettiğinizden çok daha eski bir tarihte, ta 1921 yılında Fransız barmen Fernand Petiot sayesinde ortaya çıktı.\n\nPetiot, o dönemde Paris’in meşhur Harry’s New York Bar’ında çalışıyordu ve müşterilerin votka ile domates suyunu karıştırma talepleri üzerine bu yeni içeceği geliştirdi. İlk başta oldukça basit bir karışımdı; votka ve domates suyu. Ancak zamanla tuz, karabiber, Worcestershire sosu ve Tabasco gibi eklemelerle bugünkü karmaşık ve zengin tadına kavuştu. Petiot'un bu ilk denemesi, kokteyl dünyasında bir devrim yaratacak, basit ama etkileyici bir başlangıç oldu.\n\nKokteylin isminin nereden geldiği ise biraz muamma. En yaygın rivayetlerden biri, adını dönemin meşhur kabare yıldızı Mary Pickford’dan aldığı yönünde. Bir diğer teori ise, İngiltere Kraliçesi I. Mary’nin lakabı olan “Kanlı Mary”den ilham alındığını öne sürer. Hatta bazıları, Chicago'da [DOĞRULA: Chicago'da bir barda çalışan Mary isimli bir garsonla ilgili rivayet] bir barda çalışan bir garson kızdan esinlenildiğini söyler. Ancak kesin olan şey, Petiot'un yaratıcılığının bu efsanevi içeceği bize kazandırdığıdır. Bugün dünya çapında milyonlarca insan tarafından keyifle tüketilen Bloody Mary, sadece bir kokteyl değil, adeta bir kültür ikonu haline gelmiştir.",
-      "fun_fact": "Bloody Mary'nin adı için İngiltere Kraliçesi I. Mary'den, hatta bir Chicago barında çalışan garson kızdan ilham alındığına dair farklı rivayetler bulunur.",
+      "body": "Birçoğumuz Dom Pérignon ismini duyduğumuzda aklımıza hemen şampanyanın mucidi ve yüzlerce yıllık bir tarih gelir, değil mi? Oysa bu efsanevi ismin modern şampanya dünyasındaki yolculuğu, düşündüğümüzden biraz daha farklı bir başlangıca sahip. Evet, Dom Pierre Pérignon adında gerçek bir keşiş, 17. yüzyılın sonları ve 18. yüzyılın başlarında yaşamış ve Şampanya bölgesinde şarapçılık tekniklerinin geliştirilmesinde önemli rol oynamıştır. Özellikle şişe içinde ikinci fermantasyonun kontrolü ve farklı üzüm bağlarından gelen şarapları harmanlama konusunda çığır açan çalışmaları olduğu düşünülür. Ancak yaygın inanışın aksine, Dom Pérignon şampanyayı tek başına 'icat etmedi' ve o dönemde şampanya bugünkü gazlı haliyle bilinmiyordu. Hatta birçok tarihçi, günümüzdeki 'köpüklü' şampanyanın keşfinin [DOĞRULA: İngilizlerin de bu sürece katkısı olduğunu belirt] İngiliz şarap tüccarlarının şişeleme teknikleriyle bağlantılı olduğunu belirtir. Peki, 1921 tarihi ne anlama geliyor? İşte tam da bu noktada hikaye ilginçleşiyor: 1921, Dom Pérignon markası altında üretilen ilk prestij şampanyasının *vintage* (yani hasat) yılıdır! Bu özel şampanya aslında 1936 yılında piyasaya sürülmüştür. Yani Dom Pérignon, köklü bir geçmişe saygı duruşunda bulunan, ama kendisi de oldukça prestijli ve özel bir tarihe sahip modern bir markadır. Şarapçılık dünyasına bıraktığı miras ise gerçekten paha biçilmez.",
+      "fun_fact": "Dom Pérignon şampanyaları yalnızca belirli 'vintage' yıllarda, yani üzümlerin kalitesinin olağanüstü olduğu dönemlerde üretilir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q207711",
-        "https://tr.wikipedia.org/wiki/Bloody_Mary_(i%C3%A7ki)",
-        "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)"
+        "https://www.wikidata.org/wiki/Q347187",
+        "https://tr.wikipedia.org/wiki/Dom_P%C3%A9rignon_(%C5%9Farap)",
+        "https://en.wikipedia.org/wiki/Dom_P%C3%A9rignon"
       ],
-      "wikidata_qid": "Q207711"
+      "wikidata_qid": "Q347187"
     },
     {
-      "id": "Q4375583",
-      "date": "2026-11-14",
-      "category": "giyim",
-      "widget_title": "SSCB Kan Bağışçıları Madalyası ne zaman verildi?",
-      "hook": "Kan vermek hayat kurtarır, peki bu fedakarlığın onurlandırıldığı özel bir madalyanın hikayesini biliyor musunuz?",
-      "answer_year": 1944,
+      "id": "Q3493770",
+      "date": "2026-11-18",
+      "category": "gida-icecek",
+      "widget_title": "Şekersiz ama tam lezzet: Pepsi Max ne zaman ortaya çıktı?",
+      "hook": "Şekersiz kolalı içecekler dünyasında kendine sağlam bir yer edinen Pepsi Max'in hikayesini merak ediyor musunuz?",
+      "answer_year": 1993,
       "year_precision": "day",
       "guess_range": [
-        1840,
-        2020
+        1890,
+        2026
       ],
-      "body": "İnsanlık tarihi boyunca kan bağışı, çoğu zaman görünmez kahramanların sessiz fedakarlığı olmuştur. Ancak bazı dönemlerde, bu yaşam kurtarıcı eylemin önemi öylesine artar ki, devletler bağışçılarını özel nişanlarla onurlandırma ihtiyacı hisseder. SSCB Kan Bağışçıları Madalyası da tam olarak böyle bir dönemin ürünüdür. Bu özel madalya, 1944 yılında, yani İkinci Dünya Savaşı'nın en çetin günlerinde, cephede yaralanan askerlerin ve sivil halkın hayatlarını kurtarmak için kan bağışlayan Sovyet vatandaşlarını onurlandırmak amacıyla [DOĞRULA: resmen yürürlüğe kondu/tesis edildi ifadesini kullanmalı mıyım?] yürürlüğe kondu. Savaş zamanı koşullarında, kan bankalarının ve tıbbi kaynakların kısıtlı olduğu bir dönemde, gönüllü kan bağışçıları hayati bir rol oynuyordu. Madalya, bu fedakarlığın tanınması ve takdir edilmesi için bir semboldü. Hem düzenli kan bağışçılarını teşvik ediyor hem de o zorlu yıllarda toplumsal dayanışmayı pekiştiriyordu. Madalyanın tam olarak kim tarafından tasarlandığı veya ilk olarak kimlere verildiği bilgisi [DOĞRULA: yaygın olarak biliniyor mu/kayıtlara geçmiş mi?] net olmasa da, onun temsil ettiği değer tartışılmazdı: savaşın yaralarını sarmak için gösterilen insanüstü çaba ve dayanışma ruhu. Bu madalya, basit bir metal parçasından çok daha fazlasıydı; kurtarılan her hayatın ve gösterilen her cesur adımın bir nişanıydı.",
-      "fun_fact": "Bugün birçok ülkede kan bağışçıları farklı seviyelerde ödüllendirilirken, SSCB'deki bu madalya, tarihin belirli bir dönemindeki kolektif fedakarlığın nadir bir sembolüdür.",
+      "body": "1993 yılı, kolalı içecekler pazarında önemli bir yeniliğe tanıklık etti. Tüketicilerin hem şekersiz seçeneklere yönelme arzusu hem de geleneksel kolanın zengin tadından vazgeçmeme isteği, markaları yeni formüller denemeye itiyordu. İşte tam da bu arayışın bir sonucu olarak PepsiCo, Pepsi Max'i piyasaya sürdü. Bu içeceğin temel vaadi basitti: 'Maksimum tat, sıfır şeker'. O döneme kadar piyasada bulunan diyet kolaların genellikle hafif ve bazen tat açısından eksik algılanması, Pepsi Max'in konumlandırmasını farklılaştırdı. Marka, özellikle genç ve dinamik bir hedef kitleye odaklanarak, şekersiz bir içeceğin de tam ve doyurucu bir tat sunabileceğini kanıtladı. Pepsi Max, sıfır kalori sunarken, birçok kişinin beklediği 'kola tadından' ödün vermemesiyle kısa sürede dünya genelinde popülerlik kazandı. [DOĞRULA: Pepsi Max'in piyasaya sürülmesinde hangi pazar araştırmaları etkili oldu?] Bu yenilikçi yaklaşım, diyet içeceklere karşı önyargılı olanları bile kendisine çekmeyi başardı ve o günden bu yana, şekersiz kola pazarının en güçlü oyuncularından biri olarak varlığını sürdürüyor.",
+      "fun_fact": "Pepsi Max, piyasaya çıktığı ilk yıllarda, şekerli kolalardan vazgeçmek istemeyen ancak şeker alımını azaltmak isteyen tüketiciler arasında hızla büyük ilgi gördü.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q4375583",
-        "https://tr.wikipedia.org/wiki/SSCB_Kan_Ba%C4%9F%C4%B1%C5%9F%C3%A7%C4%B1lar%C4%B1_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Honoured_Blood_Donor_of_the_USSR"
+        "https://www.wikidata.org/wiki/Q3493770",
+        "https://tr.wikipedia.org/wiki/Pepsi_Max",
+        "https://en.wikipedia.org/wiki/Pepsi_Max"
       ],
-      "wikidata_qid": "Q4375583"
+      "wikidata_qid": "Q3493770"
     },
     {
-      "id": "Q209974",
-      "date": "2026-11-15",
-      "category": "gida-icecek",
-      "widget_title": "Beşamel sos mutfaklara ne zaman girdi?",
-      "hook": "Mutfakların bu kadife dokulu klasiğinin aslında düşündüğünüzden çok daha eski bir hikayesi olabilir mi?",
-      "answer_year": 1396,
-      "year_precision": "year",
-      "guess_range": [
-        1290,
-        1470
-      ],
-      "body": "Mutfakların vazgeçilmezi beşamel sos dendiğinde, aklınıza hemen Fransız mutfağı ve hatta [DOĞRULA: Louis de Béchameil'in adıyla ilişkilendirilen 17. yüzyıl hikayesi] gelebilir. Oysa bu kremsi sosun kökenleri, tahminlerinizden çok daha eskiye, taa 1396 yılına dayanıyor! Evet, yanlış duymadınız. O dönemde yazılmış bir yemek kitabında, bugünkü beşamel sosa benzeyen, tereyağı, un ve sütten yapılan bir sosun tarifi bulunuyor. Elbette o zamanki hali, günümüzdeki pürüzsüz ve kadifemsi dokusundan biraz farklı, belki daha yoğun veya basit bir 'beyaz sos' formundaydı. Ama temel bileşenler ve mantık aynıydı. Louis de Béchameil ise sosu icat etmekten ziyade, [DOĞRULA: Kral XIV. Louis'nin baş aşçısı olarak, belki de var olan bir tarifi geliştirerek veya popülerleştirerek] adını sosla ilişkilendirmiştir. Zamanla tarifler evrildi, rafine edildi ve günümüzdeki mükemmel beşamel sos halini aldı. Lazanya, musakka, graten gibi sayısız yemeğe lezzet katan bu sos, gerçekten de mutfak dünyasının zamana meydan okuyan klasiklerinden biri.",
-      "fun_fact": "Beşamel sosun, Fransız mutfağına girmeden önce İtalya'da 'salsa colla' adıyla bilinen benzer bir beyaz sostan türediği düşünülüyor.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q209974",
-        "https://tr.wikipedia.org/wiki/Be%C5%9Famel_sos",
-        "https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce"
-      ],
-      "wikidata_qid": "Q209974"
-    },
-    {
-      "id": "Q45793841",
-      "date": "2026-11-16",
-      "category": "giyim",
-      "widget_title": "III. Napolyon'un görkemli tacı ne zaman tahtına kavuştu?",
-      "hook": "Fransız İmparatoru III. Napolyon'un başını süsleyen bu göz kamaştırıcı taç, bir dönemin ihtişamını yansıtıyor.",
-      "answer_year": 1855,
-      "year_precision": "year",
-      "guess_range": [
-        1750,
-        1930
-      ],
-      "body": "1855 yılı, Fransa'da İkinci İmparatorluk'un ihtişamının doruklarda yaşandığı bir dönemdi ve tam da bu tarihte, İmparator III. Napolyon için görkemli bir taç yaratıldı. Bu taç, sadece paha biçilmez mücevherlerle süslü bir başlık değil, aynı zamanda III. Napolyon'un imparatorluk gücünün ve otoritesinin en belirgin simgelerindendi. Amcası I. Napolyon'un mirası üzerine kurduğu bu yeni imparatorluğun meşruiyetini pekiştirmek için imparatorluk nişaneleri büyük önem taşıyordu.\n\nTacın tam olarak kim tarafından yapıldığı bilgisi bize ulaşmasa da, dönemin en usta mücevher sanatçılarının elinden çıktığına şüphe yok. [DOĞRULA: Tacın yapımında kullanılan ana malzemeler ve barındırdığı en dikkat çekici mücevherler nelerdi?] Bu eser, dönemin sanatsal anlayışını ve zanaatkarlığının zirvesini yansıtıyordu. III. Napolyon'un tacı, onun imparatorluk seremonilerinde ve önemli devlet törenlerinde kullandığı, gücü ve ihtişamı temsil eden merkezi bir unsurdu. Ne yazık ki, İkinci İmparatorluk'un ömrü uzun sürmedi ve 1870'lerde çöküşüyle birlikte, bu taç gibi birçok imparatorluk nişanesinin akıbeti de belirsizleşti. [DOĞRULA: Tacın bugünkü durumu veya nerede sergilendiği bilgisi.] Geçmişin bu görkemli sembolü, dönemin siyasi ve sanatsal atmosferini anlamamız için değerli bir anahtar olmaya devam ediyor.",
-      "fun_fact": "İmparatorluk döneminin sona ermesiyle birlikte, birçok kraliyet mücevheri gibi III. Napolyon'un tacının da kaderi, politik rüzgarlara göre şekillendi.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q45793841",
-        "https://tr.wikipedia.org/wiki/III._Napolyon%27un_tac%C4%B1",
-        "https://en.wikipedia.org/wiki/Crown_of_Napoleon_III"
-      ],
-      "wikidata_qid": "Q45793841"
-    },
-    {
-      "id": "Q213338",
-      "date": "2026-11-17",
-      "category": "gida-icecek",
-      "widget_title": "Merlot üzümü ne zaman ismini duyurmaya başladı?",
-      "hook": "Dünyanın en sevilen şaraplık üzümlerinden Merlot'nun hikayesinin ne zamana dayandığını biliyor musun?",
-      "answer_year": 1750,
-      "year_precision": "year",
-      "guess_range": [
-        1700,
-        1830
-      ],
-      "body": "Merlot, üzüm bağlarının asil prenslerinden biri ve şarap dünyasının vazgeçilmez lezzetlerinden. Peki, bu zarif üzüm ne zaman sahneye çıktı? Verilere göre, Merlot'nun adı kayıtlarda ilk kez 1750 yılında karşımıza çıkıyor. Ancak bu tarih, üzümün kendisinin icat edildiği ya da ortaya çıktığı anlamına gelmiyor, daha ziyade bu adla resmen anılmaya başlandığı bir dönemi işaret ediyor. Muhtemelen daha öncesinde de vardı ama farklı isimlerle biliniyor veya henüz resmi bir kimliğe bürünmemişti. \n\nMerlot'nun anavatanı, dünyanın en prestijli şarap bölgelerinden biri olan Bordeaux, Fransa olarak kabul edilir. Adının kökeni de oldukça sevimli bir tahmine dayanıyor: 'küçük karatavuk' anlamına gelen 'merle' kelimesinden geldiği düşünülüyor, çünkü bu üzümlerin koyu, morumsu rengi karatavukların tüylerini andırıyor ve kuşlar bu tatlı üzümleri çok seviyor. [DOĞRULA: Merlot adının karatavuk ile bağlantısının kesinliği]\n\nBugün Merlot, Cabernet Sauvignon'dan sonra dünya genelinde en çok ekilen ikinci şaraplık üzüm çeşididir. Yumuşak tanenleri ve dolgun yapısıyla hem tek başına harika şaraplar verir hem de farklı üzümlerle harmanlandığında şaraplara derinlik ve yumuşaklık katar. Kırmızı meyve aromalarıyla damakları şenlendiren Merlot, gerçekten de köklü bir geçmişe sahip.",
-      "fun_fact": "Merlot üzümleri, adını Fransızcada 'küçük karatavuk' anlamına gelen 'merle' kelimesinden almış olabilir, çünkü rengi karatavukların tüylerine benzer ve kuşlar bu üzümleri çok sever!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q213338",
-        "https://tr.wikipedia.org/wiki/Merlot",
-        "https://en.wikipedia.org/wiki/Merlot"
-      ],
-      "wikidata_qid": "Q213338"
-    },
-    {
-      "id": "Q465774",
-      "date": "2026-11-18",
-      "category": "giyim",
-      "widget_title": "Altın Post Nişanı ne zaman kuruldu?",
-      "hook": "Avrupa'nın en eski ve prestijli şövalyelik nişanlarından Altın Post Nişanı'nın sırrı neydi?",
-      "answer_year": 1430,
-      "year_precision": "year",
-      "guess_range": [
-        1330,
-        1510
-      ],
-      "body": "Avrupa'nın en eski ve prestijli şövalyelik nişanlarından biri olan Altın Post Nişanı, 1430 yılında kuruldu. Kurucusu, Burgonya Dükü Philippe le Bon (İyi Philippe) idi. Dük Philippe, bu nişanı, Portekizli Isabella ile olan evliliğini kutlamak ve Burgonya Dükalığı'nın ihtişamını pekiştirmek amacıyla [DOĞRULA: amacı bu muydu, evlilikle doğrudan bağlantısı neydi?] tesis etti.\n\nNişanın ismi, Antik Yunan mitolojisindeki Argonotlar'ın Altın Post'u arayışına bir göndermedir. Bu sembol, saflığı, kahramanlığı ve Hristiyanlık inancına bağlılığı temsil ediyordu. Nişan, üyelerini yalnızca yüksek ahlaki değerlere sahip, cesur ve sadık soylulardan seçerek Avrupa'nın en özel kulüplerinden biri haline geldi. Amacı, üyeleri arasında dostluğu ve kardeşliği teşvik etmek, şövalyelik erdemlerini yüceltmek ve Katolik inancını korumaktı.\n\nKurulduğu günden itibaren büyük bir saygınlık kazanan Altın Post Nişanı, yüzyıllar boyunca Avrupa'nın en güçlü hükümdarlarının ve soylularının arzuladığı bir onur payesi oldu. Nişanın zincirleri ve madalyaları, genellikle altın ve değerli taşlarla süslü, büyüleyici sanat eserleriydi. Bu nişan, siyasi ittifakların pekiştirilmesinde ve hanedanların prestijinin artırılmasında önemli bir rol oynamıştır. Halen iki farklı kola ayrılmış olsa da (İspanyol ve Avusturya kolları), Altın Post Nişanı, tarihteki yerini ve etkisini korumaya devam ediyor.",
-      "fun_fact": "Nişan, tarih boyunca iki ana kola ayrılarak varlığını sürdürmüştür: İspanyol ve Avusturya kolları.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q465774",
-        "https://tr.wikipedia.org/wiki/Alt%C4%B1n_Post_%C5%9E%C3%B6valyeleri_Tarikat%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_the_Golden_Fleece"
-      ],
-      "wikidata_qid": "Q465774"
-    },
-    {
-      "id": "Q2168523",
+      "id": "Q36465",
       "date": "2026-11-19",
       "category": "gida-icecek",
-      "widget_title": "The Famous Grouse viskisinin hikayesi ne zaman başladı?",
-      "hook": "İskoçya'nın en meşhur viskilerinden biri olan The Famous Grouse'un kökenleri sandığınızdan daha eskiye dayanıyor olabilir!",
-      "answer_year": 1896,
+      "widget_title": "Un insanlık tarihinde ne zaman yerini aldı?",
+      "hook": "Tarihin tozlu sayfalarında, unun hikayesi sandığımızdan çok daha eskilere dayanıyor.",
+      "answer_year": -14000,
       "year_precision": "year",
       "guess_range": [
-        1790,
-        1970
+        -14100,
+        -13920
       ],
-      "body": "Bugün dünyanın dört bir yanında kadeh kaldırılan İskoç viskisi The Famous Grouse, köklerini 1896 yılına dayıyor. Perth merkezli bir aile şirketi olan Matthew Gloag & Son tarafından yaratılan bu harman viski, başlangıçta 'Gloag's Best Perth Whisky' adıyla piyasaya sürülmüştü. Ancak Matthew Gloag'ın torunu Matthew Gloag III'ün vizyonuyla, İskoçya'nın sembol kuşlarından biri olan kızıl kekliğe (red grouse) atıfla, 1896'da ismi 'The Grouse Brand' olarak değiştirildi. [DOĞRULA: Matthew Gloag III'ün adı doğru mu?] Kısa sürede o kadar popüler oldu ki, 1905 yılında önüne 'Famous' (Meşhur) kelimesi eklenerek bugünkü ikonik adı olan The Famous Grouse'u aldı. Bu isim değişikliği, viskinin kalitesine ve hızla artan şöhretine bir göndermeydi. Yıllar içinde, Highland Park ve The Macallan gibi saygın malt viskilerini harmanında kullanarak kendine özgü yumuşak ve dengeli bir lezzet profili oluşturdu. İskoçya'nın en çok satan viskilerinden biri haline gelmesi ve global çapta tanınması, onun hikayesini sadece bir içki olmaktan çıkarıp, bir başarı öyküsüne dönüştürdü. Soğuk İskoçya gecelerinde veya dost meclislerinde, The Famous Grouse, geçmişten gelen bir mirasın günümüzdeki yansıması olarak kadehlerdeki yerini koruyor.",
-      "fun_fact": "Şişenin üzerindeki kızıl keklik figürü, sadece bir logo değil, aynı zamanda İskoçya'nın vahşi doğasının ve zengin mirasının da bir simgesidir.",
+      "body": "Un, mutfaklarımızın vazgeçilmezi olsa da, aslında insanlık tarihindeki en eski gıdalardan biri. Çoğumuz onu sadece ekmek yapımıyla ilişkilendirse de, bu temel gıda maddesinin kökenleri sandığımızdan çok daha derinlere uzanıyor. Yapılan arkeolojik buluntular, insanların tahılları öğütmeye başladığını ve un benzeri maddeler ürettiğini yaklaşık 14.000 yıl öncesine tarihlendiriyor. Bu kadar eski bir geçmişe sahip olması, unun sadece beslenme alışkanlıklarımızı değil, aynı zamanda yerleşik yaşama geçişimizi ve hatta medeniyetlerin temelini atan kritik unsurlardan biri olduğunu gösteriyor.\n\nDüşünün, Paleolitik dönemde yaşayan atalarımız, önce yabani tahılları özenle toplayıp ardından taşlar arasında ezerek basit bir \"un\" elde ediyordu. Bu ilk öğütülmüş tahıllar, belki de doğrudan çiğ olarak tüketilmiyor, belki de suyla karıştırılıp bir çeşit lapa veya ilkel yiyecekler yapımında kullanılıyordu. Bu basit işlem, enerjik ve besleyici bir gıda kaynağına ulaşmanın ilk adımıydı. Zamanla, bu ilkel yöntemler gelişti ve Neolitik Çağ'da tarımın başlamasıyla un üretimi, insanlığın beslenme tarihinde adeta devrim niteliğinde bir adım oldu. Unun belirli bir \"mucidi\" olmaması aslında çok doğal; o, binlerce yıl süren bir gözlem, keşif ve evrim sürecinin ürünü. İnsanlığın ortak zekası ve hayatta kalma mücadelesinin bir parçası olarak, bu toz haline getirilmiş tahıl, medeniyetlerin gelişiminde kilit bir rol oynamıştır.",
+      "fun_fact": "Un, tarihin en eski ve en önemli işlenmiş gıdalarından biri olup, neredeyse her kültürün mutfağında merkezi bir role sahiptir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q2168523",
-        "https://tr.wikipedia.org/wiki/The_Famous_Grouse",
-        "https://en.wikipedia.org/wiki/The_Famous_Grouse"
+        "https://www.wikidata.org/wiki/Q36465",
+        "https://tr.wikipedia.org/wiki/Un",
+        "https://en.wikipedia.org/wiki/Flour"
       ],
-      "wikidata_qid": "Q2168523"
+      "wikidata_qid": "Q36465"
     },
     {
-      "id": "Q478850",
+      "id": "Q372270",
       "date": "2026-11-20",
-      "category": "giyim",
-      "widget_title": "Kızıl Bayrak İşçi Nişanı ne zaman kuruldu?",
-      "hook": "Sovyetler Birliği'nde emeğin onurlandırıldığı özel bir nişanı keşfetmeye ne dersiniz?",
-      "answer_year": 1928,
-      "year_precision": "day",
+      "category": "gida-icecek",
+      "widget_title": "Elmalı gazozların kralı Appletiser ne zaman hayatımıza girdi?",
+      "hook": "Şişede sunulan bu ferahlatıcı elma keyfinin hikayesini merak ediyor musun?",
+      "answer_year": 1966,
+      "year_precision": "year",
       "guess_range": [
-        1820,
-        2000
+        1860,
+        2026
       ],
-      "body": "Sovyetler Birliği'nin işçi sınıfına verdiği değeri gösteren önemli sembollerden biri olan Kızıl Bayrak İşçi Nişanı, 1928 yılında kuruldu. Bu nişan, askeri başarılar yerine sivil alandaki olağanüstü katkıları ödüllendirmek amacıyla tasarlanmıştı. Tarım, sanayi, bilim, kültür, eğitim ve sağlık gibi pek çok farklı sektörde gösterilen üstün başarılar, bu prestijli ödülle taçlandırılıyordu.\n\nKızıl Bayrak İşçi Nişanı, aynı zamanda Sovyet propagandasında da önemli bir rol oynuyordu. Çalışmanın ve fedakarlığın yüceltildiği bu dönemde, nişan sahipleri topluma örnek gösterilen kahramanlar olarak kabul edilirdi. Nişan sadece bireylere değil, aynı zamanda kurum ve kuruluşlara da [DOĞRULA: şehirler de dahil miydi?] verildi. Bu da nişanın toplumsal önemi ve kolektif çalışmaya verilen değerin bir göstergesiydi.\n\nNişanın tasarımı, Sovyet ideolojisinin temel öğelerini yansıtıyordu: çekiç ve orak, kızıl bayrak ve yıldız. Bu semboller, işçi ve köylü birliğinin ve komünist ideallerin temsilcisiydi. Yıllar içinde nişanın görünümünde küçük değişiklikler yapılsa da, ana hatları korunmuştur.\n\n1991 yılında Sovyetler Birliği'nin dağılmasıyla birlikte, Kızıl Bayrak İşçi Nişanı da tarihteki yerini aldı. Ancak bir dönemin emek ve başarıya verdiği önemin kalıcı bir anıtı olarak hatırlanmaya devam ediyor.",
-      "fun_fact": "Bu nişan, askeri başarıları ödüllendiren Kızıl Bayrak Nişanı'nın sivil hayattaki karşılığı olarak tasarlanmıştı.",
+      "body": "Ferahlatıcı, köpüklü ve tamamen doğal... Appletiser, elmanın en şık hali desek yanlış olmaz herhalde! Çoğumuz onu bir tür elmalı gazoz sanabiliriz ama aslında bambaşka bir hikayesi var. Appletiser, yüzde 100 elma suyundan üretilen, içine sadece doğal baloncuklar eklenmiş, ferahlatıcı bir içecek. Hiçbir katkı maddesi veya ilave şeker içermemesiyle diğer gazlı içeceklerden ayrışıyor.\n\nBu eşsiz içeceğin yolculuğu, 1966 yılında, güneşli Güney Afrika'da başladı. Rivayete göre, [DOĞRULA: Edmond Lombardi adında vizyoner bir çiftçi], sağlıklı ve alkolsüz, şampanya benzeri bir içecek yaratma hayaliyle yola çıkmış. Amacı, meyvenin doğal lezzetini ve ferahlığını koruyarak, özel anları kutlamaya değer, sofistike bir alternatif sunmaktı. [DOĞRULA: İlk başlarda, bu köpüklü elma suyu gerçekten de şampanya şişelerinde piyasaya sürülmüş.] Bu da ona hem şıklık katmış hem de özel bir içecek algısı yaratmış. Adı da oldukça yaratıcı; \"apple\" (elma) ve \"appetiser\" (iştah açıcı) kelimelerinin birleşimiyle, tam da vaat ettiğini yansıtır nitelikte. Yıllar içinde dünya genelinde popülerlik kazanan Appletiser, doğallığı ve lezzetiyle pek çok kişinin favorisi olmayı başardı. Elma bahçelerinden şişelere uzanan bu lezzetli maceranın başlangıcı tam da o yıl, 1966'ydı. Sağlıklı ve lezzetli bir seçeneğin doğuşuna tanıklık etmişiz.",
+      "fun_fact": "Appletiser'ın adı, 'elma' ve 'iştah açıcı' kelimelerinin birleşimiyle oluşmuş, tam da amacına uygun!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q478850",
-        "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_Bayrak_%C4%B0%C5%9F%C3%A7i_Ni%C5%9Fan%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_the_Red_Banner_of_Labour"
+        "https://www.wikidata.org/wiki/Q372270",
+        "https://tr.wikipedia.org/wiki/Appletiser",
+        "https://en.wikipedia.org/wiki/Appletiser"
       ],
-      "wikidata_qid": "Q478850"
+      "wikidata_qid": "Q372270"
     },
     {
-      "id": "Q219141",
+      "id": "Q3895013",
       "date": "2026-11-21",
       "category": "gida-icecek",
-      "widget_title": "Zombie kokteyli ilk ne zaman ortalığı karıştırdı?",
-      "hook": "İçenleri adeta zombiye çeviren bu efsanevi kokteylin kökenleri, tahmin ettiğinizden çok daha renkli!",
-      "answer_year": 1934,
+      "widget_title": "Paradise kokteyli hangi yıl dünyaya geldi?",
+      "hook": "Adı gibi cennetten bir tat sunan bu klasik kokteylin hikayesi, onu ilk yudumladığınızda size de ilham verecek.",
+      "answer_year": 1930,
       "year_precision": "year",
       "guess_range": [
         1830,
         2010
       ],
-      "body": "Zombie kokteylinin hikayesi, aslında Hollywood'un parıltılı dünyasında ve tiki kültürünün doğuşunda saklı. Takvimler 1934 yılını gösterirken, Donn Beach (gerçek adı Ernest Raymond Beaumont Gantt) adında vizyoner bir barmen, Hollywood'daki \"Don the Beachcomber\" restoranında bu gizemli içeceği yarattı. İddiaya göre, yorgun düşmüş bir arkadaşının isteği üzerine, onu canlandıracak ama aynı zamanda ertesi güne kadar 'zombi' gibi hissettirecek bir karışım hazırladı. Ve işte efsanevi Zombie böyle doğdu! Bu kokteylin ünü, sadece güçlü alkol içeriğinden değil, aynı zamanda o dönemde oldukça egzotik kabul edilen tropikal meyve suları ve çeşitli romların ustaca harmanlanmasından geliyordu. Donn Beach, tariflerini büyük bir sır gibi saklardı ve hatta barındaki barmenlerin bile tüm tarifi bilmelerine izin vermezdi. [DOĞRULA: Donn Beach'in tarifi parça parça verdiğini veya sadece kendisinin tamamını bildiğini doğrulayabiliriz.] Bu sır perdesi, Zombie'nin etrafındaki efsaneyi daha da güçlendirdi. Kokteylin orijinal hali, birden fazla rom çeşidinin yanı sıra, çeşitli baharatlar ve meyve sularını içeriyordu; bu da ona eşsiz, karmaşık bir tat katıyordu. Ancak unutmayın, Zombie sadece lezzetli değil, aynı zamanda oldukça güçlüdür! Bu yüzden adını sonuna kadar hak ediyor.",
-      "fun_fact": "Donn Beach, Zombie'nin orijinal tarifini o kadar gizli tuttu ki, menülerinde bile içeriğini sadece 'çok güçlü' olarak belirtirdi!",
+      "body": "Yıl 1930. Dünya Büyük Buhran'la boğuşurken, kokteyl kültürü sessizce gelişmeye, uyum sağlamaya ve yenilikler üretmeye devam ediyordu. İşte tam da bu dönemde, gerçekten keyifli bir karışım olan Paradise kokteyli sahneye çıktı. Cin, kayısı brendisi ve taze portakal suyunu bir araya getiren Paradise, kısa sürede güzel dengelenmiş bir içecek olarak kendine yer edindi.\n\nAdı, \"Cennet,\" sunduğu kaçışı işaret ediyor gibiydi – meyveli, pürüzsüz ve hafif mayhoş bir mutluluk anı. Bazı daha keskin kuzenlerinin aksine, Paradise sizi sarhoş etmekten çok, her malzemenin rolünü mükemmel bir şekilde oynadığı uyumlu bir karışımdır. Cin botanik bir omurga sağlarken, kayısı brendisi sıcak, tatlı ve belirgin bir meyve notası katıyor ve taze portakal suyu da narenciye dokunuşuyla her şeyi parlatıyor.\n\nBirçok kokteylin ünlü bir mucidi veya efsanevi bir köken hikayesi olsa da, Paradise kokteylinin yaratıcısı hala keyifli bir gizem. Sanki o dönemin kolektif kokteyl bilincinden kendiliğinden ortaya çıkmış gibi, [DOĞRULA: barlarda veya gizli barlarda/speakeasylerde] çiçek açan yaratıcılığın bir kanıtı. Belki de bir barmen, elindeki malzemeleri karıştırırken tesadüfen bu cennetimsi dengeyi yakaladı ve bir daha asla unutulmadı. 1930'ların ruhunu yansıtan bu içecek, günümüzde de klasik kokteyl listelerinin vazgeçilmezi olmaya devam ediyor.",
+      "fun_fact": "Paradise kokteyli, aynı zamanda \"Kokteyllerin Altın Çağı\" olarak bilinen dönemden günümüze ulaşan zarif miraslardan biridir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q219141",
-        "https://tr.wikipedia.org/wiki/Zombie_(kokteyl)",
-        "https://en.wikipedia.org/wiki/Zombie_(cocktail)"
+        "https://www.wikidata.org/wiki/Q3895013",
+        "https://tr.wikipedia.org/wiki/Paradise_(kokteyl)",
+        "https://en.wikipedia.org/wiki/Paradise_(cocktail)"
       ],
-      "wikidata_qid": "Q219141"
+      "wikidata_qid": "Q3895013"
     },
     {
-      "id": "Q48189",
+      "id": "Q396184",
       "date": "2026-11-22",
-      "category": "giyim",
-      "widget_title": "Kudüs'te doğan Töton Şövalyeleri ne zaman sahneye çıktı?",
-      "hook": "Kutsal Topraklar'da bir araya gelen bu şövalyeler, hem savaşçı hem de yardımseverdi; peki hikayeleri ne zaman başladı?",
-      "answer_year": 1190,
+      "category": "gida-icecek",
+      "widget_title": "Kanada'nın meşhur lezzeti Poutine ne zaman doğdu?",
+      "hook": "Poutine'in bu lezzetli yolculuğu hangi on yılda başladı?",
+      "answer_year": 1950,
       "year_precision": "year",
       "guess_range": [
-        1090,
-        1270
+        1850,
+        2026
       ],
-      "body": "Tarih, bazen en beklenmedik yerlerde kahramanlık ve bağlılık hikayeleri yazar. Töton Şövalyeleri'nin hikayesi de Kudüs'ün o çalkantılı dönemlerinde başladı. Üçüncü Haçlı Seferi'nin yoğunlaştığı, Kudüs Krallığı'nın Akka Kuşatması'nda can çekiştiği yıllardı. Alman hacılar ve tüccarlar, yaralılara bakmak için çadır hastaneler kurdular. İşte bu mütevazı başlangıç, 1190 yılında, daha sonra büyük bir güç haline gelecek olan Töton Şövalyeleri Tarikatı'nın çekirdeğini oluşturdu.\n\nBaşlangıçta bir hastane tarikatı olarak kurulan Töton Şövalyeleri, kısa sürede askeri bir kimlik kazandı. Papalık onayıyla birlikte [DOĞRULA: Tarikatın kuruluşu veya resmi tanınması için hangi papa onay verdi?], hem yaralılara bakmaya devam ettiler hem de Kutsal Topraklar'ı savunmak için kılıç kuşandılar. Kendilerine özgü beyaz pelerinleri üzerindeki siyah haçlarıyla tanınıyorlardı. Kutsal Topraklar'daki misyonları sona erdiğinde, Töton Şövalyeleri'nin gözü başka topraklara, Baltık Denizi kıyılarına çevrildi. Prusya'ya çağrıldılar ve burada pagan topraklarını Hristiyanlaştırma misyonunu üstlendiler. Bu süreçte güçlü kaleler inşa ettiler ve [DOĞRULA: Prusya'daki genişlemeleri ve askeri faaliyetleri hangi yüzyıllarda yoğunlaştı?] bölgenin siyasi haritasını derinden etkilediler.\n\nGünümüzde hala varlığını sürdüren bu köklü tarikat, yüzyıllar boyunca Avrupa tarihinde önemli bir rol oynamıştır. Sadece savaşçı değil, aynı zamanda idareci, inşaatçı ve kültür taşıyıcısı olarak da izler bırakmışlardır.",
-      "fun_fact": "Töton Şövalyeleri, günümüzde hala hayır işleriyle uğraşan bir dinî tarikat olarak varlığını sürdürüyor.",
+      "body": "Kanada'nın soğuk ikliminden çıkan sıcacık bir kucaklaşma gibi poutine... Patates kızartması, çıtır çıtır peynir lorları ve o meşhur kahverengi sosun bir araya gelmesiyle oluşan bu ikonik lezzet, bugün Quebec'in ve hatta tüm Kanada'nın gururu. Peki, bu enfes kombinasyon ilk kez ne zaman mutfaklara adım attı dersiniz? Cevap, tahmin oyunumuzdaki gibi 1950'ler. Ancak, tıpkı birçok halk yemeği gibi, poutine'in kesin doğum tarihi ve mucidi hakkında net bir bilgi bulunmuyor. Rivayetler muhtelif; kimileri 1950'lerin ortalarında, Quebec'in kırsal bölgelerindeki küçük restoran veya atıştırmalık mekanlarında ortaya çıktığını söylüyor. Örneğin, [DOĞRULA: Drummondville veya Warwick kasabalarındaki bir restorana atfedilen hikayeler mevcut.] O dönemde, bir müşterinin patates kızartmasına peynir lorlarını eklemesini istediği ve şefin 'Bu bir poutine (karmaşa) olacak!' dediği gibi anekdotlar anlatılır durur. Bu efsaneler, yemeğin basit başlangıcını ve adının nasıl ortaya çıktığını açıklamaya çalışır. Ancak kesin olan bir şey var ki, 1950'lerde mütevazı bir başlangıç yaparak, zamanla Kanada'nın mutfak mirasının vazgeçilmez bir parçası haline geldi. Bugün, klasik haliyle servis edilmesinin yanı sıra, çeşitli etler, sebzeler veya farklı soslarla zenginleştirilmiş gurme versiyonlarına da rastlamak mümkün.",
+      "fun_fact": "Poutine kelimesi, Quebec argosunda 'karmaşa' veya 'karışıklık' anlamına gelir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q48189",
-        "https://tr.wikipedia.org/wiki/T%C3%B6ton_%C5%9E%C3%B6valyeleri",
-        "https://en.wikipedia.org/wiki/Teutonic_Order"
+        "https://www.wikidata.org/wiki/Q396184",
+        "https://tr.wikipedia.org/wiki/Poutine",
+        "https://en.wikipedia.org/wiki/Poutine"
       ],
-      "wikidata_qid": "Q48189"
+      "wikidata_qid": "Q396184"
     },
     {
-      "id": "Q222787",
+      "id": "Q4039669",
       "date": "2026-11-23",
       "category": "gida-icecek",
-      "widget_title": "Amerika'nın ikonik burbonu Jim Beam ne zaman ortaya çıktı?",
-      "hook": "Amerika'nın en köklü viski markalarından Jim Beam'in hikayesinin ne zaman başladığını biliyor musunuz?",
-      "answer_year": 1795,
+      "widget_title": "İskoç viskisi Grant's'in hikayesi ne zaman başladı?",
+      "hook": "İskoçya'nın en sevilen viski markalarından Grant's'in kökenleri, tahmin ettiğinizden daha da eskiye dayanıyor olabilir mi?",
+      "answer_year": 1887,
       "year_precision": "year",
       "guess_range": [
-        1700,
-        1870
+        1780,
+        1960
       ],
-      "body": "Jim Beam'in köklü hikayesi, 1795 yılında, taze bir başlangıç yapmak isteyen genç bir çiftçi olan Jacob Beam ile başlıyor. O yıllarda Kentucky'nin verimli topraklarına yerleşen Jacob, mısır fazlasını değerlendirmenin bir yolunu ararken, buğday bazlı viskilerin aksine mısır ağırlıklı bir tarif geliştirdi. Ortaya çıkan bu viski, damıtma süreci ve olgunlaştırma yöntemleriyle benzersiz bir karakter taşıyordu. İlk başta 'Old Jake Beam Sour Mash' olarak bilinen bu ürün, kısa sürede bölgede popülerlik kazandı. Jacob Beam, viskisini fıçılarda yaşlandırarak daha yumuşak ve zengin bir tat elde etti ve bu, burbon viskisinin temelini oluşturdu. [DOĞRULA: İlk damıtımevinin tam konumu veya ilk satış noktaları hakkında bilgi.] Yıllar içinde Jim Beam, aileden gelen bir miras olarak varlığını sürdürdü. Her yeni nesil, Jacob'ın orijinal tarifine sadık kalarak ancak aynı zamanda üretim tekniklerini geliştirerek markayı ileri taşıdı. Yedi kuşaktır Beam ailesinin üyeleri tarafından yönetilen bu viski imparatorluğu, sadece bir içecek üretmekle kalmadı, aynı zamanda Amerikan viski tarihinin önemli bir parçasını oluşturdu. Jim Beam, sadece bir içki değil, aynı zamanda bir aile geleneği, çalışkanlık ve kalıcılık hikayesidir. Bugün de ilk günkü özen ve tutkuyla üretilen Jim Beam, dünya çapında bilinen ve sevilen bir burbon markası olmaya devam ediyor.",
-      "fun_fact": "Jim Beam markası, adını 1930'larda şirketi yeniden inşa eden James B. Beam'den almıştır.",
+      "body": "İskoç viskisinin zengin dünyasına hoş geldiniz! Bugün, kadehlerimizin vazgeçilmezlerinden biri olan Grant's'in hikayesini aralıyoruz. Bu köklü marka, tadına doyum olmaz harmanlarını tam olarak 1887 yılında piyasaya sürmeye başladı. İşte o günden beri de viski severlerin kalbinde özel bir yer edinmeyi sürdürüyor.\n\nHikaye, viski endüstrisinde uzun yıllar deneyim kazanmış vizyoner bir adam olan William Grant ile başlıyor. Grant, kendi hayallerinin peşinden giderek 1886 yılında İskoçya'nın Speyside bölgesinde, Glenfiddich damıtımevini kurdu. Yalnızca bir yıl sonra, yani 1887 Noel Günü'nde, damıtımevinden ilk ruh akmaya başladı. İşte bu özel anda, William Grant'in kendi adını taşıyan viski markası Grant's de doğmuş oldu. O günden itibaren, Grant ailesinin nesiller boyu süren tutkusu ve ustalığı, Grant's viskisini dünya çapında tanınan bir lezzet haline getirdi. William Grant'in amacı, [DOĞRULA: \"en iyi dramayı üretmek ve dünyanın dört bir yanına ulaştırmak\" şeklindeki bir misyonu vardı.] Bu vizyon, markanın bugünkü başarısının temelini oluşturuyor. Bir aile şirketi olarak bağımsızlığını koruyan Grant's, geleneksel üretim yöntemlerini modern yeniliklerle harmanlayarak kalitesinden ödün vermiyor. Her damlasında İskoçya'nın ruhunu taşıyan bu viski, 1887'den bu yana geçen zamanda, sayısız özel ana eşlik etti ve etmeye de devam edecek.",
+      "fun_fact": "Grant's'in ikonik üçgen şişesi, [DOĞRULA: 1957 yılında] tasarlanmış ve markanın küresel çapta tanınan bir sembolü haline gelmiştir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q222787",
-        "https://tr.wikipedia.org/wiki/Jim_Beam",
-        "https://en.wikipedia.org/wiki/Jim_Beam"
+        "https://www.wikidata.org/wiki/Q4039669",
+        "https://tr.wikipedia.org/wiki/Grant%27s",
+        "https://en.wikipedia.org/wiki/Grant%27s"
       ],
-      "wikidata_qid": "Q222787"
+      "wikidata_qid": "Q4039669"
     },
     {
-      "id": "Q506369",
+      "id": "Q4247887",
       "date": "2026-11-24",
-      "category": "giyim",
-      "widget_title": "Banyo Nişanı ne zaman kuruldu?",
-      "hook": "Adıyla şaşırtan bu özel nişan, İngiliz tarihinde köklü bir geçmişe sahip!",
-      "answer_year": 1725,
-      "year_precision": "day",
-      "guess_range": [
-        1700,
-        1800
-      ],
-      "body": "\"Banyo Nişanı\" adını ilk duyduğunuzda aklınıza ne geliyor? Çoğu kişi için bu isim, bir şövalyelik nişanından çok, kişisel bakım ürünlerini veya bir kaplıca deneyimini çağrıştırabilir. Ancak bu yanıltıcı isim, aslında Birleşik Krallık'ın en eski ve en saygın şövalyelik nişanlarından birini gizler! Kökenleri Orta Çağ'a dayanan, şövalye adaylarının arınma amacıyla banyo yaptığı eski ritüellere bir gönderme yapsa da, \"En Şerefli Banyo Nişanı\" olarak bildiğimiz hali, resmen 1725 yılında Kral I. George tarafından ihdas edildi.\n\nBu tarihte artık o eski banyo ritüelleri büyük ölçüde terk edilmişti, yani nişanın adı daha çok tarihi bir geleneğe saygı niteliğindeydi. Nişan, özellikle İngiliz tacına askeri veya sivil alanda üstün hizmetlerde bulunan kişileri ödüllendirmek amacıyla kuruldu. Banyo Nişanı, zaman içinde askeri ve sivil bölümler olmak üzere iki ana kategoriye ayrıldı ve her iki bölümde de farklı derecelere sahip üyeleri bulunur. Bu prestijli unvan, günümüzde de İngiliz Kraliyet Ailesi üyeleri ve kamu hizmetinde öne çıkan önemli şahsiyetlere verilmeye devam ediyor. [DOĞRULA: Nişanın dereceleri ve modern uygulamaları hakkında ek detaylar.]",
-      "fun_fact": "Banyo Nişanı üyeleri, unvanlarına göre \"Sir\" veya \"Dame\" olarak hitap edilebilirler ve genellikle özel törenlerde kendilerine has bir boyun süsü takarlar.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q506369",
-        "https://tr.wikipedia.org/wiki/Banyo_Ni%C5%9Fan%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_the_Bath"
-      ],
-      "wikidata_qid": "Q506369"
-    },
-    {
-      "id": "Q2297786",
-      "date": "2026-11-25",
       "category": "gida-icecek",
-      "widget_title": "Wyborowa votka ne zaman damıtılmaya başlandı?",
-      "hook": "Polonya'nın en ikonik tatlarından biri olan Wyborowa'nın kökleri şaşırtıcı derecede derinlere iniyor.",
-      "answer_year": 1823,
-      "year_precision": "year",
-      "guess_range": [
-        1720,
-        1900
-      ],
-      "body": "Votka denince akla gelen ilk markalardan biri olan Wyborowa, Polonya'nın zengin damıtım geleneğinin yaşayan bir kanıtı. Peki bu efsanevi içkinin ilk kez ne zaman damıtıldığını hiç merak ettiniz mi? Cevap, sandığınızdan çok daha eski bir tarihe dayanıyor: 1823.\n\nPolonya'nın Poznań şehrinde temelleri atılan Wyborowa, o yıllarda henüz bir marka olmaktan çok, yerel bir damıtım evinin özenli çalışmasının ürünüydü. Aslında Wyborowa'nın tarihi, bir damıtım ustasının mükemmel tadı arayışıyla başladı. Seçkin çavdar taneleri ve saf kaynak suyu kullanarak, dönemin en ileri damıtım teknikleriyle üretilen bu votka, kısa sürede kalitesiyle adından söz ettirmeye başladı. İsmi \"seçilmiş\" veya \"seçkin\" anlamına gelen Wyborowa, gerçekten de bu ismi hak eden bir üretim anlayışıyla doğdu.\n\n19. yüzyılın ortalarına doğru, Wyborowa'nın ünü Polonya sınırlarını aşmaya başladı ve votka, Avrupa'nın diğer bölgelerine de ihraç edildi. Bu durum, Wyborowa'yı küresel pazarda tanınan ilk Polonya votkalarından biri haline getirdi ve Polonya votkasının dünya çapında itibar kazanmasında büyük rol oynadı. [DOĞRULA: Wyborowa'nın 1900'lerin başında uluslararası sergilerde altın madalyalar kazanıp kazanmadığı.] Yıllar içinde birçok uluslararası ödül kazanarak kalitesini tescilleyen marka, günümüzde de Polonya'nın en bilinen ve sevilen votka markalarından biri olmaya devam ediyor. Her damlasında yüzyılı aşkın bir mirasın, özenli bir işçiliğin ve Polonya ruhunun izlerini taşıyan Wyborowa, votka severler için zamana meydan okuyan bir lezzet sunuyor.",
-      "fun_fact": "Wyborowa, Avrupa Birliği tarafından \"Polonya Votkası\" tanımına uygunluğu tescillenen ilk markalardan biridir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q2297786",
-        "https://tr.wikipedia.org/wiki/Wyborowa",
-        "https://en.wikipedia.org/wiki/Wyborowa"
-      ],
-      "wikidata_qid": "Q2297786"
-    },
-    {
-      "id": "Q5251769",
-      "date": "2026-11-26",
-      "category": "giyim",
-      "widget_title": "SS-Ehrendegen ne zaman kullanılmaya başlandı?",
-      "hook": "Sıradan bir kılıçtan çok daha fazlası olan bu özel hançerin hikayesini merak ediyor musunuz?",
+      "widget_title": "Katsu-sando'nun lezzet yolculuğu ne zaman başladı?",
+      "hook": "Japon mutfağının ikonik lezzetlerinden Katsu-sando, sandviç tutkunlarının kalbini nasıl fethetti?",
       "answer_year": 1935,
       "year_precision": "year",
       "guess_range": [
         1830,
         2010
       ],
-      "body": "Bugün baktığımızda sadece bir üniforma aksesuarı gibi görünen SS-Ehrendegen, yani \"SS Şeref Hançeri\" (bazen kılıcı olarak da anılır), ait olduğu dönemde oldukça derin anlamlar taşıyordu. Bu özel parça, 1935 yılında SS bünyesinde bir onur ve statü sembolü olarak kullanılmaya başlandı. Savaş meydanında aktif olarak kullanılmak üzere tasarlanmamıştı; aksine, SS hiyerarşisinde üstün hizmet veya belirli bir sadakat seviyesini gösteren seçkin üyelere verilen bir nişandı. Tasarımı, dönemin militarist estetiğini yansıtan detaylara sahipti: siyah kabza, gümüş renkli metal aksamlar ve genellikle bıçağının üzerinde \"Meine Ehre heißt Treue\" (Onurum Sadakattir) mottosu bulunurdu. [DOĞRULA: Kılıç üzerindeki mottonun standart bir özellik olup olmadığını ve tam metnini.] SS-Ehrendegen'in sahipleri, onu hem bir onur nişanı hem de örgüt içindeki konumlarının ve bağlılıklarının bir göstergesi olarak taşırlardı. Bu obje, sadece bir metal parçası olmaktan öte, sahibinin SS ideolojisine olan bağlılığının ve örgüt içindeki itibarının somut bir ifadesiydi. Tarihin bu karmaşık dönemini ve bir örgütün semboller aracılığıyla nasıl kimlik inşa ettiğini anlamak için ilginç bir pencere sunar.",
-      "fun_fact": "Her ne kadar 'şeref kılıcı' olarak adlandırılsa da, boyutları itibarıyla daha çok bir hançere yakındı ve gerçek bir savaş aleti değildi.",
+      "body": "Katsu-sando, Japon mutfağının dünyaya armağan ettiği, çıtır çıtır tonkatsu (pane edilmiş domuz pirzolası) ile yumuşacık shokupan (Japon sütlü ekmeği) ve özel sosların buluştuğu eşsiz bir sandviç. Bu lezzet harikası, ilk olarak **1935** yılında Japonya'da ortaya çıktı.\n\nHikayesi, Tokyo'nun Ueno bölgesindeki Isen adlı [DOĞRULA: Isen bir restoran mıydı yoksa başka bir işletme miydi?] bir restorana dayanıyor. O döneme kadar tonkatsu genellikle tabakta pirinçle servis edilen bir ana yemekti. Ancak Isen, bu sevilen yemeği daha pratik ve atıştırmalık bir hale getirerek sandviç arasına koyma fikrini geliştirdi. [DOĞRULA: Isen'in Katsu-sando'yu yaratma motivasyonu neydi? Paket servis için mi, yoksa sadece yeni bir sunum şekli miydi?] Bu yenilikçi yaklaşım sayesinde, tonkatsunun çıtırlığı ve lezzeti, yumuşak ekmeğin ve tatlı-tuzlu özel sosun mükemmel uyumuyla birleşti. Katsu-sando kısa sürede popülerlik kazanarak hem Japonya içinde hem de uluslararası alanda büyük bir hayran kitlesi edindi. Özellikle tren istasyonlarında ve bento kutularında sıkça rastlanan bir seçenek haline gelmesi, onun pratikliğinin ve doyuruculuğunun kanıtıdır. Günümüzde ise kafe menülerinden lüks restoranlara kadar birçok yerde farklı yorumlarıyla karşılaşmak mümkün.",
+      "fun_fact": "Katsu-sando, bazen özel günlerde şans getirmesi amacıyla da tüketilir çünkü \"katsu\" kelimesi Japoncada \"galibiyet\" veya \"kazanmak\" anlamına gelir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q5251769",
-        "https://tr.wikipedia.org/wiki/SS-Ehrendegen",
-        "https://en.wikipedia.org/wiki/Degen_(SS)"
+        "https://www.wikidata.org/wiki/Q4247887",
+        "https://tr.wikipedia.org/wiki/Katsu-sando",
+        "https://en.wikipedia.org/wiki/Katsu-sando"
       ],
-      "wikidata_qid": "Q5251769"
+      "wikidata_qid": "Q4247887"
     },
     {
-      "id": "Q2339814",
-      "date": "2026-11-27",
+      "id": "Q43514443",
+      "date": "2026-11-25",
       "category": "gida-icecek",
-      "widget_title": "S'more ne zaman kamp ateşlerinin yıldızı oldu?",
-      "hook": "Şimdi o dillere destan marshmallow, çikolata ve bisküvi üçlüsünün sır perdesini aralayalım.",
-      "answer_year": 1920,
+      "widget_title": "Acı Sosların Kraliçesi Lao Gan Ma Ne Zaman Ortaya Çıktı?",
+      "hook": "Çin mutfağının vazgeçilmezi, acı sos tutkunlarının kalbinde taht kuran Lao Gan Ma'nın hikayesi, aslında bir kadının azmine dayanıyor.",
+      "answer_year": 1996,
       "year_precision": "year",
       "guess_range": [
-        1820,
-        2000
+        1890,
+        2026
       ],
-      "body": "Kamp ateşi etrafında toplananların, közde hafifçe kızarmış marshmallow'un o eşsiz kokusunu aldığında hissettiği o tarifsiz heyecanı bilir misiniz? İşte o anın yıldızı, yani S'more, Amerikan kamp geleneğinin vazgeçilmez bir parçası. Peki, bu enfes üçlü – bisküvi, çikolata ve o yapış yapış marshmallow – ne zaman bir araya gelip kalbimizi fethetti? Cevap sizi 1920'lere götürüyor.\n\nS'more'un tam olarak kim tarafından icat edildiği hala gizemini koruyor. Ancak bildiğimiz kadarıyla, bu lezzetli kombinasyonun izleri 1920'li yıllara kadar uzanıyor. Adı ise aslında 'some more' yani 'biraz daha' ifadesinin kısaltmasından geliyor. Kamp ateşi etrafında bu tatlıyı yiyen herkesin mutlaka 'biraz daha' istemesi, bu eğlenceli ismin doğmasına neden olmuş. Hatta, ilk yazılı tariflerden biri 1927 yılında [DOĞRULA: Girl Scouts'ın 'Tramping and Trailing with the Girl Scouts' adlı kitabında] 'Some More' adıyla yayımlandı ve bu tatlının kampçıların favori ikramı olduğu belirtiliyordu.\n\nAslında tarifin basitliği onun en büyük gücü. İki adet kraker arasına eritilmiş çikolata ve közde ısıtılmış, dışı hafifçe karamelize olmuş marshmallow… Bu kombinasyon o kadar karşı konulmaz ki, birini yedikten sonra ikinciye uzanmak kaçınılmaz oluyor. S'more sadece bir tatlı değil; kamp ateşi etrafında kurulan dostlukların, anlatılan hikayelerin ve gökyüzüne bakılarak yapılan hayallerin de bir sembolü haline gelmiş.",
-      "fun_fact": "Her yıl 10 Ağustos, Amerika'da Ulusal S'more Günü olarak kutlanır ve bu tatlıya olan düşkünlük bir kez daha hatırlanır.",
+      "body": "Çin mutfağının vazgeçilmezi, acı sos tutkunlarının kalbinde taht kuran Lao Gan Ma'nın hikayesi, aslında bir kadının, Tao Huabi'nin azmine dayanıyor. Yoksul bir geçmişten gelen ve zorlu hayat şartlarıyla mücadele eden Tao Huabi, başlangıçta kendi eriştelerini sattığı küçük restoranında, müşterilerine özel bir acı sos ikram ediyordu. Bu sosun eşsiz lezzeti, kısa sürede o kadar çok beğeni topladı ki, insanlar eriştelerden çok sosu satın almak istedi. Bu talep üzerine, Tao Huabi cesur bir karar alarak sos üretimine odaklandı. Takvimler 1996 yılını gösterdiğinde ise, \"Lao Gan Ma\" markası resmi olarak kuruldu. Kelime anlamı \"Yaşlı Vasi Anne\" olan bu isim, Tao Huabi'nin hem müşterilerine karşı hissettiği anne şefkatini hem de bölgedeki saygınlığını yansıtıyordu. Başlangıçta sadece birkaç çalışanı olan küçük bir atölyede üretilen bu soslar, içindeki çıtır bileşenler, biber ve baharatların mükemmel uyumuyla kısa sürede Çin'in her köşesine yayıldı. Ardından uluslararası pazarlara açılarak dünya çapında milyonlarca mutfağın favorisi haline geldi. Bugün pek çok yemeğe lezzet katan Lao Gan Ma, Tao Huabi'nin girişimci ruhunun ve eşsiz tarifinin bir mirasıdır.",
+      "fun_fact": "Lao Gan Ma'nın ikonik ambalajında gördüğünüz yüz, markanın kurucusu Tao Huabi'nin kendisi!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q2339814",
-        "https://tr.wikipedia.org/wiki/S%27more",
-        "https://en.wikipedia.org/wiki/S%27more"
+        "https://www.wikidata.org/wiki/Q43514443",
+        "https://tr.wikipedia.org/wiki/Lao_Gan_Ma",
+        "https://en.wikipedia.org/wiki/Lao_Gan_Ma"
       ],
-      "wikidata_qid": "Q2339814"
+      "wikidata_qid": "Q43514443"
     },
     {
-      "id": "Q534676",
-      "date": "2026-11-28",
-      "category": "giyim",
-      "widget_title": "Varşova'nın Kurtuluşu Madalyası ne zaman verildi?",
-      "hook": "İkinci Dünya Savaşı'nın çetin günlerinde, bir şehrin yeniden doğuşunu simgeleyen bu madalyanın hikayesini biliyor musunuz?",
-      "answer_year": 1945,
+      "id": "Q455219",
+      "date": "2026-11-26",
+      "category": "gida-icecek",
+      "widget_title": "Amarone Şarabı Resmi Olarak Ne Zaman Tanındı?",
+      "hook": "İtalyan şarap dünyasının bu güçlü ve zengin lezzeti, aslında sandığımızdan daha genç bir tarihe sahip olabilir mi?",
+      "answer_year": 2011,
       "year_precision": "day",
       "guess_range": [
-        1840,
-        2020
+        1910,
+        2026
       ],
-      "body": "İkinci Dünya Savaşı'nın en yıkıcı cephelerinden birine tanıklık eden Polonya'nın başkenti Varşova, savaşın sonuna doğru, Kızıl Ordu'nun ve Polonyalı birliklerin çabalarıyla Naziler'in elinden kurtarıldı. Şehrin işgalden kurtarılmasında gösterilen cesaret ve fedakarlığı onurlandırmak amacıyla, \"Varşova'nın Kurtuluşu Madalyası\" 1945 yılında SSCB tarafından ihdas edildi. Bu madalya, Sovyetler Birliği'nin İkinci Dünya Savaşı'ndaki zafer madalyaları serisinin önemli bir parçasıydı. Genellikle Varşova Taarruzu'na katılan Kızıl Ordu askerlerine, denizcilere ve çavuşlara, aynı zamanda aktif rol alan Polonyalı direnişçilere ve sivillere de verilirdi. Madalyanın verilmesiyle, Varşova'nın harap edilmiş sokaklarından yeniden ayağa kalkışı ve özgürlüğüne kavuşması simgeleniyordu. Şehrin Nazi işgali altında yaşadığı zulüm ve ardından gelen kurtuluş mücadelesi, Avrupa tarihinin en trajik ve aynı zamanda en kahramanlık dolu sayfalarından biridir. Bu madalya, sadece bir metal parçası değil, aynı zamanda o dönemde yaşanan büyük acıların ve kazanılan özgürlüğün paha biçilmez değerinin de bir nişanesiydi. Üzerindeki tasarım, [DOĞRULA: Madalyanın ön yüzünde yer alan ana tasarım öğeleri ve arka yüzündeki yazı hakkında bilgi edinilebilir mi?] genellikle o dönemin zafer ve dayanışma ruhunu yansıtan motifler taşırdı. Varşova'nın kurtarılması, Avrupa'nın yeniden şekillenmesinde kritik bir adımdı ve bu madalya, o tarihi anın yaşayan bir hatırası olarak binlerce kişiye verildi, onların anısını onurlandırdı.",
-      "fun_fact": "Bu madalyanın, yaklaşık [DOĞRULA: Tam sayı teyit edilmeli, bazı kaynaklarda 1.127.000 civarı olduğu belirtiliyor] 1.127.000 kişiye verildiği tahmin edilmektedir, bu da Varşova'nın kurtuluş mücadelesine katılımın ne kadar geniş olduğunu gösterir.",
+      "body": "İtalya'nın kuzeydoğusundaki Veneto bölgesinin incisi Amarone della Valpolicella, dünya çapında bilinen, kendine has karakteriyle fark yaratan bir şarap. Yoğun meyvemsi aromaları, baharatlı notaları ve dolgun yapısıyla pek çok şarap tutkununun favorisi. Peki, bu denli köklü bir geçmişi varmış gibi duran Amarone, resmi kayıtlarda ne zamandan beri bizimle?\n\nGenellikle 2011 yılıyla anılsa da, bu tarih Amarone'nin 'icat edildiği' yıl değil, İtalyan şarap sınıflandırma sistemindeki en yüksek seviye olan DOCG (Denominazione di Origine Controllata e Garantita) statüsünü kazandığı yıldır. Bu statü, şarabın kalitesini, üretim bölgesini ve yöntemlerini titizlikle garanti altına alır, uluslararası alanda prestijini pekiştirir.\n\nAmarone'nin kökenleri ise çok daha eskiye dayanıyor. Bölgede yüzyıllardır üretilen tatlı Recioto şarabına dayanan bir hikayesi var. Efsaneye göre [DOĞRULA: Amarone'nin ilk kuru versiyonunun nasıl ortaya çıktığına dair yaygın bir efsane olup olmadığını kontrol et], Recioto fıçılarından birinin beklenenden uzun süre mayalanması ve şarabın şekerinin tamamen kurumasıyla, bugünkü Amarone'nin ilk versiyonu 'yanlışlıkla' keşfedilmiş. Başlarda 'Recioto Amaro' (Acı Recioto) olarak anılan bu yeni tarz, zamanla sadece 'Amarone' adıyla ün salmış.\n\nİlk ticari şişelemelerin [DOĞRULA: İlk ticari Amarone şarabının tahmini çıkış tarihi ve ticari adının yaygın olarak bilinen bir kaynağı olup olmadığını doğrula] 20. yüzyılın başlarına veya ortalarına dayandığı düşünülüyor. Şarabın popülaritesi özellikle 20. yüzyılın ikinci yarısında giderek artmış. Dolayısıyla 2011, Amarone'nin doğuşu değil; tam aksine, bu lezzetli yolculuğun kalitesinin ve kendine has karakterinin resmen mühürlendiği, bir dönüm noktasıdır.",
+      "fun_fact": "Amarone, üzümlerin hasattan sonra özel odalarda aylarca kurutulduğu geleneksel 'appassimento' yöntemiyle üretilir; bu sayede şarap eşsiz yoğunluğunu, konsantre lezzetini ve yüksek alkol oranını kazanır.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q534676",
-        "https://tr.wikipedia.org/wiki/Var%C5%9Fova%27n%C4%B1n_Kurtulu%C5%9Fu_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_the_Liberation_of_Warsaw%22"
+        "https://www.wikidata.org/wiki/Q455219",
+        "https://tr.wikipedia.org/wiki/Amarone",
+        "https://en.wikipedia.org/wiki/Amarone"
       ],
-      "wikidata_qid": "Q534676"
+      "wikidata_qid": "Q455219"
     },
     {
-      "id": "Q244611",
-      "date": "2026-11-29",
+      "id": "Q455290",
+      "date": "2026-11-27",
       "category": "gida-icecek",
-      "widget_title": "Soğan Halkaları Masamıza Ne Zaman Geldi?",
-      "hook": "O çıtır çıtır, altın rengi lezzetin tarihi, sandığınızdan çok daha eski olabilir!",
+      "widget_title": "Amarula ne zaman hayatımıza girdi?",
+      "hook": "Afrika savanlarının egzotik tadını şişeye sığdıran bu krema likörü, acaba ne kadar süredir dünyayı büyülüyor?",
+      "answer_year": 1989,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Afrika'nın kalbinden gelen, marula meyvesinin eşsiz lezzetini bir şişeye hapseden Amarula, aslında düşündüğünüzden daha genç bir hikayeye sahip. Bu lezzetli krema likörü, **1989 yılında** Güney Afrika'da dünyaya tanıtıldı. Fildişi rengi şişesi ve tatlı, meyvemsi notalarıyla kısa sürede dünya genelinde tanınan bir içecek haline geldi.\n\nAmarula'nın alametifarikası, adını aldığı marula meyvesinden geliyor. Bu meyve, sadece Afrika'nın bazı bölgelerinde yetişen ve \"fil ağacı\" olarak da bilinen bir ağacın ürünüdür. Efsaneye göre, filler olgunlaşan marula meyvelerini yemeyi çok sever ve bazen bu meyvelerle \"sarhoş\" olurlar. İşte Amarula da bu efsaneden ve meyvenin doğal lezzetinden ilham alıyor.\n\nÜretim süreci oldukça özeldir: Önce toplanan marula meyveleri fermente edilir, ardından damıtılır ve meşe fıçılarda iki yıl olgunlaştırılır. Son olarak, taze krema eklenerek o bildiğimiz pürüzsüz ve zengin kıvam elde edilir. Amarula, sadece bir içecek değil, aynı zamanda Güney Afrika'nın doğal mirasının ve yerel toplulukların desteklenmesinin de bir sembolü olmuştur. [DOĞRULA: Amarula markasının yerel toplulukları ve vahşi yaşamı destekleme taahhüdünün başlangıç tarihi ve kapsamı.] Bu lezzet, buzla sade içilebildiği gibi, birçok kokteylde ve tatlıda da kendine yer bulmuştur.",
+      "fun_fact": "Marula meyvesinin C vitamini açısından portakaldan dört kat daha zengin olduğunu biliyor muydunuz? [DOĞRULA: Marula meyvesinin C vitamini miktarının portakalla karşılaştırılması.]",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q455290",
+        "https://tr.wikipedia.org/wiki/Amarula",
+        "https://en.wikipedia.org/wiki/Amarula"
+      ],
+      "wikidata_qid": "Q455290"
+    },
+    {
+      "id": "Q471753",
+      "date": "2026-11-28",
+      "category": "gida-icecek",
+      "widget_title": "Cuba Libre ne zaman ilk kez yudumlandı?",
+      "hook": "Rum, kola ve bir dilim misket limonu... Bu basit karışım, özgürlüğe adanmış bir kadeh haline nasıl geldi?",
       "answer_year": 1900,
       "year_precision": "year",
       "guess_range": [
         1800,
         1980
       ],
-      "body": "Soğan halkaları… Birçoğumuzun favori atıştırmalıklarından biri, değil mi? Genellikle fast food menülerinin ayrılmaz bir parçası olarak karşımıza çıksalar da, bu lezzetli halkaların tarihi aslında oldukça eskiye dayanıyor. Kayıtlar, soğan halkalarının yaklaşık 1900'lerin başlarında ortaya çıktığını gösteriyor. Ancak şaşırtıcı bir şekilde, bu ikonik yiyeceğin tam olarak kim tarafından veya nerede icat edildiğine dair kesin bir bilgi bulunmuyor.\n\nBazı kaynaklar, 1933 yılında Texas'taki [DOĞRULA: Kirbys Pig Stand restoranının] soğan halkalarını menüsüne ekleyen ilk yerlerden biri olduğunu öne sürse de, soğanların kızartılarak tüketilme fikri çok daha öncesine dayanıyor. Aslında, kızarmış sebzeler, özellikle de soğan, dünya mutfaklarında yüzyıllardır farklı şekillerde yer bulmuştu. Günümüzdeki formuna en yakın tariflerden biri, 1802 tarihli İngiliz yemek kitabı olan [DOĞRULA: John Mollard'ın \"The Art of Cookery Made Easy and Refined\"] adlı eserinde, \"kızarmış soğan\" adıyla yer alıyor ve bu tarif, modern soğan halkalarına oldukça benziyor!\n\nDolayısıyla, soğan halkaları anlık bir ilhamın değil, zamanla gelişen ve farklı kültürlerden beslenen bir mutfak geleneğinin ürünü gibi görünüyor. Belki de bu yüzden, isimsiz kahramanlarının lezzetli mirası, dünyanın dört bir yanında sevilerek tüketilmeye devam ediyor. Bir dahaki sefere bir soğan halkası ısırdığınızda, yaklaşık yüz yirmi yıllık bir tarihin tadına baktığınızı düşünebilirsiniz!",
-      "fun_fact": "Amerika Birleşik Devletleri'nde 22 Haziran, resmi olmayan \"Ulusal Soğan Halkası Günü\" olarak kutlanır!",
+      "body": "Cuba Libre, yani \"Özgür Küba\", sadece rom ve kolanın basit bir birleşimi değil, aynı zamanda bir ulusun bağımsızlık özlemini ve neşesini kadehlere taşıyan, ikonik bir içki. Hikayesi, 1900'lü yılların başlarına, İspanyol-Amerikan Savaşı'nın ardından Küba'da Amerikan etkisinin güçlü bir şekilde hissedildiği döneme dayanıyor.\n\nO yıllarda, Amerikan askerleri ve siviller, beraberlerinde kendi ülkelerinin yeni ve popüler içeceği olan kolayı da adaya getirmişlerdi. Küba'nın kendine has, lezzetli romuyla buluşan bu kola, kısa sürede beklenmedik bir uyum yakaladı. Ortaya çıkan bu ferahlatıcı karışım, adadaki herkes tarafından hızla benimsendi. Efsaneye göre, [DOĞRULA: Havana'daki bir barda] bir grup Amerikan askeri, yudumladıkları bu yeni karışım için \"¡Por Cuba Libre!\" yani \"Özgür Küba İçin!\" diye kadeh kaldırmışlar. Bu güçlü ve anlamlı ünlem, zamanla içkinin adı haline gelerek tüm dünyaya yayıldı.\n\nCuba Libre'nin tam olarak kim tarafından veya hangi barda yaratıldığına dair kesin bir kayıt olmasa da, 1900 yılı civarında, Küba'nın bağımsızlık mücadelesi sonrası yaşanan coşku ve yeniden yapılanma sürecinde doğduğuna inanılıyor. Misket limonu dilimiyle servis edildiğinde hem görsel hem de lezzetsel bir tamamlayıcı sunan bu kokteyl, basit ama etkileyici yapısıyla kısa sürede tüm dünyada barların vazgeçilmezi oldu. Bir sonraki Cuba Libre kadehinizde, sadece bir içki değil, aynı zamanda tarihin ve özgürlüğün tadını yudumladığınızı hatırlayın!",
+      "fun_fact": "Coca-Cola'nın Küba'ya gelişi, içeceğin yaygınlaşmasında kritik bir rol oynadı.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q244611",
-        "https://tr.wikipedia.org/wiki/So%C4%9Fan_halkas%C4%B1",
-        "https://en.wikipedia.org/wiki/Onion_ring"
+        "https://www.wikidata.org/wiki/Q471753",
+        "https://tr.wikipedia.org/wiki/Cuba_libre",
+        "https://en.wikipedia.org/wiki/Rum_and_Coke"
       ],
-      "wikidata_qid": "Q244611"
+      "wikidata_qid": "Q471753"
     },
     {
-      "id": "Q545902",
-      "date": "2026-11-30",
-      "category": "giyim",
-      "widget_title": "Lombardiya Demir Tacı ne zaman kralların başına konuldu?",
-      "hook": "Kralların başını süsleyen bu demir tacın efsanesi neydi?",
-      "answer_year": 1000,
+      "id": "Q484544",
+      "date": "2026-11-29",
+      "category": "gida-icecek",
+      "widget_title": "Cheetos peynir keyfini ne zaman başlattı?",
+      "hook": "O turuncu parmakları ve unutulmaz peynir tadını kim sevmez ki?",
+      "answer_year": 1948,
       "year_precision": "year",
       "guess_range": [
-        900,
-        1080
+        1840,
+        2020
       ],
-      "body": "Lombardiya Demir Tacı, sadece altından ve değerli taşlardan oluşmuş bir mücevher değil; aynı zamanda efsanelerle örülü, gücün ve kutsallığın kadim bir sembolüdür. Onun tam olarak ne zaman ortaya çıktığı, tarihçiler arasında hala bir tartışma konusu. Ancak kesin olan bir şey var ki, 1000 yılına gelindiğinde, bu büyüleyici taç çoktan Avrupa'nın en saygın krallık sembollerinden biri haline gelmişti bile.\n\nTacın en dikkat çekici özelliği, elbette \"demir\" adını almasına neden olan o gizemli halka. Dış kısmı altın ve değerli taşlarla süslü olsa da, içinde ince bir demir bant bulunur. Efsaneye göre bu demir bant, Hz. İsa'nın çarmıha gerildiği çivilerden biriyle yapılmıştı. Bu inanç, taca sadece krallık gücü değil, aynı zamanda derin bir dini anlam da katıyordu. [DOĞRULA: Tacın içinde bulunan demir bandın gerçekten efsaneye dayandığı ve bu efsanenin tarihi kökenleri.]\n\nYüzyıllar boyunca Lombard krallarından Kutsal Roma İmparatorlarına kadar birçok önemli hükümdar, İtalya üzerindeki egemenliklerini meşrulaştırmak için bu tacı kullandı. Hatta 19. yüzyılda Napolyon Bonapart bile kendini İtalya Kralı ilan ederken, bu antik tacı başının üzerine koydurdu. Lombardiya Demir Tacı, bugün hala İtalya'nın Monza Katedrali'nde sergileniyor ve geçmişin o ihtişamlı günlerine tanıklık etmeye devam ediyor.",
-      "fun_fact": "Tacın altın kısımlarındaki birbirinden güzel kabartmalar ve mineler, Orta Çağ sanatının ne kadar ince işçiliğe sahip olduğunu gözler önüne seriyor.",
+      "body": "Peynir aşkımızın en turuncu halini sunan Cheetos, atıştırmalık dünyasına bomba gibi düştüğünde takvimler 1948 yılını gösteriyordu. İlk olarak Amerika Birleşik Devletleri'nde piyasaya sürülen bu eşsiz lezzet, kısa sürede milyonların favorisi haline geldi. Cheetos'un tam olarak kim tarafından icat edildiği [DOĞRULA: Cheetos'un spesifik mucidi] gizemini korusa da, kökenleri Frito Company'ye ve onun kurucusu Charles Elmer Doolin'e dayanıyor. Zaten Fritos mısır cipslerini başarıyla üreten Doolin'in şirketi, mısır unundan peynirli bir atıştırmalık yaratma fikriyle Cheetos'u geliştirdi. Başlangıçta \"Crunchy Cheetos\" olarak adlandırılan çıtır versiyonuyla çıkan marka, o meşhur peynir tozuyla kaplanmış mısır irmiği tabanlı bir atıştırmalıktı. Turuncu parmaklarımızın vazgeçilmezi olan bu lezzet, zamanla farklı formlara büründü. Örneğin, puf puf haliyle bilinen \"Cheetos Puffs\"ın daha sonra, [DOĞRULA: Cheetos Puffs'ın çıkış tarihi] yıllarında ortaya çıktığını ve Crunchy versiyonundan daha sonra piyasaya sürüldüğünü biliyor muydunuz? Cheetos'un başarısı, 1960'larda Frito Company ile H.W. Lay & Company'nin birleşerek Frito-Lay'i kurmasına ve daha sonra PepsiCo bünyesine katılmasına zemin hazırladı. Bugün dünyanın dört bir yanında keyifle tüketilen Cheetos, atıştırmalık denince akla gelen ilk markalardan biri olmaya devam ediyor. O yoğun peynir tadı ve bağımlılık yaratan dokusuyla Cheetos, doğduğu günden bu yana lezzet standartlarını belirliyor.",
+      "fun_fact": "Cheetos yediktan sonra parmaklarımızda kalan turuncu peynir tozuna 'cheetle' denildiğini biliyor muydunuz?",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q545902",
-        "https://tr.wikipedia.org/wiki/Lombardiya_Demir_Tac%C4%B1",
-        "https://en.wikipedia.org/wiki/Iron_Crown"
+        "https://www.wikidata.org/wiki/Q484544",
+        "https://tr.wikipedia.org/wiki/Cheetos",
+        "https://en.wikipedia.org/wiki/Cheetos"
       ],
-      "wikidata_qid": "Q545902"
+      "wikidata_qid": "Q484544"
+    },
+    {
+      "id": "Q487338",
+      "date": "2026-11-30",
+      "category": "gida-icecek",
+      "widget_title": "Serinletici Mojito kokteyli ilk kez ne zaman yapıldı?",
+      "hook": "Küba'nın sıcak ikliminden doğan bu tazeleyici içecek, tarihin hangi noktasında bardaklarımıza konuk oldu?",
+      "answer_year": 1931,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Mojito, nanenin ferahlatıcı dokunuşu, misket limosunun ekşiliği, romun sıcaklığı ve şekerin tatlılığıyla dünya çapında sevilen bir klasik. Bu efsanevi kokteylin kökleri, sıcakkanlı insanların ve coşkulu müziğin diyarı Küba'ya dayanır. Pek çok kaynak, Mojito'nun modern formuna ulaşmasının veya ilk kez belgelenmesinin 1931 yılına işaret ettiğini belirtir. Ancak Mojito'nun hikayesi, bu tarihten çok daha gerilere, hatta 16. yüzyıla kadar uzanan efsanelerle doludur. Kimileri, içeceğin ilk versiyonunun Sir Francis Drake'in mürettebatı tarafından limona ihtiyaç duyulan iskorbüt hastalığına karşı bir ilaç olarak geliştirildiğini söylerken, diğerleri kökenini Afrikalı kölelerin ve şeker kamışı tarlalarında çalışanların kullandığı \"aguardiente\" adlı içkiye bağlar [DOĞRULA: Mojito'nun kökenine dair 16. yüzyıl efsaneleri ve Drake bağlantısı]. Kesin bir mucidin olmaması, Mojito'nun zamanla ve farklı ellerde nasıl evrildiğini gösteren güzel bir örnek. 1931, belki de bu içeceğin bugünkü halini alarak barlarda ve restoranlarda yerini sağlamlaştırdığı, dünya sahnesine çıktığı bir dönüm noktasıydı. O günden bu yana, taze nane yaprakları, misket limonu dilimleri ve buzla süslenmiş bu içecek, yaz akşamlarının vazgeçilmezi haline geldi.",
+      "fun_fact": "Mojito'nun adının, İspanyolca'da 'küçük sihir' anlamına gelen 'mojo' kelimesinden türediğine inanılıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q487338",
+        "https://tr.wikipedia.org/wiki/Mojito",
+        "https://en.wikipedia.org/wiki/Mojito"
+      ],
+      "wikidata_qid": "Q487338"
     }
   ]
 }

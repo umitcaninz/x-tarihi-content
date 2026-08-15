@@ -3,686 +3,136 @@
   "month": "2027-01",
   "items": [
     {
-      "id": "Q4039669",
+      "id": "Q924355",
       "date": "2027-01-01",
       "category": "gida-icecek",
-      "widget_title": "İskoç viskisi Grant's'in hikayesi ne zaman başladı?",
-      "hook": "İskoçya'nın en sevilen viski markalarından Grant's'in kökenleri, tahmin ettiğinizden daha da eskiye dayanıyor olabilir mi?",
-      "answer_year": 1887,
+      "widget_title": "XXXX birası Avustralya'da ilk kez ne zaman yudumlandı?",
+      "hook": "Avustralya'nın sıcağında serinleten ve ikonikleşen XXXX birasının kökenleri, tahmin ettiğinizden daha eskiye dayanıyor olabilir!",
+      "answer_year": 1924,
       "year_precision": "year",
       "guess_range": [
-        1780,
-        1960
+        1820,
+        2000
       ],
-      "body": "İskoç viskisinin zengin dünyasına hoş geldiniz! Bugün, kadehlerimizin vazgeçilmezlerinden biri olan Grant's'in hikayesini aralıyoruz. Bu köklü marka, tadına doyum olmaz harmanlarını tam olarak 1887 yılında piyasaya sürmeye başladı. İşte o günden beri de viski severlerin kalbinde özel bir yer edinmeyi sürdürüyor.\n\nHikaye, viski endüstrisinde uzun yıllar deneyim kazanmış vizyoner bir adam olan William Grant ile başlıyor. Grant, kendi hayallerinin peşinden giderek 1886 yılında İskoçya'nın Speyside bölgesinde, Glenfiddich damıtımevini kurdu. Yalnızca bir yıl sonra, yani 1887 Noel Günü'nde, damıtımevinden ilk ruh akmaya başladı. İşte bu özel anda, William Grant'in kendi adını taşıyan viski markası Grant's de doğmuş oldu. O günden itibaren, Grant ailesinin nesiller boyu süren tutkusu ve ustalığı, Grant's viskisini dünya çapında tanınan bir lezzet haline getirdi. William Grant'in amacı, [DOĞRULA: \"en iyi dramayı üretmek ve dünyanın dört bir yanına ulaştırmak\" şeklindeki bir misyonu vardı.] Bu vizyon, markanın bugünkü başarısının temelini oluşturuyor. Bir aile şirketi olarak bağımsızlığını koruyan Grant's, geleneksel üretim yöntemlerini modern yeniliklerle harmanlayarak kalitesinden ödün vermiyor. Her damlasında İskoçya'nın ruhunu taşıyan bu viski, 1887'den bu yana geçen zamanda, sayısız özel ana eşlik etti ve etmeye de devam edecek.",
-      "fun_fact": "Grant's'in ikonik üçgen şişesi, [DOĞRULA: 1957 yılında] tasarlanmış ve markanın küresel çapta tanınan bir sembolü haline gelmiştir.",
+      "body": "Avustralya'nın sıcağında serinletici bir yudum arayanların gözdesi olan XXXX birası, ilk kez 1924 yılında Queensland'de hayat buldu. Bu ikonik markanın adının ardında, biranın gücünü gösteren geleneksel bir işaretleme sistemi yatıyor. Eskiden, bira fıçılarının üzerine çizilen X işaretleri, içeceğin alkol oranını ve dolayısıyla kuvvetini belirtmek için kullanılırdı; ne kadar çok X, bira o kadar güçlü demekti. XXXX de buradan ilham alarak adını bu güç göstergesinden aldı ve kısa sürede Avustralyalıların favorisi haline geldi.\n\n1924 yılındaki kuruluşuyla birlikte, XXXX sadece bir bira markası olmanın ötesine geçerek Queensland eyaletinin adeta bir sembolü haline geldi. Bölgenin sosyal yaşamında, spor etkinliklerinde ve bar kültüründe kendine sağlam bir yer edinen XXXX, zamanla Avustralya'nın sıcakkanlı ve rahat yaşam tarzının bir parçası oldu. Markanın kırmızı ve sarı renkli, akılda kalıcı logosu ve kendine has tadı, onu diğer biralardan ayırarak benzersiz bir konuma taşıdı. Kuruluşunun üzerinden geçen uzun yıllara rağmen, XXXX mirasını koruyarak nesiller boyu damaklarda iz bırakmaya devam etti. Bu köklü geçmişi ve kültürel bağları sayesinde, XXXX Avustralya'nın en tanınmış ve sevilen bira markalarından biri olma özelliğini bugün de sürdürüyor. Adeta bir zaman kapsülü gibi, 1924'ten günümüze uzanan bir lezzet ve gelenek hikayesi anlatıyor.",
+      "fun_fact": "XXXX birasının Avustralya'da özellikle Queensland ile özdeşleşmesi o kadar güçlüdür ki, bazen Queensland'lilere şaka yollu 'XXXX' lakabı takıldığı bile olur!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q4039669",
-        "https://tr.wikipedia.org/wiki/Grant%27s",
-        "https://en.wikipedia.org/wiki/Grant%27s"
+        "https://www.wikidata.org/wiki/Q924355",
+        "https://tr.wikipedia.org/wiki/XXXX_(bira)",
+        "https://en.wikipedia.org/wiki/XXXX_(beer)"
       ],
-      "wikidata_qid": "Q4039669"
+      "wikidata_qid": "Q924355"
     },
     {
-      "id": "Q4247887",
+      "id": "Q926371",
       "date": "2027-01-02",
       "category": "gida-icecek",
-      "widget_title": "Katsu-sando'nun lezzet yolculuğu ne zaman başladı?",
-      "hook": "Japon mutfağının ikonik lezzetlerinden Katsu-sando, sandviç tutkunlarının kalbini nasıl fethetti?",
+      "widget_title": "Morellino di Scansano DOCG statüsünü ne zaman aldı?",
+      "hook": "Toskana'nın Morellino di Scansano şarabı ne zaman zirveye çıktı?",
+      "answer_year": 2006,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "İtalyan şarap dünyasında kalitenin ve coğrafi kökenin en önemli göstergelerinden ikisi DOC (Denominazione di Origine Controllata) ve DOCG (Denominazione di Origine Controllata e Garantita) statüleridir. Bir şarabın DOCG unvanını alması, onun hem üretim bölgesine, hem üzüm çeşidine hem de geleneksel yöntemlere sıkı sıkıya bağlı olduğunu ve kalitesinin garanti altına alındığını gösterir. Morellino di Scansano, Toskana bölgesinin güneybatısındaki Scansano kasabası ve çevresinde üretilen, Sangiovese üzümünden yapılan harika bir kırmızı şaraptır.\n\nPeki, bu lezzetli şarap ne zaman DOCG statüsüne yükseldi? Takvimler 2006 yılını gösterdiğinde, Morellino di Scansano nihayet bu prestijli unvanı alarak İtalyan şarap sahnesindeki yerini sağlamlaştırdı. Aslında, bu yükselişin temelleri çok daha eskiye dayanıyor; şarap zaten 1978'den beri DOC statüsündeydi ve uzun yıllardır kalitesiyle tanınıyordu. 'Morellino' ismi, bölgedeki Sangiovese üzümünün daha küçük, koyu renkli bir çeşidini ifade eder ve bu ismin 'morello' kirazına (koyu renkli kiraz) atıfta bulunduğu düşünülür, ki bu da şarabın genellikle taşıdığı koyu meyvemsi notalara güzel bir göndermedir. Bu şaraplar genellikle canlı bir yakut kırmızısı rengine, taze meyve aromalarına ve kadifemsi tanenlere sahip olur, bu da onları gençken bile keyifli kılar.",
+      "fun_fact": "Morellino ismi, şarabın kendisi gibi canlı ve koyu renkli 'morello' kirazlarına yapılan tatlı bir göndermedir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q926371",
+        "https://tr.wikipedia.org/wiki/Morellino_di_Scansano",
+        "https://en.wikipedia.org/wiki/Morellino_di_Scansano"
+      ],
+      "wikidata_qid": "Q926371"
+    },
+    {
+      "id": "Q936040",
+      "date": "2027-01-03",
+      "category": "gida-icecek",
+      "widget_title": "O küçük, probiyotik dostumuz: Yakult ne zaman ortaya çıktı?",
+      "hook": "Dünya çapında milyonlarca insanın bağırsak sağlığı için tükettiği bu minik içecek, sanılandan çok daha eski bir tarihe sahip.",
       "answer_year": 1935,
       "year_precision": "year",
       "guess_range": [
         1830,
         2010
       ],
-      "body": "Katsu-sando, Japon mutfağının dünyaya armağan ettiği, çıtır çıtır tonkatsu (pane edilmiş domuz pirzolası) ile yumuşacık shokupan (Japon sütlü ekmeği) ve özel sosların buluştuğu eşsiz bir sandviç. Bu lezzet harikası, ilk olarak **1935** yılında Japonya'da ortaya çıktı.\n\nHikayesi, Tokyo'nun Ueno bölgesindeki Isen adlı [DOĞRULA: Isen bir restoran mıydı yoksa başka bir işletme miydi?] bir restorana dayanıyor. O döneme kadar tonkatsu genellikle tabakta pirinçle servis edilen bir ana yemekti. Ancak Isen, bu sevilen yemeği daha pratik ve atıştırmalık bir hale getirerek sandviç arasına koyma fikrini geliştirdi. [DOĞRULA: Isen'in Katsu-sando'yu yaratma motivasyonu neydi? Paket servis için mi, yoksa sadece yeni bir sunum şekli miydi?] Bu yenilikçi yaklaşım sayesinde, tonkatsunun çıtırlığı ve lezzeti, yumuşak ekmeğin ve tatlı-tuzlu özel sosun mükemmel uyumuyla birleşti. Katsu-sando kısa sürede popülerlik kazanarak hem Japonya içinde hem de uluslararası alanda büyük bir hayran kitlesi edindi. Özellikle tren istasyonlarında ve bento kutularında sıkça rastlanan bir seçenek haline gelmesi, onun pratikliğinin ve doyuruculuğunun kanıtıdır. Günümüzde ise kafe menülerinden lüks restoranlara kadar birçok yerde farklı yorumlarıyla karşılaşmak mümkün.",
-      "fun_fact": "Katsu-sando, bazen özel günlerde şans getirmesi amacıyla da tüketilir çünkü \"katsu\" kelimesi Japoncada \"galibiyet\" veya \"kazanmak\" anlamına gelir.",
+      "body": "Her sabah o küçük, tanıdık şişeyi buzdolabından alıp içiyor musunuz? Milyonlarca insanın rutininde yer eden Yakult, aslında bilim ve sağlık arayışının bir ürünü olarak Japonya'da ortaya çıktı. Temelleri, Japon bilim insanı Dr. Minoru Shirota'nın, sindirim sisteminin sağlığı üzerindeki araştırmalarına dayanıyor. Dr. Shirota, 1930'ların başında, bağırsaklara canlı ulaşabilen ve faydalı bakterilerin büyümesini destekleyen özel bir Lactobacillus casei türünü izole etmeyi başardı. Bu özel bakteri suşuna kendi adını verdi: Lactobacillus casei Shirota. Amacı basitti ama çığır açıcıydı: insanlara, uygun fiyatlı ve kolay erişilebilir bir yolla probiyotik faydalar sunmak.\n\nİşte tam da bu amaçla, 1935 yılında, Dr. Shirota ve meslektaşları Yakult'u piyasaya sürdü. Küçük şişesi, içindeki probiyotik gücüyle kısa sürede Japonya'da popülerlik kazandı. Yakult kelimesinin kökeni de oldukça ilginç: [DOĞRULA: Tam olarak emin olmamakla birlikte, bazı kaynaklara göre \"jahurto\" kelimesinden türetildiği düşünülüyor ki bu Esperanto dilinde yoğurt anlamına geliyor.] Dünya genelinde pek çok farklı dile ve kültüre yayılan Yakult, o günden bugüne formülünü büyük ölçüde korudu. Günümüzde de aynı felsefeyle, milyarlarca şişesi tüketilmeye devam ediyor. Bağırsak mikrobiyotasının öneminin daha iyi anlaşıldığı günümüzde, Yakult'un hikayesi, bilimsel bir keşfin nasıl günlük hayatın bir parçası haline gelebileceğinin güzel bir örneği.",
+      "fun_fact": "Yakult'un o ikonik minik şişesi, ürünün herkese ulaşılabilir ve pratik olmasını sağlamak amacıyla özel olarak tasarlandı.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q4247887",
-        "https://tr.wikipedia.org/wiki/Katsu-sando",
-        "https://en.wikipedia.org/wiki/Katsu-sando"
+        "https://www.wikidata.org/wiki/Q936040",
+        "https://tr.wikipedia.org/wiki/Yakult",
+        "https://en.wikipedia.org/wiki/Yakult"
       ],
-      "wikidata_qid": "Q4247887"
+      "wikidata_qid": "Q936040"
     },
     {
-      "id": "Q43514443",
-      "date": "2027-01-03",
-      "category": "gida-icecek",
-      "widget_title": "Acı Sosların Kraliçesi Lao Gan Ma Ne Zaman Ortaya Çıktı?",
-      "hook": "Çin mutfağının vazgeçilmezi, acı sos tutkunlarının kalbinde taht kuran Lao Gan Ma'nın hikayesi, aslında bir kadının azmine dayanıyor.",
-      "answer_year": 1996,
-      "year_precision": "year",
-      "guess_range": [
-        1890,
-        2026
-      ],
-      "body": "Çin mutfağının vazgeçilmezi, acı sos tutkunlarının kalbinde taht kuran Lao Gan Ma'nın hikayesi, aslında bir kadının, Tao Huabi'nin azmine dayanıyor. Yoksul bir geçmişten gelen ve zorlu hayat şartlarıyla mücadele eden Tao Huabi, başlangıçta kendi eriştelerini sattığı küçük restoranında, müşterilerine özel bir acı sos ikram ediyordu. Bu sosun eşsiz lezzeti, kısa sürede o kadar çok beğeni topladı ki, insanlar eriştelerden çok sosu satın almak istedi. Bu talep üzerine, Tao Huabi cesur bir karar alarak sos üretimine odaklandı. Takvimler 1996 yılını gösterdiğinde ise, \"Lao Gan Ma\" markası resmi olarak kuruldu. Kelime anlamı \"Yaşlı Vasi Anne\" olan bu isim, Tao Huabi'nin hem müşterilerine karşı hissettiği anne şefkatini hem de bölgedeki saygınlığını yansıtıyordu. Başlangıçta sadece birkaç çalışanı olan küçük bir atölyede üretilen bu soslar, içindeki çıtır bileşenler, biber ve baharatların mükemmel uyumuyla kısa sürede Çin'in her köşesine yayıldı. Ardından uluslararası pazarlara açılarak dünya çapında milyonlarca mutfağın favorisi haline geldi. Bugün pek çok yemeğe lezzet katan Lao Gan Ma, Tao Huabi'nin girişimci ruhunun ve eşsiz tarifinin bir mirasıdır.",
-      "fun_fact": "Lao Gan Ma'nın ikonik ambalajında gördüğünüz yüz, markanın kurucusu Tao Huabi'nin kendisi!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q43514443",
-        "https://tr.wikipedia.org/wiki/Lao_Gan_Ma",
-        "https://en.wikipedia.org/wiki/Lao_Gan_Ma"
-      ],
-      "wikidata_qid": "Q43514443"
-    },
-    {
-      "id": "Q455219",
+      "id": "Q94787",
       "date": "2027-01-04",
       "category": "gida-icecek",
-      "widget_title": "Amarone Şarabı Resmi Olarak Ne Zaman Tanındı?",
-      "hook": "İtalyan şarap dünyasının bu güçlü ve zengin lezzeti, aslında sandığımızdan daha genç bir tarihe sahip olabilir mi?",
-      "answer_year": 2011,
-      "year_precision": "day",
-      "guess_range": [
-        1910,
-        2026
-      ],
-      "body": "İtalya'nın kuzeydoğusundaki Veneto bölgesinin incisi Amarone della Valpolicella, dünya çapında bilinen, kendine has karakteriyle fark yaratan bir şarap. Yoğun meyvemsi aromaları, baharatlı notaları ve dolgun yapısıyla pek çok şarap tutkununun favorisi. Peki, bu denli köklü bir geçmişi varmış gibi duran Amarone, resmi kayıtlarda ne zamandan beri bizimle?\n\nGenellikle 2011 yılıyla anılsa da, bu tarih Amarone'nin 'icat edildiği' yıl değil, İtalyan şarap sınıflandırma sistemindeki en yüksek seviye olan DOCG (Denominazione di Origine Controllata e Garantita) statüsünü kazandığı yıldır. Bu statü, şarabın kalitesini, üretim bölgesini ve yöntemlerini titizlikle garanti altına alır, uluslararası alanda prestijini pekiştirir.\n\nAmarone'nin kökenleri ise çok daha eskiye dayanıyor. Bölgede yüzyıllardır üretilen tatlı Recioto şarabına dayanan bir hikayesi var. Efsaneye göre [DOĞRULA: Amarone'nin ilk kuru versiyonunun nasıl ortaya çıktığına dair yaygın bir efsane olup olmadığını kontrol et], Recioto fıçılarından birinin beklenenden uzun süre mayalanması ve şarabın şekerinin tamamen kurumasıyla, bugünkü Amarone'nin ilk versiyonu 'yanlışlıkla' keşfedilmiş. Başlarda 'Recioto Amaro' (Acı Recioto) olarak anılan bu yeni tarz, zamanla sadece 'Amarone' adıyla ün salmış.\n\nİlk ticari şişelemelerin [DOĞRULA: İlk ticari Amarone şarabının tahmini çıkış tarihi ve ticari adının yaygın olarak bilinen bir kaynağı olup olmadığını doğrula] 20. yüzyılın başlarına veya ortalarına dayandığı düşünülüyor. Şarabın popülaritesi özellikle 20. yüzyılın ikinci yarısında giderek artmış. Dolayısıyla 2011, Amarone'nin doğuşu değil; tam aksine, bu lezzetli yolculuğun kalitesinin ve kendine has karakterinin resmen mühürlendiği, bir dönüm noktasıdır.",
-      "fun_fact": "Amarone, üzümlerin hasattan sonra özel odalarda aylarca kurutulduğu geleneksel 'appassimento' yöntemiyle üretilir; bu sayede şarap eşsiz yoğunluğunu, konsantre lezzetini ve yüksek alkol oranını kazanır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q455219",
-        "https://tr.wikipedia.org/wiki/Amarone",
-        "https://en.wikipedia.org/wiki/Amarone"
-      ],
-      "wikidata_qid": "Q455219"
-    },
-    {
-      "id": "Q455290",
-      "date": "2027-01-05",
-      "category": "gida-icecek",
-      "widget_title": "Amarula ne zaman hayatımıza girdi?",
-      "hook": "Afrika savanlarının egzotik tadını şişeye sığdıran bu krema likörü, acaba ne kadar süredir dünyayı büyülüyor?",
-      "answer_year": 1989,
-      "year_precision": "year",
-      "guess_range": [
-        1880,
-        2026
-      ],
-      "body": "Afrika'nın kalbinden gelen, marula meyvesinin eşsiz lezzetini bir şişeye hapseden Amarula, aslında düşündüğünüzden daha genç bir hikayeye sahip. Bu lezzetli krema likörü, **1989 yılında** Güney Afrika'da dünyaya tanıtıldı. Fildişi rengi şişesi ve tatlı, meyvemsi notalarıyla kısa sürede dünya genelinde tanınan bir içecek haline geldi.\n\nAmarula'nın alametifarikası, adını aldığı marula meyvesinden geliyor. Bu meyve, sadece Afrika'nın bazı bölgelerinde yetişen ve \"fil ağacı\" olarak da bilinen bir ağacın ürünüdür. Efsaneye göre, filler olgunlaşan marula meyvelerini yemeyi çok sever ve bazen bu meyvelerle \"sarhoş\" olurlar. İşte Amarula da bu efsaneden ve meyvenin doğal lezzetinden ilham alıyor.\n\nÜretim süreci oldukça özeldir: Önce toplanan marula meyveleri fermente edilir, ardından damıtılır ve meşe fıçılarda iki yıl olgunlaştırılır. Son olarak, taze krema eklenerek o bildiğimiz pürüzsüz ve zengin kıvam elde edilir. Amarula, sadece bir içecek değil, aynı zamanda Güney Afrika'nın doğal mirasının ve yerel toplulukların desteklenmesinin de bir sembolü olmuştur. [DOĞRULA: Amarula markasının yerel toplulukları ve vahşi yaşamı destekleme taahhüdünün başlangıç tarihi ve kapsamı.] Bu lezzet, buzla sade içilebildiği gibi, birçok kokteylde ve tatlıda da kendine yer bulmuştur.",
-      "fun_fact": "Marula meyvesinin C vitamini açısından portakaldan dört kat daha zengin olduğunu biliyor muydunuz? [DOĞRULA: Marula meyvesinin C vitamini miktarının portakalla karşılaştırılması.]",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q455290",
-        "https://tr.wikipedia.org/wiki/Amarula",
-        "https://en.wikipedia.org/wiki/Amarula"
-      ],
-      "wikidata_qid": "Q455290"
-    },
-    {
-      "id": "Q471753",
-      "date": "2027-01-06",
-      "category": "gida-icecek",
-      "widget_title": "Cuba Libre ne zaman ilk kez yudumlandı?",
-      "hook": "Rum, kola ve bir dilim misket limonu... Bu basit karışım, özgürlüğe adanmış bir kadeh haline nasıl geldi?",
-      "answer_year": 1900,
-      "year_precision": "year",
-      "guess_range": [
-        1800,
-        1980
-      ],
-      "body": "Cuba Libre, yani \"Özgür Küba\", sadece rom ve kolanın basit bir birleşimi değil, aynı zamanda bir ulusun bağımsızlık özlemini ve neşesini kadehlere taşıyan, ikonik bir içki. Hikayesi, 1900'lü yılların başlarına, İspanyol-Amerikan Savaşı'nın ardından Küba'da Amerikan etkisinin güçlü bir şekilde hissedildiği döneme dayanıyor.\n\nO yıllarda, Amerikan askerleri ve siviller, beraberlerinde kendi ülkelerinin yeni ve popüler içeceği olan kolayı da adaya getirmişlerdi. Küba'nın kendine has, lezzetli romuyla buluşan bu kola, kısa sürede beklenmedik bir uyum yakaladı. Ortaya çıkan bu ferahlatıcı karışım, adadaki herkes tarafından hızla benimsendi. Efsaneye göre, [DOĞRULA: Havana'daki bir barda] bir grup Amerikan askeri, yudumladıkları bu yeni karışım için \"¡Por Cuba Libre!\" yani \"Özgür Küba İçin!\" diye kadeh kaldırmışlar. Bu güçlü ve anlamlı ünlem, zamanla içkinin adı haline gelerek tüm dünyaya yayıldı.\n\nCuba Libre'nin tam olarak kim tarafından veya hangi barda yaratıldığına dair kesin bir kayıt olmasa da, 1900 yılı civarında, Küba'nın bağımsızlık mücadelesi sonrası yaşanan coşku ve yeniden yapılanma sürecinde doğduğuna inanılıyor. Misket limonu dilimiyle servis edildiğinde hem görsel hem de lezzetsel bir tamamlayıcı sunan bu kokteyl, basit ama etkileyici yapısıyla kısa sürede tüm dünyada barların vazgeçilmezi oldu. Bir sonraki Cuba Libre kadehinizde, sadece bir içki değil, aynı zamanda tarihin ve özgürlüğün tadını yudumladığınızı hatırlayın!",
-      "fun_fact": "Coca-Cola'nın Küba'ya gelişi, içeceğin yaygınlaşmasında kritik bir rol oynadı.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q471753",
-        "https://tr.wikipedia.org/wiki/Cuba_libre",
-        "https://en.wikipedia.org/wiki/Rum_and_Coke"
-      ],
-      "wikidata_qid": "Q471753"
-    },
-    {
-      "id": "Q484544",
-      "date": "2027-01-07",
-      "category": "gida-icecek",
-      "widget_title": "Cheetos peynir keyfini ne zaman başlattı?",
-      "hook": "O turuncu parmakları ve unutulmaz peynir tadını kim sevmez ki?",
-      "answer_year": 1948,
-      "year_precision": "year",
-      "guess_range": [
-        1840,
-        2020
-      ],
-      "body": "Peynir aşkımızın en turuncu halini sunan Cheetos, atıştırmalık dünyasına bomba gibi düştüğünde takvimler 1948 yılını gösteriyordu. İlk olarak Amerika Birleşik Devletleri'nde piyasaya sürülen bu eşsiz lezzet, kısa sürede milyonların favorisi haline geldi. Cheetos'un tam olarak kim tarafından icat edildiği [DOĞRULA: Cheetos'un spesifik mucidi] gizemini korusa da, kökenleri Frito Company'ye ve onun kurucusu Charles Elmer Doolin'e dayanıyor. Zaten Fritos mısır cipslerini başarıyla üreten Doolin'in şirketi, mısır unundan peynirli bir atıştırmalık yaratma fikriyle Cheetos'u geliştirdi. Başlangıçta \"Crunchy Cheetos\" olarak adlandırılan çıtır versiyonuyla çıkan marka, o meşhur peynir tozuyla kaplanmış mısır irmiği tabanlı bir atıştırmalıktı. Turuncu parmaklarımızın vazgeçilmezi olan bu lezzet, zamanla farklı formlara büründü. Örneğin, puf puf haliyle bilinen \"Cheetos Puffs\"ın daha sonra, [DOĞRULA: Cheetos Puffs'ın çıkış tarihi] yıllarında ortaya çıktığını ve Crunchy versiyonundan daha sonra piyasaya sürüldüğünü biliyor muydunuz? Cheetos'un başarısı, 1960'larda Frito Company ile H.W. Lay & Company'nin birleşerek Frito-Lay'i kurmasına ve daha sonra PepsiCo bünyesine katılmasına zemin hazırladı. Bugün dünyanın dört bir yanında keyifle tüketilen Cheetos, atıştırmalık denince akla gelen ilk markalardan biri olmaya devam ediyor. O yoğun peynir tadı ve bağımlılık yaratan dokusuyla Cheetos, doğduğu günden bu yana lezzet standartlarını belirliyor.",
-      "fun_fact": "Cheetos yediktan sonra parmaklarımızda kalan turuncu peynir tozuna 'cheetle' denildiğini biliyor muydunuz?",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q484544",
-        "https://tr.wikipedia.org/wiki/Cheetos",
-        "https://en.wikipedia.org/wiki/Cheetos"
-      ],
-      "wikidata_qid": "Q484544"
-    },
-    {
-      "id": "Q487338",
-      "date": "2027-01-08",
-      "category": "gida-icecek",
-      "widget_title": "Serinletici Mojito kokteyli ilk kez ne zaman yapıldı?",
-      "hook": "Küba'nın sıcak ikliminden doğan bu tazeleyici içecek, tarihin hangi noktasında bardaklarımıza konuk oldu?",
-      "answer_year": 1931,
-      "year_precision": "year",
-      "guess_range": [
-        1830,
-        2010
-      ],
-      "body": "Mojito, nanenin ferahlatıcı dokunuşu, misket limosunun ekşiliği, romun sıcaklığı ve şekerin tatlılığıyla dünya çapında sevilen bir klasik. Bu efsanevi kokteylin kökleri, sıcakkanlı insanların ve coşkulu müziğin diyarı Küba'ya dayanır. Pek çok kaynak, Mojito'nun modern formuna ulaşmasının veya ilk kez belgelenmesinin 1931 yılına işaret ettiğini belirtir. Ancak Mojito'nun hikayesi, bu tarihten çok daha gerilere, hatta 16. yüzyıla kadar uzanan efsanelerle doludur. Kimileri, içeceğin ilk versiyonunun Sir Francis Drake'in mürettebatı tarafından limona ihtiyaç duyulan iskorbüt hastalığına karşı bir ilaç olarak geliştirildiğini söylerken, diğerleri kökenini Afrikalı kölelerin ve şeker kamışı tarlalarında çalışanların kullandığı \"aguardiente\" adlı içkiye bağlar [DOĞRULA: Mojito'nun kökenine dair 16. yüzyıl efsaneleri ve Drake bağlantısı]. Kesin bir mucidin olmaması, Mojito'nun zamanla ve farklı ellerde nasıl evrildiğini gösteren güzel bir örnek. 1931, belki de bu içeceğin bugünkü halini alarak barlarda ve restoranlarda yerini sağlamlaştırdığı, dünya sahnesine çıktığı bir dönüm noktasıydı. O günden bu yana, taze nane yaprakları, misket limonu dilimleri ve buzla süslenmiş bu içecek, yaz akşamlarının vazgeçilmezi haline geldi.",
-      "fun_fact": "Mojito'nun adının, İspanyolca'da 'küçük sihir' anlamına gelen 'mojo' kelimesinden türediğine inanılıyor.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q487338",
-        "https://tr.wikipedia.org/wiki/Mojito",
-        "https://en.wikipedia.org/wiki/Mojito"
-      ],
-      "wikidata_qid": "Q487338"
-    },
-    {
-      "id": "Q4883072",
-      "date": "2027-01-09",
-      "category": "gida-icecek",
-      "widget_title": "Bell's viski efsanesi ne zaman başladı?",
-      "hook": "İskoçya'nın bereketli topraklarından çıkan bu harman viski, kadehlerimize ilk ne zaman konuk oldu dersiniz?",
-      "answer_year": 1851,
-      "year_precision": "year",
-      "guess_range": [
-        1750,
-        1930
-      ],
-      "body": "Bugün dünyanın dört bir yanında keyifle yudumlanan Bell's İskoç Viskisi, tarihiyle de oldukça köklü bir geçmişe sahip. İlk olarak 1851 yılında Arthur Bell'in öncülüğünde harmanlanmaya başlanan bu özel içecek, kısa sürede büyük bir üne kavuştu. [DOĞRULA: Arthur Bell'in viski işine girişinin kesin tarihi ve şirketin kuruluşu hakkında daha detaylı bilgi.] Başlangıçta Perth'te küçük bir işletme olarak faaliyet gösteren Arthur Bell, zamanla harmanlama sanatındaki ustalığıyla tanındı. Bell's, temelde bir \"harman viski\" olmasıyla öne çıkar. Bu, farklı malt ve tahıl viskilerinin ustaca bir araya getirilmesiyle elde edildiği anlamına gelir; yani tek bir damıtımevinden çıkan viskiden ziyade, farklı karakterdeki viskilerin mükemmel bir denge içinde buluşmasıdır. Arthur Bell, bu dengeyi yakalamadaki yeteneği sayesinde markasını hızla büyüttü ve viskinin sadece tek bir tadı olmadığını kanıtladı. Özellikle Birleşik Krallık'ta büyük bir popülerlik kazanan Bell's, zamanla uluslararası arenada da adından söz ettirdi. Günümüzde hala İskoçya'nın geleneksel viski üretim mirasını taşıyan Bell's, kendine has karakteri ve yumuşak içimiyle viski severlerin favorilerinden biri olmaya devam ediyor. Bu özel içeceğin uzun ve zengin tarihi, onu sadece bir viskiden öte, İskoçya'nın kültürel bir parçası haline getiriyor.",
-      "fun_fact": "Bell's'in kurucusu Arthur Bell, viski işine başlamadan önce bir çay ve şarap tüccarıydı. [DOĞRULA: Arthur Bell'in viski işine başlamadan önceki mesleki geçmişi.]",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q4883072",
-        "https://tr.wikipedia.org/wiki/Bell%27s",
-        "https://en.wikipedia.org/wiki/Bell%27s_whisky"
-      ],
-      "wikidata_qid": "Q4883072"
-    },
-    {
-      "id": "Q502268",
-      "date": "2027-01-10",
-      "category": "gida-icecek",
-      "widget_title": "Ünlü İskoç viskisi Johnnie Walker'ın hikayesi ne zaman başladı?",
-      "hook": "Bir asırdan fazla süredir tüm dünyada keyifle yudumlanan bu ikonik viskinin kökenleri sizi şaşırtabilir.",
-      "answer_year": 1820,
-      "year_precision": "year",
-      "guess_range": [
-        1720,
-        1900
-      ],
-      "body": "Bugün dünyanın dört bir yanında kadehleri dolduran efsanevi Johnnie Walker viskisinin hikayesi, aslında çok daha mütevazı bir başlangıca dayanıyor. Yıl 1820'yi gösterdiğinde, İskoçya'nın Kilmarnock kasabasında genç bir çiftçi oğlu olan John Walker, babasının vefatının ardından ailesinin çiftliğini satarak bir bakkal dükkanı açtı. O dönemde viskiler genellikle tek malt olarak satılıyor ve kaliteleri pek de tutarlı olmuyordu. John, müşterilerine daha iyi bir deneyim sunmak amacıyla, tıpkı dükkanında sattığı çaylar gibi, farklı viskileri karıştırarak kendi harmanını yaratmaya başladı. Bu, gelecekte tüm dünyayı fethedecek bir markanın ilk adımlarıydı.\n\nBaşlangıçta \"Walker's Kilmarnock Whisky\" olarak bilinen bu özel harman, John'un oğlu Alexander Walker sayesinde gerçek potansiyeline ulaştı. Alexander, markanın uluslararası arenada tanınmasını sağlayan en önemli adımları attı. İkonik kare şişe tasarımı ve etiketin 24 derecelik açıyla yapıştırılması da onun dehasının bir ürünüydü; bu sayede şişeler nakliye sırasında daha az kırılıyor ve sandıklara daha fazla ürün sığıyordu. Markanın alameti farikası haline gelen \"Yürüyen Adam\" (Striding Man) logosu ise [DOĞRULA: 1908 yılında mı?] Thomas Browne adında bir karikatürist tarafından yaratıldı ve markanın ileriye dönük, dinamik ruhunu mükemmel bir şekilde yansıttı. Johnnie Walker, sadece bir viski markası değil, aynı zamanda azim, yenilikçilik ve küresel bir başarı hikayesinin de sembolü haline geldi.",
-      "fun_fact": "Johnnie Walker'ın kare şişesi ve eğik etiketi, başlangıçta nakliyeyi kolaylaştırmak ve daha fazla şişenin sandıklara sığmasını sağlamak için tasarlanmıştır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q502268",
-        "https://tr.wikipedia.org/wiki/Johnnie_Walker",
-        "https://en.wikipedia.org/wiki/Johnnie_Walker"
-      ],
-      "wikidata_qid": "Q502268"
-    },
-    {
-      "id": "Q542594",
-      "date": "2027-01-11",
-      "category": "gida-icecek",
-      "widget_title": "Angostura Bitters'ın efsanevi yolculuğu ne zaman başladı?",
-      "hook": "Barmenlerin sırrı, kokteyllerin ruhu Angostura Bitters'ın ilginç hikayesini hiç merak ettiniz mi?",
-      "answer_year": 1824,
-      "year_precision": "year",
-      "guess_range": [
-        1720,
-        1900
-      ],
-      "body": "Kokteyllerin ve yemeklerin vazgeçilmez lezzetlendiricisi Angostura Bitters, aslında bir ilaç olarak doğdu! Hikaye, 1824 yılında, o zamanlar Gran Colombia'nın bir parçası olan Venezuela'nın Angostura şehrinde başlıyor. Alman cerrah Dr. Johann Gottlieb Benjamin Siegert, askerler için mide rahatsızlıklarını gidermeye yardımcı olacak bir tonik geliştirmek amacıyla bitkisel bir formül üzerinde çalışıyordu. Bu özel karışım, kısa sürede bölgede 'Dr. Siegert'in Bitters'ı' olarak ün saldı.\n\nBaşlangıçta tıbbi amaçla kullanılan bu eşsiz iksir, zamanla barmenlerin dikkatini çekti ve kokteyllerin gizli kahramanı haline geldi. Margarita'dan Old Fashioned'a, Negroni'den Manhattan'a kadar pek çok klasik kokteylde birkaç damla Angostura Bitters, lezzeti bir üst seviyeye taşıyor, denge ve derinlik katıyor.\n\nAngostura Bitters'ı raflarda gördüğünüzde dikkatinizi çeken ilk şey, muhtemelen şişeye oranla oldukça büyük duran etiketi olacaktır. Bu, aslında bir baskı hatası mı, yoksa pazarlama stratejisi mi? Efsaneye göre, üretim hızla artarken, etiket ve şişe siparişleri karıştırılmış. Ancak bu 'hata' o kadar benimsenmiş ki, ürünün ikonik bir parçası haline gelmiş ve kasıtlı olarak bu şekilde devam ettirilmiş. Dolayısıyla, bu devasa etiket, aslında markanın kimliğinin ta kendisi! Günümüzde Trinidad ve Tobago'da üretilen Angostura Bitters, dünyanın dört bir yanındaki barların ve mutfakların vazgeçilmezi olmaya devam ediyor.",
-      "fun_fact": "Angostura Bitters'ın tarifinin, dünyada sadece birkaç kişi tarafından bilinen sıkı bir sır olarak saklandığını biliyor muydunuz?",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q542594",
-        "https://tr.wikipedia.org/wiki/Angostura_Bitters",
-        "https://en.wikipedia.org/wiki/Angostura_bitters"
-      ],
-      "wikidata_qid": "Q542594"
-    },
-    {
-      "id": "Q5713678",
-      "date": "2027-01-12",
-      "category": "gida-icecek",
-      "widget_title": "Hendrick's Gin kadehlerimize ne zaman doldu?",
-      "hook": "Salatalık ve gülün eşsiz uyumuyla bilinen bu ikonik cin, dünya sahnesine ne zaman çıktı dersiniz?",
-      "answer_year": 1999,
-      "year_precision": "year",
-      "guess_range": [
-        1890,
-        2026
-      ],
-      "body": "Cin denince aklımıza ilk gelenlerden biri haline gelen Hendrick's, aslında sandığınızdan daha genç bir tarihe sahip. 1999 yılında piyasaya sürülen bu özel içki, o döneme kadar bildiğimiz cin algısını kökten değiştirdi. Geleneksel aromaların ötesine geçerek salatalık ve gül esanslarını damıtma sürecine dahil etmesiyle, kendine bambaşka bir yer edindi. İskoçya'nın güneybatı kıyısındaki Girvan kasabasında, [DOĞRULA: William Grant & Sons damıtımevinde mi üretiliyor?] küçük partiler halinde üretilen Hendrick's, iki farklı imbikte damıtılıyor: eski bir Carter-Head Still ve bir pot still. Bu iki farklı imbikten gelen ruhların harmanlanması, ona o eşsiz pürüzsüzlüğü ve karmaşık tadı veriyor. Markanın yaratıcıları, Viktorya döneminin eksantrik ruhundan ilham aldıklarını ve \"garip ama harika\" bir cin yaratmayı hedeflediklerini belirtiyorlar. Kısa sürede cin severlerin favorisi haline gelen Hendrick's, barların menülerine girmesiyle birlikte, cin kokteyllerine de yepyeni bir soluk getirdi. Özellikle salatalık dilimiyle servis edilmesi, onun imza sunumu haline geldi ve diğer cin markalarını da farklılaşmaya teşvik etti.",
-      "fun_fact": "Hendrick's'in karanlık renkli, Viktorya dönemi eczacı şişesini andıran tasarımı, içeriğindeki gizemli iksiri çağrıştırmak için özel olarak seçilmiştir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q5713678",
-        "https://tr.wikipedia.org/wiki/Hendrick%27s",
-        "https://en.wikipedia.org/wiki/Hendrick%27s_Gin"
-      ],
-      "wikidata_qid": "Q5713678"
-    },
-    {
-      "id": "Q578473",
-      "date": "2027-01-13",
-      "category": "gida-icecek",
-      "widget_title": "Bu Lezzet Bombası Kapsalon Ne Zaman Ortaya Çıktı?",
-      "hook": "Hollanda'dan tüm dünyaya yayılan bu katmanlı lezzet bombası, mutfak sahnesine ne zaman çıktı dersiniz?",
-      "answer_year": 2003,
-      "year_precision": "year",
-      "guess_range": [
-        1900,
-        2026
-      ],
-      "body": "Hollanda'nın en sevilen 'suçlu zevk' yemeklerinden biri olan Kapsalon, patates kızartması, döner veya şavurma eti, eritilmiş Gouda peyniri, salata (genellikle marul, domates, salatalık) ve bol sarımsak sosunun katmanlar halinde birleştiği, genellikle alüminyum bir tepside sunulan doyurucu bir şölendir. Adı Hollandaca'da 'kuaför salonu' anlamına gelen bu yemeğin ardındaki hikaye, sandığınızdan çok daha yeni.\n\nKapsalon'un bu dünyaya gelişi 2003 yılına dayanıyor. Evet, yanlış duymadınız, bu lezzetli karışım sadece yirmi küsur yıllık bir geçmişe sahip! Rivayete göre, Rotterdam'da bir kuaför salonunun sahibi olan Nathaniel Gomes [DOĞRULA: Kapsalon'u ilk sipariş eden kişinin adı ve mesleği], öğle yemeğinde dönerciye gidip favori malzemelerini özel bir kapta bir araya getirmesini istedi. Dönerci de bu özel isteği yerine getirdi ve ortaya Kapsalon çıktı. Orijinal yaratıcısı tam olarak bilinmese de, bu 'birleştirme' fikrinin Hollanda fast food dünyasını kökten değiştirdiği kesin. Kısa sürede Rotterdam'dan tüm Hollanda'ya yayılan Kapsalon, hem pratikliği hem de doyuruculuğuyla öğrencilerin, gece dışarı çıkanların ve lezzetli bir kaçamak arayan herkesin favorisi haline geldi. Modern bir klasik desek yeri!",
-      "fun_fact": "Bir porsiyon Kapsalon'un ağırlığı bazen bir kilogramı bulabilir, bu da onu tek kişilik bir ziyafet haline getirir!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q578473",
-        "https://tr.wikipedia.org/wiki/Kapsalon",
-        "https://en.wikipedia.org/wiki/Kapsalon"
-      ],
-      "wikidata_qid": "Q578473"
-    },
-    {
-      "id": "Q583054",
-      "date": "2027-01-14",
-      "category": "gida-icecek",
-      "widget_title": "Boğazımızın dostu Strepsils, hayatımıza ne zaman girdi?",
-      "hook": "Boğaz ağrılarımızın vazgeçilmezi Strepsils'in sandığınızdan çok daha eski bir geçmişi olduğunu biliyor muydunuz?",
-      "answer_year": 1852,
-      "year_precision": "year",
-      "guess_range": [
-        1750,
-        1930
-      ],
-      "body": "Boğazımızda o ilk yanmayı hissettiğimizde aklımıza gelen ilk yardımcılardan biri olan Strepsils, aslında sandığımızdan çok daha köklü bir tarihe sahip olabilir. Kaynaklar, Strepsils'in ilk ortaya çıkışının taa 1852 yılına dayandığını gösteriyor. Ancak elbette, bugün eczane raflarında gördüğümüz modern Strepsils markasının ve kendine özgü antiseptik formüllü pastillerin piyasaya sürülmesi çok daha sonraki bir döneme ait. Peki, 1852'deki bu tarih neyi ifade ediyor olabilir? Büyük ihtimalle bu, boğazı rahatlatmaya yönelik ilk ciddi adımların atıldığı, belki de antiseptik özelliklere sahip pastil benzeri ürünlerin ilk prototiplerinin veya bu alandaki önemli bilimsel keşiflerin yapıldığı dönemi işaret ediyor. 19. yüzyılın ortalarında ilaç sanayii henüz emekleme aşamasındaydı ve boğaz rahatlatıcıları daha çok doğal özler veya temel kimyasallarla hazırlanıyordu. Modern Strepsils'e bugünkü gücünü veren etken maddeler olan amilmetakrezol ve 2,4-diklorobenzil alkolün formüle edilmesi ise, bildiğimiz kadarıyla [DOĞRULA: 20. yüzyılın ortaları ve Boots firmasının çalışmaları] ile gerçekleşti. Bu durum, bir ürünün veya markanın 'ilk ortaya çıkış' tarihinin, onun yaygın olarak bilinen ve kullanılan haline gelme sürecinden ne kadar farklı olabileceğini bize gösteriyor. 1852, Strepsils'in uzun ve karmaşık evrimindeki ilk, önemli adımlardan biri olarak tarihe geçmiş olabilir, hatta belki de o dönemdeki bir tıbbi keşfin veya patentin ilk tohumları atılmıştır. Bu da bize boğaz pastili gibi günlük bir ürünün bile ardında ne kadar uzun bir araştırma ve geliştirme hikayesi barındırdığını düşündürüyor.",
-      "fun_fact": "İlk boğaz pastilleri, antik Mısır'da bal, narenciye ve baharat karışımlarından yapılıyordu!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q583054",
-        "https://tr.wikipedia.org/wiki/Strepsils",
-        "https://en.wikipedia.org/wiki/Strepsils"
-      ],
-      "wikidata_qid": "Q583054"
-    },
-    {
-      "id": "Q590076",
-      "date": "2027-01-15",
-      "category": "gida-icecek",
-      "widget_title": "Ananaslı pizza klasiği Hawaii pizzası ne zaman icat edildi?",
-      "hook": "Kim derdi ki ananas ve jambon, pizzanın en tartışmalı ama bir o kadar da sevilen ikilisini oluşturacak?",
-      "answer_year": 1962,
-      "year_precision": "year",
-      "guess_range": [
-        1860,
-        2026
-      ],
-      "body": "Ananas ve pizza kelimeleri yan yana geldiğinde, dünyanın ikiye bölündüğünü görürsünüz: sevenler ve sevmeyenler! İşte bu tartışmalı ama bir o kadar da popüler lezzet, yani Hawaii pizzası, aslında tahmin ettiğiniz gibi Hawaii'den gelmiyor. Hikayesi Kanada'da başlıyor. Yıl 1962, yer ise Ontario eyaletindeki Chatham şehrindeki Satellite Restaurant. Buranın sahibi olan Yunan asıllı Sam Panopoulos, o dönemde pizzacılık sektöründe yeni lezzetler denemekten çekinmeyen bir isimdi. Mönüsüne farklı soslar ve malzemeler eklemeyi seven Panopoulos, bir gün konserve ananas parçalarını ve jambonu pizzayla birleştirmeye karar verdi. Neden mi? Belki de sadece denemek istedi, belki de menüye egzotik bir dokunuş katmak arayışındaydı. Başlarda müşterilerin tepkisi [DOĞRULA: başlangıçta tepkiler nasıldı?] merak konusu olsa da, bu alışılmadık kombinasyon zamanla kendine geniş bir hayran kitlesi buldu. Pizzanın adının \"Hawaii\" olmasının sebebi ise, o dönemde konserve ananas markasının Hawaii'den gelmesiydi [DOĞRULA: ananas markasının Hawaii'den geldiği ve isme ilham verdiği doğru mu?]. Panopoulos'un bu cesur denemesi, kısa sürede dünyaya yayıldı ve pizza tarihine adını altın harflerle yazdırdı. Bugün bile, pizzanın üzerine ananas konulup konulmaması üzerine hararetli tartışmalar devam etse de, Hawaii pizzası küresel bir mutfak ikonu olmayı başardı.",
-      "fun_fact": "Kanada'da ortaya çıkmasına rağmen, Hawaii pizzası Almanya ve Avustralya gibi ülkelerde de inanılmaz derecede popülerdir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q590076",
-        "https://tr.wikipedia.org/wiki/Hawaii_pizzas%C4%B1",
-        "https://en.wikipedia.org/wiki/Hawaiian_pizza"
-      ],
-      "wikidata_qid": "Q590076"
-    },
-    {
-      "id": "Q610672",
-      "date": "2027-01-16",
-      "category": "gida-icecek",
-      "widget_title": "Budweiser birası ilk olarak ne zaman piyasaya sürüldü?",
-      "hook": "Dünyanın en bilinen bira markalarından biri olan Budweiser'ın kökenleri tahmin ettiğinizden daha eskiye dayanıyor olabilir.",
-      "answer_year": 1876,
-      "year_precision": "year",
-      "guess_range": [
-        1770,
-        1950
-      ],
-      "body": "Amerikan bira devi Budweiser, ilk yudumunu 1876 yılında dünyaya tattırdı! St. Louis, Missouri'deki köklü Anheuser-Busch bira fabrikasında, bira endüstrisinin vizyoner isimlerinden Adolphus Busch'un önderliğinde doğdu. Busch'un hedefi basitti ama iddialıydı: Avrupa'nın kaliteli lager biralarıyla boy ölçüşebilecek, Amerika'ya özgü, ferahlatıcı bir bira yaratmak. Nitekim Budweiser, ismini o dönemde bira kalitesiyle ün salmış Bohemya'daki (bugünkü Çek Cumhuriyeti) Budweis şehrinden aldı. [DOĞRULA: Budweiser isminin Çek Cumhuriyeti'ndeki Budweis şehrinden geldiğini.]\n\nO günlerde Amerika'da daha çok ale tipi biralar revaçtayken, Budweiser'ın lager karakteri ve hafif içimi, bir anda tüketicilerin dikkatini çekti. Özel maya seçimi, uzun süren soğuk fermantasyon süreci ve tarifindeki pirinç kullanımı gibi detaylar, Budweiser'a kendine özgü, pürüzsüz ve kolay içimli bir tat kazandırdı. [DOĞRULA: Budweiser'ın tarifinde pirinç kullanıldığını ve bunun tadına etkisini.] Bu yenilikçi yaklaşım sayesinde, \"King of Beers\" (Bira Kralı) sloganıyla kısa sürede tanınır hale geldi.\n\nAdolphus Busch, sadece iyi bir bira yapmakla kalmadı, aynı zamanda ürününü ustaca pazarladı. Buzdolaplarının henüz yaygın olmadığı bir dönemde, biranın kalitesini korumak için demiryolu ağlarını kullanarak taze bira dağıtımını sağlayan ilk markalardan biriydi. Bu sayede, kısa sürede yerel bir lezzetten çıkıp ulusal bir ikon haline geldi. Budweiser'ın hikayesi, sadece bir biranın değil, aynı zamanda Amerikan girişimciliğinin ve vizyonerliğinin de bir parçasıdır.",
-      "fun_fact": "Budweiser, kendine özgü berrak rengi ve hafif tadını, özel mayalama sürecinde kullanılan pirinçten alır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q610672",
-        "https://tr.wikipedia.org/wiki/Budweiser",
-        "https://en.wikipedia.org/wiki/Budweiser"
-      ],
-      "wikidata_qid": "Q610672"
-    },
-    {
-      "id": "Q61081",
-      "date": "2027-01-17",
-      "category": "gida-icecek",
-      "widget_title": "Kımız'ın tarihi ne kadar eskiye dayanıyor?",
-      "hook": "Asya steplerinden gelen bu fermente içeceğin hikayesi, binlerce yıl öncesine uzanabilir mi?",
-      "answer_year": 1300,
-      "year_precision": "year",
-      "guess_range": [
-        1200,
-        1380
-      ],
-      "body": "Kımız, kısrak sütünün mayalanmasıyla elde edilen, hafif alkollü ve ekşimsi tadıyla yüzyıllardır Orta Asya bozkırlarında yaşayan göçebe halkların sofralarını süsleyen özel bir içecek. Tarihi tam olarak belirlenemese de, Kımız'ın kökenleri [DOĞRULA: kımızla ilgili en eski arkeolojik bulgular kaç yıl öncesine dayanıyor?] binlerce yıl öncesine dayanıyor olabilir. Wikidata'da her ne kadar 1300 yılına ait bir referans bulunsa da, bu muhtemelen yazılı kayıtlardaki ilk bahsedişlerden biri olabilir ve içeceğin gerçek hikayesi çok daha eskilere uzanıyor.\n\nGöçebe Türk ve Moğol halkları için Kımız, sadece bir içecek değil, aynı zamanda hayatta kalmak için önemli bir besin kaynağıydı. Protein, vitamin ve mineraller açısından zengin olan bu fermente süt ürünü, uzun yolculuklarda enerji verirken, vücut direncini de destekliyordu. Kımız yapımı, nesilden nesile aktarılan, özel mayalama teknikleri gerektiren bir sanattı. Genellikle deri tulumlarda, belirli sıcaklıkta ve sürekli çalkalanarak mayalanan kısrak sütü, zamanla hafifçe köpüren, ferahlatıcı bir içeceğe dönüşüyordu.\n\nGünümüzde de Orta Asya ülkelerinde, özellikle Kırgızistan, Kazakistan ve Moğolistan'da popülerliğini koruyan Kımız, geleneksel festivallerin ve özel davetlerin vazgeçilmez bir parçası olmaya devam ediyor. Bu kadim içecek, bozkırların ruhunu ve göçebe yaşamın izlerini günümüze taşıyan canlı bir miras.",
-      "fun_fact": "Kımız'ın üretiminde kullanılan mayalama süreci, içeceğin doğal bir probiyotik kaynağı olmasını sağlar ve bu nedenle yüzyıllardır göçebe halklar arasında değer görmüştür.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q61081",
-        "https://tr.wikipedia.org/wiki/K%C4%B1m%C4%B1z",
-        "https://en.wikipedia.org/wiki/Kumis"
-      ],
-      "wikidata_qid": "Q61081"
-    },
-    {
-      "id": "Q616",
-      "date": "2027-01-18",
-      "category": "gida-icecek",
-      "widget_title": "Beaujolais şarabı resmi olarak ne zaman tanındı?",
-      "hook": "Fransız şaraplarının genç ve neşeli üyesi Beaujolais'in resmi hikayesi düşündüğünüzden daha yeni olabilir!",
-      "answer_year": 1937,
-      "year_precision": "year",
-      "guess_range": [
-        1830,
-        2010
-      ],
-      "body": "Fransız şarap dünyasının neşeli ve genç ruhlu üyelerinden Beaujolais, hafif içimi ve meyvemsi notalarıyla bilinir. Ancak bu popüler şarabın resmi kimliğine kavuşması, tahmin ettiğinizden daha yakın bir tarihe dayanıyor. Beaujolais bölgesinde şarapçılık faaliyetleri aslında çok daha eskiye, [DOĞRULA: bölgedeki ilk şarap üretiminin tahmini zamanı] Roma dönemine kadar uzanıyor olabilir. Yüzyıllar boyunca yerel halk tarafından üretilen ve tüketilen bu şaraplar, zamanla ün kazanmaya başladı.\n\nFakat Beaujolais şarabının kaderini değiştiren ve ona resmi bir kimlik kazandıran yıl 1937 oldu. Bu tarihte, Fransa'daki \"Appellation d'Origine Contrôlée\" (AOC) sistemi kapsamında Beaujolais için resmi statü tanındı. AOC, bir şarabın belirli bir bölgeden geldiğini, o bölgeye özgü yöntemlerle üretildiğini ve kalitesinin belirli standartlara uygun olduğunu garanti eden bir yasal çerçevedir. Bu düzenleme, Beaujolais adının korunmasını sağladı ve bölgedeki şarap üreticileri için kalite standartlarını belirledi.\n\n1937, Beaujolais şarabının \"icat edildiği\" tarih değil, onun yasal ve coğrafi sınırlarının çizildiği, kalitesinin resmi güvence altına alındığı ve böylece dünya sahnesinde daha güçlü bir şekilde yer almasının sağlandığı önemli bir dönüm noktasıdır. Bu resmi tanıma, daha sonra tüm dünyada bir fenomene dönüşecek olan Beaujolais Nouveau gibi yeniliklerin de temelini atmıştır.",
-      "fun_fact": "Beaujolais Nouveau, her yıl Kasım ayının üçüncü perşembe günü piyasaya sürülerek dünya çapında kutlanan genç bir şarap geleneğidir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q616",
-        "https://tr.wikipedia.org/wiki/Beaujolais_(%C5%9Farap)",
-        "https://en.wikipedia.org/wiki/Beaujolais"
-      ],
-      "wikidata_qid": "Q616"
-    },
-    {
-      "id": "Q618238",
-      "date": "2027-01-19",
-      "category": "gida-icecek",
-      "widget_title": "Aperol kadehlerimizi ne zaman doldurdu?",
-      "hook": "O canlı turuncu rengiyle yaz akşamlarımızın vazgeçilmezi Aperol, aslında bir asrı devirmiş bir klasik!",
-      "answer_year": 1919,
-      "year_precision": "year",
-      "guess_range": [
-        1810,
-        1990
-      ],
-      "body": "İtalya'nın Padova şehrinden çıkan o efsanevi turuncu lezzet, Aperol, ilk kez 1919 yılında hayatımıza girdi. Barbieri kardeşler tarafından yaratılan bu özel içki, Uluslararası Padova Fuarı'nda tanıtıldığında, hafif ve ferahlatıcı bir aperatif arayışına mükemmel bir yanıt oluyordu. Amacı, zengin İtalyan yemek kültürünün ayrılmaz bir parçası olan 'aperitivo' geleneğine uygun, daha düşük alkollü bir seçenek sunmaktı.\n\nAperol'ün kendine has rengi ve tadı, gizli bir tarifin eseri. İçeriğinde acı ve tatlı portakal kabukları, ravent, cinchona ve birçok farklı bitki ve kök bulunduğuna inanılıyor [DOĞRULA: Aperol'ün temel içerikleri]. Bu sayede hem tatlı hem de acı notaları dengeli bir şekilde sunan eşsiz bir profil ortaya çıkıyor. İlk başlarda yerel bir favori olsa da, II. Dünya Savaşı sonrası popülaritesi hızla arttı.\n\nÖzellikle 20. yüzyılın ikinci yarısında 'Aperol Spritz' (Aperol, Prosecco ve soda) kokteylinin yükselişiyle dünya çapında tanınır hale geldi. Bugün, Aperol sadece bir içki değil, aynı zamanda rahat sosyal buluşmaların ve İtalyan yaşam tarzının bir sembolü. %11'lik alkol oranıyla da birçok kişinin favori ferahlatıcı seçeneği olmaya devam ediyor.",
-      "fun_fact": "Aperol'ün orijinal tarifinin 1919'dan beri hiç değişmediği söyleniyor!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q618238",
-        "https://tr.wikipedia.org/wiki/Aperol",
-        "https://en.wikipedia.org/wiki/Aperol"
-      ],
-      "wikidata_qid": "Q618238"
-    },
-    {
-      "id": "Q625152",
-      "date": "2027-01-20",
-      "category": "gida-icecek",
-      "widget_title": "Caipirinha'nın serinletici hikayesi ne zaman başladı?",
-      "hook": "Brezilya'nın ruhunu yansıtan bu lezzet dolu kokteylin kökleri sizi şaşırtabilir.",
-      "answer_year": 1918,
-      "year_precision": "year",
-      "guess_range": [
-        1810,
-        1990
-      ],
-      "body": "Brezilya'nın neşeli ruhunu kadehlere taşıyan Caipirinha, aslında tahmin ettiğinizden çok daha eski bir geçmişe sahip olabilir. Bugün plajların ve barbekü partilerinin vazgeçilmezi olan bu ferahlatıcı kokteylin hikayesi, [DOĞRULA: bir rivayete göre] 1918 yılına, yani İspanyol Gribi salgınının zirve yaptığı döneme dayanıyor.\n\nO dönemde, Brezilya'da öksürük ve soğuk algınlığına iyi geldiği düşünülen basit bir karışım popülerdi: Limon, sarımsak, bal ve cachaça. Evet, yanlış duymadınız, sarımsak! Ancak zamanla, bu \"ilaç\" evrilmeye başladı. Sarımsak yerini şekere bıraktı, balın yerine daha rafine tatlandırıcılar geldi ve limon dilimleri, cachaça ile mükemmel bir uyum yakaladı. Ortaya çıkan bu yeni karışım, hastalığı unutturacak kadar lezzetliydi.\n\nCaipirinha'nın tam olarak kim tarafından icat edildiği hala bir sır perdesiyle örtülü olsa da, [DOĞRULA: Sao Paulo eyaletindeki kırsal bölgelerde çiftçiler arasında popülerleştiği düşünülüyor.] İsminin \"caipira\" kelimesinden geldiği söylenir; bu kelime kırsal kesim insanlarını ifade eder. Kırsalın basit ama doğal güzelliklerini, taze malzemelerle birleştirerek kadehimize taşıyan bu içecek, kısa sürede Brezilya'nın ulusal kokteyli unvanını kazandı. Sadece bir içecek olmaktan öte, Caipirinha Brezilya kültürünün, sıcakkanlılığının ve neşesinin sıvı hali adeta.",
-      "fun_fact": "Caipirinha'nın adı, Brezilya Portekizcesinde kırsal kesimden gelen insanları tanımlayan \"caipira\" kelimesinden türetilmiştir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q625152",
-        "https://tr.wikipedia.org/wiki/Caipirinha",
-        "https://en.wikipedia.org/wiki/Caipirinha"
-      ],
-      "wikidata_qid": "Q625152"
-    },
-    {
-      "id": "Q632306",
-      "date": "2027-01-21",
-      "category": "gida-icecek",
-      "widget_title": "Passoã, o ferahlatıcı likör ne zaman çıktı?",
-      "hook": "O egzotik kokusuyla yaz akşamlarının vazgeçilmezi Passoã'nın ne zaman hayatımıza girdiğini hiç merak ettin mi?",
-      "answer_year": 1986,
-      "year_precision": "year",
-      "guess_range": [
-        1880,
-        2026
-      ],
-      "body": "Tutku meyvesinin (passion fruit) o eşsiz, canlandırıcı aromasıyla damaklarda unutulmaz bir tat bırakan Passoã, modern kokteyl dünyasının sevilen üyelerinden biri. Birçok kişi onu çeşitli karışımların vazgeçilmezi olarak bilirken, bu kırmızı renkli, alkollü içeceğin hikayesi 1980'li yıllara dayanıyor. Tam olarak **1986 yılında** piyasaya sürülen Passoã, o dönemin yükselen egzotik lezzetler akımına mükemmel bir yanıt oldu. Özellikle tropikal meyve aromalarına olan ilginin artmasıyla, tutku meyvesinin bu parlak ve iç açıcı yorumu kısa sürede büyük beğeni topladı. İçeriğindeki Brezilya tutku meyvesi özleri sayesinde, tatlı ve hafif ekşi dengesiyle kendine özgü bir karakter kazandı. Passoã'nın yaratıcısının kim olduğu [DOĞRULA: Passoã'nın yaratıcısı veya ilk üretici şirket bilgisi] bilgisi net olmasa da, içeceğin hızla popülerlik kazanarak dünya çapında barmenlerin ve evde kokteyl severlerin favorisi haline geldiği bir gerçek. Özellikle hafif içimli ve ferahlatıcı kokteyllerin yıldızı olmayı başardı.",
-      "fun_fact": "Passoã, adını ana bileşeni olan 'passion fruit' yani tutku meyvesinden alır ve Portekizcede 'tutku' anlamına gelen 'paixão' kelimesine benzerliğiyle de dikkat çeker.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q632306",
-        "https://tr.wikipedia.org/wiki/Passo%C3%A3",
-        "https://en.wikipedia.org/wiki/Passo%C3%A3"
-      ],
-      "wikidata_qid": "Q632306"
-    },
-    {
-      "id": "Q651259",
-      "date": "2027-01-22",
-      "category": "gida-icecek",
-      "widget_title": "Portakallı likör Grand Marnier'nin hikayesi ne zaman başladı?",
-      "hook": "Bu özel likör, portakal ve konyak aşkının bir meyvesi mi dersiniz?",
-      "answer_year": 1827,
-      "year_precision": "year",
-      "guess_range": [
-        1720,
-        1900
-      ],
-      "body": "Portakalın canlandırıcı notalarıyla konyak ustalığının birleşimi olan Grand Marnier'nin büyüleyici hikayesi, aslında çok daha eskilere, ta 1827 yılına dayanıyor. Bu eşsiz likörün temelleri, o yıl Alexandre Marnier-Lapostolle tarafından atıldı. Kendisi, içki dünyasına damgasını vuracak bir aile mirasın ilk adımlarını atan vizyoner bir isimdi. Tamam, belki bugün bardaklarımızda keyifle yudumladığımız o meşhur 'Cordon Rouge' tarifi, ailenin sonraki kuşaklarından [DOĞRULA: Louis-Alexandre Marnier Lapostolle tarafından] 1880'lerde geliştirildi. Ancak, Alexandre'ın [DOĞRULA: bir içki evi veya şarap ve alkollü içecek ticareti kurmasıyla] başlayan bu yolculuk, Grand Marnier'yi doğuracak kalite ve yenilik arayışının ilk kıvılcımıydı. Marnier-Lapostolle ailesi, o günden itibaren Fransız likörcülük geleneğine önemli katkılar sunmaya devam etti. Grand Marnier'yi özel kılan başlıca sırrı, Karayip adalarından özenle seçilen 'Citrus bigaradia' adlı acı portakalların kabuklarıyla harmanlanmasıdır. Bu nadir portakallar, liköre hem taze hem de hafif acımsı, karakteristik bir derinlik katıyor. Yüksek kaliteli konyaklarla mükemmel bir denge oluşturan bu portakal özleri, Grand Marnier'yi hem tek başına içilebilen zarif bir digestif hem de dünya mutfağında ve kokteyl kültüründe vazgeçilmez bir bileşen haline getiriyor. Fransız zarafetini ve lezzetini bir şişede buluşturan Grand Marnier, yıllar içinde klasikleşmiş bir ikon olmayı başardı.",
-      "fun_fact": "Grand Marnier, Crêpes Suzette gibi birçok klasik tatlı tarifinin de vazgeçilmez bir parçasıdır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q651259",
-        "https://tr.wikipedia.org/wiki/Grand_Marnier",
-        "https://en.wikipedia.org/wiki/Grand_Marnier"
-      ],
-      "wikidata_qid": "Q651259"
-    },
-    {
-      "id": "Q668635",
-      "date": "2027-01-23",
-      "category": "gida-icecek",
-      "widget_title": "Spritz kokteyli ne zaman ortaya çıktı?",
-      "hook": "Venedik'in simgesi haline gelen bu canlı kokteylin kökenleri sandığından daha eskiye dayanıyor olabilir mi?",
-      "answer_year": 1920,
-      "year_precision": "year",
-      "guess_range": [
-        1820,
-        2000
-      ],
-      "body": "Renkli görüntüsü ve ferahlatıcı tadıyla İtalyan yazlarının vazgeçilmezi olan Spritz, aslında kökenleri çok daha eskilere dayanan bir içecek kültürünün modern bir yorumu. Bilinen en yaygın haliyle, yani içindeki aperitivo (genellikle Aperol veya Select) ile birlikte, bu ikonik kokteylin 1920'lerde ortaya çıktığı kabul edilir. Ancak 'Spritz' adı verilen içecek geleneği, 19. yüzyılın başlarında, Venedik ve Veneto bölgesinin Avusturya-Macaristan İmparatorluğu yönetimi altındayken başladı. Avusturyalı askerler ve diplomatlar, bölgenin yerel şaraplarını kendilerine fazla sert buldukları için, onlara biraz su ekleyerek 'seyreltme' eğilimindeydiler. Almanca'da 'sıçratmak' anlamına gelen 'spritzen' kelimesi buradan geliyor. Başlangıçta sadece şarap ve sodadan ibaret olan bu basit karışım, zamanla evrildi. 20. yüzyılın başlarında, özellikle 1920'lerde, bölgede üretilen acı portakal likörleri veya diğer aperitivoların karışıma eklenmesiyle Spritz bugünkü canlı kimliğine kavuştu. Özellikle Aperol'ün 1919'da Padova'da piyasaya sürülmesi, bu evrimin önemli bir parçasıdır [DOĞRULA: Aperol'ün çıkış tarihi ve Spritz ile entegrasyonu]. Böylece, şarabın ferahlatıcı bir eşlikçiyle buluştuğu, neşeli ve köpüklü Spritz, tüm dünyanın tanıdığı bir kokteyl klasiği haline geldi.",
-      "fun_fact": "Spritz'in popülaritesi o kadar arttı ki, bugün Avrupa'nın en çok tüketilen kokteyllerinden biri olarak biliniyor!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q668635",
-        "https://tr.wikipedia.org/wiki/Spritz",
-        "https://en.wikipedia.org/wiki/Spritz_(cocktail)"
-      ],
-      "wikidata_qid": "Q668635"
-    },
-    {
-      "id": "Q685395",
-      "date": "2027-01-24",
-      "category": "gida-icecek",
-      "widget_title": "Bacardi romu ne zaman ilk kez damıtıldı dersiniz?",
-      "hook": "Küba'nın güneşi altında, bir yarasa sembolüyle damgasını vuran bu meşhur rom markası ne zaman ortaya çıktı?",
-      "answer_year": 1862,
-      "year_precision": "year",
-      "guess_range": [
-        1760,
-        1940
-      ],
-      "body": "Rom dünyasının efsanevi markalarından Bacardi'nin hikayesi, Küba'nın sıcak rüzgarları ve şeker kamışı tarlaları arasında başlıyor. Yıl 1862... İşte tam bu tarihte, Don Facundo Bacardí Massó [DOĞRULA: kurucunun tam ismi ve kuruluş detayları] tarafından Santiago de Cuba'da kurulan bu damıtım evi, rom üretiminde adeta bir devrim yarattı. O dönemde piyasada bulunan romlar genellikle oldukça sert ve rafine edilmemişti. Ancak Don Facundo, kömür filtreleme ve meşe fıçılarda dinlendirme gibi yenilikçi yöntemler geliştirerek çok daha pürüzsüz, hafif ve lezzetli bir rom üretmeyi başardı. Bu sayede, romun 'üstün kaliteli' bir içki olabileceğini tüm dünyaya gösterdi.\n\nBacardi'nin sembolü haline gelen yarasa logosu da markanın kuruluş hikayesiyle iç içedir. İlk damıtım evinin tavan arasında koloniler halinde yarasalar yaşadığı keşfedildiğinde, Don Facundo'nun eşi Doña Amalia Bacardí [DOĞRULA: eşinin ismini ve yarasa logosu hikayesini], bu hayvanların sağlık, iyi şans ve aile birliği getirdiğine inanarak logoda kullanılmasını önerdi. Bu mistik bağ, markanın Küba köklerine olan saygısını da pekiştirdi. Bacardi zamanla sadece Küba'nın değil, dünya çapında kokteyl kültürünün de vazgeçilmez bir parçası oldu. Ancak Küba Devrimi sonrası yaşanan millileştirmelerle aile, operasyonlarını adanın dışına taşımak zorunda kaldı. Buna rağmen, 1862'de başlayan o tutkulu yolculuk, Bacardi'yi bugünlere taşıyan temel direk olmaya devam etti.",
-      "fun_fact": "Mojito ve Daiquiri gibi dünyaca ünlü kokteyllerin popülerleşmesinde Bacardi romunun büyük bir payı vardır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q685395",
-        "https://tr.wikipedia.org/wiki/Bacardi",
-        "https://en.wikipedia.org/wiki/Bacardi"
-      ],
-      "wikidata_qid": "Q685395"
-    },
-    {
-      "id": "Q685705",
-      "date": "2027-01-25",
-      "category": "gida-icecek",
-      "widget_title": "Ararat brendi ilk ne zaman üretildi?",
-      "hook": "Efsanelere konu olan bu özel içkinin hikayesi, sanılandan çok daha eski zamanlara dayanıyor olabilir mi?",
-      "answer_year": 1887,
-      "year_precision": "year",
-      "guess_range": [
-        1780,
-        1960
-      ],
-      "body": "Ararat denince akla hemen Ermeni brendisi ve o kendine has, zengin aroması gelir, değil mi? Peki, bu özel içkinin ilk kez 1887 yılında şişelendiğini ve damaklara ulaşmaya başladığını biliyor muydunuz? Bu tarih, bir efsanenin doğuşu gibi aslında.\n\nErivan'daki Şuster Şarap ve Konyak Fabrikası'nda başlayan bu serüven, kısa sürede dönemin Rus İmparatorluğu'nda büyük yankı uyandırdı. Kalitesi ve benzersiz tadıyla dikkat çeken Ararat, hızla soyluların ve Çar II. Nikolay gibi önemli şahsiyetlerin favori içeceklerinden biri haline geldi. Hatta [DOĞRULA: İngiliz Başbakanı Winston Churchill'in de ömrü boyunca bu brendiyi tercih ettiği ve Stalin'in ona her yıl düzenli olarak gönderdiği rivayet edilir miydi?]. Bu, sadece bir içki olmaktan çıkıp, adeta bir ulusal miras ve diplomatik bir sembol haline geldi.\n\nArarat'ın sırrı, sadece Ermenistan'ın bereketli topraklarında yetişen seçkin üzümlerle sınırlı değil; aynı zamanda geleneksel üretim yöntemleriyle ve meşe fıçılarda geçen uzun yıllarla da derinden ilişkili. Bu özel fıçılarda sabırla yıllanan brendi, zamanla kendine özgü rengini, karmaşık aromasını ve derin karakterini kazanıyor. Her bir damlasında, Ermeni ustaların yüzyıllara dayanan şarapçılık ve damıtım geleneğinin izlerini bulmak mümkün. Sovyet döneminde bile popülaritesini koruyan ve adeta bir simge haline gelen Ararat, günümüzde de dünya genelinde tanınan ve beğenilen bir marka olmaya devam ediyor. Adını kutsal Ağrı Dağı'ndan alan bu içki, aslında bir coğrafyanın, bir tarihin ve bir kültürün damıtılmış halidir diyebiliriz.",
-      "fun_fact": "Ararat brendisinin üretildiği fabrikanın, Ermenistan'daki en eski ve en ünlü damıtımevlerinden biri olduğunu biliyor muydunuz?",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q685705",
-        "https://tr.wikipedia.org/wiki/Ararat_(brendi)",
-        "https://en.wikipedia.org/wiki/Ararat_(brandy)"
-      ],
-      "wikidata_qid": "Q685705"
-    },
-    {
-      "id": "Q687397",
-      "date": "2027-01-26",
-      "category": "gida-icecek",
-      "widget_title": "Ballantine's viski markası ne zaman kuruldu?",
-      "hook": "Bir marketin arka odasında başlayan bu viski yolculuğunun ne kadar eskiye dayandığını tahmin edebilir misin?",
-      "answer_year": 1827,
-      "year_precision": "year",
-      "guess_range": [
-        1720,
-        1900
-      ],
-      "body": "George Ballantine'ın 1827 yılında Edinburgh'da küçük bir bakkal dükkanı açmasıyla temelleri atılan Ballantine's, bugün dünyanın en ikonik viski markalarından biri haline geldi. Başlangıçta sadece sıradan bir market gibi görünse de, George'un viskiye olan tutkusu ve harmanlama sanatına olan ilgisi kısa sürede dükkanını özel bir yere taşıdı. 1865 yılında Glasgow'da daha büyük bir iş kurarak oğulları George Jr. ve Archibald'ı da işin içine dahil etti. Bu dönemde özellikle harmanlanmış İskoç viskisine odaklandılar ve kendi benzersiz harmanlarını yaratmaya başladılar. Ballantine's, viskinin harmanlama sanatında bir ustalık eseri olarak kabul edilir. George Ballantine ve ardından ailesi, farklı malt ve tahıl viskilerini bir araya getirerek, her zaman aynı kalitede ve karakterde kalan, pürüzsüz ve dengeli bir tat profili yaratmayı başardı. Özellikle \"Ballantine's Finest\" serisi, markanın dünya çapında tanınmasını sağlayan amiral gemisi ürünü oldu. Marka, 19. yüzyılın sonlarına doğru uluslararası pazarlara açılmaya başladı ve kısa sürede global bir fenomen haline geldi. Bugün bile Ballantine's, viski dünyasında harmanlama ustalığının ve köklü bir mirasın temsilcisi olarak anılıyor. Bu başarının arkasında yatan sır, nesiller boyunca aktarılan tutku ve kaliteye olan bağlılık.",
-      "fun_fact": "Ballantine's Finest'ın meşhur kare şişesi, seyahatlerde kolayca taşınabilmesi ve saklanabilmesi için özel olarak tasarlanmıştır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q687397",
-        "https://tr.wikipedia.org/wiki/Ballantine%27s",
-        "https://en.wikipedia.org/wiki/Ballantine%27s"
-      ],
-      "wikidata_qid": "Q687397"
-    },
-    {
-      "id": "Q7259285",
-      "date": "2027-01-27",
-      "category": "gida-icecek",
-      "widget_title": "Eşek peyniri, yani Pule peyniri, dünyaya ne zaman tanıtıldı?",
-      "hook": "Dünyanın en pahalı peynirlerinden birinin eşek sütünden yapıldığını biliyor muydunuz?",
-      "answer_year": 2012,
-      "year_precision": "year",
-      "guess_range": [
-        1910,
-        2026
-      ],
-      "body": "Eşek peyniri, nam-ı diğer Pule peyniri, dünyanın en nadir ve pahalı lezzetlerinden biri olarak modern dünyada adını 2012 yılında duyurdu. Bazıları eşek sütünden peynir yapımının çok daha eski zamanlara dayandığını düşünse de, Sırbistan'daki Zasavica Özel Doğa Koruma Alanı'nda üretilen ve tüm dünyada yankı uyandıran bu özel Pule peyniri, ticari anlamda öne çıkışını ve küresel çapta tanınmasını 2012 yılında gerçekleştirdi. Nesli tükenmekte olan Balkan eşeklerinin sütünden elde edilen bu eşsiz peynir, inanılmaz derecede zahmetli bir üretim sürecine sahip.\n\nEşekler, inekler gibi yüksek miktarda süt üretmezler; ayrıca sağım süreçleri de daha karmaşıktır. Bir kilogram Pule peyniri üretmek için ortalama 25 litre eşek sütüne ihtiyaç duyulur ki bu da onu neden bu kadar özel kıldığının ana nedenlerinden biri. Eşek sütünün kendine has bileşenleri, peynir yapımını zorlaştırsa da, Zasavica'daki çiftçiler geleneksel yöntemlerle bu zorluğun üstesinden gelmeyi başardılar. Ortaya çıkan ürün, yoğun ve zengin bir aromaya sahip, hafif tatlı ve fındıksı notalar barındıran, kremsi ve hafif ufalanan bir yapıya sahiptir. Yüksek besin değeri ve özellikle düşük yağ oranıyla da dikkat çeker. Yüksek maliyeti ve sınırlı üretimi nedeniyle, onu bulmak da tatmak da ayrıcalıklı bir deneyim olmaya devam ediyor. Bu özel peynir, gastronomide bir statü sembolü haline gelmiştir.",
-      "fun_fact": "Dünyada sadece Sırbistan'daki Zasavica Özel Doğa Koruma Alanı'nda üretilen Pule peyniri, bu özelliğiyle eşsizdir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q7259285",
-        "https://tr.wikipedia.org/wiki/E%C5%9Fek_peyniri",
-        "https://en.wikipedia.org/wiki/Pule_cheese"
-      ],
-      "wikidata_qid": "Q7259285"
-    },
-    {
-      "id": "Q735484",
-      "date": "2027-01-28",
-      "category": "gida-icecek",
-      "widget_title": "Ünlü İrlanda viskisi Tullamore Dew hangi yılda kuruldu?",
-      "hook": "Bugün dünyanın dört bir yanında keyifle içilen Tullamore Dew'in kökleri İrlanda'nın kalbine uzanıyor.",
+      "widget_title": "Ayçiçek yağı mutfaklarımıza ne zaman girdi?",
+      "hook": "Mutfaklarımızın vazgeçilmezi ayçiçek yağının hikayesi ne kadar eskiye dayanıyor dersiniz?",
       "answer_year": 1829,
       "year_precision": "year",
       "guess_range": [
         1720,
         1900
       ],
-      "body": "İrlanda viskisinin o kendine özgü, pürüzsüz tadını sevenler için Tullamore Dew sadece bir içki değil, aynı zamanda bir miras. Peki, bu efsanevi markanın hikayesi ne zaman başladı? Takvimler 1829 yılını gösterdiğinde, İrlanda'nın yemyeşil ortasında, Tullamore kasabasında bir damıtımevi kapılarını açtı. Bu damıtımevi, aslında Tullamore Dew'in doğduğu yerdi, ancak o zamanlar henüz bu isimle anılmıyordu. [DOĞRULA: Michael Molloy'un damıtımevini tam olarak 1829'da kurduğu bilgisi] zamanla büyük bir üne kavuştu. Hikayenin ilerleyen dönemlerinde, 19. yüzyılın sonlarına doğru, Daniel E. Williams adında yetenekli bir adam bu damıtımevinin başına geçti. Williams, viskinin kalitesini ve üretimini adeta baştan yarattı ve markanın bugünkü küresel başarısının temellerini attı. Zaten ismindeki o meşhur 'DEW' harfleri de onun baş harflerinden geliyor! Tarih boyunca İrlanda viskisi, özellikle Amerika'daki yasaklar ve dünya savaşları gibi zorlu dönemlerden geçti. Birçok damıtımevi kepenk indirmek zorunda kaldı. Ancak Tullamore Dew, bu fırtınalı zamanlara rağmen ayakta kalmayı başardı ve mirası günümüze kadar taşındı. Bugün, markanın orijinal ruhunu yansıtan yeni ve modern bir damıtımevi yine Tullamore'da, köklerine bağlı kalarak üretim yapıyor. Bu da onun sadece bir viski değil, aynı zamanda İrlanda'nın azmini ve geleneğini yansıtan bir sembol olduğunu gösteriyor.",
-      "fun_fact": "Tullamore Dew'in adındaki 'DEW' harfleri, markanın gelişiminde kilit rol oynamış Daniel E. Williams'ın baş harflerinden geliyor.",
+      "body": "Ayçiçek yağı, mutfaklarımızda o kadar yaygın ki, sanki hep varmış gibi geliyor, değil mi? Ama aslında bu değerli yağın endüstriyel üretimi sandığımızdan çok daha yakın bir tarihe dayanıyor. Hikaye, 1829 yılında, Rusya'da küçük bir köy olan Alekseyevka'da başlıyor. Daniil Bokarev adında sıradan bir çiftçi, ayçiçeği tohumlarından yağ çıkarma yöntemlerini geliştirerek büyük bir devrime imza attı. O güne kadar ayçiçekleri daha çok süs bitkisi olarak veya kuş yemi olarak kullanılıyordu. Ancak Bokarev'in bu basit ama deha dolu keşfi sayesinde, ayçiçekleri birdenbire altın değerinde bir besin kaynağına dönüştü.\n\nBu yeni üretim metodu sayesinde, ayçiçek yağı kısa sürede yaygınlaşmaya başladı ve Rusya'dan tüm dünyaya yayıldı. Ayçiçeklerinin anavatanının Kuzey Amerika olduğunu, hatta Kızılderililer tarafından binlerce yıldır farklı amaçlarla kullanıldığını biliyor muydunuz? [DOĞRULA: Ayçiçeklerinin Kızılderililer tarafından binlerce yıldır farklı amaçlarla kullanıldığı bilgisi.] Avrupa'ya ise İspanyol kaşifler tarafından getirildiği düşünülüyor. Ama yağı için yetiştirilmeye başlanması ve endüstriyel üretime geçilmesi, modern mutfağımız için çok önemli bir dönüm noktası oldu. Artık kızartmalardan salatalara kadar pek çok yemeğin başrolünde o var! Onun sayesinde yemeklerimize hem lezzet hem de hafiflik katıyoruz.",
+      "fun_fact": "Ayçiçekleri, güneşi takip etme özelliğiyle \"heliotropizm\" adı verilen büyüleyici bir fenomene sahiptir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q735484",
-        "https://tr.wikipedia.org/wiki/Tullamore_Dew",
-        "https://en.wikipedia.org/wiki/Tullamore_Dew"
+        "https://www.wikidata.org/wiki/Q94787",
+        "https://tr.wikipedia.org/wiki/Ay%C3%A7i%C3%A7ek_ya%C4%9F%C4%B1",
+        "https://en.wikipedia.org/wiki/Sunflower_oil"
       ],
-      "wikidata_qid": "Q735484"
+      "wikidata_qid": "Q94787"
     },
     {
-      "id": "Q744729",
-      "date": "2027-01-29",
+      "id": "Q949948",
+      "date": "2027-01-05",
       "category": "gida-icecek",
-      "widget_title": "Brezilya'nın ruhu Kaşasa ne zaman ortaya çıktı?",
-      "hook": "Tropik Brezilya'nın kalbinden gelen bu ikonik içki, acaba ne zamandan beri bizimle?",
-      "answer_year": 1500,
+      "widget_title": "Spor İçecekleri Ne Zaman İlk Kez Hayatımıza Girdi?",
+      "hook": "Ter dökerken kaybettiğimiz elektrolitleri yerine koyan, enerjimizi tazeleyen spor içeceklerinin hikayesi sandığınızdan daha yakın bir tarihte başlıyor olabilir!",
+      "answer_year": 1961,
       "year_precision": "year",
       "guess_range": [
-        1400,
-        1580
-      ],
-      "body": "Kaşasa, nam-ı diğer cachaça, Brezilya'nın tartışmasız ulusal içkisidir ve kökleri ülkenin sömürge geçmişine uzanır. Şeker kamışının Portekizliler tarafından Brezilya'ya getirilmesiyle başlayan bu serüven, milat olarak 1500'lü yılları işaret eder. Henüz kimin keşfettiği veya ilk kez damıttığı tam olarak bilinmese de, bu tarihlerde şeker kamışı plantasyonlarında çalışanların, şekerin fermantasyon sürecinde ortaya çıkan alkollü sıvıyı keşfetmesiyle kaşasanın ilk adımlarının atıldığına inanılır. Sıklıkla 'Brezilya romu' olarak adlandırılsa da, kaşasa aslında romdan farklıdır. Rom genellikle şeker kamışı melasından üretilirken, kaşasa doğrudan taze şeker kamışı suyundan damıtılır. Bu küçük ama önemli fark, kaşasaya kendine özgü aromatik ve tatlı karakterini kazandırır. Erken dönemlerde plantasyon işçilerinin enerjilerini yüksek tutmak için kullandığı bu içki, zamanla Brezilya kültürünün ayrılmaz bir parçası haline gelmiş, kutlamalardan günlük yaşama kadar pek çok alanda yerini almıştır. İlk zamanlar daha çok kırsal bölgelerde tüketilen kaşasa, özellikle 20. yüzyılın ortalarından itibaren şehirlere yayılarak popülaritesini artırmıştır. Bugün, kaşasa sadece Brezilya'da değil, tüm dünyada kokteyllerin, özellikle de meşhur Caipirinha'nın vazgeçilmez bir bileşeni olarak tanınıyor. Tarihi, Brezilya'nın kendi tarihiyle iç içe geçmiş, tatlı ve bazen de hüzünlü bir yolculuktur.",
-      "fun_fact": "Kaşasa, Brezilya'nın ulusal kokteyli olan Caipirinha'nın ana bileşenidir ve bu ikili Brezilya kültürünün ayrılmaz bir parçasıdır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q744729",
-        "https://tr.wikipedia.org/wiki/Ka%C5%9Fasa",
-        "https://en.wikipedia.org/wiki/Cacha%C3%A7a"
-      ],
-      "wikidata_qid": "Q744729"
-    },
-    {
-      "id": "Q777721",
-      "date": "2027-01-30",
-      "category": "gida-icecek",
-      "widget_title": "Smirnoff votka markası ne zaman kuruldu?",
-      "hook": "Rusya'dan çıkan ve tüm dünyayı fetheden Smirnoff votkanın hikayesi tahmin ettiğinizden çok daha eski mi?",
-      "answer_year": 1860,
-      "year_precision": "year",
-      "guess_range": [
-        1760,
-        1940
-      ],
-      "body": "Votka dünyasının devlerinden Smirnoff, kökenlerini tam 1860 yılına, Moskova'nın hareketli sokaklarına dayandırıyor. Hikaye, Rusya'da [DOĞRULA: Kurucunun adı: Pyotr Arsenievich Smirnov mu?] tarafından kurulan PA Smirnov adlı bir damıtım evinde başladı. Kısa sürede Rus İmparatorluğu'nun gözdesi haline gelen bu votka, çarların bile sofralarını süslemeye başladı. Ancak 20. yüzyılın başlarındaki olaylar, markanın kaderini değiştirecekti. Rus Devrimi ve ardından gelen alkol yasakları nedeniyle aile, bildiğimiz Smirnoff markasını [DOĞRULA: Ailenin Rusya'dan ayrılma tarihi ve ilk yeniden kuruluş yeri (örneğin Fransa)] yurt dışına taşımak zorunda kaldı.\n\nBu zorlu süreçte marka, farklı ellerden geçerek ve yeniden yapılanarak varlığını sürdürdü. Özellikle Amerika Birleşik Devletleri'ne ulaştığında, bazı önemli kişiler sayesinde yeniden yükselişe geçti. Kokteyl kültürünün popülerleşmesiyle birlikte Smirnoff, modern barmenlerin ve tüketicilerin vazgeçilmezi haline geldi. Bugüne geldiğimizde ise Smirnoff, sadece bir votka markası olmanın ötesinde, yenilikçi tatları ve geniş ürün yelpazesiyle küresel bir içki ikonuna dönüşmüş durumda. Bu uzun ve maceralı yolculuk, Smirnoff'u sadece bir içki değil, aynı zamanda tarihin ve değişimin bir tanığı haline getiriyor.",
-      "fun_fact": "Smirnoff, Rusya'daki kuruluşundan sonra yurt dışında üretilen ilk votka markalarından biri olma özelliğini taşır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q777721",
-        "https://tr.wikipedia.org/wiki/Smirnoff",
-        "https://en.wikipedia.org/wiki/Smirnoff"
-      ],
-      "wikidata_qid": "Q777721"
-    },
-    {
-      "id": "Q7841375",
-      "date": "2027-01-31",
-      "category": "gida-icecek",
-      "widget_title": "Ferahlatıcı Trident Sakızı Ne Zaman Piyasaya Sürüldü?",
-      "hook": "Şeker içermeyen sakız Trident, hayatımıza hangi yılda girdi?",
-      "answer_year": 1978,
-      "year_precision": "year",
-      "guess_range": [
-        1870,
+        1860,
         2026
       ],
-      "body": "Şeker içermeyen sakızlar, diş sağlığının öneminin daha iyi anlaşılmasıyla birlikte dünya genelinde büyük bir popülerlik kazandı. Bu yükselişte payı büyük olan markalardan biri de hiç şüphesiz Trident oldu. 1978 yılı, bu ikonik sakızın tarihinde önemli bir yere sahip. [DOĞRULA: Bazı kaynaklara göre Trident'in ilk olarak Amerika'da 1960'ların başında piyasaya sürüldüğü, şekersiz versiyonunun ise 1964'te çıktığı belirtilirken, 1978 yılının Trident için ne anlama geldiği daha spesifik bir araştırma gerektiriyor olabilir. Belki de bu yıl, markanın Türkiye pazarına girdiği veya global pazarda büyük bir yenilenme yaşadığı, ya da belirli bir ürün serisinin lanse edildiği bir dönemdi.]\n\nO yıllarda insanlar, şekerli ürünlerin diş çürüklerine yol açtığının daha çok farkına varmış ve tatlı ihtiyacını karşılarken ağız sağlığını koruyacak alternatifler aramaya başlamıştı. Trident, içeriğindeki xylitol ve benzeri tatlandırıcılarla formüle edilerek bu ihtiyaca mükemmel bir yanıt sundu. Şekerli sakızların aksine, ağızdaki asit seviyesini dengelemeye yardımcı olması ve uzun süreli ferahlatıcı etkisiyle kısa sürede tüketicilerin favorisi haline geldi. Diş hekimlerinin de tavsiyeleriyle desteklenen Trident, sadece bir sakız olmaktan öte, ağız bakım rutinlerinin ayrılmaz bir parçası haline geldi. Markanın tam olarak kim tarafından icat edildiği bilinmese de, sağlıklı alternatif arayışındaki milyonlarca insanın hayatına kattığı değer ve ağız hijyenine yaptığı katkılarla, Trident'in etkisi ve mirası günümüzde hala devam ediyor.",
-      "fun_fact": "Trident adının, sakızın diş sağlığı için sunduğu üç temel faydayı temsil ettiğine inanılır.",
+      "body": "Yoğun fiziksel aktivite sırasında vücudumuz terleyerek sadece su değil, aynı zamanda hayati öneme sahip elektrolitleri, özellikle sodyum ve potasyum gibi mineralleri kaybeder. Bu durum, özellikle sporcular için kas kramplarına, performans düşüşüne ve ciddi yorgunluğa yol açar. Tarih boyunca, sporcular susuzluklarını gidermek için genellikle sadece suya başvurmuşlardır. Ancak zamanla anlaşıldı ki, yoğun çaba harcarken kaybedilenleri sadece suyla yerine koymak yeterli değildi.\n\nİşte tam da bu noktada, 1961 yılı, modern spor içeceklerinin doğuşu için bir dönüm noktası oldu. Bu tarihlerde, spor bilimciler ve tıp uzmanları, insan vücudunun fiziksel stres altındayken nasıl tepki verdiğini, özellikle sıvı ve elektrolit dengesinin performans üzerindeki etkilerini daha derinlemesine incelemeye başladı. Yapılan araştırmalar, suyun yanı sıra karbonhidratların enerji sağlamak, elektrolitlerin ise kas fonksiyonlarını ve sinir iletimini desteklemek için kritik olduğunu ortaya koydu.\n\nBu yeni bilgiler ışığında, sadece susuzluğu gidermekle kalmayıp, aynı zamanda kaybedilen sıvıları, mineralleri ve enerjiyi hızla yerine koymak üzere özel olarak formüle edilmiş içecekler geliştirilmeye başlandı. Bu içecekler, suyun ötesinde, belirli oranlarda şeker ve elektrolit karışımı içeriyordu. Modern spor içeceklerinin temelleri bu bilimsel yaklaşımla atıldı. Artık sporcular, sadece su içerek değil, aynı zamanda vücutlarının ihtiyaç duyduğu temel besin maddelerini de alarak antrenman ve müsabakalarda daha uzun süre dayanabiliyor, daha hızlı toparlanabiliyorlardı. Bu yenilikçi yaklaşım, spor dünyasında adeta bir devrim niteliği taşıdı ve sporcuların performans potansiyellerini önemli ölçüde artırdı.",
+      "fun_fact": "Spor içecekleri, dehidrasyonu önlemek ve performansı artırmak amacıyla sadece profesyonel sporcular için değil, aynı zamanda uzun süreli fiziksel aktivitelerde bulunan herkes için faydalı olabilir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q7841375",
-        "https://tr.wikipedia.org/wiki/Trident_(marka)",
-        "https://en.wikipedia.org/wiki/Trident_(gum)"
+        "https://www.wikidata.org/wiki/Q949948",
+        "https://tr.wikipedia.org/wiki/Spor_i%C3%A7ece%C4%9Fi",
+        "https://en.wikipedia.org/wiki/Sports_drink"
       ],
-      "wikidata_qid": "Q7841375"
+      "wikidata_qid": "Q949948"
+    },
+    {
+      "id": "Q975953",
+      "date": "2027-01-06",
+      "category": "gida-icecek",
+      "widget_title": "Badem sütü sofralardaki yerini ne zaman aldı?",
+      "hook": "Günümüzün popüler süt alternatifi badem sütünün aslında çok köklü bir geçmişi var, hem de sandığınızdan çok daha eski!",
+      "answer_year": 1200,
+      "year_precision": "year",
+      "guess_range": [
+        1100,
+        1280
+      ],
+      "body": "Bugün market raflarında 'yeni nesil' bir alternatif olarak gördüğümüz badem sütünün hikayesi, aslında Orta Çağ'a kadar uzanıyor. Evet, yanlış duymadınız! Badem sütü, günümüzden yaklaşık sekiz yüz yıl önce, milattan sonra 1200'lerde zaten sofralardaki yerini almıştı. O dönemlerde, özellikle Avrupa ve Orta Doğu mutfaklarında oldukça yaygın bir içecekti. Peki neden? Çünkü hayvansal süt ürünlerinin yasak olduğu oruç dönemlerinde (örneğin Hristiyanlıkta Büyük Perhiz zamanı) veya dinen et/süt tüketimi kısıtlı olan topluluklar için mükemmel bir alternatifti. Ayrıca, soğutma tekniklerinin olmadığı bir çağda, hayvansal süte göre bozulma süresi daha uzun olması da onu cazip kılıyordu. Badem sütü sadece bir içecek değil, aynı zamanda birçok yemek ve tatlı tarifinde de kullanılan temel bir malzemeydi. Bademlerin o dönemdeki göreceli pahalılığı düşünüldüğünde, badem sütünün zaman zaman bir lüks göstergesi olarak da algılandığı söylenebilir. Kimin ilk kez bademleri suya batırıp bu lezzetli sıvıyı keşfettiği tam olarak bilinmiyor; büyük ihtimalle farklı coğrafyalarda eş zamanlı veya birbirini etkileyen şekillerde ortaya çıkan bir buluştu. Modern çağda yeniden popülerlik kazanmasıyla, atalarımızın mutfak bilgeliği bir kez daha gün yüzüne çıkmış oldu.",
+      "fun_fact": "Orta Çağ'da badem sütü, tatlılardan çorbalara kadar birçok yemek tarifinde kullanılıyordu; yani sadece bir içecek değildi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q975953",
+        "https://tr.wikipedia.org/wiki/Badem_s%C3%BCt%C3%BC",
+        "https://en.wikipedia.org/wiki/Almond_milk"
+      ],
+      "wikidata_qid": "Q975953"
     }
   ]
 }

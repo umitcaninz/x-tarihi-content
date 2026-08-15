@@ -25,26 +25,26 @@
       "wikidata_qid": "Q1027454"
     },
     {
-      "id": "Q1081449",
+      "id": "Q1108738",
       "date": "2026-09-02",
       "category": "giyim",
-      "widget_title": "Japonya Üzerinde Zafer Madalyası ne zaman verildi?",
-      "hook": "İkinci Dünya Savaşı'nın Asya cephesindeki zaferini simgeleyen bu madalyanın hikayesini merak ediyor musunuz?",
-      "answer_year": 1945,
-      "year_precision": "day",
+      "widget_title": "Tarihin en eski ayakkabısı Areni-1 ne zaman bulundu?",
+      "hook": "Ermenistan'ın derinliklerinde bulunan bu 5.500 yıllık deri ayakkabı, zamanı aşan bir hikaye fısıldıyor.",
+      "answer_year": 2008,
+      "year_precision": "year",
       "guess_range": [
-        1840,
-        2020
+        1900,
+        2026
       ],
-      "body": "İkinci Dünya Savaşı, insanlık tarihinin en yıkıcı çatışmalarından biriydi. Avrupa'da savaş sona ererken, Uzak Doğu'da gerilim devam ediyordu. Japonya'nın teslim olmasıyla dünya genelinde barış umudu yeşerdi. İşte bu büyük zaferi ve savaşa katılanları onurlandırmak amacıyla Sovyetler Birliği tarafından \"Japonya Üzerinde Zafer Madalyası\" ihdas edildi. Madalya, 1945 yılında, savaşın bitiminden kısa bir süre sonra yürürlüğe girdi ve Doğu Asya'daki çatışmalara katılan veya destek veren binlerce Sovyet vatandaşına verildi. Genellikle Kızıl Ordu, Donanma ve NKVD birliklerinden askerler ile aktif olarak savaş operasyonlarına destek veren sivil çalışanlar bu madalyayı almaya hak kazandı. Madalya, Sovyetler Birliği'nin Japonya'ya karşı kazandığı kesin zaferin bir nişanesiydi ve savaşın son büyük aşamalarından birinin kapanışını simgeliyordu. Bu madalya, sadece bir metal parçası değil, aynı zamanda o dönemde yaşanan fedakarlıkların ve kazanılan büyük zaferin somut birer anıtıydı. Tarihçilere göre, madalya Japonya'ya karşı yürütülen askeri harekatta doğrudan rol alan yaklaşık [DOĞRULA: kaç kişi olduğu bilgisini teyit et] kişiye verildiği tahmin ediliyor. Bu madalya, İkinci Dünya Savaşı'nın küresel etkilerini ve Sovyetler Birliği'nin bu çaptaki çatışmadaki rolünü anlamak için önemli bir belge niteliğindedir.",
-      "fun_fact": "Madalyanın ön yüzünde Stalin'in portresi, arka yüzünde ise \"Japonya Üzerinde Zafer İçin\" yazısı ve 1945 tarihi yer alırdı.",
+      "body": "2008 yılı, arkeoloji dünyası için unutulmaz bir dönüm noktası oldu. Ermenistan'ın Vayots Dzor bölgesindeki Areni-1 mağara kompleksinde yürütülen kazılarda, genç arkeolog Diana Zardaryan ve ekibi, insanlık tarihine ışık tutan inanılmaz bir keşfe imza attı: Bugüne kadar bulunmuş en eski deri ayakkabı! Bu eşsiz parça, bulunduğu yerden dolayı 'Areni-1 ayakkabısı' adını aldı. Ancak önemli bir detayı hatırlatmakta fayda var: 2008 tarihi, bu ayakkabının üretildiği değil, tam 5.500 yıl sonra gün yüzüne çıkarıldığı yıldır. Yapılan karbon tarihleme analizleri, ayakkabının M.Ö. 3500 civarında, yani Kalkolitik Çağ'da yapıldığını ortaya koydu.\n\nAreni-1 ayakkabısı, mağaranın kuru ve serin koşulları ile üstünü örten koyun gübresi katmanı sayesinde adeta bir zaman kapsülü içinde korunmuştu. Bu sayede, deri dokusu, hatta bağcıklarının bazı kısımları bile şaşırtıcı derecede sağlam kalmıştı. Tek parça sığır derisinden özenle şekillendirilmiş olan bu ayakkabı, günümüzdeki yaklaşık 37 numara ayakkabıya denk geliyordu ve büyük ihtimalle sağ ayağa aitti. Kimin tarafından giyildiği tam olarak bilinmese de, o dönemin insanlarının zanaatkarlık becerilerini ve günlük yaşamdaki ihtiyaçlarını anlamamız için paha biçilmez bir kanıt sunuyor. Modern ayakkabı tasarımlarından çok da farklı olmayan bu basit ama işlevsel ayakkabı, 55 asır öncesinin modasına ve zanaat anlayışına dair büyüleyici bir pencere aralıyor.",
+      "fun_fact": "Areni-1 ayakkabısı, o dönemde üzüm ezmek için kullanılan bir şarap presinin yakınında bulunmuştu!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1081449",
-        "https://tr.wikipedia.org/wiki/Japonya_%C3%BCzerinde_Zafer_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_the_Victory_over_Japan%22"
+        "https://www.wikidata.org/wiki/Q1108738",
+        "https://tr.wikipedia.org/wiki/Areni-1_ayakkab%C4%B1s%C4%B1",
+        "https://en.wikipedia.org/wiki/Areni-1_shoe"
       ],
-      "wikidata_qid": "Q1081449"
+      "wikidata_qid": "Q1108738"
     },
     {
       "id": "Q1358538",
@@ -91,26 +91,26 @@
       "wikidata_qid": "Q1049501"
     },
     {
-      "id": "Q1081503",
+      "id": "Q1126741",
       "date": "2026-09-05",
       "category": "giyim",
-      "widget_title": "Königsberg'in Alınması Madalyası ne zaman verildi?",
-      "hook": "II. Dünya Savaşı'nın Doğu Cephesi'ndeki en kritik zaferlerden birini taçlandıran bu özel madalyanın hikayesiyle tanışmaya hazır mısınız?",
-      "answer_year": 1945,
+      "widget_title": "Agamemnon'un Maskesi ne zaman keşfedildi?",
+      "hook": "Altın rengiyle göz kamaştıran bu maske, adını Truva Savaşı'nın efsanevi kahramanından alıyor. Ama gerçekten ona mı ait?",
+      "answer_year": 1876,
       "year_precision": "day",
       "guess_range": [
-        1840,
-        2020
+        1770,
+        1950
       ],
-      "body": "II. Dünya Savaşı'nın sonuna doğru, Doğu Avrupa'da tansiyonun tavan yaptığı bir dönemde, Alman Doğu Prusya'sının başkenti Königsberg, stratejik önemiyle öne çıkıyordu. Burası, Sovyet kuvvetleri için Berlin'e giden yolda aşılması gereken büyük bir engeldi. Şehrin alınması, zorlu ve kanlı çatışmalara sahne olan bir dizi askeri operasyonla gerçekleşti. Sovyetler Birliği, bu çetin mücadelenin ve nihai zaferin anısına, kahraman askerlerini onurlandırmak amacıyla özel bir madalya ihdas etti: \"Königsberg'in Alınması Madalyası\".\n\nBu madalya, 1945 yılında, yani şehrin düşmesinden kısa bir süre sonra [DOĞRULA: Tam ihdas tarihi ve kim tarafından ihdas edildiği.] resmen hayata geçirildi. Sadece savaşın seyrini değiştiren bu kritik operasyonda yer alan Kızıl Ordu askerlerine, donanma mensuplarına ve İçişleri Halk Komiserliği (NKVD) birliklerine verilmek üzere tasarlanmıştı. Madalyanın verilmesi, Sovyet askerlerinin gösterdiği eşsiz cesaretin, azmin ve fedakarlığın bir simgesiydi. Her bir madalya, soğuk Doğu Prusya topraklarında verilen zorlu mücadelenin ve elde edilen zaferin sessiz bir tanığıydı. Bu madalya, savaşın bitişine giden yolda atılan önemli bir adımın ve sayısız hayatın feda edildiği bir mücadelenin nişanı olarak tarihteki yerini aldı.",
-      "fun_fact": "Königsberg şehri, savaş sonrası dönemde Sovyetler Birliği topraklarına katıldı ve 1946 yılında \"Kaliningrad\" adını alarak günümüzdeki Rusya Federasyonu'nun Kaliningrad Oblastı'nın merkezi oldu.",
+      "body": "Miken'in kraliyet mezarlarından çıkan bu muhteşem eser, 1876 yılında Alman arkeolog Heinrich Schliemann tarafından gün ışığına çıkarıldı. Schliemann, o dönemde [DOĞRULA: Schliemann'ın kazılarının resmi denetimi hakkında bilgi] denetiminde kazılarını yürütüyordu ve bu keşifle adeta bir tarih hazinesini ortaya çıkardığını düşünüyordu. Maskeyi bulduğunda, heyecanla Yunanistan Kralı'na bir telgraf çekerek 'Agamemnon'un yüzüne baktığını' söylemişti. Gerçekten de, Truva Savaşı'nın efsanevi komutanı Agamemnon'a atfedilmesi, bu maskeye inanılmaz bir ün kazandırdı. Ancak modern arkeolojik çalışmalar, maskenin MÖ 16. yüzyıla, yani Schliemann'ın düşündüğünden çok daha eski bir döneme ait olduğunu gösteriyor. Bu da Agamemnon'un yaşamış olabileceği düşünülen dönemden çok daha eski. Yani evet, adı 'Agamemnon'un Maskesi' olarak kalsa da, aslında başka bir Miken kralına ya da önemli bir kişiye ait olduğu düşünülüyor. Beş altın maskeden sadece biri olan bu eser, ölen kişinin yüzüne yerleştirilen ve altın varaktan yapılmış muhteşem bir cenaze maskesi.",
+      "fun_fact": "Maskenin üzerinde, dönemin ustalarının muazzam işçiliğini gösteren ince detaylar ve hatta bir bıyık figürü bulunuyor.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1081503",
-        "https://tr.wikipedia.org/wiki/K%C3%B6nigsberg%27in_Al%C4%B1nmas%C4%B1_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_the_Capture_of_K%C3%B6nigsberg%22"
+        "https://www.wikidata.org/wiki/Q1126741",
+        "https://tr.wikipedia.org/wiki/Agamemnon_maskesi",
+        "https://en.wikipedia.org/wiki/Mask_of_Agamemnon"
       ],
-      "wikidata_qid": "Q1081503"
+      "wikidata_qid": "Q1126741"
     },
     {
       "id": "Q1370184",
@@ -157,26 +157,26 @@
       "wikidata_qid": "Q1051149"
     },
     {
-      "id": "Q1083348",
+      "id": "Q1514666",
       "date": "2026-09-08",
       "category": "giyim",
-      "widget_title": "Sevastopol Savunması Madalyası ne zaman oluşturuldu?",
-      "hook": "Bir şehrin destansı direnişi, bir madalyanın doğuşuna ilham verebilir mi?",
-      "answer_year": 1942,
-      "year_precision": "day",
+      "widget_title": "Kadınlara özel Şefkat Nişanı hangi yıl ihdas edildi?",
+      "hook": "Kadınların hayırseverlik ve sosyal hizmetlerdeki rolünü onurlandırmak için Osmanlı'da özel bir nişan tasarlandığını biliyor muydunuz?",
+      "answer_year": 1878,
+      "year_precision": "year",
       "guess_range": [
-        1840,
-        2020
+        1770,
+        1950
       ],
-      "body": "II. Dünya Savaşı'nın en çetin cephelerinden biri, Karadeniz'in stratejik liman şehri Sevastopol'du. Bu kadim şehrin savunması, tarihe geçen bir kahramanlık ve direniş destanı olarak yazıldı. Tam 250 gün süren kuşatma boyunca gösterilen fedakarlık ve cesaret, tüm dünyayı hayran bırakmıştı. Sovyetler Birliği, bu emsalsiz mücadeleyi ve burada savaşan askerlerin, denizcilerin, iç işleri birlikleri mensuplarının ve sivil halkın fedakarlığını onurlandırmak amacıyla özel bir nişan tasarladı. Sevastopol Savunması Madalyası, işte tam da bu ruhla, savaşın tüm şiddetiyle devam ettiği 1942 yılında resmiyet kazandı.\n\nBu madalya, Sevastopol'un savunmasında doğrudan yer alan herkese - kara birliklerinden denizcilere, hava savunma birliklerinden sivil halktan direnişe katılanlara kadar geniş bir yelpazeye - verilmek üzere çıkarıldı. Madalyanın ön yüzünde [DOĞRULA: Madalya üzerindeki ana görsel ve yazı detayları] genellikle Sevastopol savunmasının güçlü sembolleri, belki bir tank, bir savaş gemisi veya Kızıl Ordu askerleri figürleri yer alıyordu. Amacı sadece bir onur nişanı olmakla kalmayıp, aynı zamanda o zorlu günlerde gösterilen cesaretin ve dayanıklılığın canlı bir anıtı olarak kalmaktı. Bu madalya, Sovyet halkının vatanseverliğini ve kararlılığını gösteren önemli bir semboldü ve savaşın seyrinde moralin yüksek tutulmasına da katkıda bulundu. Sevastopol'un kurtarılmasından sonra da madalya, şehrin kahramanlık statüsünü pekiştiren bir simge olmaya devam etti. Kim tarafından tasarlandığı tam olarak bilinmese de, bu madalya bir ulusun direniş ruhunun ortak bir ifadesiydi.",
-      "fun_fact": "Sevastopol Savunması Madalyası, II. Dünya Savaşı sırasında Sovyetler Birliği tarafından çıkarılan ilk \"şehir savunması\" madalyaları arasında yer alıyordu.",
+      "body": "Tarih 1878'i gösterdiğinde, Osmanlı İmparatorluğu'nda çok özel bir nişan ortaya çıktı: Şefkat Nişanı. Bu nişan, Sultan II. Abdülhamid tarafından, özellikle 93 Harbi (1877-1878 Osmanlı-Rus Savaşı) sırasında ve sonrasında, insani yardım ve sosyal hizmetlerde olağanüstü çaba gösteren Müslüman ve gayrimüslim kadınları onurlandırmak amacıyla tesis edildi. O dönemde savaşın yarattığı büyük acılar ve göç dalgasıyla mücadele eden kadınlar, cephe gerisinde ve hastanelerde büyük bir fedakarlıkla çalıştılar.\n\nŞefkat Nişanı, genel olarak pembe kurdeleli bir madalyon şeklinde tasvir edilir ve üzerinde padişahın tuğrası ile birlikte \"insaniyet\" ve \"yardımseverlik\" gibi erdemleri simgeleyen motifler bulunurdu. Nişanın farklı dereceleri vardı ve bu dereceler madalyonun boyutu veya üzerindeki değerli taşlarla ayırt edilebilirdi. Bu nişan, sadece bir süs eşyası olmaktan öte, kadınların toplumsal hayattaki görünürlüğünü ve katkılarını resmi olarak tanıyan önemli bir sembol haline geldi. Osmanlı İmparatorluğu'nda kadınlara yönelik bu türden bir resmi onurlandırma, o dönemin şartlarında oldukça yenilikçi ve ileri görüşlü bir adımdı. Nişan, imparatorluğun sonuna kadar varlığını sürdürdü ve birçok değerli kadına takdim edildi.",
+      "fun_fact": "Şefkat Nişanı, Osmanlı İmparatorluğu'nda kadınlara verilen ilk ve tek özel nişandı.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1083348",
-        "https://tr.wikipedia.org/wiki/Sevastopol_Savunmas%C4%B1_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_the_Defence_of_Sevastopol%22"
+        "https://www.wikidata.org/wiki/Q1514666",
+        "https://tr.wikipedia.org/wiki/%C5%9Eefkat_Ni%C5%9Fan%C4%B1",
+        "https://en.wikipedia.org/wiki/Order_of_Charity"
       ],
-      "wikidata_qid": "Q1083348"
+      "wikidata_qid": "Q1514666"
     },
     {
       "id": "Q139032",
@@ -223,26 +223,26 @@
       "wikidata_qid": "Q1068671"
     },
     {
-      "id": "Q1108738",
+      "id": "Q163700",
       "date": "2026-09-11",
       "category": "giyim",
-      "widget_title": "Tarihin en eski ayakkabısı Areni-1 ne zaman bulundu?",
-      "hook": "Ermenistan'ın derinliklerinde bulunan bu 5.500 yıllık deri ayakkabı, zamanı aşan bir hikaye fısıldıyor.",
-      "answer_year": 2008,
-      "year_precision": "year",
+      "widget_title": "Fransa'nın en prestijli nişanı ne zaman kuruldu?",
+      "hook": "Fransız İhtilali'nin ardından birliği sağlamak ve liyakati ödüllendirmek için tasarlanan bu sembol, bugün bile dünya çapında saygı görüyor.",
+      "answer_year": 1802,
+      "year_precision": "day",
       "guess_range": [
-        1900,
-        2026
+        1700,
+        1880
       ],
-      "body": "2008 yılı, arkeoloji dünyası için unutulmaz bir dönüm noktası oldu. Ermenistan'ın Vayots Dzor bölgesindeki Areni-1 mağara kompleksinde yürütülen kazılarda, genç arkeolog Diana Zardaryan ve ekibi, insanlık tarihine ışık tutan inanılmaz bir keşfe imza attı: Bugüne kadar bulunmuş en eski deri ayakkabı! Bu eşsiz parça, bulunduğu yerden dolayı 'Areni-1 ayakkabısı' adını aldı. Ancak önemli bir detayı hatırlatmakta fayda var: 2008 tarihi, bu ayakkabının üretildiği değil, tam 5.500 yıl sonra gün yüzüne çıkarıldığı yıldır. Yapılan karbon tarihleme analizleri, ayakkabının M.Ö. 3500 civarında, yani Kalkolitik Çağ'da yapıldığını ortaya koydu.\n\nAreni-1 ayakkabısı, mağaranın kuru ve serin koşulları ile üstünü örten koyun gübresi katmanı sayesinde adeta bir zaman kapsülü içinde korunmuştu. Bu sayede, deri dokusu, hatta bağcıklarının bazı kısımları bile şaşırtıcı derecede sağlam kalmıştı. Tek parça sığır derisinden özenle şekillendirilmiş olan bu ayakkabı, günümüzdeki yaklaşık 37 numara ayakkabıya denk geliyordu ve büyük ihtimalle sağ ayağa aitti. Kimin tarafından giyildiği tam olarak bilinmese de, o dönemin insanlarının zanaatkarlık becerilerini ve günlük yaşamdaki ihtiyaçlarını anlamamız için paha biçilmez bir kanıt sunuyor. Modern ayakkabı tasarımlarından çok da farklı olmayan bu basit ama işlevsel ayakkabı, 55 asır öncesinin modasına ve zanaat anlayışına dair büyüleyici bir pencere aralıyor.",
-      "fun_fact": "Areni-1 ayakkabısı, o dönemde üzüm ezmek için kullanılan bir şarap presinin yakınında bulunmuştu!",
+      "body": "\"Légion d'honneur\" veya \"Onur Lejyonu\", Fransa'nın en yüksek dereceli sivil ve askeri nişanı olarak 1802 yılında kuruldu. Bu prestijli ödül, çalkantılı Fransız İhtilali sonrasında ülkeyi yeniden birleştirmeyi ve hem askerî hem de sivil alanda üstün başarı gösteren kişileri ödüllendirmeyi amaçlıyordu. Kurucusu, Fransa İmparatoru Napolyon Bonapart'tı. Napolyon, krallık dönemindeki eski şövalyelik nişanlarının yerine geçecek, soyluluğa değil, liyakate dayalı yeni bir ödül sistemi yaratmak istiyordu. Bu nişan, devrimin getirdiği eşitlik ruhunu korurken, ulusal bir kimlik ve gurur aracı olarak tasarlandı.\n\nNapolyon, [DOĞRULA: savaş sırasında gösterilen kahramanlıkların ve sivil alandaki olağanüstü hizmetlerin takdir edilmesi gerektiğine inanıyordu.] Onur Lejyonu, bu inancın bir yansıması olarak doğdu ve kısa sürede ülkenin en saygın nişanı haline geldi. İlk başta beş farklı rütbeden oluşuyordu: Şövalye, Subay, Komutan, Büyük Subay ve Büyük Haç. Bu yapı, küçük değişikliklerle günümüze kadar korunmuştur. Nişanın sembolü olan kırmızı kurdele ve haç şeklindeki madalya, zamanla Fransa'nın ulusal sembollerinden biri haline geldi ve Fransa'nın değerlerini temsil etti.\n\nBugün bile \"Onur Lejyonu\", yalnızca Fransız vatandaşlarına değil, Fransa'ya veya evrensel değerlere önemli katkılarda bulunmuş yabancılara da veriliyor. Bu, onu uluslararası alanda tanınan ve saygı duyulan bir sembol haline getiriyor. Onur Lejyonu'nu almak, bir bireyin kendi alanında ulaştığı en yüksek seviyelerden birini temsil eder ve iki yüzyılı aşkın süredir Fransız kimliğinin ayrılmaz bir parçası olmuştur.",
+      "fun_fact": "Onur Lejyonu'nun ana merkezi, Paris'teki tarihi Salm Sarayı'nda bulunuyor.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1108738",
-        "https://tr.wikipedia.org/wiki/Areni-1_ayakkab%C4%B1s%C4%B1",
-        "https://en.wikipedia.org/wiki/Areni-1_shoe"
+        "https://www.wikidata.org/wiki/Q163700",
+        "https://tr.wikipedia.org/wiki/L%C3%A9gion_d%27honneur",
+        "https://en.wikipedia.org/wiki/Legion_of_Honour"
       ],
-      "wikidata_qid": "Q1108738"
+      "wikidata_qid": "Q163700"
     },
     {
       "id": "Q15122248",
@@ -289,48 +289,48 @@
       "wikidata_qid": "Q1071385"
     },
     {
-      "id": "Q1126741",
+      "id": "Q17231052",
       "date": "2026-09-14",
       "category": "giyim",
-      "widget_title": "Agamemnon'un Maskesi ne zaman keşfedildi?",
-      "hook": "Altın rengiyle göz kamaştıran bu maske, adını Truva Savaşı'nın efsanevi kahramanından alıyor. Ama gerçekten ona mı ait?",
-      "answer_year": 1876,
+      "widget_title": "N95 maskesi ne zaman ortaya çıktı?",
+      "hook": "Pandemilerde en büyük kurtarıcılarımızdan biri olan N95 maskesi, aslında düşündüğümüzden daha yakın bir geçmişe sahip olabilir mi?",
+      "answer_year": 1995,
       "year_precision": "day",
       "guess_range": [
-        1770,
-        1950
-      ],
-      "body": "Miken'in kraliyet mezarlarından çıkan bu muhteşem eser, 1876 yılında Alman arkeolog Heinrich Schliemann tarafından gün ışığına çıkarıldı. Schliemann, o dönemde [DOĞRULA: Schliemann'ın kazılarının resmi denetimi hakkında bilgi] denetiminde kazılarını yürütüyordu ve bu keşifle adeta bir tarih hazinesini ortaya çıkardığını düşünüyordu. Maskeyi bulduğunda, heyecanla Yunanistan Kralı'na bir telgraf çekerek 'Agamemnon'un yüzüne baktığını' söylemişti. Gerçekten de, Truva Savaşı'nın efsanevi komutanı Agamemnon'a atfedilmesi, bu maskeye inanılmaz bir ün kazandırdı. Ancak modern arkeolojik çalışmalar, maskenin MÖ 16. yüzyıla, yani Schliemann'ın düşündüğünden çok daha eski bir döneme ait olduğunu gösteriyor. Bu da Agamemnon'un yaşamış olabileceği düşünülen dönemden çok daha eski. Yani evet, adı 'Agamemnon'un Maskesi' olarak kalsa da, aslında başka bir Miken kralına ya da önemli bir kişiye ait olduğu düşünülüyor. Beş altın maskeden sadece biri olan bu eser, ölen kişinin yüzüne yerleştirilen ve altın varaktan yapılmış muhteşem bir cenaze maskesi.",
-      "fun_fact": "Maskenin üzerinde, dönemin ustalarının muazzam işçiliğini gösteren ince detaylar ve hatta bir bıyık figürü bulunuyor.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1126741",
-        "https://tr.wikipedia.org/wiki/Agamemnon_maskesi",
-        "https://en.wikipedia.org/wiki/Mask_of_Agamemnon"
-      ],
-      "wikidata_qid": "Q1126741"
-    },
-    {
-      "id": "Q331460",
-      "date": "2026-09-15",
-      "category": "gunluk-nesneler",
-      "widget_title": "Amerika Birleşik Devletleri Virjin Adaları arması ne zaman kabul edildi?",
-      "hook": "Tropik bir cennetin sembolü olan bu arma, ne zaman resmiyet kazandı dersin?",
-      "answer_year": 1967,
-      "year_precision": "year",
-      "guess_range": [
-        1860,
+        1890,
         2026
       ],
-      "body": "Her ülkenin, bölgenin ya da eyaletin kendine özgü bir sembolü vardır; kimisi bayrakla, kimisi de arma ile hikayesini anlatır. Amerika Birleşik Devletleri Virjin Adaları da bu geleneği sürdüren, kendi özel armasına sahip bir ABD toprağıdır. Bu arma, sadece bir simgeden çok daha fazlası; adaların coğrafyasını, bağlılığını ve ruhunu yansıtan detaylarla dolu.\n\nArmanın merkezinde, üç ana adayı (Saint Croix, Saint John ve Saint Thomas) temsil eden bir kalkan bulunur. Bu kalkanın üstünde, Amerika Birleşik Devletleri'ni simgeleyen, denize doğru bakan güçlü bir kartal yer alır. Kartalın pençelerinde ise hem barışı temsil eden zeytin dalı, hem de gücü simgeleyen ok demeti bulunur. Armanın alt kısmında yer alan kurdele üzerinde ise adaların mottosu olan \"United in Pride and Hope\" (Gurur ve Umutla Birleşmiş) yazılıdır. Bu dikkat çekici ve anlamlı arma, adaların kimliğini pekiştirmek ve uluslararası alanda temsilini sağlamak amacıyla **1967 yılında** resmen kabul edildi. O günden bu yana, bu tropik cennetin resmi belgelerinde, kamu binalarında ve çeşitli etkinliklerinde gururla kullanılmaya devam ediyor.",
-      "fun_fact": "Amerika Birleşik Devletleri Virjin Adaları, aslında Danimarka'dan satın alınmıştır!",
+      "body": "N95 maskesi, özellikle son yıllarda yaşadığımız küresel salgınlarla birlikte adını tüm dünyaya duyuran, neredeyse herkesin tanıdığı bir yüz koruyucusu haline geldi. Peki, bu denli hayati bir koruyucunun tarihi ne kadar eskiye dayanıyor? Pek çok kişi onun son pandemilerle birlikte hayatımıza girdiğini düşünse de, aslında \"N95\" adlandırması çok daha erken, tam olarak 1995 yılında şekillendi.\n\nAslında N95, bir markanın adı olmaktan ziyade, Amerika Birleşik Devletleri Ulusal İş Sağlığı ve Güvenliği Enstitüsü (NIOSH) tarafından belirlenen bir performans standardını ifade eder. Bu standart, maskenin havadaki en az %95 oranındaki 0,3 mikron boyutundaki partikülleri filtreleyebildiğini gösterir. Bu, N95'i sadece büyük damlacıklardan değil, aynı zamanda virüsler ve bakteriler gibi çok daha küçük aerosollerden korunmada etkili kılar.\n\nElbette, insanlık tarihi boyunca nefes yoluyla bulaşan hastalıklardan veya tozdan korunma çabaları hep oldu. [DOĞRULA: Venedik veba doktorlarının gagalı maskeleri gibi erken örnekler verilebilir mi?] [DOĞRULA: Endüstriyel devrimle birlikte madencilik ve diğer kirli iş kollarında kullanılan ilk filtreli maske prototipleri ne zaman ortaya çıktı?] Ancak 1995 yılındaki NIOSH düzenlemesi, bu koruyucu ekipmanların belirli ve ölçülebilir bir performansa sahip olmasını sağlayarak, işçi sağlığı ve halk sağlığı alanında önemli bir dönüm noktasını işaret etti. Bu tarihten itibaren N95, sadece bir koruma aracı değil, aynı zamanda güvenilirliğin ve etkinliğin bir sembolü haline geldi. O günden bu yana, sağlık çalışanlarından inşaat işçilerine kadar pek çok farklı sektörde güvenle kullanılmaya devam ediyor.",
+      "fun_fact": "N95 maskelerindeki 'N' harfi 'yağa dayanıklı değil' (Not resistant to oil) anlamına gelirken, '95' sayısı ise havadaki partiküllerin en az %95'ini filtreleme kapasitesini ifade eder.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q331460",
-        "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Virjin_Adalar%C4%B1_armas%C4%B1",
-        "https://en.wikipedia.org/wiki/Seal_of_the_United_States_Virgin_Islands"
+        "https://www.wikidata.org/wiki/Q17231052",
+        "https://tr.wikipedia.org/wiki/N95_maske",
+        "https://en.wikipedia.org/wiki/N95_respirator"
       ],
-      "wikidata_qid": "Q331460"
+      "wikidata_qid": "Q17231052"
+    },
+    {
+      "id": "Q4781198",
+      "date": "2026-09-15",
+      "category": "gunluk-nesneler",
+      "widget_title": "Apple Bilgisayar Faresi ne zaman tanıtıldı?",
+      "hook": "Bilgisayar dünyasında bir devrim yaratan, o ikonik tek tuşlu farenin Apple macerası ne zaman başladı?",
+      "answer_year": 1983,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Fare denince aklımıza gelen ilk markalardan biri Apple olsa da, bilgisayar faresinin kendisi aslında Apple tarafından icat edilmedi. Farenin ilk konsepti ve prototipleri 1960'lı yıllarda Douglas Engelbart liderliğindeki ekip tarafından ortaya konuldu ve daha sonra Xerox PARC'ta geliştirildi. Ancak fareyi geniş kitlelere ulaştıran, sade ve kullanıcı dostu bir arayüz aracı haline getiren şirketlerden biri kesinlikle Apple oldu.\n\nApple'ın kendi fare macerası ise 1983 yılında, şirketin dönemin ileri teknolojili ancak ticari olarak çok başarılı olamayan Lisa bilgisayarı ile başladı. İşte bu tarihte, kullanıcıların ekranla etkileşimini kökten değiştiren o tek tuşlu, sade Apple faresi sahneye çıktı. Lisa ile gelen fare, o dönemdeki diğer farelerin daha karmaşık ve çok tuşlu tasarımlarına kıyasla dikkat çekici bir sadeliğe sahipti. Amacı, herkesin kolayca kullanabileceği bir arayüz sağlamaktı.\n\nKısa bir süre sonra, 1984'te tanıtılan efsanevi Macintosh ile birlikte gelerek adeta simgeleşti. Macintosh'un grafiksel kullanıcı arayüzü (GUI) ile fare, bilgisayar kullanımını çok daha sezgisel ve erişilebilir hale getirdi. Apple'ın bu tek tuşlu tasarımı, yıllarca şirketin felsefesini yansıtan bir imza niteliği taşıdı ve modern farelerin evriminde önemli bir dönüm noktası oldu.",
+      "fun_fact": "Apple'ın ilk faresi, maliyeti düşük tutmak ve üretimini kolaylaştırmak amacıyla tek tuşlu olarak tasarlandı ve bu sadelik aynı zamanda bir tasarım felsefesine dönüştü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4781198",
+        "https://tr.wikipedia.org/wiki/Apple_Bilgisayar_Faresi",
+        "https://en.wikipedia.org/wiki/Apple_pointing_devices"
+      ],
+      "wikidata_qid": "Q4781198"
     },
     {
       "id": "Q1090166",
@@ -355,48 +355,48 @@
       "wikidata_qid": "Q1090166"
     },
     {
-      "id": "Q1294341",
+      "id": "Q1788876",
       "date": "2026-09-17",
       "category": "giyim",
-      "widget_title": "Aziz Edward'ın Tacı ne zaman ortaya çıktı?",
-      "hook": "İngiliz monarşisinin en kutsal simgelerinden Aziz Edward'ın Tacı'nın hikayesi düşündüğünüzden çok daha eskilere dayanıyor.",
-      "answer_year": 1602,
+      "widget_title": "Savaş Liyakat Haçı ne zaman kuruldu?",
+      "hook": "Cephede değil, cephe gerisinde gösterilen olağanüstü hizmetler için bir ödül düşünün.",
+      "answer_year": 1939,
       "year_precision": "year",
       "guess_range": [
-        1500,
-        1680
+        1830,
+        2010
       ],
-      "body": "\"Aziz Edward'ın Tacı\" denildiğinde aklımıza hemen İngiliz monarşisinin o görkemli sembolü gelir, değil mi? Aslında bu tacın hikayesi oldukça katmanlı ve kökleri çok eskilere dayanıyor. Verilen bilgiye göre 1602 yılında, bu efsanevi tacın bir versiyonu zaten tahtta oturan hükümdarlar tarafından kullanılıyordu. Bu, o dönemdeki törenlerin ve krallığın gücünün önemli bir parçasıydı.\n\nPeki, günümüzdeki göz alıcı taç aynı mı? İşte burada küçük bir not düşmek gerekiyor. İngiliz İç Savaşı sırasında, 1649'da, Parlamento güçleri kraliyet mücevherlerini eritmişti ve o dönemdeki Aziz Edward'ın Tacı da ne yazık ki bu kaderi paylaştı. Ancak monarşi 1660'ta restore edildiğinde, yeni kral II. Charles için 1661 yılında yepyeni bir Aziz Edward'ın Tacı yapıldı. Bu yeni taç, selefinin tasarımını ve adını taşıyarak geleneği yaşattı. Yani, 1602'de var olan taç, aslında günümüzde gördüğümüz tacın atasıydı diyebiliriz. Bu, sembollerin fiziksel formları değişse de, taşıdıkları anlamın ve geleneğin nasıl devam ettiğinin güzel bir örneği. [DOĞRULA: 1602'de kullanılan Aziz Edward'ın Tacı'nın tasarımına dair detaylar.]",
-      "fun_fact": "Bugünkü Aziz Edward'ın Tacı, taç giyme töreninde sadece kısa bir an için takılır ve daha sonra daha hafif olan İmparatorluk Devlet Tacı ile değiştirilir.",
+      "body": "II. Dünya Savaşı'nın gölgesinde, cephedeki kahramanlıklar kadar, cephe gerisindeki lojistik, planlama ve sivil hizmetler de kritik önem taşıyordu. Almanya, işte tam da bu tür görevlerde gösterilen üstün gayreti takdir etmek amacıyla özel bir madalya tasarladı: Savaş Liyakat Haçı. 1939 yılında, yani savaşın patlak verdiği yıl, bu nişan resmen yürürlüğe kondu.\n\nSavaş Liyakat Haçı, doğrudan çatışmaya girmeyen ancak savaş çabalarına önemli katkılarda bulunan kişilere verilmek üzere tasarlanmıştı. Bu, hem askerleri hem de sivilleri kapsıyordu. Özellikle, mühimmat üretiminde çalışan fabrika işçilerinden, askeri planlamacılara, ulaşım ağlarını yönetenlerden, cephe gerisinde tıbbi destek sağlayanlara kadar geniş bir yelpazede hizmet edenler bu nişana layık görülebilirdi.\n\nMadalyanın iki ana versiyonu vardı: \"kılıçlı\" ve \"kılıçsız\". Kılıçlı versiyon, düşman ateşi altında olmasa bile askeri çabalar için gösterilen cesaret ve liyakati onurlandırırken, kılıçsız versiyon genellikle savaş çabasına sivil veya askeri düzeyde önemli katkılarda bulunanlara verilirdi. Bu ayrım, madalyanın esnekliğini ve farklı hizmet alanlarını kapsama arzusunu gösteriyordu. Savaş boyunca [DOĞRULA: Bu madalyadan kaç adet verildiği ve en yaygın verilen nişanlardan biri olup olmadığı] Savaş Liyakat Haçı sahibini buldu ve o dönemin en yaygın verilen Alman nişanlarından biri haline geldi. Bu haç, savaşın karmaşık dinamikleri içinde, gözden kaçabilecek ancak vazgeçilmez hizmetlerin bir sembolüydü.",
+      "fun_fact": "Savaş Liyakat Haçı'nın tasarımında [DOĞRULA: Adolf Hitler'in doğrudan bir etkisi olup olmadığı] tartışma konusu olmuştur.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1294341",
-        "https://tr.wikipedia.org/wiki/Aziz_Edward%27%C4%B1n_Tac%C4%B1",
-        "https://en.wikipedia.org/wiki/St_Edward%27s_Crown"
+        "https://www.wikidata.org/wiki/Q1788876",
+        "https://tr.wikipedia.org/wiki/Sava%C5%9F_Liyakat_Ha%C3%A7%C4%B1",
+        "https://en.wikipedia.org/wiki/War_Merit_Cross"
       ],
-      "wikidata_qid": "Q1294341"
+      "wikidata_qid": "Q1788876"
     },
     {
-      "id": "Q331865",
+      "id": "Q5371511",
       "date": "2026-09-18",
       "category": "gunluk-nesneler",
-      "widget_title": "Amerikan Samoası arması ne zaman kabul edildi?",
-      "hook": "Bu uzak ada grubunun sembolü, hem tarihini hem de coğrafyasını bir araya getiriyor.",
-      "answer_year": 1973,
+      "widget_title": "Sanal şarkıcı Gackpoid sahneye ilk ne zaman çıktı?",
+      "hook": "Japon müziğinin sevilen seslerinden Gackpoid'in sahneye çıkış hikayesini merak ediyor musun?",
+      "answer_year": 2008,
       "year_precision": "day",
       "guess_range": [
-        1870,
+        1900,
         2026
       ],
-      "body": "Her bölgenin veya topluluğun kendi kimliğini yansıtan, gururla sergilediği bir sembolü vardır. Amerikan Samoası için bu sembol, 1973 yılında resmiyet kazanmış olan armasıdır. Bu arma, sadece bir görselden ibaret değil; adaların tarihini, kültürünü ve coğrafyasını özetleyen derin bir anlam taşır. Genellikle bu tür armalarda, bölgenin kendine özgü değerlerini, doğal güzelliklerini ve halkın yaşam biçimini yansıtan detaylar bulunur. Amerikan Samoası arması da büyük olasılıkla, Pasifik adalarının zengin mirasına atıfta bulunan geleneksel objeleri, belki de denizi ve adaların verimli topraklarını simgeleyen öğeleri barındırır. [DOĞRULA: Amerikan Samoası armasının temel görsel unsurları nelerdir?] Ayrıca, bölgenin Amerika Birleşik Devletleri ile olan ilişkisini gösteren semboller de armanın bir parçası olabilir. Bir armanın kabul süreci, genellikle o bölgenin kendi kimliğini pekiştirdiği ve dış dünyaya nasıl görünmek istediğini belirlediği önemli bir dönüm noktasıdır. 1973 yılı, Amerikan Samoası'nın bu görsel kimliğini resmen onayladığı ve geleceğe yönelik sembolik bir adımı attığı yıl olarak tarihe geçmiştir. Bu arma, sadece resmi belgelerde kullanılan bir mühürden çok daha fazlasıdır; Samoalıların bağımsız ruhunu ve benzersiz kültürel mirasını temsil eder.",
-      "fun_fact": "Amerikan Samoası, Amerika Birleşik Devletleri'nin tek Güney Yarımküre toprağıdır.",
+      "body": "Müzik dünyasında sanal karakterlerin, özellikle de Japonya'da, ne kadar popüler olduğunu bilmeyen yoktur. İşte bu sanal dünyadan bize ulaşan, ikonik bir ses bankası olan Gackpoid, 2008 yılında müzikseverlerle buluştu. Peki, Gackpoid kimdir ve hikayesi nedir?\n\nGackpoid, Yamaha'nın geliştirdiği Vocaloid yazılımı için yaratılmış bir ses bankasıdır. Onu özel kılan ve kısa sürede geniş bir hayran kitlesi edinmesini sağlayan şey ise, Japon rock müzisyeni Gackt'ın sesi kullanılarak hazırlanmış olmasıdır. Yani, Gackpoid'in arkasındaki o güçlü ve karakteristik ses, Gackt'a aittir. Bu işbirliği, hem Vocaloid teknolojisinin sınırlarını zorlamış hem de Gackt hayranlarını sanal dünyaya çekmiştir.\n\nVocaloid, kullanıcıların şarkı sözlerini ve melodilerini girerek sanal bir şarkıcının sesini kullanarak şarkı yapmasını sağlayan bir sentezleme yazılımıdır. Gackpoid, bu yazılımın bir parçası olarak çıktığı günden itibaren kendi karakter tasarımı ve ses rengiyle dikkat çekti. [DOĞRULA: Gackpoid'in geliştirici şirketi ve karakter tasarımcısı hakkında daha fazla bilgi eklenebilir mi?] Özellikle Nico Nico Douga gibi platformlarda hayran yapımı şarkılarla ünü hızla yayıldı. Sanatçı Gackt'ın bu projeye dahil olması, Gackpoid'in piyasaya sürülmesini büyük bir heyecanla karşılamasını sağladı.\n\nGackpoid'in çıkışı, Vocaloid evrenine yeni bir boyut kattı ve sanal şarkıcıların popülaritesini daha da artırdı. 2008'den bu yana, hem profesyonel müzisyenler hem de amatör yapımcılar tarafından birçok eserde kullanıldı, hatta kendi konserlerini bile verdi! Sanal bir sesin bu denli gerçek bir etki yaratabilmesi gerçekten şaşırtıcı, değil mi?",
+      "fun_fact": "Gackpoid'in ikonik mor rengi ve samuray zırhına benzer kıyafeti, Japon kültürüne göndermelerle dolu.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q331865",
-        "https://tr.wikipedia.org/wiki/Amerikan_Samoas%C4%B1_armas%C4%B1",
-        "https://en.wikipedia.org/wiki/Seal_of_American_Samoa"
+        "https://www.wikidata.org/wiki/Q5371511",
+        "https://tr.wikipedia.org/wiki/Gackpoid",
+        "https://en.wikipedia.org/wiki/Gackpoid"
       ],
-      "wikidata_qid": "Q331865"
+      "wikidata_qid": "Q5371511"
     },
     {
       "id": "Q1093380",
@@ -421,48 +421,48 @@
       "wikidata_qid": "Q1093380"
     },
     {
-      "id": "Q1514666",
+      "id": "Q41898",
       "date": "2026-09-20",
       "category": "giyim",
-      "widget_title": "Kadınlara özel Şefkat Nişanı hangi yıl ihdas edildi?",
-      "hook": "Kadınların hayırseverlik ve sosyal hizmetlerdeki rolünü onurlandırmak için Osmanlı'da özel bir nişan tasarlandığını biliyor muydunuz?",
-      "answer_year": 1878,
+      "widget_title": "Beş kelimelik bu Latince bulmaca ne zaman ortaya çıktı?",
+      "hook": "Hem ileri hem geri okunan bu beş kelimelik Latince karenin sırrı ne zaman başladı?",
+      "answer_year": 1,
       "year_precision": "year",
       "guess_range": [
-        1770,
-        1950
+        -100,
+        80
       ],
-      "body": "Tarih 1878'i gösterdiğinde, Osmanlı İmparatorluğu'nda çok özel bir nişan ortaya çıktı: Şefkat Nişanı. Bu nişan, Sultan II. Abdülhamid tarafından, özellikle 93 Harbi (1877-1878 Osmanlı-Rus Savaşı) sırasında ve sonrasında, insani yardım ve sosyal hizmetlerde olağanüstü çaba gösteren Müslüman ve gayrimüslim kadınları onurlandırmak amacıyla tesis edildi. O dönemde savaşın yarattığı büyük acılar ve göç dalgasıyla mücadele eden kadınlar, cephe gerisinde ve hastanelerde büyük bir fedakarlıkla çalıştılar.\n\nŞefkat Nişanı, genel olarak pembe kurdeleli bir madalyon şeklinde tasvir edilir ve üzerinde padişahın tuğrası ile birlikte \"insaniyet\" ve \"yardımseverlik\" gibi erdemleri simgeleyen motifler bulunurdu. Nişanın farklı dereceleri vardı ve bu dereceler madalyonun boyutu veya üzerindeki değerli taşlarla ayırt edilebilirdi. Bu nişan, sadece bir süs eşyası olmaktan öte, kadınların toplumsal hayattaki görünürlüğünü ve katkılarını resmi olarak tanıyan önemli bir sembol haline geldi. Osmanlı İmparatorluğu'nda kadınlara yönelik bu türden bir resmi onurlandırma, o dönemin şartlarında oldukça yenilikçi ve ileri görüşlü bir adımdı. Nişan, imparatorluğun sonuna kadar varlığını sürdürdü ve birçok değerli kadına takdim edildi.",
-      "fun_fact": "Şefkat Nişanı, Osmanlı İmparatorluğu'nda kadınlara verilen ilk ve tek özel nişandı.",
+      "body": "Antik dünyanın en büyüleyici bilmecelerinden biri olan Sator Karesi, sadece beş Latince kelimeden oluşmasına rağmen yüzyıllardır araştırmacıların zihnini meşgul ediyor. Bu gizemli kare, \"SATOR, AREPO, TENET, OPERA, ROTAS\" kelimelerini öyle bir düzenle bir araya getirir ki, ister yukarıdan aşağı, ister aşağıdan yukarı, ister soldan sağa, ister sağdan sola okuyun, sonuç hep aynıdır! Bu palindromik yapı, onu kelime oyunlarının en erken ve en sofistike örneklerinden biri yapar.\n\nSator Karesi'nin ortaya çıkışı [DOĞRULA: Sator Karesi'nin kesin ortaya çıkış tarihi ve ilk bilinen örnekleri], tahminlere göre İsa'dan sonraki ilk yüzyıla, yani yaklaşık MS 1 yılı civarına dayanıyor. En eski örneklerinden bazıları, MS 79'da Vezüv Yanardağı patlamasıyla küller altına gömülen Pompeii'nin duvarlarında bulunmuştur. Bu, karenin o dönemde zaten popüler olduğunu gösterir. Kelimelerin anlamlarına gelince: SATOR 'ekin eken', AREPO'nun anlamı tartışmalı ve [DOĞRULA: 'Arepo' kelimesinin tam anlamı veya kökeni net değil], TENET 'tutar', OPERA 'iş, çaba' ve ROTAS ise 'tekerlekler' veya 'döndürür' anlamına gelir.\n\nPeki, bu kare ne amaçla yapılmıştı? Kimi teorisyenler onu erken Hristiyanlığın gizli bir sembolü olarak görürken, kimileri ise büyülü güçleri olduğuna inanır; yangınları söndürmekten nazardan korumaya kadar çeşitli faydaları olduğuna dair inançlar yaygındır. Ancak belki de en basit açıklama, sadece zekice tasarlanmış bir kelime oyunu, antik dünyanın bir tür \"sudoku\"su olduğudur. Her ne olursa olsun, Sator Karesi hala sırrını koruyor ve bize geçmişin ne kadar karmaşık ve yaratıcı olabileceğini fısıldıyor.",
+      "fun_fact": "Bazı dilbilimciler, Sator Karesi'ndeki harflerin farklı bir düzenlemeyle 'Pater Noster' (Latince 'Babamız') duasını oluşturduğunu iddia eder.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1514666",
-        "https://tr.wikipedia.org/wiki/%C5%9Eefkat_Ni%C5%9Fan%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_Charity"
+        "https://www.wikidata.org/wiki/Q41898",
+        "https://tr.wikipedia.org/wiki/Sator_Karesi",
+        "https://en.wikipedia.org/wiki/Sator_Square"
       ],
-      "wikidata_qid": "Q1514666"
+      "wikidata_qid": "Q41898"
     },
     {
-      "id": "Q4781198",
+      "id": "Q80019",
       "date": "2026-09-21",
       "category": "gunluk-nesneler",
-      "widget_title": "Apple Bilgisayar Faresi ne zaman tanıtıldı?",
-      "hook": "Bilgisayar dünyasında bir devrim yaratan, o ikonik tek tuşlu farenin Apple macerası ne zaman başladı?",
-      "answer_year": 1983,
+      "widget_title": "Kontrbas ne zaman hayatımıza girdi?",
+      "hook": "Orkestraların dev sesi, caz sahnelerinin vazgeçilmezi kontrbasın derin yankısı ne zamandan beri bizimle?",
+      "answer_year": 1800,
       "year_precision": "year",
       "guess_range": [
-        1880,
-        2026
+        1700,
+        1880
       ],
-      "body": "Fare denince aklımıza gelen ilk markalardan biri Apple olsa da, bilgisayar faresinin kendisi aslında Apple tarafından icat edilmedi. Farenin ilk konsepti ve prototipleri 1960'lı yıllarda Douglas Engelbart liderliğindeki ekip tarafından ortaya konuldu ve daha sonra Xerox PARC'ta geliştirildi. Ancak fareyi geniş kitlelere ulaştıran, sade ve kullanıcı dostu bir arayüz aracı haline getiren şirketlerden biri kesinlikle Apple oldu.\n\nApple'ın kendi fare macerası ise 1983 yılında, şirketin dönemin ileri teknolojili ancak ticari olarak çok başarılı olamayan Lisa bilgisayarı ile başladı. İşte bu tarihte, kullanıcıların ekranla etkileşimini kökten değiştiren o tek tuşlu, sade Apple faresi sahneye çıktı. Lisa ile gelen fare, o dönemdeki diğer farelerin daha karmaşık ve çok tuşlu tasarımlarına kıyasla dikkat çekici bir sadeliğe sahipti. Amacı, herkesin kolayca kullanabileceği bir arayüz sağlamaktı.\n\nKısa bir süre sonra, 1984'te tanıtılan efsanevi Macintosh ile birlikte gelerek adeta simgeleşti. Macintosh'un grafiksel kullanıcı arayüzü (GUI) ile fare, bilgisayar kullanımını çok daha sezgisel ve erişilebilir hale getirdi. Apple'ın bu tek tuşlu tasarımı, yıllarca şirketin felsefesini yansıtan bir imza niteliği taşıdı ve modern farelerin evriminde önemli bir dönüm noktası oldu.",
-      "fun_fact": "Apple'ın ilk faresi, maliyeti düşük tutmak ve üretimini kolaylaştırmak amacıyla tek tuşlu olarak tasarlandı ve bu sadelik aynı zamanda bir tasarım felsefesine dönüştü.",
+      "body": "Sahnedeki o heybetli duruşuyla, bazen bir orkestranın temeli, bazen de bir caz grubunun ritmik kalbi olan kontrbasın müzik dünyasındaki yolculuğu oldukça ilginç. Yaylı çalgı ailesinin en büyüğü ve en derinden ses vereni olan kontrbasın kesin bir 'icat tarihi' veya tek bir 'mucidi' olmamakla birlikte, modern formuna doğru evrimi 1800'lü yılların başlarında belirginleşmeye başlamıştır.\n\nAslında kontrbas, kendisinden önceki pek çok yaylı enstrümanın, özellikle de viyol familyasından gelen viyolonun büyük kuzeni sayılabilir. Orta Çağ'dan itibaren farklı boyutlarda ve akortlarda bas enstrümanlar kullanıldı. Ancak günümüzdeki şekline, yani dört telli, orkestralarda ve solo performanslarda gördüğümüz formuna ulaşması zaman aldı. 18. yüzyılın sonları ve 19. yüzyılın başları, kontrbasın hem enstrüman yapımı tekniklerinin geliştiği hem de orkestralardaki yerinin sağlamlaştığı bir dönemdi. Bu dönemde boyutları, tellerinin yapısı ve akort sistemleri standartlaşmaya başladı. Bu yüzden, 1800 yılı, kontrbasın bildiğimiz haliyle sahnedeki yerini aldığı, karakteristik özelliklerinin netleştiği bir dönemi işaret ediyor diyebiliriz.\n\nBu büyük enstrüman, o günden bugüne birçok müzik türünde, klasik batı müziğinden caza, folk'tan rock'a kadar kendine sağlam bir yer edinmeyi başardı. [DOĞRULA: Kontrbas çalarken çoğu zaman ayakta durulmasının, enstrümanın büyüklüğü kadar, daha rahat bir çalma pozisyonu sağlamasıyla da ilgili olduğu düşünülür.] Onun derin ve güçlü sesi, müziğe eşsiz bir zenginlik katmaya devam ediyor.",
+      "fun_fact": "Kontrbasın sesi, insan kulağının algılayabileceği en düşük notalardan bazılarını üretebilir, bu da ona müziğe eşsiz bir derinlik katma özelliği verir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q4781198",
-        "https://tr.wikipedia.org/wiki/Apple_Bilgisayar_Faresi",
-        "https://en.wikipedia.org/wiki/Apple_pointing_devices"
+        "https://www.wikidata.org/wiki/Q80019",
+        "https://tr.wikipedia.org/wiki/Kontrbas",
+        "https://en.wikipedia.org/wiki/Double_bass"
       ],
-      "wikidata_qid": "Q4781198"
+      "wikidata_qid": "Q80019"
     },
     {
       "id": "Q11299865",
@@ -487,52 +487,30 @@
       "wikidata_qid": "Q11299865"
     },
     {
-      "id": "Q1515173",
+      "id": "Q599",
       "date": "2026-09-23",
       "category": "giyim",
-      "widget_title": "I. Napolyon'un Tacı Ne Zaman Tahtına Oturdu?",
-      "hook": "Görkemli I. Napolyon'un tacının ardındaki hikayeye dalmaya hazır mısın?",
-      "answer_year": 1804,
+      "widget_title": "Kate Middleton'ın gelinliği ne zaman tüm dünyayı büyüledi?",
+      "hook": "Tüm dünyanın nefesini tutarak izlediği o anı hatırlıyor musunuz?",
+      "answer_year": 2011,
       "year_precision": "year",
       "guess_range": [
-        1700,
-        1880
-      ],
-      "body": "1804 yılı, Fransa tarihinde büyük bir dönüm noktasıydı ve bu tarihin en görkemli sembollerinden biri, hiç şüphesiz I. Napolyon için özel olarak tasarlanan tacıydı. 2 Aralık 1804'te Notre Dame Katedrali'nde gerçekleşen taç giyme töreni, Napolyon'un kendini İmparator ilan ettiği, yeni bir dönemin başlangıcını müjdeleyen tarihi bir olaydı.\n\nBu taç, klasik bir kraliyet tacından farklıydı. Napolyon, kendisini eski monarşiden ayırmak ve Roma İmparatorları'nın güçlü mirasına gönderme yapmak istedi. Bu yüzden tacı, Roma İmparatorları'nın zaferle dönen komutanlarının taktığı defne yaprağı çelenklerini andıracak şekilde tasarlandı. Altından yapılmış ve defne yaprakları ile süslenmiş bu taç, onun hem askeri dehasını hem de yeni kurduğu imparatorluğun gücünü temsil ediyordu. [DOĞRULA: Tacın üzerinde imparatorluk kartalları gibi belirli motifler veya süslemeler var mıydı?]\n\nBu görkemli eserin kim tarafından yapıldığı kesin olarak bilinmiyor; ancak Napolyon'un bizzat verdiği talimatlarla, yeni imparatorluğun ihtişamını yansıtacak şekilde büyük bir özenle hazırlandığı düşünülüyor. Napolyon, tacı papadan almak yerine kendi elleriyle başına takarak, gücünü tanrıdan değil, doğrudan halktan ve kendi iradesinden aldığını simgesel bir şekilde vurgulamıştı. Bu hareket, dönemin Avrupa'sında büyük yankı uyandırmış ve onun eşsiz karakterini gözler önüne sermişti.\n\nBugün \"Napolyon'un Tacı\" olarak bilinen bu eser, 1815'ten beri Fransa devleti tarafından muhafaza ediliyor ve Paris'teki Louvre Müzesi'nde sergilenerek tarihe ışık tutmaya devam ediyor. Bu taç, sadece bir mücevherden öte, bir imparatorun hırsının, dehasının ve bir dönemin siyasi dönüşümünün en somut anıtlarından biri olarak karşımızda duruyor.",
-      "fun_fact": "Napolyon, taç giyme töreninde bu yeni tacı 'Şarlman Tacı' olarak adlandırarak tarihe atıfta bulunmayı tercih etmişti.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1515173",
-        "https://tr.wikipedia.org/wiki/I._Napolyon%27un_tac%C4%B1",
-        "https://en.wikipedia.org/wiki/Crown_of_Napoleon"
-      ],
-      "wikidata_qid": "Q1515173"
-    },
-    {
-      "id": "Q5371511",
-      "date": "2026-09-24",
-      "category": "gunluk-nesneler",
-      "widget_title": "Sanal şarkıcı Gackpoid sahneye ilk ne zaman çıktı?",
-      "hook": "Japon müziğinin sevilen seslerinden Gackpoid'in sahneye çıkış hikayesini merak ediyor musun?",
-      "answer_year": 2008,
-      "year_precision": "day",
-      "guess_range": [
-        1900,
+        1910,
         2026
       ],
-      "body": "Müzik dünyasında sanal karakterlerin, özellikle de Japonya'da, ne kadar popüler olduğunu bilmeyen yoktur. İşte bu sanal dünyadan bize ulaşan, ikonik bir ses bankası olan Gackpoid, 2008 yılında müzikseverlerle buluştu. Peki, Gackpoid kimdir ve hikayesi nedir?\n\nGackpoid, Yamaha'nın geliştirdiği Vocaloid yazılımı için yaratılmış bir ses bankasıdır. Onu özel kılan ve kısa sürede geniş bir hayran kitlesi edinmesini sağlayan şey ise, Japon rock müzisyeni Gackt'ın sesi kullanılarak hazırlanmış olmasıdır. Yani, Gackpoid'in arkasındaki o güçlü ve karakteristik ses, Gackt'a aittir. Bu işbirliği, hem Vocaloid teknolojisinin sınırlarını zorlamış hem de Gackt hayranlarını sanal dünyaya çekmiştir.\n\nVocaloid, kullanıcıların şarkı sözlerini ve melodilerini girerek sanal bir şarkıcının sesini kullanarak şarkı yapmasını sağlayan bir sentezleme yazılımıdır. Gackpoid, bu yazılımın bir parçası olarak çıktığı günden itibaren kendi karakter tasarımı ve ses rengiyle dikkat çekti. [DOĞRULA: Gackpoid'in geliştirici şirketi ve karakter tasarımcısı hakkında daha fazla bilgi eklenebilir mi?] Özellikle Nico Nico Douga gibi platformlarda hayran yapımı şarkılarla ünü hızla yayıldı. Sanatçı Gackt'ın bu projeye dahil olması, Gackpoid'in piyasaya sürülmesini büyük bir heyecanla karşılamasını sağladı.\n\nGackpoid'in çıkışı, Vocaloid evrenine yeni bir boyut kattı ve sanal şarkıcıların popülaritesini daha da artırdı. 2008'den bu yana, hem profesyonel müzisyenler hem de amatör yapımcılar tarafından birçok eserde kullanıldı, hatta kendi konserlerini bile verdi! Sanal bir sesin bu denli gerçek bir etki yaratabilmesi gerçekten şaşırtıcı, değil mi?",
-      "fun_fact": "Gackpoid'in ikonik mor rengi ve samuray zırhına benzer kıyafeti, Japon kültürüne göndermelerle dolu.",
+      "body": "29 Nisan 2011... Dünya, Prens William ile Kate Middleton'ın Westminster Abbey'deki düğününe kilitlenmişti. Ama tüm gözler, Kate'in o an ne giyeceğindeydi. Gelinlik, Sarah Burton'ın Alexander McQueen modaevi için tasarladığı, zarafet ve modernliği harmanlayan bir başyapıttı.\n\nBu ikonik elbise, fildişi rengi saten üzerine dantel işlemelerle bezenmiş, uzun kollu ve V yakalı bir tasarıma sahipti. İngiliz Gülleri, İskoç Devedikenleri, İrlanda Yoncaları ve Galler Nergisleri'ni temsil eden motiflerle süslenmiş danteller, İngiliz kraliyet geleneğini modern bir dokunuşla birleştiriyordu. Bu hassas dantel işçiliği, Royal School of Needlework tarafından titizlikle hazırlandı. Gelinliğin yaklaşık 2 metre 70 santimetrelik tül kuyruğu ise Kate'in yürüyüşüne masalsı bir hava kattı.\n\nKate'in gelinliği, sadece bir düğün elbisesi olmanın ötesine geçti. Anında dünya çapında bir moda ikonuna dönüştü, gelinlik trendlerini derinden etkiledi ve sayısız gelinin hayallerini süsledi. Yıllar geçse de zarafeti ve zamansız güzelliğiyle hatırlanmaya devam eden bu elbise, bir döneme damgasını vuran kültürel bir miras haline geldi. Düğün sonrası bir süre sergilenmesiyle de geniş kitlelerin beğenisine sunuldu.",
+      "fun_fact": "Kate'in gelinliği, Kraliçe Victoria'nın 1840'taki düğününden sonra tarihin en çok taklit edilen gelinliklerinden biri oldu.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q5371511",
-        "https://tr.wikipedia.org/wiki/Gackpoid",
-        "https://en.wikipedia.org/wiki/Gackpoid"
+        "https://www.wikidata.org/wiki/Q599",
+        "https://tr.wikipedia.org/wiki/Kate_Middleton%27%C4%B1n_gelinli%C4%9Fi",
+        "https://en.wikipedia.org/wiki/Wedding_dress_of_Catherine_Middleton"
       ],
-      "wikidata_qid": "Q5371511"
+      "wikidata_qid": "Q599"
     },
     {
       "id": "Q1132481",
-      "date": "2026-09-25",
+      "date": "2026-09-24",
       "category": "gida-icecek",
       "widget_title": "Fioravanti lezzeti gıda dünyasına ne zaman girdi?",
       "hook": "Bu özel İtalyan isminin lezzet dolu tarihi, hangi yılda başladı?",
@@ -553,52 +531,30 @@
       "wikidata_qid": "Q1132481"
     },
     {
-      "id": "Q1517750",
-      "date": "2026-09-26",
+      "id": "Q602536",
+      "date": "2026-09-25",
       "category": "giyim",
-      "widget_title": "Askerî İşbirliğini Güçlendirme Madalyası ne zaman ortaya çıktı?",
-      "hook": "Bu madalya, uluslararası askeri işbirliğinin ve dostluğun özel bir sembolü olarak tarihe geçti.",
-      "answer_year": 1979,
-      "year_precision": "day",
-      "guess_range": [
-        1870,
-        2026
-      ],
-      "body": "\"Kardeşlik Nişanı\" olarak da bilinen Askerî İşbirliğini Güçlendirme Madalyası, farklı ülkelerin silahlı kuvvetleri arasındaki işbirliğini ve dostluğu pekiştirmek amacıyla 1979 yılında ihdas edildi. Özellikle Soğuk Savaş döneminin [DOĞRULA: tam olarak hangi devlet veya ittifak tarafından] oluşturulan bu madalya, müttefik ülkeler arasında ortak tatbikatlar, personel değişimleri ve karşılıklı destek gibi faaliyetlerin önemini vurgulamak için tasarlandı. Bu tür nişanlar, sadece bireysel kahramanlıkları değil, aynı zamanda ulusların ve orduların ortak hedefler doğrultusunda bir araya gelme yeteneğini de ödüllendiriyordu. Madalya genellikle, dost ve müttefik ülkelerin askerî mensuplarına, uluslararası askerî işbirliğine yaptıkları önemli katkılardan dolayı verilirdi. Tasarımı, birliği ve dayanışmayı simgeleyen ögeler içerir ve genellikle [DOĞRULA: madalyanın üzerinde yer alan tipik sembolleri belirt] gibi detaylarla süslenirdi. Bu madalya, sadece bir metal parçası olmanın ötesinde, ülkeler üstü bir dayanışmanın ve ortak hedefler uğruna birlikte hareket etme ruhunun bir sembolüydü. Yıllar geçse de, bu nişan o dönemin uluslararası ilişkilerindeki karmaşık yapıyı ve diplomatik çabaları gözler önüne seren önemli bir tarihi belge niteliği taşımaktadır.",
-      "fun_fact": "Benzer uluslararası işbirliği madalyaları, genellikle belirli bir stratejik veya siyasi ittifakın parçası olarak verilirdi.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1517750",
-        "https://tr.wikipedia.org/wiki/Asker%C3%AE_%C4%B0%C5%9Fbirli%C4%9Fini_G%C3%BC%C3%A7lendirme_Madalyas%C4%B1",
-        "https://en.wikipedia.org/wiki/Medal_%22For_Strengthening_of_Brotherhood_in_Arms%22"
-      ],
-      "wikidata_qid": "Q1517750"
-    },
-    {
-      "id": "Q80019",
-      "date": "2026-09-27",
-      "category": "gunluk-nesneler",
-      "widget_title": "Kontrbas ne zaman hayatımıza girdi?",
-      "hook": "Orkestraların dev sesi, caz sahnelerinin vazgeçilmezi kontrbasın derin yankısı ne zamandan beri bizimle?",
-      "answer_year": 1800,
+      "widget_title": "İkonik Casio F-91W kol saati ne zaman hayatımıza girdi?",
+      "hook": "Kolunuzda taşıdığınız bu basit görünümlü saat, bir neslin sembolü haline geldi ve dünya çapında milyonlarca sattı.",
+      "answer_year": 1989,
       "year_precision": "year",
       "guess_range": [
-        1700,
-        1880
+        1880,
+        2026
       ],
-      "body": "Sahnedeki o heybetli duruşuyla, bazen bir orkestranın temeli, bazen de bir caz grubunun ritmik kalbi olan kontrbasın müzik dünyasındaki yolculuğu oldukça ilginç. Yaylı çalgı ailesinin en büyüğü ve en derinden ses vereni olan kontrbasın kesin bir 'icat tarihi' veya tek bir 'mucidi' olmamakla birlikte, modern formuna doğru evrimi 1800'lü yılların başlarında belirginleşmeye başlamıştır.\n\nAslında kontrbas, kendisinden önceki pek çok yaylı enstrümanın, özellikle de viyol familyasından gelen viyolonun büyük kuzeni sayılabilir. Orta Çağ'dan itibaren farklı boyutlarda ve akortlarda bas enstrümanlar kullanıldı. Ancak günümüzdeki şekline, yani dört telli, orkestralarda ve solo performanslarda gördüğümüz formuna ulaşması zaman aldı. 18. yüzyılın sonları ve 19. yüzyılın başları, kontrbasın hem enstrüman yapımı tekniklerinin geliştiği hem de orkestralardaki yerinin sağlamlaştığı bir dönemdi. Bu dönemde boyutları, tellerinin yapısı ve akort sistemleri standartlaşmaya başladı. Bu yüzden, 1800 yılı, kontrbasın bildiğimiz haliyle sahnedeki yerini aldığı, karakteristik özelliklerinin netleştiği bir dönemi işaret ediyor diyebiliriz.\n\nBu büyük enstrüman, o günden bugüne birçok müzik türünde, klasik batı müziğinden caza, folk'tan rock'a kadar kendine sağlam bir yer edinmeyi başardı. [DOĞRULA: Kontrbas çalarken çoğu zaman ayakta durulmasının, enstrümanın büyüklüğü kadar, daha rahat bir çalma pozisyonu sağlamasıyla da ilgili olduğu düşünülür.] Onun derin ve güçlü sesi, müziğe eşsiz bir zenginlik katmaya devam ediyor.",
-      "fun_fact": "Kontrbasın sesi, insan kulağının algılayabileceği en düşük notalardan bazılarını üretebilir, bu da ona müziğe eşsiz bir derinlik katma özelliği verir.",
+      "body": "Casio F-91W, dünya genelinde milyonlarca bilekte yerini almış, adeta bir kült haline gelmiş dijital bir saattir. İlk kez 1989 yılında piyasaya sürülen bu model, basitliği, dayanıklılığı ve inanılmaz uygun fiyatıyla kısa sürede popülerlik kazandı. Casio'nun \"sağlamlık ve erişilebilirlik\" felsefesinin en başarılı örneklerinden biri olan F-91W, zamanı göstermenin yanı sıra günlük alarm, kronometre ve gece görüş için küçük bir LED ışık gibi temel işlevleri kusursuzca yerine getirir. Minimalist estetiği ve neredeyse yok edilemez yapısıyla, sadece bir zaman göstergesi olmanın ötesine geçerek bir yaşam tarzının, bir dönemin ve hatta bir neslin sembolü haline geldi.\n\nKolunuzda hafifçe duran bu saat, karmaşık özelliklerden uzak durarak temel ihtiyaçlara odaklanır. Bu sade yaklaşım, onun geniş kitlelere ulaşmasını sağladı. Okul bahçelerinden spor salonlarına, ofislerden maceralara kadar her yerde F-91W'ye rastlamak mümkündür. Pil ömrünün şaşırtıcı uzunluğu – tek bir pille yıllarca çalışabilmesi – ve hafif suya dayanıklılığı da onu daha da cazip kılar. Yıllar geçse de modası geçmeyen bu klasik, hala geniş bir kullanıcı kitlesine sahip ve retro tarzın vazgeçilmez bir parçası olmaya devam ediyor. Onu bu kadar özel kılan şey, yüksek teknolojili rakiplerinin aksine, sadece işini harika bir şekilde yapması ve bunu yaparken mütevazı kalmayı başarmasıdır. F-91W, dijital saat tarihinde kendine özgü ve sarsılmaz bir yer edinmiştir.",
+      "fun_fact": "Casio F-91W'nin tek bir pille [DOĞRULA: 7 ila 10 yıl gibi şaşırtıcı bir süre] boyunca çalışabildiği biliniyor.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q80019",
-        "https://tr.wikipedia.org/wiki/Kontrbas",
-        "https://en.wikipedia.org/wiki/Double_bass"
+        "https://www.wikidata.org/wiki/Q602536",
+        "https://tr.wikipedia.org/wiki/Casio_F-91W",
+        "https://en.wikipedia.org/wiki/Casio_F-91W"
       ],
-      "wikidata_qid": "Q80019"
+      "wikidata_qid": "Q602536"
     },
     {
       "id": "Q1133127",
-      "date": "2026-09-28",
+      "date": "2026-09-26",
       "category": "gida-icecek",
       "widget_title": "Amerikan Kızartılmış Sosis (Corn Dog) Ne Zaman Ortaya Çıktı?",
       "hook": "Sosis, mısır unu harcı ve kızgın yağ... Bu üçlünün birleşimi nasıl ve ne zaman bir Amerikan klasiği haline geldi?",
@@ -619,30 +575,8 @@
       "wikidata_qid": "Q1133127"
     },
     {
-      "id": "Q157605",
-      "date": "2026-09-29",
-      "category": "giyim",
-      "widget_title": "Livonyalı Kılıç Kardeşleri ne zaman kuruldu?",
-      "hook": "Baltık Denizi kıyılarında bir zamanlar hüküm süren bu gizemli tarikatın hikayesi sizi şaşırtacak.",
-      "answer_year": 1202,
-      "year_precision": "year",
-      "guess_range": [
-        1100,
-        1280
-      ],
-      "body": "Baltık Denizi'nin soğuk sularına komşu topraklarda, Hristiyanlığın yayılması ve yeni yerleşimlerin korunması amacıyla kurulan Livonyalı Kılıç Kardeşleri, tarihin tozlu sayfalarında kendine özgü bir yer edinmiştir. Yıl 1202'ydi ve Riga Piskoposu Albert, bu topraklara barış getirme ve pagan inanışlarını dönüştürme misyonuyla yola çıkmıştı. İşte bu noktada, hem misyonerleri hem de Alman yerleşimcileri koruyacak, aynı zamanda bölgenin 'Hristiyanlaştırılması'nda aktif rol oynayacak askeri bir tarikata ihtiyaç duyuldu.\n\nKılıç Kardeşleri, adlarını beyaz pelerinleri üzerindeki kırmızı kılıç ve haç işaretinden alıyordu. Tıpkı Tapınak Şövalyeleri gibi, onlar da hem keşiş hem de savaşçıydı. Ancak, amaçları ve yöntemleri zaman zaman tartışmalara yol açtı. Özellikle Livonya ve çevresindeki yerli halklarla sık sık karşı karşıya geldiler. Genişleme çabaları ve toprak edinme arzuları, tarikatı güçlü bir askeri güç haline getirse de, beraberinde birçok çatışmayı da getirdi. Belki de en büyük yanlış anlama, onların sadece dinsel bir görev uğruna çalıştıkları fikridir; aslında siyasi ve bölgesel çıkarlar da kararlarında önemli bir yer tutuyordu.\n\nTarikatın hikayesi 1236'daki Saule Savaşı'nda acı bir yenilgiyle bambaşka bir dönemeç aldı. Bu yıkıcı mağlubiyetin ardından, Livonyalı Kılıç Kardeşleri'nin bağımsız varlığı sona erdi ve 1237'de daha büyük ve köklü bir askeri tarikat olan Töton Şövalyeleri'nin Livonya koluyla birleşmek zorunda kaldılar. Böylece, Baltık'ın sert rüzgarlarında kısa ama etkili bir iz bırakan bu askeri tarikatın kendi başına serüveni son buldu.",
-      "fun_fact": "Kılıç Kardeşleri'nin sembolü olan kırmızı kılıç ve haç, onların hem dini hem de askeri kimliğini yansıtıyordu.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q157605",
-        "https://tr.wikipedia.org/wiki/Livonyal%C4%B1_K%C4%B1l%C4%B1%C3%A7_Karde%C5%9Fleri",
-        "https://en.wikipedia.org/wiki/Livonian_Brothers_of_the_Sword"
-      ],
-      "wikidata_qid": "Q157605"
-    },
-    {
       "id": "Q1171787",
-      "date": "2026-09-30",
+      "date": "2026-09-27",
       "category": "gida-icecek",
       "widget_title": "Dasani şişe suyu ilk kez ne zaman piyasaya çıktı?",
       "hook": "Bugün market raflarından tanıdığımız Dasani şişe suyunun hikayesi ne zaman başladı?",
@@ -661,6 +595,72 @@
         "https://en.wikipedia.org/wiki/Dasani"
       ],
       "wikidata_qid": "Q1171787"
+    },
+    {
+      "id": "Q1197104",
+      "date": "2026-09-28",
+      "category": "gida-icecek",
+      "widget_title": "Mısır'ın kalbinden çıkan Koşari ne zaman hayatımıza girdi?",
+      "hook": "Pirinç, makarna, mercimek ve nohutun bu inanılmaz uyumu, Mısır sokaklarının ruhunu taşıyor.",
+      "answer_year": 1800,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1880
+      ],
+      "body": "Mısır'ın simgelerinden biri haline gelen Koşari, damaklarda şenlik yaratan, oldukça doyurucu bir sokak lezzeti. Bu eşsiz yemek, 19. yüzyılın başlarında, yani 1800'lü yıllarda ortaya çıktı. Kim tarafından ya da tam olarak nerede icat edildiği kesin olarak bilinmese de, Koşari'nin farklı kültürlerin etkisiyle harmanlanmış bir lezzet olduğu düşünülüyor. Bazı kaynaklar, [DOĞRULA: Koşari'nin kökenlerinin aslında Hindistan'a dayandığını ve Mısır'a o dönemlerde ulaştığını] öne sürse de, bugünkü bildiğimiz haliyle tamamen Mısır mutfağının bir parçası haline gelmiştir ve kendine özgü Mısır yorumunu kazanmıştır.\n\nPirinç, mercimek, nohut ve makarnanın mükemmel birleşimiyle hazırlanan bu tabak, genellikle özel domates sosu, sarımsaklı sirke ve acı biberle zenginleştirilir. Her bir malzemenin ayrı ayrı pişirilip bir araya gelmesi, Koşari'ye kendine has bir doku ve lezzet katıyor. Başlangıçta daha çok işçi sınıfının uygun fiyatlı ve besleyici tercihi olan Koşari, zamanla her kesimden insanın severek tükettiği ulusal bir yemek haline geldi. Mısır'ın kalabalık çarşılarında, küçük lokantalarda ya da evlerde, Koşari her zaman sofraların vazgeçilmezi. Sadece karnı doyurmakla kalmıyor, aynı zamanda Mısır'ın misafirperverliğini ve mutfak zenginliğini de temsil ediyor. Yurt dışına çıkan Mısırlılar için de memleket özlemini gideren, tanıdık bir tat olarak büyük önem taşıyor. Bu basit ama lezzetli karışım, zamanla Mısır kültürünün ayrılmaz bir parçası olmuştur.",
+      "fun_fact": "Koşari, et içermeyen tamamen vejetaryen bir yemek olmasıyla da öne çıkıyor ve bu özelliğiyle dünya genelinde vegan dostu lezzetler arasında popülerliğini artırıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1197104",
+        "https://tr.wikipedia.org/wiki/Ko%C5%9Fari",
+        "https://en.wikipedia.org/wiki/Koshary"
+      ],
+      "wikidata_qid": "Q1197104"
+    },
+    {
+      "id": "Q120189941",
+      "date": "2026-09-29",
+      "category": "gida-icecek",
+      "widget_title": "Grimace Shake ne zaman hayatımıza girdi?",
+      "hook": "Sosyal medyayı kasıp kavuran o meşhur mor içecek, Grimace Shake'in doğuş hikayesini merak ediyor musunuz?",
+      "answer_year": 2023,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "McDonald's'ın sevilen karakteri Grimace'in doğum gününü kutlamak amacıyla 2023 yılında piyasaya sürülen Grimace Shake, kısa sürede bir içecek olmaktan çıkıp küresel bir internet fenomenine dönüştü. Mor rengi ve yaban mersini ağırlıklı meyveli tadıyla dikkat çeken bu özel milkshake, ilk başta sadece belirli bir zaman dilimi için menüye eklendi. Ancak asıl ününü, özellikle TikTok platformunda başlayan ve hızla yayılan tuhaf bir akıma borçlu. Bu akımda, kullanıcılar Grimace Shake'i içtikten sonra kendilerini beklenmedik, hatta abartılı şekillerde \"ölmüş\" veya garip durumlarda bulmuş gibi mizahi videolar çekip paylaşmaya başladılar. Kanlı sahneler, tuhaf pozlar ve absürt mizahın birleşimiyle bu trend, milyonlarca izlenmeye ulaştı. Kimileri için bu sadece eğlenceli bir şakayken, kimileri ise bu içeceğin yarattığı gizemli havaya kapıldı. McDonald's bile bu akıma esprili bir şekilde dahil olarak, Grimace'in kendi TikTok hesabından \"Bu trendin ne olduğunu anlıyormuş gibi yapıyorum...\" yazılı bir paylaşım yaptı. Grimace Shake, basit bir promosyon ürünü olmasına rağmen, dijital çağın pazarlama gücünü ve viral potansiyelini gözler önüne serdi. Pazarlama dünyasında \"negatif pazarlama\" denilen, ürünün etrafında bir gizem veya ironi yaratma prensibinin en çarpıcı örneklerinden biri oldu. Sonuç olarak, o mor içecek sadece damaklarda değil, akıllarda da unutulmaz bir iz bıraktı ve 2023 yazının en çok konuşulan olaylarından biri haline geldi.",
+      "fun_fact": "Grimace'in doğum günü için hazırlanan bu mor içecek, sosyal medyadaki mizahi videolarla kısa sürede viral bir fenomene dönüştü!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q120189941",
+        "https://tr.wikipedia.org/wiki/Grimace_Shake",
+        "https://en.wikipedia.org/wiki/Grimace_Shake"
+      ],
+      "wikidata_qid": "Q120189941"
+    },
+    {
+      "id": "Q1269232",
+      "date": "2026-09-30",
+      "category": "gida-icecek",
+      "widget_title": "Lapin Kulta ne zaman ortaya çıktı?",
+      "hook": "Kuzeyin buz gibi sularından gelen bu altın rengi lezzetin hikayesi, sizi Fin topraklarının derinliklerine götürecek.",
+      "answer_year": 1873,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Finlandiya'nın kuzeyinden, Laponya'nın el değmemiş doğasından ilham alan Lapin Kulta, adını \"Laponya'nın Altını\" anlamına gelen bu bölgeden alıyor. Bu ferahlatıcı lezzet, ilk olarak 1873 yılında Finlandiya'nın Tornio şehrinde ortaya çıktı. O zamanlar bira üretimi, bölge ekonomisi için önemli bir yer tutuyordu ve yerel halkın damak tadına uygun içecekler büyük ilgi görüyordu.\n\nLapin Kulta'nın kökleri, [DOĞRULA: Lapin Kulta'nın başlangıçta Tornio Birahanesi olarak bilindiği bilgisi doğru mu?] gibi erken dönem bira fabrikalarına dayanıyor. Kuruluşundan bu yana, biranın kalitesi ve saflığı, Laponya'nın berrak sularından ve kuzeyin soğuk ikliminden gelen özel bileşenlerle korunmaya çalışıldı. Yıllar içinde Lapin Kulta, sadece Finlandiya'nın değil, dünya çapında da tanınan bir bira markası haline geldi. Özellikle lager tipi biralarıyla bilinen marka, sadık bir tüketici kitlesine sahip oldu.\n\nFinlandiya'nın ulusal kimliğinin bir parçası haline gelen Lapin Kulta, aynı zamanda [DOĞRULA: Lapin Kulta'nın logo ve şişe tasarımında Laponya'nın doğasından esinlenildiği ve geyik motiflerinin kullanıldığı bilgisi doğru mu?] gibi unsurlarla da dikkat çekiyor. Bazen insanlar Lapin Kulta'nın daha yeni bir marka olduğunu düşünebilir, ancak 1873 yılına uzanan köklü tarihiyle aslında bir hayli eski ve geleneksel bir Fin birasıdır.",
+      "fun_fact": "Lapin Kulta'nın şişelerindeki geyik logosu, Laponya'nın el değmemiş doğasından ve bölgenin simgesel hayvanından ilham alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1269232",
+        "https://tr.wikipedia.org/wiki/Lapin_Kulta",
+        "https://en.wikipedia.org/wiki/Lapin_Kulta"
+      ],
+      "wikidata_qid": "Q1269232"
     }
   ]
 }
