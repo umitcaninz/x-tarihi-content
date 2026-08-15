@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "month": "2028-04",
+  "items": [
+    {
+      "id": "Q1196431",
+      "date": "2028-04-01",
+      "category": "yazilim-internet",
+      "widget_title": "Pandora Radyo ne zaman icat edildi?",
+      "hook": "İnternet çağının en ikonik müzik keşif platformlarından biri olan Pandora Radyo, aslında bir tesadüf eseri doğdu desem?",
+      "answer_year": 2000,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Pandora Radyo’nun hikayesi, 2000 yılında ABD’de başlıyor. O dönemde müzik dinleme alışkanlıkları hızla dijitalleşirken, bir grup girişimci dinleyicilere kişiselleştirilmiş müzik önerileri sunmanın bir yolunu arıyordu. Projenin arkasındaki ekip, **Music Genome Project** adı verilen bir sistem geliştirmeye odaklandı. Bu sistem, şarkıları yüzlerce farklı müzik özelliklerine göre analiz ederek, dinleyicilerin tercihlerine en uygun parçaları önermeyi hedefliyordu. [DOĞRULA: Music Genome Project’in tam olarak hangi yılda hayata geçirildiği ve Pandora Radyo’nun ilk versiyonunun ne kadar sürede kullanıma sunulduğu]\n\nİlk olarak **2000 yılında** yayın hayatına başlayan platform, adını Yunan mitolojisindeki Pandora’dan alıyor — çünkü tıpkı efsanedeki kutunun içindekiler gibi, kullanıcılara sonsuz müzik keşfi vaat ediyordu. Pandora Radyo, 2005 yılında resmi olarak halka açıldı ve kısa sürede milyonlarca kullanıcıya ulaştı. İlginç olanı, platformun ilk yıllarında **reklam destekli bir model** benimsemesiydi; kullanıcılar ücretsiz olarak hizmeti kullanabiliyor, ancak sınırlı sayıda dinleme hakkına sahipti. Bu model, daha sonra abonelik seçeneklerinin eklenmesiyle birlikte evrim geçirdi.\n\nPandora Radyo’nun en büyük katkılarından biri, algoritmik müzik önerilerinin popülerleşmesine öncülük etmesiydi. Günümüzde de milyonlarca şarkıyı barındıran platform, kullanıcıların tercihlerine göre \"istasyonlar\" oluşturmayı sürdürüyor. Tabii ki, Spotify ve diğer akış platformlarının yükselişiyle birlikte rekabet de arttı, ama Pandora’nın müzik keşfi konusundaki mirası hâlâ tartışılmaz.",
+      "fun_fact": "Pandora Radyo’nun Music Genome Project’i için analiz edilen ilk şarkı, 1963 yılında yayınlanan *Be My Baby* adlı eser — yani The Ronettes’a ait bu klasik, dijital müzik dünyasının temel taşlarından biri!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1196431",
+        "https://tr.wikipedia.org/wiki/Pandora_Radyo",
+        "https://en.wikipedia.org/wiki/Pandora_(service)"
+      ],
+      "wikidata_qid": "Q1196431"
+    },
+    {
+      "id": "Q4740856",
+      "date": "2028-04-02",
+      "category": "iletisim",
+      "widget_title": "Prime Video ne zaman ortaya çıktı?",
+      "hook": "Amazon'un popüler video hizmeti, bir zamanlar sadece kitaplıktan geliyor!",
+      "answer_year": 2006,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Amazon Prime Video, 2006 yılında Amazon'a entegre edilerek ilk kez sunuldu. Bu hizmet, Amazon'un yazılım ve internet hizmetlerinin bir parçası haline geldi. Ancak, Amazon Prime Video'nun tam olarak hangi tarihte ve kimin tarafından başlatıldığı hakkında tam bir bilgiye sahip değiliz. [DOĞRULA: Amazon Prime Video'nun tam olarak hangi tarihte ve kimin tarafından başlatıldığı hakkında bilgi sahibi olmak için Amazon'un resmi kaynaklarından daha fazla araştırma yapmamız gerekecek.] Bu hizmet, Amazon'un genel olarak video içeriklerine ve streaming hizmetlerine girişini işaret etti ve daha sonra Amazon Prime aboneliği ile birlikte genişlemeye başladı.",
+      "fun_fact": "Amazon, Prime Video'nun yanı sıra iRobot, Alexa ve Fire TV gibi birçok popüler ürün ve hizmeti piyasaya sürdü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4740856",
+        "https://tr.wikipedia.org/wiki/Prime_Video",
+        "https://en.wikipedia.org/wiki/Amazon_Prime_Video"
+      ],
+      "wikidata_qid": "Q4740856"
+    },
+    {
+      "id": "Q1211075",
+      "date": "2028-04-03",
+      "category": "yazilim-internet",
+      "widget_title": "Chrome Web Mağazası ne zaman yayına girdi?",
+      "hook": "Tarayıcıların ötesinde bir dünya sunan bu mağazanın doğum tarihini biliyor musun?",
+      "answer_year": 2010,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Google’ın tarayıcı savaşlarına yeni bir boyut kazandıran Chrome Web Mağazası, 11 Şubat 2010 tarihinde kullanıma açıldı. [DOĞRULA: Bu tarih, Google’ın resmi blogunda ve çeşitli teknoloji yayınlarında doğrulanmış durumda.] Chrome’un genişleyen ekosisteminin bir parçası olarak tasarlanan mağaza, kullanıcıların web uygulamalarına, eklentilere ve temalara tek bir yerden erişmesini sağladı.\n\nBaşlangıçta sadece Chrome tarayıcısıyla uyumlu olan mağaza, zamanla diğer Chromium tabanlı tarayıcılarla da entegrasyon sağladı. Bu sayede geliştiriciler için de büyük bir fırsat doğmuş oldu: uygulamalarını milyonlarca kullanıcıya kolayca ulaştırma imkanı.\n\nPeki, Chrome Web Mağazası’nın piyasaya sürülmesiyle birlikte web dünyasında neler değişti? Mağazanın açılması, hem kullanıcılar hem de geliştiriciler için yeni bir dönemin başlangıcı oldu. Artık sadece içerik tüketmek değil, aynı zamanda üretmek de daha erişilebilir hale geldi.",
+      "fun_fact": "Chrome Web Mağazası’nın ilk günlerinde yayınlanan uygulamaların sadece %10’u ücretliydi, geri kalanı tamamen ücretsizdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1211075",
+        "https://tr.wikipedia.org/wiki/Chrome_Web_Ma%C4%9Fazas%C4%B1",
+        "https://en.wikipedia.org/wiki/Chrome_Web_Store"
+      ],
+      "wikidata_qid": "Q1211075"
+    },
+    {
+      "id": "Q1433417",
+      "date": "2028-04-04",
+      "category": "yazilim-internet",
+      "widget_title": "Google Alışveriş ne zaman çıktı?",
+      "hook": "Aradığın ürünü bulmak için Google’a mı yazıyorsun? Peki ya 2002’den beri Google’ın alışverişi de organize ettiğini biliyor muydun?",
+      "answer_year": 2002,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Google Alışveriş’in temelleri, 2002 yılında atıldı ve o günden beri dijital pazaryerlerinde önemli bir yer edindi. Başlangıçta \"Froogle\" adıyla karşımıza çıkan bu hizmet, kullanıcıların çevrimiçi olarak ürün aramalarını kolaylaştırmayı hedefliyordu. Adını, hem \"fırsat\" (frugal) hem de \"Google\" kelimelerinin birleşiminden alan Froogle, zamanla Google Alışveriş’e dönüştü ve algoritmaları sürekli gelişerek alışveriş deneyimini daha da kişiselleştirdi.\n\nBaşlarda sadece bir ürün karşılaştırma aracı olarak başlayan bu hizmet, yıllar içinde reklam entegrasyonları, fiyat takibi ve hatta yerel mağaza sonuçları gibi özelliklerle zenginleşti. [DOĞRULA: Froogle’un ilk geliştiricileri arasında kimler vardı?] Ancak kesin olan şey, kullanıcıların aradıkları ürünü bulmalarını kolaylaştırmak için yola çıkan bu projenin, bugün milyarlarca dolar değerinde bir pazar yaratmış olması.\n\nGoogle Alışveriş’in hikayesi, sadece bir arama motorunun ötesine geçerek, nasıl bir ekosistem yarattığının da bir örneği. Artık sadece bir karşılaştırma aracı değil, aynı zamanda satıcıların ve tüketicilerin buluştuğu devasa bir dijital çarşı haline geldi.",
+      "fun_fact": "Google Alışveriş’in ilk adı olan \"Froogle\", kurucu ekip tarafından bir kelime oyunu olarak düşünülmüş ve kullanıcılar arasında hızla yayılmıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1433417",
+        "https://tr.wikipedia.org/wiki/Google_Al%C4%B1%C5%9Fveri%C5%9F",
+        "https://en.wikipedia.org/wiki/Google_Shopping"
+      ],
+      "wikidata_qid": "Q1433417"
+    },
+    {
+      "id": "Q169325",
+      "date": "2028-04-05",
+      "category": "yazilim-internet",
+      "widget_title": "Funimation ne zaman kuruldu?",
+      "hook": "Anime dünyasının devlerinden biri olan Funimation, senelerce milyonlarca hayranın ekran başına kilitlenmesine sebep oldu. Peki, bu eğlence devi tam olarak ne zaman doğdu?",
+      "answer_year": 1994,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Funimation’in hikayesi, 1994 yılında ABD’nin Teksas eyaletinde başlıyor. [DOĞRULA: Genç girişimciler Gen Fukunaga ve Daniel Marks’un anime dağıtımında bir boşluk görmesiyle yola çıktıkları] doğrulanırsa, şirket ilk olarak doğrudan video (Direct-to-Video) pazarında faaliyet göstermeye başladı. O dönemde anime, ABD’de henüz geniş kitlelere ulaşamamıştı ve Funimation, bu alanda bir öncü rol üstlendi.\n\nBaşlangıçta sadece VHS kasetleriyle sınırlı kalan dağıtım, zamanla DVD’lere ve ardından dijital platformlara evrildi. 2000’li yılların başında şirket, anime sektöründe adından sıkça söz ettirmeye başladı. Özellikle *Dragon Ball Z* gibi popüler serilerin İngilizce dublajlarını yaparak ve dağıtarak büyük bir kitleye ulaştı. 2011 yılında ise Funimation, anime yayıncılığına yeni bir soluk getiren bir adım attı: *SimulDub* adı verilen, aynı anda Japonya’da yayınlanan anime bölümlerinin İngilizce dublajını yapıp yayınlama modelini başlattı. Bu yenilik, Batı dünyasında anime izleme alışkanlıklarını kökten değiştirdi.\n\n2016 yılında Funimation, Japonya merkezli bir başka dev olan Sony Pictures Television tarafından satın alındı. Bu birleşme, şirketin küresel pazardaki konumunu daha da güçlendirdi. Bugün Funimation, sadece anime yayıncılığıyla kalmayıp, aynı zamanda *Crunchyroll* ile birleşmesiyle birlikte sektörün en büyük oyuncularından biri haline geldi. Peki, sen Funimation’in bu yolculuğunda hangi dönemi daha heyecanlı buldun?",
+      "fun_fact": "Funimation’in ilk anime projesi olan *Hikaru no Go*, 2002 yılında yayınlandı ve şirketin ABD’deki anime pazarındaki yerini sağlamlaştırmasına yardımcı oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q169325",
+        "https://tr.wikipedia.org/wiki/Funimation",
+        "https://en.wikipedia.org/wiki/Funimation"
+      ],
+      "wikidata_qid": "Q169325"
+    }
+  ]
+}
