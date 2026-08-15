@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2028-02",
+  "items": [
+    {
+      "id": "Q107269746",
+      "date": "2028-02-01",
+      "category": "yazilim-internet",
+      "widget_title": "Windows 11 ne zaman ortaya çıktı?",
+      "hook": "Windows 11, 2021 yılında duyurulan en son Windows sürümüdür. Ancak, kimin tarafından ve nasıl keşfedildiği hakkında daha fazla bilgiye sahip olmak isterdiniz?",
+      "answer_year": 2021,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Windows 11, Microsoft'un 2021 yılında duyurduğu en son işletim sistemidir. Bu sürüm, önceki Windows 10 sürümünden daha hızlı, daha güvenli ve daha kullanıcı dostu bir deneyim sunmak amacındadır. Windows 11, 2021 yılında bir dizi ön gösteri ve duyuruya maruz kaldıktan sonra, 24 Ekim 2021'de resmi olarak piyasaya sürüldü. Microsoft, Windows 11'ün Windows 10'dan önemli bir fark olarak, ekrandaki bir dizi yeni özellik ve yenilenme sunu belirtti. Ancak, Windows 11'ün keşfi ve geliştirilmesi konusunda, Microsoft'ın resmi olarak açıklamaları bulunmamaktadır. [DOĞRULA: Windows 11'ün keşfi ve geliştirilmesi hakkında daha fazla bilgi]",
+      "fun_fact": "Windows 11, Microsoft'un 2021 yılındaki en büyük işletim sistem duyurusu olma şansına sahipti, ancak son anda bir değişiklik nedeniyle Windows 10X adlı bir sürümun piyasaya sürülmesi kararı alındı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q107269746",
+        "https://tr.wikipedia.org/wiki/Windows_11",
+        "https://en.wikipedia.org/wiki/Windows_11"
+      ],
+      "wikidata_qid": "Q107269746"
+    }
+  ]
+}
