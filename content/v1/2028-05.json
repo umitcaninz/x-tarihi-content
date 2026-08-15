@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "month": "2028-05",
+  "items": [
+    {
+      "id": "Q1164485",
+      "date": "2028-05-01",
+      "category": "yazilim-internet",
+      "widget_title": "Flightradar24 ne zaman kullanıma girdi?",
+      "hook": "Uçakları gerçek zamanlı olarak izlemek artık cebimizdeki uygulamalarda — peki bu devrim niteliğindeki aracın doğuş hikayesi nasıl başladı?",
+      "answer_year": 2007,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Flightradar24’ün temelleri, 2006 yılında İsveçli bir grup havacılık meraklısının basit bir meraktan yola çıkmasıyla atıldı. İlk başta, amatör telsizcilerin ve havacılık tutkunlarının paylaştığı ADS-B sinyallerini [DOĞRULA: toplayıp görüntülemek] için bir hobi projesi olarak başladı. Bu sinyaller, uçakların konumunu, hızını ve irtifasını yayınlayan veriler içeriyordu — tıpkı modern Flightradar24’ün yaptığı gibi!\n\nProje, 2007 yılında ilk web tabanlı versiyonunun yayınlanmasıyla resmiyet kazandı. Başlangıçta sadece birkaç yüz uçuşu gösterebilen sistem, zamanla daha fazla verici ve kullanıcının katkısıyla büyüdü. İlginç olanı, Flightradar24’ün ilk yıllarında neredeyse hiç ticari amacı yoktu — kullanıcılar, havacılık topluluğunun gönüllü katkılarıyla gelişti. 2010’ların başında ise mobil uygulamaların yaygınlaşmasıyla birlikte, dünya genelindeki milyonlarca kullanıcı için vazgeçilmez bir araç haline geldi.\n\nBugün Flightradar24, sadece uçakları izlemekle kalmıyor, aynı zamanda hava trafiği analizleri, havaalanı yoğunlukları ve hatta özel uçuşların takibi gibi birçok farklı kullanım alanına sahip. Peki, sizce bu kadar basit bir fikir nasıl oldu da küresel bir fenomene dönüştü?",
+      "fun_fact": "Flightradar24, 2010 yılında İzlanda’daki Eyjafjallajökull volkanının patlaması sırasında küllerin yayılmasını izlemek için hükümetler ve medya tarafından yoğun olarak kullanıldı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1164485",
+        "https://tr.wikipedia.org/wiki/Flightradar24",
+        "https://en.wikipedia.org/wiki/Flightradar24"
+      ],
+      "wikidata_qid": "Q1164485"
+    },
+    {
+      "id": "Q27903045",
+      "date": "2028-05-02",
+      "category": "yazilim-internet",
+      "widget_title": "Paramount+ ne zaman kullanıma sunuldu?",
+      "hook": "Dijital platformlar dünyasında adını sıkça duyduğumuz Paramount+, aslında ne kadar yeni bir hikayeye sahip?",
+      "answer_year": 2014,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Paramount+, ViacomCBS’in (şimdiki adıyla Paramount Global) dijital yayıncılıkta bir adım öne çıkmak için hayata geçirdiği bir platform. **2014 yılında** kullanıma sunulan hizmet, başlangıçta Amerika Birleşik Devletleri ve Kanada’da CBS All Access adıyla başladı. [DOĞRULA: CBS All Access’in tam olarak hangi tarihte (ay/gün) hizmete girdiği] Zamanla içerik yelpazesini genişleten platform, 2021 yılında Paramount+ olarak yeniden markalaştı ve uluslararası pazarlara da açılmaya başladı. Artık Latin Amerika’nın bazı ülkelerinde de hizmet veriyor.\n\nPlatformun en büyük avantajlarından biri, CBS’in orijinal dizilerinin yanı sıra filmler, spor içerikleri ve hatta Nickelodeon’un çocuk programlarını tek bir yerde sunması. Peki, bu kadar çok içerik nasıl bir araya geldi? Aslında Viacom ve CBS’in 2019 yılında birleşmesiyle, içerik kütüphanesi epey zenginleşti. Yani Paramount+’ın hikayesi, sadece bir platformun ötesinde, medya devi şirketlerin stratejik hamlelerinin de bir parçası.\n\nBugün milyonlarca kullanıcıya ulaşan hizmet, dijital yayıncılıkta nasıl bir devrim yarattı dersiniz?",
+      "fun_fact": "Paramount+’ın en popüler içeriklerinden biri olan \"Star Trek: Discovery\" dizisi, platformun yeniden markalaşmasından sonraki ilk büyük orijinal yapımlardan biriydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27903045",
+        "https://tr.wikipedia.org/wiki/Paramount%2B",
+        "https://en.wikipedia.org/wiki/Paramount%2B"
+      ],
+      "wikidata_qid": "Q27903045"
+    },
+    {
+      "id": "Q30133334",
+      "date": "2028-05-03",
+      "category": "yazilim-internet",
+      "widget_title": "DAZN ne zaman kuruldu?",
+      "hook": "Dünyanın en hızlı büyüyen spor yayın platformlarından biri olan DAZN’un hikayesi, sadece bir fikirden küresel bir dev haline nasıl geldiğini merak ettiriyor.",
+      "answer_year": 2015,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "DAZN, 2015 yılında kurulan ve hızla küresel bir spor yayın devi haline gelen bir platform. Temelleri, [DOĞRULA: hangi ülkede atıldığı] İngiltere merkezli olarak atılan DAZN, özellikle futbol, boks ve Amerikan futbolu gibi popüler spor dallarında yayın haklarını bünyesinde topluyor. Kuruluşundan bu yana, geleneksel televizyon yayıncılığının yerini almaya yönelik dijital odaklı bir strateji izliyor ve kullanıcılarına abonelik temelli, reklamsız bir izleme deneyimi sunuyor.\n\nPlatformun adının kökeni konusunda net bilgiler olmasa da, \"DAZN\" kelimesinin Almanca kökenli olduğu ve \"hedef\" ya da \"amaç\" anlamına gelen \"das Ziel\" kelimesinden türediği yönünde spekülasyonlar var. Ancak bu bilginin doğruluğunu teyit etmek için daha fazla araştırma gerekli. DAZN’un kuruluş yılı olan 2015, platformun ilk yayınlarını başlattığı ve uluslararası arenada adını duyurmaya başladığı dönem olarak kayıtlara geçiyor.\n\nBugün, Avrupa, Amerika ve Asya pazarlarında faaliyet gösteren DAZN, spor yayıncılığında dijital dönüşümün öncülerinden biri olarak kabul ediliyor. Peki, sizce DAZN’un geleceği hangi spor dalında daha da genişleyecek?",
+      "fun_fact": "DAZN’un logosu, hareket halindeki bir sporcuyu simgeleyen dinamik bir tasarıma sahip ve bu da platformun hız ve yenilikçilik vurgusunu yansıtıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30133334",
+        "https://tr.wikipedia.org/wiki/DAZN",
+        "https://en.wikipedia.org/wiki/DAZN"
+      ],
+      "wikidata_qid": "Q30133334"
+    },
+    {
+      "id": "Q37093",
+      "date": "2028-05-04",
+      "category": "yazilim-internet",
+      "widget_title": "Yahoo ne zaman kuruldu?",
+      "hook": "Arkadaşlar arasında 'Yahoo!' diye bağırdığımızda kimse şirketten haberdar olmazdı — oysa bu isim 1994'te dünyayı değiştiren bir fikrin doğumunu simgeliyordu!",
+      "answer_year": 1994,
+      "year_precision": "month",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "İnternet’in ilk yıllarında, Jerry Yang ve David Filo adındaki iki Stanford Üniversitesi öğrencisi, ilginç bağlantıları bir araya getiren basit bir web dizini oluşturdu. Başlangıçta bu projeye 'Jerry and David's Guide to the World Wide Web' adını verdiler, ama 1994 yılında 'Yahoo!' olarak yeniden markalaştılar. İsmin nereden geldiği tam olarak net değil — bazılarına göre 'Yet Another Hierarchical Officious Oracle' kısaltması, diğerlerine göreyse sadece eğlenceli bir kelimeydi. [DOĞRULA: Yahoo! isminin kökeni hakkında daha fazla kaynak bulunmalı.]\n\nYahoo!, 1994’ün başlarında hayata geçti ve kısa sürede milyonlarca kullanıcı tarafından keşfedildi. O dönemde internet arama motorları henüz gelişmemişti; Yahoo! daha çok elenmiş bağlantılarla bir rehber görevi görüyordu. Bu sayede 'dot-com' balonunun patlamasına kadar internetin en önemli adreslerinden biri haline geldi. Bugünse, adını hepimizin bildiği bir teknoloji devi olarak anıyoruz — gerçi arama motoru pazarındaki yerini Google’a kaptırsa da!\n\nUnutmayın, Yahoo!’nun hikayesi sadece bir şirket kurmakla kalmadı; aynı zamanda internetin nasıl evrildiğinin de bir parçasıydı.",
+      "fun_fact": "Yahoo!’nun ilk versiyonu, Stanford’un sunucularında çalışıyordu ve URL’si 'akebono.stanford.edu/~jerry/' idi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q37093",
+        "https://tr.wikipedia.org/wiki/Yahoo!",
+        "https://en.wikipedia.org/wiki/Yahoo"
+      ],
+      "wikidata_qid": "Q37093"
+    },
+    {
+      "id": "Q785597",
+      "date": "2028-05-05",
+      "category": "yazilim-internet",
+      "widget_title": "Video 2000 ne zaman ortaya çıktı?",
+      "hook": "1979 yılında, Video 2000 adında bir yazılım platformu dünyaya geldi. Bu platform neydi ve neden önemliydi?",
+      "answer_year": 1979,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "1979 yılında, Video 2000 adında bir yazılım platformu ortaya çıktı. Bu platform, video oyunlarını ve diğer video içeriklerini PC'lerde oynamak için tasarlandı. Video 2000, o dönemde yaygın olan disk jockey (DJ) sistemlerinden farklılık gösteriyordu, çünkü bu yazılım, kullanıcıların video oyunlarını ve videoları PC'lerinde oynatabilmesini sağladı. Ancak, Video 2000'in büyük bir başarıya ulaşamaması, oyun dünyasında daha yaygın olan CD-ROM tabanlı sistemlerin daha iyi performans ve geniş destek nedeniyle bu platformun kısa süreli bir yaşam süresi geçirdiğini göstermektedir. [DOĞRULA: Video 2000'nin exact release year and context]",
+      "fun_fact": "Video 2000, oyun dünyasında video içeriğinin PC'lerde oynanabilir hale getirilmesine öncülük etti, ancak daha sonra daha gelişmiş teknolojilerin yükselişiyle birlikte unutuldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q785597",
+        "https://tr.wikipedia.org/wiki/Video_2000",
+        "https://en.wikipedia.org/wiki/Video_2000"
+      ],
+      "wikidata_qid": "Q785597"
+    }
+  ]
+}
