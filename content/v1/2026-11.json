@@ -3,640 +3,664 @@
   "month": "2026-11",
   "items": [
     {
-      "id": "Q1329801",
+      "id": "Q194297",
       "date": "2026-11-01",
-      "category": "giyim",
-      "widget_title": "Aziz Yorgi Konstantin Nişanı'nın kökeni ne zamana dayanır?",
-      "hook": "Dünyanın en eski şövalyelik nişanlarından biri olarak kabul edilen bu gizemli düzenin tarihi sizi şaşırtabilir.",
-      "answer_year": 400,
+      "category": "gida-icecek",
+      "widget_title": "İkonik Guinness birası ne zamandan beri bizimle?",
+      "hook": "Koyu rengi ve kremalı köpüğüyle bira dünyasının efsanesi Guinness'in hikayesi oldukça köklü.",
+      "answer_year": 1759,
       "year_precision": "year",
       "guess_range": [
-        300,
-        480
+        1700,
+        1830
       ],
-      "body": "Bugün hala varlığını sürdüren bu asil nişanın kökenleri, takvimler MS 400 yılını gösterirken tarihin sisli perdesine bürünüyor. 'Aziz Yorgi Kutsal Askeri Konstantin Nişanı' adı ilk bakışta oldukça görkemli geliyor, değil mi? Gerçekten de öyle. Bu nişan, Hıristiyanlığın en eski ve en saygın şövalyelik düzenlerinden biri olarak kabul ediliyor, ancak tam olarak ne zaman ve kim tarafından kurulduğu hala bir sır perdesiyle çevrili. Nişanın adı, Roma İmparatoru Büyük Konstantin ve ejderhayı öldüren efsanevi Aziz Yorgi'den geliyor. Tarihsel iddialara göre, kökenleri doğrudan Bizans İmparatorluğu'na, hatta Konstantin'in kendisinin bir tür muhafız birliğine kadar uzanıyor. Ancak modern tarihçiler, nişanın günümüzdeki yapısının ve kurumsal kimliğinin daha geç dönemlerde, [DOĞRULA: özellikle hangi yüzyılda ve hangi hanedanlık döneminde kurumsallaştığı] ortaya çıktığını belirtiyorlar. MS 400 yılı, nişanın manevi veya efsanevi başlangıcı olarak kabul edilse de, kesintisiz bir kurumsal devamlılık zincirini bu kadar erken bir tarihe kadar takip etmek zor. Nişanın temel amacı, yüzyıllar boyunca hayır işleri yapmak, Hıristiyan inancını savunmak ve üyeleri arasında şövalyelik değerlerini yaşatmak olmuştur. Günümüzde de bu misyonunu [DOĞRULA: nişanın güncel faaliyetleri ve merkezi hakkında kısa bilgi] sürdürmektedir. Bu gizemli ve köklü nişan, tarihin sisli koridorlarında dolaşan, saygın ama aynı zamanda tartışmalı bir mirasın taşıyıcısıdır.",
-      "fun_fact": "Bugün bile birçok nişan, Aziz Yorgi Kutsal Askeri Konstantin Nişanı'nın haklı mirasçısı olduğunu iddia ederek varlığını sürdürmektedir.",
+      "body": "Bugün dünyanın dört bir yanında barmenlerin ustalıkla doldurduğu, o eşsiz koyu rengi ve kremalı köpüğüyle tanınan Guinness birasının kökenleri oldukça eskiye dayanıyor. Hikaye, 1759 yılında İrlanda'nın Dublin şehrinde başlıyor. İşte o yıl, Arthur Guinness adında vizyoner bir girişimci, St. James's Gate'deki ünlü bira fabrikasını kiraladı. Üstelik bu kiralama sözleşmesi tam 9.000 yıllık bir süre için yapılmıştı – evet, yanlış duymadın, 9.000 yıl! [DOĞRULA: 9000 yıllık kira anlaşmasının detayları ve gerçekliği] Bu cesur anlaşma, Guinness'in uzun ömürlü serüveninin ilk adımı oldu. Başlangıçta farklı türde biralar üretilse de, Arthur Guinness zamanla stout birasına odaklandı ve kısa sürede bu özel tarifiyle büyük ün kazandı. Guinness'in ayırt edici tadı ve görünümü, kavrulmuş malt arpa kullanımı ve nitrojen gazının eklenmesiyle oluşuyor, bu da ona o meşhur kadifemsi dokuyu ve zengin aromayı veriyor. İrlanda'dan yola çıkan bu efsanevi içki, zamanla bir kültür ikonuna dönüştü ve bugün 150'den fazla ülkede milyonlarca insan tarafından keyifle tüketiliyor. Guinness sadece bir bira markası değil, aynı zamanda İrlanda mirasının ve misafirperverliğinin de bir sembolü haline gelmiştir. Onun hikayesi, bir hayalin nasıl dünya çapında bir başarıya dönüşebileceğinin enfes bir kanıtı.",
+      "fun_fact": "Dünyaca ünlü 'Guinness Rekorlar Kitabı'nın ilham kaynağının da bizzat Guinness bira şirketi olduğunu biliyor muydun?",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1329801",
-        "https://en.wikipedia.org/wiki/Sacred_Military_Constantinian_Order_of_Saint_George"
+        "https://www.wikidata.org/wiki/Q194297",
+        "https://tr.wikipedia.org/wiki/Guinness",
+        "https://en.wikipedia.org/wiki/Guinness"
       ],
-      "wikidata_qid": "Q1329801"
+      "wikidata_qid": "Q194297"
     },
     {
-      "id": "Q13384640",
+      "id": "Q215248",
       "date": "2026-11-02",
-      "category": "gida-icecek",
-      "widget_title": "Geleceğin yiyeceği Soylent ilk ne zaman piyasaya sürüldü?",
-      "hook": "Tüm besin ihtiyaçlarını tek bir içecekle karşılayabilen bu yenilikçi fikir nasıl doğdu dersiniz?",
-      "answer_year": 2013,
+      "category": "giyim",
+      "widget_title": "Dizbağı Nişanı'nın hikayesi hangi yıla dayanıyor?",
+      "hook": "Avrupa'nın en eski şövalyelik nişanlarından biri olan Dizbağı Nişanı'nın ardındaki efsaneyi merak ediyor musunuz?",
+      "answer_year": 1348,
       "year_precision": "year",
       "guess_range": [
-        1910,
-        2026
+        1240,
+        1420
       ],
-      "body": "Modern yaşamın getirdiği hız ve pratiklik arayışı, beslenme alışkanlıklarımızı da derinden etkiledi. İşte tam bu noktada, 2013 yılında sahneye çıkan Soylent, dünyada büyük bir merak uyandırdı. Amacı oldukça basitti: insan vücudunun ihtiyaç duyduğu tüm temel besin maddelerini tek bir pratik içecekte veya karıştırılabilir toz formunda sunmak. Bu sayede yemek hazırlama derdi, alışveriş telaşı ve hatta bazı besin eksiklikleri ortadan kalkacaktı. Geliştiricileri, beslenmeyi bir bilim projesi gibi ele alarak, ideal besin oranlarını yakalamayı hedefledi.\n\nBaşlangıçta bir yazılımcının kendi beslenme problemlerine çözüm arayışıyla ortaya çıkan bu konsept, hızla internet üzerinden yayıldı ve büyük bir ilgi gördü. 2013 yılında kitlesel fonlama kampanyalarıyla kısa sürede yüzbinlerce dolar fon toplayarak hayata geçirildi. Soylent, piyasaya sürüldüğü andan itibaren \"yemek yemeye son mu?\" gibi iddialı tartışmaları da beraberinde getirdi. Geleneksel yemek kültürüne meydan okuyarak, beslenmeyi bir mühendislik problemine dönüştürme potansiyeliyle hem destekçilerini hem de eleştirenlerini buldu.\n\nÖzellikle yoğun iş hayatı olanlar, öğrenciler, sporcular veya mutfakta vakit geçirmek istemeyenler için cazip bir alternatif haline geldi. İlk çıktığında tadı ve dokusu hakkında farklı yorumlar olsa da, zamanla formülü geliştirilerek daha geniş kitlelere ulaşmayı başardı. Soylent'in yükselişi, beslenme alışkanlıklarımızın geleceği hakkında önemli soruları gündeme getirdi: İnsanlar sadece yakıt olarak mı beslenmeli, yoksa yemeğin sosyal ve kültürel bir boyutu da mı var? Bu sorular, Soylent'in etkileşimli hikayesinin bir parçası olmaya devam ediyor.",
-      "fun_fact": "Soylent ismi, 1966 tarihli \"Make Room! Make Room!\" romanından ve onun uyarlaması olan 1973 yapımı \"Soylent Green\" filminden esinlenilmiştir.",
+      "body": "İngiltere'nin ve hatta dünyanın en prestijli şövalyelik nişanlarından biri olan Dizbağı Nişanı, kökleri derinlere inen, asırlık bir geleneğin temsilcisidir. Bu özel nişan, [DOĞRULA: Yüz Yıl Savaşları'nın ortasında mıydı?] 1348 yılında İngiltere Kralı III. Edward tarafından kuruldu. Kral, dönemin siyasi çalkantıları ve askeri ihtiyaçları arasında kendine sadık, seçkin bir şövalye topluluğu oluşturmak istiyordu. Ancak Dizbağı Nişanı'nın kuruluşuna dair dilden dile dolaşan çok daha ilginç bir efsane var. Rivayete göre, bir baloda [DOĞRULA: Salisbury Kontesi miydi?] düşen bir dizbağı, kralın bir şövalyesi tarafından yerden alındığında, çevredeki soylular arasında alay konusu olmuş. Kral III. Edward ise bu duruma sinirlenerek, 'Honi soit qui mal y pense' yani 'Kötü düşünenin ayıp olsun' anlamına gelen ünlü sözünü sarf etmiş ve o andan itibaren dizbağını bir onur nişanına dönüştürme kararı almış. Bu, aslında bir utanç sembolünü gurur ve ayrıcalık nişanına dönüştüren zekice bir hareketti. Dizbağı Nişanı, o günden bu yana İngiliz monarşisinin en yüksek onurlarından biri olmaya devam ediyor ve üyeleri sadece krallık ailesi ve çok seçkin şahsiyetlerden oluşuyor. Nişanın arması, içindeki dizbağı motifiyle bu efsaneye atıfta bulunurken, aynı zamanda üyelerin şeref ve sadakatini temsil ediyor. Kuruluşundan bu yana kesintisiz varlığını sürdüren bu nişan, tarihin tozlu sayfalarından günümüze uzanan eşsiz bir hikaye sunuyor.",
+      "fun_fact": "Dizbağı Nişanı'nın mottosu olan 'Honi soit qui mal y pense', aynı zamanda İngiliz Kraliyet Arması'nda da yer alır.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q13384640",
-        "https://en.wikipedia.org/wiki/Soylent_(meal_replacement)"
+        "https://www.wikidata.org/wiki/Q215248",
+        "https://tr.wikipedia.org/wiki/Dizba%C4%9F%C4%B1_Ni%C5%9Fan%C4%B1",
+        "https://en.wikipedia.org/wiki/Order_of_the_Garter"
       ],
-      "wikidata_qid": "Q13384640"
+      "wikidata_qid": "Q215248"
     },
     {
-      "id": "Q3738063",
+      "id": "Q19757757",
       "date": "2026-11-03",
-      "category": "gunluk-nesneler",
-      "widget_title": "Kilogramın uluslararası prototipi ne zaman tanımlandı?",
-      "hook": "Bugün kullandığımız kilogramın, uzun yıllar boyunca Paris'te saklanan minik bir metal silindire dayandığını biliyor muydunuz?",
-      "answer_year": 1889,
-      "year_precision": "year",
-      "guess_range": [
-        1780,
-        1960
-      ],
-      "body": "Hayatımızın her alanında ölçü birimlerine ihtiyaç duyarız. Alışveriş yaparken, yemek tarifleri uygularken, hatta bilimsel deneyler yaparken bile. Peki, bu birimlerin neye göre belirlendiğini hiç düşündünüz mü? Özellikle de kütle birimi olan kilogramın tanımı, modern bilimin en ilginç hikayelerinden birine sahip.\n\nUzun yıllar boyunca, kilogramın ne olduğu uluslararası bir anlaşma ile belirlenmiş, özel bir nesneye atıfta bulunarak tanımlanmıştı. Bu nesneye 'Uluslararası Kilogram Prototipi' veya halk arasındaki adıyla 'Le Grand K' deniyordu.\n\n1889 yılında Fransa'nın Sèvres şehrindeki Uluslararası Ağırlıklar ve Ölçüler Bürosu'nda (BIPM) saklanmak üzere oluşturulan bu özel prototip, platin-iridyum alaşımından yapılmış, yaklaşık 39 mm yüksekliğinde ve 39 mm çapında parlak bir silindirdi. Amacı, tüm dünyadaki kütle ölçümlerinin nihai referans noktası olmaktı. Düşünsenize, bir kilonun ne anlama geldiğini öğrenmek için bu minik metal parçasının kütlesine bakıyorduk! Yıllar içinde birçok kopyası üretildi ve ülkelere dağıtıldı, ancak 'Le Grand K' her zaman orijinal ve en kutsal referans olarak kaldı.\n\nAncak, fiziksel bir nesneye dayalı bir tanımın bazı sorunları vardı. Zamanla, bu prototipin kütlesinde çok küçük ama ölçülebilir değişiklikler olduğu fark edildi. Bu durum, bilim insanlarını yeni, daha kararlı bir tanım arayışına itti. Ve sonunda, 2019 yılında, kilogramın tanımı atomik sabitlerden biri olan Planck sabiti üzerinden yapılmaya başlandı. Böylece 'Le Grand K' yerini çok daha evrensel ve değişmez bir kavrama bırakmış oldu.",
-      "fun_fact": "Uluslararası Kilogram Prototipi, dünyada en sıkı korunan nesnelerden biriydi; üç farklı anahtarla açılan bir kasada, özel koşullar altında saklanıyordu.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q3738063",
-        "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram"
-      ],
-      "wikidata_qid": "Q3738063"
-    },
-    {
-      "id": "Q1330936",
-      "date": "2026-11-04",
-      "category": "giyim",
-      "widget_title": "Hindistan Yıldızı Nişanı ne zaman kuruldu?",
-      "hook": "Uzak diyarların ışıltısını taşıyan bu prestijli nişan, kimleri onurlandırdı ve hikayesi ne zaman başladı?",
-      "answer_year": 1861,
-      "year_precision": "year",
-      "guess_range": [
-        1760,
-        1940
-      ],
-      "body": "Hindistan Yıldızı Nişanı, 1861 yılında kuruldu. Bu prestijli şövalyelik nişanı, Britanya Kraliyet Ailesi tarafından, İngiliz Hint İmparatorluğu'na sadık hizmetlerde bulunan hem İngiliz hem de Hint kökenli kişileri ödüllendirmek amacıyla oluşturuldu. Onu, Britanya Raj dönemi boyunca önemli roller üstlenenler için özel bir onur nişanı olarak düşünebiliriz.\n\nBu onurlandırma nişanı, Hint İmparatorluğu'nun en yüksek dereceli nişanlarından biriydi ve üç farklı sınıfa sahipti: Büyük Şövalye Komutanı (GCSI), Şövalye Komutanı (KCSI) ve Yoldaş (CSI). Bu dereceler, nişanı taşıyan üyelerin rütbesini ve önemini belirtiyordu. Nişanın arması genellikle bir yıldız, üzerinde Latince 'Cennetin Işığı Rehberimizdir' (Heaven's Light Our Guide) yazan bir motto ve Kraliçe Victoria'nın büstü veya tacı gibi sembolleri içerirdi. Bu nişan, hem İngiliz yöneticilere hem de Hint prenslerinin liderlerine verilerek, Britanya'nın Hindistan üzerindeki egemenliğini pekiştirmeyi amaçlıyordu.\n\nYıllar boyunca pek çok önemli şahsiyet bu nişanı taşımıştır; Hindistan'daki İngiliz yönetiminin zirvesindeki isimlerden, bölgedeki nüfuzlu Hint liderlere kadar uzanan geniş bir yelpazede. Bu nişan, [DOĞRULA: Hindistan'ın bağımsızlığını kazanmasının ardından 1947 yılında verilmeye son verilmiştir.] Artık yeni üyeleri kabul edilmiyor olsa da, tarihin önemli bir parçası olarak varlığını sürdürüyor. Onun hikayesi, hem imparatorluk döneminin ihtişamını hem de o dönemin karmaşık ilişkilerini gözler önüne seriyor.",
-      "fun_fact": "Nişanın Latince mottosu 'Cennetin Işığı Rehberimizdir' (Heaven's Light Our Guide) idi ve bu, nişanın 'Yıldız' adıyla doğrudan bağlantılıydı.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1330936",
-        "https://en.wikipedia.org/wiki/Order_of_the_Star_of_India"
-      ],
-      "wikidata_qid": "Q1330936"
-    },
-    {
-      "id": "Q134454567",
-      "date": "2026-11-05",
       "category": "gida-icecek",
-      "widget_title": "Portekiz'in meşhur birası Sagres ne zaman doğdu?",
-      "hook": "Portekiz'in en ikonik lezzetlerinden biri olan Sagres birası, köklü geçmişiyle birçok hikaye barındırıyor.",
-      "answer_year": 1940,
-      "year_precision": "year",
-      "guess_range": [
-        1840,
-        2020
-      ],
-      "body": "Portekiz'in güneşi ve denizinin tadını şişesinde taşıyan Sagres birası, ilk kez **1940** yılında karşımıza çıktı. Bu özel lager, adını Portekiz'in güney ucundaki tarihi Sagres kasabasından alıyor. Denizcilik ve keşif ruhuyla özdeşleşen bu kasaba, biranın karakterine de ilham vermiş gibi duruyor. İkinci Dünya Savaşı'nın çalkantılı dönemlerinde doğmuş olmasına rağmen, Sagres kısa sürede Portekizlilerin kalbinde ve sofralarında sağlam bir yer edindi.\n\nSagres, hafif ve ferahlatıcı tadıyla bilinir, bu da onu Portekiz'in sıcak iklimi için ideal bir seçenek yapar. Yıllar içinde sadece bir içecek olmaktan çıkıp, Portekiz kimliğinin ayrılmaz bir parçası haline geldi. [DOĞRULA: Markanın Portekiz dışında da hızla tanınmasında, özellikle eski Portekiz kolonilerine yapılan ihracatın büyük etkisi oldu mu?] Özellikle futbol sponsorluklarıyla da tanınır ve ülkenin dört bir yanındaki maçlarda taraftarların elinden düşmez. Bu özelliği, onun ulusal bir sembol haline gelmesinde önemli bir rol oynadı. Bugün bile, Portekiz'e yolu düşen herkesin denemesi gereken otantik bir lezzet olarak kabul edilir. Sagres, sadece bir bira değil, aynı zamanda Portekiz'in tarihinin, kültürünün ve neşesinin bir yansıması.",
-      "fun_fact": "Sagres birası, ismini Portekizli denizcilerin büyük keşif yolculuklarına çıktığı tarihi Sagres kasabasından almıştır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q134454567",
-        "https://en.wikipedia.org/wiki/Sagres_(beer)"
-      ],
-      "wikidata_qid": "Q134454567"
-    },
-    {
-      "id": "Q389980",
-      "date": "2026-11-06",
-      "category": "gunluk-nesneler",
-      "widget_title": "Telleri kolayca çıkaran zımba sökücü ne zaman hayatımıza girdi?",
-      "hook": "O inatçı zımba tellerini zahmetsizce çıkaran zımba sökücünün hikayesi ne zaman başladı?",
-      "answer_year": 1916,
-      "year_precision": "year",
-      "guess_range": [
-        1810,
-        1990
-      ],
-      "body": "Kağıtları bir araya getiren zımba tellerinin, ayrılma vakti geldiğinde ne kadar inatçı olabileceğini hepimiz biliriz. İşte tam da bu noktada, parmaklarımızı ve tırnaklarımızı kurtaran kahramanımız devreye giriyor: zımba sökücü! Bu küçük, pratik aletin hayatımıza girmesi sandığınızdan daha yeni sayılabilir.\n\nZımba sökücünün ortaya çıkış tarihi **1916** olarak kabul edilir. İlginçtir ki, bu kadar yaygın ve kullanışlı bir aracın mucidi maalesef kayıtlara geçmemiştir. Bugün ofislerimizde ve evlerimizde görmeye alışkın olduğumuz, genellikle pençe şeklinde veya bir kolu olan modellerden farklı erken tasarımlar da olmuştur. Belki de ilk zımba sökücüler daha ilkel, sadece bir bıçak veya özel bir aletin modifiye edilmiş haliydi.\n\nZımba sökücü, sadece kağıtları ayırmakla kalmaz, aynı zamanda önemli belgelerin zarar görmesini de engeller. Bir zamanlar kağıtları ayırmak için makas, bıçak veya tırnaklarımızı kullandığımız düşünülürse, 1916'da ortaya çıkan bu basit aletin ne kadar büyük bir kolaylık sağladığını anlamak zor değil. Kısa sürede dünya genelinde popülerleşmesi de cabası. Gerçekten de, bazen en basit fikirler, hayatımızı en çok kolaylaştıranlar olabilir, değil mi?",
-      "fun_fact": "Zımba sökücünün varlığı, tırnaklarımızın kağıt kurtarma operasyonlarında daha az yıpranmasını sağladı!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q389980",
-        "https://en.wikipedia.org/wiki/Staple_remover"
-      ],
-      "wikidata_qid": "Q389980"
-    },
-    {
-      "id": "Q1347889",
-      "date": "2026-11-07",
-      "category": "giyim",
-      "widget_title": "Fransa Kralı XI. Louis, Aziz Mihail Nişanı'nı ne zaman kurdu?",
-      "hook": "Fransa'nın siyasi arenasında çalkantılı bir dönemde kurulan Aziz Mihail Nişanı, kralların gücünü pekiştiren stratejik bir hamleydi.",
-      "answer_year": 1469,
-      "year_precision": "year",
-      "guess_range": [
-        1360,
-        1540
-      ],
-      "body": "15. yüzyıl Fransa'sında, krallık otoritesini sarsan iç çatışmalar ve güçlü soyluların etkisi hissedilirken, Kral XI. Louis kurnazca bir adım attı. Yıl 1469'u gösterdiğinde, tahtını güçlendirmek ve kendine sadık bir elit grup oluşturmak amacıyla Aziz Mihail Nişanı'nı kurdu. Bu nişan, dönemin diğer prestijli şövalye nişanlarına bir yanıt niteliğindeydi ve özellikle de rakibi Burgonya Dükü'nün Altın Post Nişanı'na karşı bir denge unsuru olarak tasarlandı.\n\nBaşlangıçta sadece 36 şövalyeyle sınırlı tutulan Aziz Mihail Nişanı, o dönemde Fransa'nın en seçkin ve saygın ödüllerinden biriydi. Üyeleri doğrudan kral tarafından seçilir ve nişan, onlara kraliyet himayesini ve özel statüyü garanti ederdi. Kral XI. Louis, bu nişan sayesinde soylular üzerindeki kontrolünü artırmayı ve onları krallığa daha sıkı bağlamayı amaçladı. Nişanın sembolü, Fransa'nın koruyucu azizi olan Başmelek Mikail'di ve bu seçim, nişanın hem dini hem de ulusal önemini vurguluyordu.\n\nNişan, yüzyıllar boyunca Fransız monarşisinin en önemli kurumlarından biri olarak varlığını sürdürdü. Ancak zamanla üye sayısı arttıkça ve siyasi amaçlarla daha sık verilmeye başlandıkça, ilk zamanlardaki o eşsiz prestijini bir miktar yitirdi. [DOĞRULA: Fransız Devrimi sırasında resmi olarak kaldırıldı ancak daha sonra restore edilip farklı formlarda varlığını sürdürdü mü?] Yine de tarihi boyunca Fransız soyluluğunun ve krallık gücünün önemli bir göstergesi olmaya devam etti.",
-      "fun_fact": "Aziz Mihail Nişanı'nın şövalyeleri, nişanın kurucusu Kral XI. Louis'nin bizzat kendisi tarafından seçilirdi, bu da onlara özel bir bağlılık kazandırırdı.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1347889",
-        "https://en.wikipedia.org/wiki/Order_of_Saint_Michael"
-      ],
-      "wikidata_qid": "Q1347889"
-    },
-    {
-      "id": "Q134899",
-      "date": "2026-11-08",
-      "category": "gida-icecek",
-      "widget_title": "Zhigulevskoye Birası Ne Zaman Sovyetlerin Sembolü Oldu?",
-      "hook": "Sovyetler Birliği'nin en ikonik birası Zhigulevskoye'nin hikayesini biliyor musunuz?",
-      "answer_year": 1975,
-      "year_precision": "year",
-      "guess_range": [
-        1870,
-        2026
-      ],
-      "body": "Sovyetler Birliği denince akla gelen ilk şeylerden biri Zhigulevskoye birasıydı. Bu sade ama bir o kadar da ikonik içecek, ülkenin dört bir yanındaki restoranlardan evlere kadar her yerde kendine yer bulmuştu. Peki, bu biranın hikayesi ne zaman ve nasıl başladı?\n\nÇoğu kişi Zhigulevskoye'nin Sovyetler Birliği döneminde ortaya çıktığını düşünse de, aslında kökenleri çok daha eskiye, Çarlık Rusyası'na dayanır. Hikaye, 1881 yılında Avusturyalı bir girişimci olan [DOĞRULA: Zhiguli Bira Fabrikası'nı kuran Avusturyalı girişimcinin adı] tarafından Samara'da kurulan Zhiguli Bira Fabrikası'nda başlar. O zamanlar \"Vyenskoye\" (Viyana Birası) adıyla üretilen bu lezzet, kısa sürede büyük beğeni topladı.\n\nSovyet dönemine gelindiğinde, fabrika millileştirildi ve biranın adı 'Zhigulevskoye' olarak değiştirildi. Bu isim değişikliğiyle birlikte bira, 'halk birası' kimliğine büründü. Ancak onun Sovyetler Birliği'nin adeta resmi birası haline gelmesi ve üretiminin standart bir kaliteye oturması için önemli bir dönüm noktası vardı: **1975 yılı.** Bu yıl, Zhigulevskoye birasının üretimi ve içeriğiyle ilgili katı bir GOST standardı [DOĞRULA: Zhigulevskoye birası için 1975 tarihli GOST standardının resmi tanımı] belirlendi. Bu standartlaşma, biranın ülkenin her yerinde aynı kalitede ve aynı lezzette üretilmesini garantiledi. Artık Zhigulevskoye, sadece bir içecek değil, aynı zamanda Sovyet yaşam tarzının da ayrılmaz bir parçasıydı. Koyu renkli şişesi, hafif tadı ve uygun fiyatıyla milyonlarca insanın favorisi oldu ve nesiller boyu süren bir miras bıraktı.",
-      "fun_fact": "Sovyetler Birliği döneminde Zhigulevskoye, ülkenin her köşesinde bulunabilen, adeta ulusal bir içecek haline gelmişti.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q134899",
-        "https://en.wikipedia.org/wiki/Zhigulevskoye"
-      ],
-      "wikidata_qid": "Q134899"
-    },
-    {
-      "id": "Q428188",
-      "date": "2026-11-09",
-      "category": "gunluk-nesneler",
-      "widget_title": "Gizemli Axtroki Kaseleri ne zaman ortaya çıktı?",
-      "hook": "Binlerce yıl öncesinden gelen bu antik objeler, bizi geçmişin derinliklerine bir yolculuğa çıkarıyor.",
-      "answer_year": 1972,
-      "year_precision": "day",
-      "guess_range": [
-        1870,
-        2026
-      ],
-      "body": "Axtroki Kaseleri adını duyduğunuzda, belki de aklınıza modern bir tasarım harikası gelebilir. Ancak bu kaseler, aslında binlerce yıl öncesinden günümüze ulaşan, zamanın sırlarını fısıldayan kadim eserler. Onların 'icat edildiği' bir tarihten ziyade, 'yeniden keşfedildiği' bir tarihten bahsetmek çok daha doğru.\n\nBu gizemli objeler, toprağın derinliklerinde uzun bir uykunun ardından tam da **1972** yılında gün ışığına çıkarıldı. [DOĞRULA: Axtroki bölgesinde, arkeolojik kazılar sırasında mı bulunduklarını teyit et]. Bu keşif, arkeoloji dünyası için heyecan verici bir an oldu. [DOĞRULA: Keşfin tam olarak hangi arkeolog veya ekip tarafından yapıldığını doğrula]. Her biri özenle işlenmiş, farklı boyutlarda ve desenlerde olabilen bu kaseler, o dönemin insanlarının günlük yaşamlarına, inançlarına ve sanatsal yeteneklerine dair bize ipuçları sunuyor.\n\nBugün birer müze objesi olarak sergilenen Axtroki Kaseleri, geçmişten günümüze uzanan köprüler adeta. Onlara baktığımızda, binlerce yıl önce yaşamış insanların ellerini, hayallerini ve belki de sofralarını hayal edebiliyoruz. Onlar sadece kilden veya metalden yapılmış kaplar değil, aynı zamanda tarihin sessiz tanıkları.",
-      "fun_fact": "Axtroki Kaseleri'nin tam olarak hangi kültüre ait olduğu ve ne amaçla kullanıldığı üzerine bilimsel araştırmalar hala devam etmektedir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q428188",
-        "https://ast.wikipedia.org/wiki/Concos_d%27Axtroki"
-      ],
-      "wikidata_qid": "Q428188"
-    },
-    {
-      "id": "Q1428581",
-      "date": "2026-11-10",
-      "category": "giyim",
-      "widget_title": "Uçuş Ekibi Rozeti ilk ne zaman kullanılmaya başlandı?",
-      "hook": "Gökyüzünün kahramanlarını simgeleyen bu özel rozet, havacılık tarihinde önemli bir dönüm noktasına işaret ediyor.",
-      "answer_year": 1933,
+      "widget_title": "Between the Sheets kokteyli ne zaman ortaya çıktı?",
+      "hook": "Adı kadar baştan çıkarıcı, tadı kadar gizemli bu klasik kokteylin hikayesine hazır mısınız?",
+      "answer_year": 1930,
       "year_precision": "year",
       "guess_range": [
         1830,
         2010
       ],
-      "body": "Havacılık tarihi, insanlığın göklere olan tutkusunun ve bu alandaki inanılmaz ilerlemelerin bir aynası. Uçaklar geliştikçe, onları kullanan cesur pilotlar ve mürettebat üyeleri de özel bir tanınmayı hak etti. İşte tam da bu noktada, Uçuş Ekibi Rozeti gibi semboller devreye girdi.\n\nBu özel nişanların ortaya çıkışı, genellikle **1933** yılına dayanır. O dönemde, askeri havacılık hızla gelişiyor, pilotlar ve diğer uçuş görevlileri giderek daha uzmanlaşmış ve hayati roller üstleniyordu. Bu kişilerin kimler olduğunu, hangi yeteneklere sahip olduklarını ve görevlerinin önemini dışarıdan belli eden bir sembole ihtiyaç duyuluyordu. Uçuş Ekibi Rozeti, tam da bu ihtiyaca cevap verdi ve havacılık personelinin hem içeride hem de dışarıda tanınmasını sağladı.\n\nAslında, farklı ülkelerde ve hatta farklı kuvvet komutanlıklarında çok çeşitli uçuş rozetleri bulunuyor. Bazıları sadece pilotlar içinken, bazıları seyrüseferciler, telsiz operatörleri veya diğer mürettebat üyeleri için tasarlanmıştır. Ortak amaç ise her zaman aynıydı: havacılıkta hizmet veren profesyonelleri onurlandırmak ve onların özverili çalışmalarını topluma göstermek. Bu rozetler, sadece bir metal parçası değil, aynı zamanda gökyüzünde kazanılmış tecrübenin, cesaretin ve bağlılığın somut birer göstergesi haline geldi. Her rozet, sahibinin uçuş saatlerini, eğitimlerini ve üstlendiği riskleri sessizce anlatan bir hikaye taşır.\n\nBugün hala dünya genelinde birçok ülkenin hava kuvvetlerinde ve bazı özel sivil havacılık kuruluşlarında bu tür nişanlar büyük bir gururla taşınmaktadır. Rozetlerin tasarımları, ülkeden ülkeye, hatta bazen birimin kendi içindeki uzmanlığa göre değişiklik gösterebilir. Örneğin, bazı rozetlerde kanatlar, yıldızlar veya belirli bir hava aracının silueti bulunurken, diğerleri daha soyut semboller kullanabilir. Ancak hepsinin ortak noktası, havacılık dünyasındaki yerini ve önemini vurgulamasıdır.",
-      "fun_fact": "Bazı ülkelerde, uçuş rozetleri rütbeye ek olarak farklı seviyelerde (örneğin, kıdemli pilot, ustalık pilotu) verilir ve bu da bir havacının kariyerindeki ilerlemesini gösterir.",
+      "body": "Between the Sheets kokteyli, adı gibi akılda kalıcı ve merak uyandırıcı bir geçmişe sahip. Bu baştan çıkarıcı içki, 1930 yılında ortaya çıktığı düşünülüyor ve adını içerdiği alkollerin uyumu ve belki de sonrasındaki etkisinden alıyor. Pek çok klasik kokteylde olduğu gibi, Between the Sheets'in de kesin doğuş yeri ve mucidi hakkında farklı hikayeler var. En popüler efsanelerden biri, [DOĞRULA: Harry MacElhone veya Harry's New York Bar ile ilişkisi] kokteylin Paris'teki ünlü Harry's New York Bar'ında veya yine Paris'teki Ritz Hotel'de, [DOĞRULA: Frank Meier'in yaratıcılığı] Frank Meier tarafından yaratıldığı yönünde. Bu içki, aslında klasik Sidecar kokteylinin bir çeşidi olarak kabul edilir. Sidecar'da brendi ve Cointreau ile limon suyu bulunurken, Between the Sheets formülüye beyaz rom eklenerek daha zengin ve karmaşık bir profil kazanıyor. İçeriğindeki konyak, rom, portakal likörü ve taze limon suyunun mükemmel dengesi, onu hem sofistike hem de kolay içimli kılıyor. Özellikle Yasak Dönem (Prohibition) sonrası Avrupa'da popülerleştiği düşünülüyor. Bazı kaynaklar, adının daha çok 'yatak odası' çağrışımı yaparak, içenleri sıcak ve samimi bir ruh haline soktuğunu ima ettiğini belirtir. Gerçekten de, bu kokteylin her yudumu, sanki bir sırrı fısıldar gibi...",
+      "fun_fact": "Between the Sheets kokteyli, adının çağrıştırdığı gibi, içeriğindeki yüksek alkol oranıyla da bilinen, 'tehlikeli derecede kolay içimli' kokteyllerden biri olarak kabul edilir!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1428581",
-        "https://en.wikipedia.org/wiki/Aircrew_Badge_(Nazi)"
+        "https://www.wikidata.org/wiki/Q19757757",
+        "https://tr.wikipedia.org/wiki/Between_the_sheets",
+        "https://en.wikipedia.org/wiki/Between_the_sheets_(cocktail)"
       ],
-      "wikidata_qid": "Q1428581"
+      "wikidata_qid": "Q19757757"
     },
     {
-      "id": "Q1368986",
-      "date": "2026-11-11",
-      "category": "gida-icecek",
-      "widget_title": "Est! Est!! Est!!! di Montefiascone DOC ne zaman ortaya çıktı?",
-      "hook": "Bu şarap adını nereden alıyor dersiniz? Hikayesi oldukça ilginç!",
-      "answer_year": 1966,
+      "id": "Q222973",
+      "date": "2026-11-04",
+      "category": "giyim",
+      "widget_title": "Prag'ın Kurtuluşu Madalyası ne zaman verildi?",
+      "hook": "İkinci Dünya Savaşı'nın son günlerinde verilen bu madalya, Prag'ın özgürlüğünü hangi yıl kutladı?",
+      "answer_year": 1945,
       "year_precision": "day",
       "guess_range": [
-        1860,
-        2026
+        1840,
+        2020
       ],
-      "body": "İtalyan şaraplarının dünyasında, ismiyle bile merak uyandıran çok az etiket vardır. İşte onlardan biri de 'Est! Est!! Est!!! di Montefiascone DOC'. Bu üç ünlemli ismin arkasında oldukça eski ve keyifli bir efsane yatar. Rivayete göre, 12. yüzyılda yaşamış Alman piskopos Johannes Defuk, Roma'ya giderken uşağı Martin'i önden gönderirmiş. Martin'in görevi, yol boyunca konaklayacakları hanlardaki şarapları tadıp, beğendiklerine 'Est!' (Latince 'Var, mevcut, iyidir' anlamında) yazmasıymış. Montefiascone'ye geldiğinde, buradaki şarap o kadar büyüleyiciymiş ki, Martin heyecanla 'Est! Est!! Est!!!' yazmaktan kendini alamamış.\n\nPiskopos da şarabı çok beğenmiş ve hatta ömrünün sonuna kadar Montefiascone'de kalmaya karar vermiş. Ancak, bu efsanevi şarabın günümüzdeki 'Est! Est!! Est!!! di Montefiascone DOC' unvanını alması, çok daha yakın bir tarihe, tam olarak 1966 yılına denk geliyor. DOC, yani 'Denominazione di Origine Controllata', İtalyan şaraplarında belirli bir bölgeden geldiğini ve belirli üretim standartlarına uygun olduğunu gösteren, kalitesini garanti altına alan bir sertifikadır. Dolayısıyla 1966, bu köklü şarabın resmiyet kazanıp, adının ve kalitesinin yasal güvence altına alındığı yıldır. Bu, şarabın kendisinin 'icat edildiği' bir tarih değil, aksine yüzyıllardır süregelen bir geleneğin önemli bir mihenk taşıdır. Genellikle hafif, kuru ve ferahlatıcı beyaz bir şarap olan Est! Est!! Est!!!, bugün hala Lazio bölgesinin bu eşsiz topraklarında üretiliyor ve efsanesiyle birlikte tadıyla da damakları şenlendiriyor.",
-      "fun_fact": "Efsaneye göre, piskopos Defuk'un mezarında bile 'Est! Est!! Est!!!' yazılıdır.",
+      "body": "İkinci Dünya Savaşı'nın sonuna doğru Avrupa'da yankılanan özgürlük çanları, 1945 yılının Mayıs ayında Prag'da da çaldı. Nazi işgalinden kurtarılan Çekoslovakya'nın başkenti Prag, savaşın en önemli simgelerinden biri haline geldi. Bu tarihi zaferi ölümsüzleştirmek ve bu uğurda mücadele edenleri onurlandırmak amacıyla, Sovyetler Birliği tarafından \"Prag'ın Kurtuluşu Madalyası\" ihdas edildi.\n\nBu madalya, 9 Mayıs 1945'te Prag Operasyonu'na katılan tüm Sovyet ordusu askerlerine, subaylarına ve generallerine verilmek üzere tasarlanmıştır. Ayrıca, şehrin kurtarılmasına doğrudan katkı sağlayan bazı sivil halk üyeleri de bu onura layık görülmüştür. Madalyanın verilmeye başlanması, savaşın Avrupa cephesindeki son büyük zaferlerden birini kutlamanın yanı sıra, Doğu Avrupa'daki Sovyet etkisinin de bir nişanesiydi.\n\nMadalyanın ön yüzünde [DOĞRULA: Kremlin'in tasviri, bir tank veya asker figürleri gibi tasarım detayları ve üzerinde \"Za Osvobozhdenie Pragi\" (Prag'ın Kurtuluşu İçin) yazısı] yer alıyordu. Arka yüzünde ise [DOĞRULA: Tarih \"9 Mayıs 1945\" ve/veya çekiç-orak sembolü] bulunuyordu. Bu madalya, savaşın bitişinin ve Avrupa'nın yeniden şekillenişinin bir sembolü olarak tarihe geçti. Sadece bir metal parçası değil, aynı zamanda direnişin, özgürlüğün ve fedakarlığın somut bir anıtıydı. Bugün bile, bu madalya, o dönemin zorlu koşullarını ve kazanılan büyük zaferleri hatırlatan önemli bir tarihsel belge niteliğindedir.",
+      "fun_fact": "Prag, İkinci Dünya Savaşı'nda kurtarılan son büyük Avrupa başkentlerinden biriydi.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1368986",
-        "https://en.wikipedia.org/wiki/Est!_Est!!_Est!!!_di_Montefiascone"
+        "https://www.wikidata.org/wiki/Q222973",
+        "https://tr.wikipedia.org/wiki/Prag%27%C4%B1n_Kurtulu%C5%9Fu_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Medal_%22For_the_Liberation_of_Prague%22"
       ],
-      "wikidata_qid": "Q1368986"
+      "wikidata_qid": "Q222973"
     },
     {
-      "id": "Q43172784",
-      "date": "2026-11-12",
-      "category": "gunluk-nesneler",
-      "widget_title": "Pylos Savaş Akiki adındaki bu büyüleyici eser ne zaman bulundu?",
-      "hook": "Binlerce yıllık bu inanılmaz detaylı antik eser ne zaman yeniden keşfedildi?",
-      "answer_year": 2017,
+      "id": "Q19820584",
+      "date": "2026-11-05",
+      "category": "gida-icecek",
+      "widget_title": "Nohut suyu, nam-ı diğer Aquafaba, mutfağa ne zaman girdi?",
+      "hook": "Mutfağın en şaşırtıcı ve kurtarıcı kahramanlarından biri olan aquafaba'nın hikayesi, aslında çok da uzak olmayan bir tarihte başlıyor.",
+      "answer_year": 2014,
       "year_precision": "year",
       "guess_range": [
         1910,
         2026
       ],
-      "body": "Yıl 2017'yi gösterdiğinde, Yunanistan'ın Pylos bölgesindeki arkeologlar nefes kesici bir keşfe imza attı: Pylos Savaş Akiki. Bu küçücük, parmak ucu kadar bir mühür taşı, antik dünyanın sanat ve işçilik anlayışımızı tamamen değiştiren inanılmaz detaylara sahipti. Pylos'taki Nestor Sarayı yakınlarında, 'Griffin Savaşçısı' olarak bilinen zengin bir antik mezarda bulunan bu eser, uzmanları hayret içinde bıraktı. Akik taşının üzerine işlenmiş karmaşık dövüş sahnesi, o kadar ince detaylarla doluydu ki, onu tam olarak görebilmek için özel bir büyütme gerekiyordu.\n\nBu akiki özel kılan sadece yaşı değil (MÖ 1500 civarına tarihleniyor), aynı zamanda üzerindeki mikro-oymacılık tekniğiydi. Bir savaşçının düşmanını mağlup etme anını gösteren bu sahne, Minoan döneminin en iyi sanat örneklerinden biri olarak kabul ediliyor; sanki binlerce yıl öncesinden bize fısıldayan bir hikaye gibi... Keşfedildiğinde, [DOĞRULA: Pylos Savaş Akiki'ni keşfeden ekip, Cincinnati Üniversitesi'nden Sharon Stocker ve Jack Davis liderliğinde miydi?] bu eserin, o dönemin sanatsal ve kültürel seviyesinin daha önce düşünülenden çok daha ileri olduğunu ortaya koydu. Yani, Pylos Savaş Akiki'nin kendisi binlerce yıl önce üretilmiş olsa da, onun bu modern dünyaya tekrar ayak basması ve bizleri şaşırtması, işte o tam da 2017 yılına denk geliyor!",
-      "fun_fact": "Pylos Savaş Akiki'nin üzerindeki detaylar o kadar küçüktür ki, çıplak gözle ayırt edilemez; ancak mikroskop altında bile üç boyutlu bir sanat eseri gibi durur.",
+      "body": "Geleneksel tariflerde yumurtanın yerini alan, vegan mutfakların gözdesi aquafaba, aslında basitçe nohut haşlama suyundan ibaret! Kim derdi ki, bunca zaman lavabolardan akıp giden bu su, çırpıldığında yumurta akı gibi köpürüp harikalar yaratacak? Bu sihirli keşif, tam da tahmininizin aksine, oldukça yakın bir geçmişe dayanıyor. Aquafaba'nın potansiyeli ilk olarak 2014 yılında fark edildi. Fransız müzisyen ve vegan yemek meraklısı Joël Roessel, baklagil sularının köpürme yeteneği üzerine yaptığı deneylerde, nohut suyunun yumurta akına benzer özellikler gösterdiğini keşfetti. Onun bulguları, kısa sürede vegan topluluklar arasında hızla yayıldı ve mutfaklarda yeni bir çığır açtı. Özellikle meringues, mayonez ve mus gibi tariflerde yumurta yerine kullanılmasıyla, hem veganlar hem de yumurta alerjisi olanlar için gerçek bir nimet haline geldi. Aquafaba'nın keşfi, aslında atık olarak görülen bir malzemenin nasıl mucizevi bir içerik olabileceğini gösteren harika bir örnek. Bu basit nohut suyu, günümüzde dünya genelindeki şeflerden ev aşçılarına kadar herkesin menülerinde kendine sağlam bir yer edinmiş durumda.",
+      "fun_fact": "Aquafaba kelimesi, Latince 'aqua' (su) ve 'faba' (bakla/fasulye) kelimelerinin birleşiminden türetilmiştir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q43172784",
-        "https://en.wikipedia.org/wiki/Pylos_Combat_Agate"
+        "https://www.wikidata.org/wiki/Q19820584",
+        "https://tr.wikipedia.org/wiki/Aquafaba",
+        "https://en.wikipedia.org/wiki/Aquafaba"
       ],
-      "wikidata_qid": "Q43172784"
+      "wikidata_qid": "Q19820584"
     },
     {
-      "id": "Q144853",
-      "date": "2026-11-13",
+      "id": "Q241821",
+      "date": "2026-11-06",
       "category": "giyim",
-      "widget_title": "Romanya'nın prestijli I. Carol Nişanı ne zaman kuruldu?",
-      "hook": "Romanya Kralı I. Carol'ın adını taşıyan bu prestijli nişanın kökenlerine inmeye hazır mısınız?",
-      "answer_year": 1906,
+      "widget_title": "Stalingrad Savunması Madalyası ne zaman oluşturuldu?",
+      "hook": "Tarihin en kanlı ve en belirleyici savaşlarından birinde gösterilen eşsiz kahramanlığı onurlandıran bu madalya, nasıl bir hikayeye sahip?",
+      "answer_year": 1942,
       "year_precision": "day",
       "guess_range": [
-        1800,
-        1980
+        1840,
+        2020
       ],
-      "body": "Romanya tarihinde derin izler bırakmış olan I. Carol Nişanı, ülkenin ilk kralı I. Carol'ın anısını ve mirasını yaşatmak için tasarlandı. Takvimler 1906'yı gösterdiğinde kurulan bu prestijli nişan, Romanya Krallığı'nın gelişimine ve uluslararası saygınlığına katkıda bulunan seçkin şahsiyetleri onurlandırmayı amaçlıyordu. Prens olarak 1866'da tahta çıkan ve 1881'de Romanya Krallığı'nın ilk kralı olan I. Carol'ın 48 yıllık saltanatı, ülkesinin modernleşmesi, bağımsızlığını kazanması ve önemli toprak kazanımları [DOĞRULA: özellikle Dobruca'nın ilhakı gibi önemli toprak kazanımları hakkında daha fazla detay] ile damgasını vurdu. I. Carol Nişanı da, bu vizyoner liderin adını taşıyarak, ülkesi için gösterilen üstün hizmetlere verilen en yüksek sivil ve askeri ödüllerden biri haline geldi. Sadece Romanyalı vatandaşlara değil, aynı zamanda devlet başkanları, kraliyet ailesi üyeleri ve üst düzey diplomatlar gibi uluslararası kişiliklere de tevcih edilirdi. Nişanın farklı dereceleri bulunmaktaydı; örneğin en yüksek mertebelerden biri olan Büyük Haç [DOĞRULA: Nişanın Büyük Haç gibi belirli dereceleri ve bu derecelerin kaç adet verildiği veya kimlere verildiği hakkında detaylı bilgi]. Her derece, sahibinin başarılarının ve statüsünün bir göstergesiydi. Romanya'da krallık dönemi sona ermiş olsa da, I. Carol Nişanı, ülkenin zengin tarihinin ve kraliyet geleneğinin önemli bir sembolü olarak anılmaya devam ediyor.",
-      "fun_fact": "I. Carol Nişanı, genellikle Romanya Krallığı'nın en prestijli onurlandırma biçimi olarak kabul edilirdi ve sadece en seçkin kişilere verilirdi.",
+      "body": "II. Dünya Savaşı'nın belki de en dönüm noktası ve en acımasız muharebelerinden biri olan Stalingrad Savunması, insanlık tarihine adını altın harflerle yazdıran bir direniş destanıdır. İşte bu destansı direnişi ve bu uğurda verilen inanılmaz mücadeleyi ölümsüzleştirmek amacıyla, Stalingrad Savunması Madalyası 1942 yılında Sovyetler Birliği tarafından ihdas edildi. Madalya, sadece Kızıl Ordu'nun askerlerine değil, aynı zamanda şehrin savunmasına omuz veren, yiyecek taşıyan, siper kazan veya sağlık hizmeti sunan tüm sivil halka da verildi. Aylarca süren çatışmalarda, dondurucu soğuklar ve kıtlık da düşman kadar çetindi. Şehrin her bir sokağı, her bir binası için kanlı mücadeleler yaşandı. Bu madalya, Stalingrad'ı savunanların fedakarlığını, yılmaz ruhunu ve azmini resmen tanımak için yaratıldı. Yaklaşık 760.000 kişiye verildiği tahmin edilen bu nişan, savaştan sonra da o korkunç günleri ve kazanılan zaferi hatırlatan bir gurur simgesi olmaya devam etti.",
+      "fun_fact": "Bu madalya, II. Dünya Savaşı sırasında Sovyetler Birliği tarafından çıkarılan altı farklı 'Şehir Savunması Madalyası'ndan biriydi.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q144853",
-        "https://en.wikipedia.org/wiki/Order_of_Carol_I"
+        "https://www.wikidata.org/wiki/Q241821",
+        "https://tr.wikipedia.org/wiki/Stalingrad_Savunmas%C4%B1_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Medal_%22For_the_Defence_of_Stalingrad%22"
       ],
-      "wikidata_qid": "Q144853"
+      "wikidata_qid": "Q241821"
     },
     {
-      "id": "Q1370611",
-      "date": "2026-11-14",
+      "id": "Q19904106",
+      "date": "2026-11-07",
       "category": "gida-icecek",
-      "widget_title": "Estrella Damm ne zaman bardağımıza kondu?",
-      "hook": "Akdeniz ruhunu şişesinde taşıyan bu biranın hikayesi tahmin ettiğinizden daha eski olabilir mi?",
-      "answer_year": 1876,
-      "year_precision": "year",
-      "guess_range": [
-        1770,
-        1950
-      ],
-      "body": "Sıcak bir Barselona öğleden sonrasında serinletici bir yudum… Aklınıza hemen Estrella Damm geliyorsa, bu biranın köklü tarihine bir göz atalım. Takvimler 1876’yı gösterdiğinde, Alsas’tan Barselona’ya göç eden genç August Kuentzmann Damm ve eşi Melanie, hayallerini de yanlarında getirmişlerdi. Akdeniz’in sıcak iklimine uygun, hafif, ferahlatıcı ve kolay içimli bir lager bira üretmekti amaçları. O dönemde İspanya’da daha çok koyu renkli ve ağır biralar revaçtayken, Damm ailesi bu cesur vizyonla kendi bira fabrikalarını kurmaya karar verdi.\n\nİlk olarak Barselona’nın kalbinde, [DOĞRULA: Sant Antoni bölgesindeki caddelerde miydi?] küçük bir bira fabrikası açtılar. Yıldız anlamına gelen 'Estrella' adını verdikleri bu yeni bira, kısa sürede yerel halkın beğenisini kazandı. Akdeniz’in güneşli günlerine eşlik eden bu özel bira, sadece bir içecek olmaktan öte, bir yaşam tarzının sembolü haline geldi. Damm ailesinin başlattığı bu serüven, zamanla Barselona’nın ve tüm İspanya’nın en tanınmış bira markalarından birine dönüştü.\n\nYüzyılı aşkın süredir, Estrella Damm o ilk günkü ferahlatıcı tadı ve kalitesini koruyarak üretiliyor. Bugün sadece İspanya’da değil, dünyanın dört bir yanında bira severlerin kadehinde yer bulan bu Akdeniz klasiği, köklü geçmişiyle bize sadece bir bira değil, aynı zamanda bir hikaye sunmaya devam ediyor. Her yudumda, o 1876 yılındaki vizyonun ve tutkunun izlerini bulmak mümkün.",
-      "fun_fact": "Estrella Damm'ın ikonik kırmızı yıldız logosu, markanın ismindeki 'Estrella' kelimesinin anlamı olan 'yıldız'dan gelir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1370611",
-        "https://tr.wikipedia.org/wiki/Estrella_Damm",
-        "https://en.wikipedia.org/wiki/Estrella_Damm"
-      ],
-      "wikidata_qid": "Q1370611"
-    },
-    {
-      "id": "Q4781198",
-      "date": "2026-11-15",
-      "category": "gunluk-nesneler",
-      "widget_title": "Apple Bilgisayar Faresi ne zaman tanıtıldı?",
-      "hook": "Bilgisayar dünyasında bir devrim yaratan, o ikonik tek tuşlu farenin Apple macerası ne zaman başladı?",
+      "widget_title": "Espresso Martini ne zaman hayatımıza girdi?",
+      "hook": "Kahve ve kokteylin bu büyüleyici buluşması, nasıl oldu da bir anda barmenlerin ve misafirlerin favorisi haline geldi?",
       "answer_year": 1983,
       "year_precision": "year",
       "guess_range": [
         1880,
         2026
       ],
-      "body": "Fare denince aklımıza gelen ilk markalardan biri Apple olsa da, bilgisayar faresinin kendisi aslında Apple tarafından icat edilmedi. Farenin ilk konsepti ve prototipleri 1960'lı yıllarda Douglas Engelbart liderliğindeki ekip tarafından ortaya konuldu ve daha sonra Xerox PARC'ta geliştirildi. Ancak fareyi geniş kitlelere ulaştıran, sade ve kullanıcı dostu bir arayüz aracı haline getiren şirketlerden biri kesinlikle Apple oldu.\n\nApple'ın kendi fare macerası ise 1983 yılında, şirketin dönemin ileri teknolojili ancak ticari olarak çok başarılı olamayan Lisa bilgisayarı ile başladı. İşte bu tarihte, kullanıcıların ekranla etkileşimini kökten değiştiren o tek tuşlu, sade Apple faresi sahneye çıktı. Lisa ile gelen fare, o dönemdeki diğer farelerin daha karmaşık ve çok tuşlu tasarımlarına kıyasla dikkat çekici bir sadeliğe sahipti. Amacı, herkesin kolayca kullanabileceği bir arayüz sağlamaktı.\n\nKısa bir süre sonra, 1984'te tanıtılan efsanevi Macintosh ile birlikte gelerek adeta simgeleşti. Macintosh'un grafiksel kullanıcı arayüzü (GUI) ile fare, bilgisayar kullanımını çok daha sezgisel ve erişilebilir hale getirdi. Apple'ın bu tek tuşlu tasarımı, yıllarca şirketin felsefesini yansıtan bir imza niteliği taşıdı ve modern farelerin evriminde önemli bir dönüm noktası oldu.",
-      "fun_fact": "Apple'ın ilk faresi, maliyeti düşük tutmak ve üretimini kolaylaştırmak amacıyla tek tuşlu olarak tasarlandı ve bu sadelik aynı zamanda bir tasarım felsefesine dönüştü.",
+      "body": "Espresso Martini, kafein tutkunlarını ve kokteyl severleri aynı anda mest eden o eşsiz buluşma... Bu modern klasiğin hikayesi, barmenlik dünyasının efsanevi isimlerinden Dick Bradsell'in ellerinde şekillendi. Takvimler 1983 yılını gösterirken, Londra'da, Dick'in çalıştığı barda ilginç bir istek kapısını çaldı. İddiaya göre, ünlü bir model, 'Beni önce uyandıracak, sonra da dağıtacak bir içki yap' ricasıyla geldi. İşte o an, Dick Bradsell'in yaratıcılığı devreye girdi ve bu ikonik içecek doğdu.\n\nVodka, kahve likörü, taze demlenmiş espresso ve biraz şeker şurubu... Bu basit ama dahiyane birleşim, kısa sürede barmenlerin repertuvarında vazgeçilmez bir yere sahip oldu. Espresso Martini'nin karakteristik köpüklü tepesi ve üzerine konan üç adet kahve çekirdeği, hem görsel bir şölen sunar hem de içeceğin dengeli tat profilini yansıtır. Başlangıçta [DOĞRULA: \"Vodka Espresso\" adıyla mı biliniyordu?] gibi farklı isimlerle anılsa da, \"Espresso Martini\" ismiyle tüm dünyaya yayıldı ve özellikle 90'larda büyük bir popülerlik kazandı. Günümüzde de menülerin en gözde seçeneklerinden biri olmaya devam ediyor. Soğuk ve canlandırıcı etkisiyle, geceye başlamak ya da yemeğin ardından keyifli bir kapanış yapmak için ideal bir tercih.",
+      "fun_fact": "Espresso Martini'nin geleneksel sunumunda üzerine konan üç adet kahve çekirdeği, genellikle 'sağlık, zenginlik ve mutluluk' anlamlarını taşır.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q4781198",
-        "https://tr.wikipedia.org/wiki/Apple_Bilgisayar_Faresi",
-        "https://en.wikipedia.org/wiki/Apple_pointing_devices"
+        "https://www.wikidata.org/wiki/Q19904106",
+        "https://tr.wikipedia.org/wiki/Espresso_martini",
+        "https://en.wikipedia.org/wiki/Espresso_martini"
       ],
-      "wikidata_qid": "Q4781198"
+      "wikidata_qid": "Q19904106"
     },
     {
-      "id": "Q1465984",
-      "date": "2026-11-16",
+      "id": "Q2588747",
+      "date": "2026-11-08",
       "category": "giyim",
-      "widget_title": "Aziz Yuhanna Tarikatı'nın modern hali ne zaman ortaya çıktı?",
-      "hook": "Bin yıllık bir geçmişi olan bu asil tarikat, modern dünyada nasıl bir dönüşüm yaşadı?",
-      "answer_year": 1888,
-      "year_precision": "year",
-      "guess_range": [
-        1780,
-        1960
-      ],
-      "body": "Aziz Yuhanna Tarikatı denince akla hemen Kudüs'te kurulan, haçlı seferleriyle ünlenen, Malta Şövalyeleri olarak da bilinen kadim bir düzen gelir, değil mi? Gerçekten de bu tarikatın kökenleri 11. yüzyıla kadar uzanıyor ve o dönemde yoksullara, hastalara yardım eden bir hastane cemaati olarak ortaya çıkmış. Ancak elimizdeki 1888 tarihi, bu köklü mirasın modern dünyadaki en önemli yeniden doğuşlarından birine işaret ediyor.\n\nPeki, 1888'de ne oldu? İşte tam da bu tarihte, İngiliz Kraliyet ailesinin himayesinde, asıl adı 'Kudüs'teki Aziz Yuhanna Hastanesi'nin En Saygıdeğer Tarikatı' olan bir kuruluş resmen canlandırıldı. Bu yeni oluşum, kadim Aziz Yuhanna Tarikatı'nın Hristiyan hayırseverlik ve yardımseverlik ruhunu günümüz koşullarına taşıyan modern bir yorumuydu. Kraliçe Victoria tarafından verilen kraliyet imtiyazıyla resmileşen bu düzen, tıbbi yardım, ilk yardım eğitimleri ve toplumsal hizmetler gibi alanlarda faaliyet göstermeye başladı.\n\nBu durum, bazı kişilerde kafa karışıklığına yol açabilir: 'Demek ki Aziz Yuhanna Tarikatı 1888'de kuruldu!' diye düşünebilirsiniz. Hayır, tam olarak öyle değil. Aslında 1888, bu tarikatın uzun ve karmaşık tarihinin bir parçası olan Birleşik Krallık merkezli ve Commonwealth ülkelerinde faaliyet gösteren en bilinen modern versiyonunun resmi kuruluş veya yeniden yapılanma tarihidir. Orijinal ruhu yaşatan birçok farklı Aziz Yuhanna Tarikatı kolu bulunmakla birlikte, günümüzde St. John Ambulans gibi kuruluşlarla tanıdığımız bu önemli yapının temelleri bu tarihte atılmıştır. Bu, kadim bir mirası modern çağın ihtiyaçlarıyla buluşturan anlamlı bir adımdı.",
-      "fun_fact": "Aziz Yuhanna Tarikatı'nın logosunda yer alan sekiz köşeli haç, şövalyelerin sekiz erdemini (sadakat, dürüstlük, cesaret, cömertlik, yardımseverlik, fedakarlık, ihtiyat ve hoşgörü) temsil ettiğine inanılır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1465984",
-        "https://en.wikipedia.org/wiki/Order_of_Saint_John_(chartered_1888)"
-      ],
-      "wikidata_qid": "Q1465984"
-    },
-    {
-      "id": "Q1378288",
-      "date": "2026-11-17",
-      "category": "gida-icecek",
-      "widget_title": "Ücretsiz Bira konsepti hangi yıl ortaya çıktı?",
-      "hook": "Hem bira içmek hem de özgür yazılım felsefesini desteklemek mümkün mü?",
-      "answer_year": 2004,
-      "year_precision": "month",
-      "guess_range": [
-        1900,
-        2026
-      ],
-      "body": "Yıl 2004... Bira dünyasında gerçekten eşsiz bir konseptin, Free Beer'ın (Ücretsiz Bira) ortaya çıktığı yıl. Ancak adı sizi yanıltmasın, bu proje yoldan geçenlere bedava bira dağıtmak üzerine kurulu değildi. Free Beer, aslında 'özgür yazılım' prensiplerinin fiziksel bir ürüne, yani biraya uyarlanması fikriyle ortaya çıktı.\n\nBu projeyi başlatanlar [DOĞRULA: Danimarkalı sanat grubu Superflex ve öğrencileridir.] Onların amacı, fikri mülkiyet hakları ve telif hakkı gibi kavramları sorgulamaktı. Nasıl ki açık kaynak yazılımların kodları herkes tarafından incelenebilir, değiştirilebilir ve geliştirilebilirse, Free Beer projesi de aynı felsefeyi bir bira tarifine uyguladı. Projenin tarifleri, bira yapım detayları ve hatta logosu Creative Commons lisansı altında yayınlandı. Bu, herkesin tarifi kullanabileceği, kendi birasını evde yapabileceği, tarifi değiştirebileceği ve hatta bu birayı ticari olarak satabileceği anlamına geliyordu – tek şartla: elde edilen yeni ürünün de aynı açık lisans altında yayınlanması gerekiyordu.\n\nBöylece Free Beer, biradan çok daha fazlası oldu; fikri mülkiyetin sınırları üzerine düşünmemizi sağlayan, bir nevi sosyal ve sanatsal bir deneydi. Bugün bile tarifi internette rahatça bulunabiliyor ve meraklı bira severler tarafından dünyanın dört bir yanında kendi yorumlarıyla üretiliyor.",
-      "fun_fact": "Free Beer projesinin amacı, fikri mülkiyet haklarını sorgulamak ve açık kaynak felsefesini fiziksel bir ürüne uygulamaktı.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1378288",
-        "https://en.wikipedia.org/wiki/Free_Beer"
-      ],
-      "wikidata_qid": "Q1378288"
-    },
-    {
-      "id": "Q5371511",
-      "date": "2026-11-18",
-      "category": "gunluk-nesneler",
-      "widget_title": "Sanal şarkıcı Gackpoid sahneye ilk ne zaman çıktı?",
-      "hook": "Japon müziğinin sevilen seslerinden Gackpoid'in sahneye çıkış hikayesini merak ediyor musun?",
-      "answer_year": 2008,
+      "widget_title": "Rusya Donanma Liyakat Nişanı ne zaman ihdas edildi?",
+      "hook": "Denizlerin çetin koşullarında gösterilen kahramanlıklar nasıl taçlandırılır? Rusya Donanma Liyakat Nişanı'nın hikayesi seni şaşırtacak!",
+      "answer_year": 2002,
       "year_precision": "day",
       "guess_range": [
         1900,
         2026
       ],
-      "body": "Müzik dünyasında sanal karakterlerin, özellikle de Japonya'da, ne kadar popüler olduğunu bilmeyen yoktur. İşte bu sanal dünyadan bize ulaşan, ikonik bir ses bankası olan Gackpoid, 2008 yılında müzikseverlerle buluştu. Peki, Gackpoid kimdir ve hikayesi nedir?\n\nGackpoid, Yamaha'nın geliştirdiği Vocaloid yazılımı için yaratılmış bir ses bankasıdır. Onu özel kılan ve kısa sürede geniş bir hayran kitlesi edinmesini sağlayan şey ise, Japon rock müzisyeni Gackt'ın sesi kullanılarak hazırlanmış olmasıdır. Yani, Gackpoid'in arkasındaki o güçlü ve karakteristik ses, Gackt'a aittir. Bu işbirliği, hem Vocaloid teknolojisinin sınırlarını zorlamış hem de Gackt hayranlarını sanal dünyaya çekmiştir.\n\nVocaloid, kullanıcıların şarkı sözlerini ve melodilerini girerek sanal bir şarkıcının sesini kullanarak şarkı yapmasını sağlayan bir sentezleme yazılımıdır. Gackpoid, bu yazılımın bir parçası olarak çıktığı günden itibaren kendi karakter tasarımı ve ses rengiyle dikkat çekti. [DOĞRULA: Gackpoid'in geliştirici şirketi ve karakter tasarımcısı hakkında daha fazla bilgi eklenebilir mi?] Özellikle Nico Nico Douga gibi platformlarda hayran yapımı şarkılarla ünü hızla yayıldı. Sanatçı Gackt'ın bu projeye dahil olması, Gackpoid'in piyasaya sürülmesini büyük bir heyecanla karşılamasını sağladı.\n\nGackpoid'in çıkışı, Vocaloid evrenine yeni bir boyut kattı ve sanal şarkıcıların popülaritesini daha da artırdı. 2008'den bu yana, hem profesyonel müzisyenler hem de amatör yapımcılar tarafından birçok eserde kullanıldı, hatta kendi konserlerini bile verdi! Sanal bir sesin bu denli gerçek bir etki yaratabilmesi gerçekten şaşırtıcı, değil mi?",
-      "fun_fact": "Gackpoid'in ikonik mor rengi ve samuray zırhına benzer kıyafeti, Japon kültürüne göndermelerle dolu.",
+      "body": "Mavi derinliklerin cesur bekçileri, denizlerin fatiheleri... Rusya'nın geniş deniz sahalarında gösterilen üstün hizmet ve kahramanlıklar, tarih boyunca farklı şekillerde onurlandırılmıştır. İşte bu onurlardan biri de, modern Rusya'nın deniz kuvvetlerindeki seçkin başarıları taltif etmek amacıyla ortaya çıkan Donanma Liyakat Nişanı'dır.\n\nBu özel nişan, takvimler 2002 yılını gösterirken [DOĞRULA: Rusya Federasyonu Devlet Başkanı'nın kararnamesiyle mi?] resmiyet kazanmıştır. Denizde vatan hizmeti için gösterilen olağanüstü cesaret, kritik görevlerdeki başarı, denizcilik teknolojilerinin geliştirilmesi veya askeri denizcilik eğitimindeki üstün katkılar gibi pek çok farklı alandaki başarılar bu nişanla taltif edilir. Bir asker için uniformasının üzerinde taşıdığı bu nişan, sadece metalden bir parça değil, aynı zamanda ulusuna adanmışlığın, fedakarlığın ve denizcilik geleneğine duyulan saygının somut bir nişanesidir.\n\nKim tarafından tasarlandığına dair kesin bir bilgi olmasa da, bu nişanın Rusya'nın zengin askeri nişan geleneğinin modern bir devamı olduğu söylenebilir. [DOĞRULA: Nişanın tasarımında kullanılan semboller ve renklerin ne anlama geldiği araştırılmalı.] Genellikle göğüste taşınan, detaylı işlenmiş bu madalya, denizcilerin gururla taşıdığı bir onur sembolüdür. Rusya Federasyonu'nun deniz gücünü simgeleyen ve denizcilerine minnettarlığını ifade eden bu nişan, 2002'den bu yana pek çok kahramanın üniformasını süslemiştir.",
+      "fun_fact": "Birçok askeri nişan gibi, Rus Donanma Liyakat Nişanı da kahramanlık ve fedakarlığın görsel bir sembolü olarak gururla taşınır.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q5371511",
-        "https://tr.wikipedia.org/wiki/Gackpoid",
-        "https://en.wikipedia.org/wiki/Gackpoid"
+        "https://www.wikidata.org/wiki/Q2588747",
+        "https://tr.wikipedia.org/wiki/Donanma_Liyakat_Ni%C5%9Fan%C4%B1_(Rusya)",
+        "https://en.wikipedia.org/wiki/Order_of_Naval_Merit_(Russia)"
       ],
-      "wikidata_qid": "Q5371511"
+      "wikidata_qid": "Q2588747"
     },
     {
-      "id": "Q1476173",
-      "date": "2026-11-19",
-      "category": "giyim",
-      "widget_title": "İskoçya Tacı Ne Zaman Görkemli Halini Aldı?",
-      "hook": "Tarihin tozlu sayfalarında gizemini koruyan bu ihtişamlı taç, İskoçya'nın ruhunu simgeliyor.",
-      "answer_year": 1540,
+      "id": "Q2061707",
+      "date": "2026-11-09",
+      "category": "gida-icecek",
+      "widget_title": "Wild Turkey, ismini ne zaman alarak efsane oldu?",
+      "hook": "Kentucky'nin kalbinden gelen bu meşhur bourbon'ın adının hikayesi, tahmin ettiğinizden çok daha ilginç olabilir.",
+      "answer_year": 1940,
       "year_precision": "year",
       "guess_range": [
-        1440,
-        1620
+        1840,
+        2020
       ],
-      "body": "İskoçya Tacı'nın bugünkü göz alıcı formu, tam da tahmin etmeniz gereken yıl olan 1540'ta, o dönemin ünlü kuyumcusu [DOĞRULA: Tacı yapan veya yeniden şekillendiren kuyumcunun adı, muhtemelen John Mosman?] John Mosman tarafından, Kral V. James'in emriyle yeniden tasarlandı ve yapıldı. Evet, doğru duydunuz, bu taç aslında daha eski bir tacın parçaları kullanılarak, İskoçya Krallığı'nın yeni bir dönemini simgelemek üzere adeta yeniden doğdu. Tacın temel yapısı altın olup, üzerinde pırlantalar, inciler ve değerli taşlar yer alıyor.\n\nBu muhteşem eserin hikayesi, sadece parıltılı taşlardan ibaret değil, aynı zamanda İskoçya'nın çalkantılı tarihine bir ayna tutuyor. Yüzyıllar boyunca birçok kral ve kraliçenin taç giyme töreninde başını süsleyen İskoçya Tacı, ülkenin bağımsızlık mücadelesinin de sessiz bir tanığı oldu. Özellikle 17. yüzyılda, Oliver Cromwell dönemindeki iç savaşlarda, İngiliz güçlerinin eline geçmemesi için büyük bir gizlilikle saklandı. Hatta bir dönem bir kilisenin çan kulesine gömülerek korunduğu bile biliniyor. [DOĞRULA: Tacın bir kilisenin çan kulesine gömülme hikayesinin detayları ve zamanı, veya diğer saklanma yerleri.]\n\nBu eşsiz parça, İskoçya'nın en değerli sembollerinden biri olarak kabul ediliyor ve \"İskoçya'nın Onuru\" (Honours of Scotland) adı verilen taç giyme mücevherleri setinin en görkemli parçasıdır. Sadece krallığın gücünü değil, aynı zamanda İskoç halkının azmini, direncini ve bitmek bilmeyen bağımsızlık ruhunu da temsil eder. Bugün hala Edinburgh Kalesi'nde güvenle sergilenen bu taç, ziyaretçilerini geçmişe doğru büyüleyici bir yolculuğa çıkarırken, İskoçya'nın tarihini ve ruhunu gözler önüne seriyor.",
-      "fun_fact": "İskoçya Tacı, Büyük Britanya'nın en eski taç mücevherlerinden biri olarak bilinir ve hala kullanımda olan nadir kraliyet sembollerindendir.",
+      "body": "Vahşi hindi adı verilen bir viski... Kulağa tuhaf geliyor, değil mi? Ama bu ismin ardında yatan hikaye, en az tadı kadar derin ve ilginç. Eğer 1940 yılını tahmin ettiyseniz, çok yaklaştınız, çünkü Wild Turkey markası ismini tam da o yıl aldı!\n\nHikaye, Austin, Nichols & Co. adlı bir dağıtım şirketinin yöneticisi olan Thomas McCarthy Jr. ile başlıyor. McCarthy, 1940 yılında arkadaşlarıyla geleneksel bir vahşi hindi avı gezisine çıktı. Yanında da, o zamanlar henüz bir adı olmayan, kendi özel stoğundan bir fıçı dolusu viski vardı. Av gezisi boyunca bu viskiyi yudumlayan arkadaşları tadına doyamadı.\n\nBir sonraki yıl, aynı arkadaşlar McCarthy'den o eşsiz viskiden getirmesini istediklerinde, akıllarına gelen ilk şey \"o vahşi hindi viskisi\" oldu. İşte bu an, markanın kaderini mühürledi. McCarthy bu hikayeyi duyunca, viskiye \"Wild Turkey\" adını vermenin harika bir fikir olduğunu düşündü. Ve böylece, dünyaca ünlü bir viski markasının adı, dostluk ve bir av gezisinin tesadüfüyle doğmuş oldu.\n\nPek çok kişi Wild Turkey damıtımevinin 1940'ta kurulduğunu sanır; oysa damıtımevinin kökleri çok daha eskilere dayanır. Ancak o ikonik ismi kazandığı, tüm dünyaya yayılan efsanesinin başladığı yıl, evet, 1940'tır. Bir sonraki Wild Turkey kadehinizde, bu hikayeyi anımsayın!",
+      "fun_fact": "Markanın maskotu olan vahşi hindi, viski şişelerinin etiketlerinde gururla yer alır.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1476173",
-        "https://en.wikipedia.org/wiki/Crown_of_Scotland"
+        "https://www.wikidata.org/wiki/Q2061707",
+        "https://tr.wikipedia.org/wiki/Wild_Turkey",
+        "https://en.wikipedia.org/wiki/Wild_Turkey_(bourbon)"
       ],
-      "wikidata_qid": "Q1476173"
+      "wikidata_qid": "Q2061707"
     },
     {
-      "id": "Q137916343",
-      "date": "2026-11-20",
+      "id": "Q41300",
+      "date": "2026-11-10",
+      "category": "giyim",
+      "widget_title": "Tapınak Şövalyeleri'nin destansı macerası hangi yıl başladı?",
+      "hook": "Orta Çağ'ın en güçlü askeri tarikatlarından Tapınak Şövalyeleri'nin destansı hikayesi ne zaman başladı?",
+      "answer_year": 1120,
+      "year_precision": "day",
+      "guess_range": [
+        1020,
+        1200
+      ],
+      "body": "Orta Çağ'ın sisli perdeleri arasında yükselen Tapınak Şövalyeleri, adını Kudüs'teki Süleyman Tapınağı'ndan alan, Hristiyanlığın en etkili askeri tarikatlarından biriydi. Kuruluşları, Haçlı Seferleri dönemine, özellikle de Kutsal Topraklar'a giden hacıları koruma ihtiyacına dayanır. Bu soylu görev için bir araya gelen dokuz Fransız şövalye, [DOĞRULA: Hugo de Payens önderliğinde miydi?] 1120 yılında bu büyük hareketi başlattı.\n\nBaşlangıçta mütevazı bir grup olsalar da, kilise tarafından kısa sürede tanındılar ve desteklendiler. Özellikle Aziz Bernard Clairvaux'nun desteğiyle hızla büyüdüler. Onlara verilen beyaz pelerin üzerindeki kırmızı haç, cesaretlerinin ve fedakarlıklarının sembolü haline geldi. Savaş meydanlarında gösterdikleri üstün başarılar ve disiplinleri sayesinde hem askeri hem de siyasi arenada büyük bir güç kazandılar. Sadece bir savaş gücü olmakla kalmayıp, aynı zamanda o dönemin ilk uluslararası bankacılık sistemlerinden birini de kurdular. Hacılar için para transferi hizmetleri sunarak büyük bir servet edindiler.\n\nAncak bu muazzam güç ve zenginlik, beraberinde kıskançlıkları ve düşmanlıkları da getirdi. Özellikle Fransa Kralı IV. Philip'in [DOĞRULA: Tapınak Şövalyelerine karşı kişisel bir borcu veya başka bir çıkarı var mıydı?] etkisiyle 1312 yılında tarikat Papa tarafından resmen lağvedildi ve liderleri trajik bir şekilde yargılanarak idam edildi. Tapınak Şövalyeleri'nin hikayesi, günümüzde hala komplo teorilerine ve gizemli efsanelere ilham veren, tarihin en büyüleyici sayfalarından birini oluşturuyor.",
+      "fun_fact": "Günümüzde hala popüler kültürde yerini koruyan Tapınak Şövalyeleri, birçok film, kitap ve video oyununa ilham kaynağı olmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41300",
+        "https://tr.wikipedia.org/wiki/Tap%C4%B1nak_%C5%9E%C3%B6valyeleri",
+        "https://en.wikipedia.org/wiki/Knights_Templar"
+      ],
+      "wikidata_qid": "Q41300"
+    },
+    {
+      "id": "Q206978",
+      "date": "2026-11-11",
       "category": "gida-icecek",
-      "widget_title": "Bombay sandviç ne zaman ortaya çıktı?",
-      "hook": "Hint mutfağının sokak lezzetlerinden biri olan Bombay sandviç, damağınızı şenlendiren bir lezzet şöleni!",
-      "answer_year": 1960,
+      "widget_title": "Sprite ne zaman ferahlık dünyasına adım attı?",
+      "hook": "Limona ve misket limonuna batırılmış buz gibi bir ferahlık hissiyle tanıştığımız o meşhur içecek, aslında düşündüğünüzden daha eski olabilir.",
+      "answer_year": 1961,
       "year_precision": "year",
       "guess_range": [
         1860,
         2026
       ],
-      "body": "Bombay sandviç, veya Mumbai tost sandviçi, Hindistan'ın hareketli finans başkenti Mumbai'nin (eski adıyla Bombay) sokaklarında doğmuş ikonik bir sokak yemeğidir. Bu lezzetli atıştırmalık, şehrin hızlı yaşam tarzına ve lezzetli, doyurucu ama uygun fiyatlı yemek arayışına mükemmel bir yanıttır.\n\nSandviçin tam olarak kim tarafından veya ne zaman icat edildiği net olmasa da, 1960'lı yıllarda Mumbai sokak yemekleri sahnesinde popülerleşmeye başladığı düşünülüyor. [DOĞRULA: Bombay sandviçin 1960'larda mı yoksa daha önce mi popülerleştiği]. O zamandan beri, hem yerel halkın hem de turistlerin vazgeçilmez favorisi haline geldi. Sade görünümüne rağmen, Bombay sandviç, her lokmada bir lezzet patlaması sunar. İnce dilimlenmiş haşlanmış patates, domates, soğan, salatalık ve bazen pancar gibi taze sebzeler, tereyağı sürülmüş ve bol yeşil chutney ile tatlandırılmış dilimlenmiş beyaz ekmek arasına özenle yerleştirilir. Üzerine serpiştirilen özel \"chaat masala\" baharat karışımı, bu basit sandviçe o eşsiz, baharatlı ve hafif ekşimsi tadı verir. Genellikle üç katmanlı olarak hazırlanan ve tost makinesinde hafifçe kızartılan bu sandviç, hızlı bir öğle yemeği veya akşam atıştırmalığı olarak mükemmel bir seçenektir. Gerçekten de Mumbai ruhunu yansıtan, pratik ve lezzetli bir yiyecek!",
-      "fun_fact": "Bombay sandviç geleneksel olarak ince dilimlenmiş sebzelerle hazırlanır ve genellikle üç kat ekmek içerir.",
+      "body": "Sprite, pek çoğumuzun sıcak yaz günlerinde veya sadece serinlemek istediğimizde aklına gelen ilk gazlı içeceklerden biri. O keskin limon ve misket limonu aroması, ferahlatıcı köpükleriyle adeta bir klasiğe dönüştü. Peki, bu ikonik içeceğin hikayesi nerede başlıyor?\n\nSprite'ın dünyaya tanıtıldığı yıl 1961. Coca-Cola şirketinin Almanya'daki iştiraki tarafından geliştirilen bu içecek, başlangıçta \"Fanta Klare Zitrone\" (Fanta Berrak Limon) adıyla piyasaya sürüldü. Evet, yanlış duymadınız, kökenlerinde Fanta ile bir bağlantısı var! Amerika Birleşik Devletleri'ne gelişi ise kısa süre sonra, [DOĞRULA: ABD'ye tam olarak hangi yıl geldi?] gerçekleşti ve burada bugünkü adıyla \"Sprite\" olarak tescil edildi.\n\nO dönemde piyasada benzer limon-misket limonu gazlı içecekler bulunsa da, Sprite kısa sürede kendi hayran kitlesini oluşturdu. Özellikle genç nesiller arasında popülerlik kazanmasının ardında, enerjik reklam kampanyaları ve elbette o eşsiz, canlandırıcı tadı yatıyordu. Başlangıçta yeşil cam şişelerde sunulan Sprite, zamanla ambalajında da değişikliklere gitti ancak o karakteristik yeşil rengini ve ferahlık imajını korumayı başardı. [DOĞRULA: Yeşil cam şişelerin ne zaman karton/plastik ambalaja geçtiğini araştır.] Günümüzde dünya genelinde milyarlarca insan tarafından tüketilen Sprite, sadece bir içecek olmaktan öte, bir kültür ikonu haline geldi.",
+      "fun_fact": "Sprite'ın isminin, 1940'larda Coca-Cola'nın reklamlarında kullanılan 'Sprite Boy' adlı yaramaz, gümüş saçlı bir elften geldiği söylenir.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q137916343",
-        "https://en.wikipedia.org/wiki/Bombay_sandwich"
+        "https://www.wikidata.org/wiki/Q206978",
+        "https://tr.wikipedia.org/wiki/Sprite",
+        "https://en.wikipedia.org/wiki/Sprite_(drink)"
       ],
-      "wikidata_qid": "Q137916343"
+      "wikidata_qid": "Q206978"
     },
     {
-      "id": "Q558540",
-      "date": "2026-11-21",
-      "category": "gunluk-nesneler",
-      "widget_title": "Heidelberg Tun: Bu devasa fıçı ne zaman inşa edildi?",
-      "hook": "Heidelberg Tun'u adında bir fıçının var olduğunu biliyor muydunuz?",
-      "answer_year": 1751,
+      "id": "Q41898",
+      "date": "2026-11-12",
+      "category": "giyim",
+      "widget_title": "Beş kelimelik bu Latince bulmaca ne zaman ortaya çıktı?",
+      "hook": "Hem ileri hem geri okunan bu beş kelimelik Latince karenin sırrı ne zaman başladı?",
+      "answer_year": 1,
+      "year_precision": "year",
+      "guess_range": [
+        -100,
+        80
+      ],
+      "body": "Antik dünyanın en büyüleyici bilmecelerinden biri olan Sator Karesi, sadece beş Latince kelimeden oluşmasına rağmen yüzyıllardır araştırmacıların zihnini meşgul ediyor. Bu gizemli kare, \"SATOR, AREPO, TENET, OPERA, ROTAS\" kelimelerini öyle bir düzenle bir araya getirir ki, ister yukarıdan aşağı, ister aşağıdan yukarı, ister soldan sağa, ister sağdan sola okuyun, sonuç hep aynıdır! Bu palindromik yapı, onu kelime oyunlarının en erken ve en sofistike örneklerinden biri yapar.\n\nSator Karesi'nin ortaya çıkışı [DOĞRULA: Sator Karesi'nin kesin ortaya çıkış tarihi ve ilk bilinen örnekleri], tahminlere göre İsa'dan sonraki ilk yüzyıla, yani yaklaşık MS 1 yılı civarına dayanıyor. En eski örneklerinden bazıları, MS 79'da Vezüv Yanardağı patlamasıyla küller altına gömülen Pompeii'nin duvarlarında bulunmuştur. Bu, karenin o dönemde zaten popüler olduğunu gösterir. Kelimelerin anlamlarına gelince: SATOR 'ekin eken', AREPO'nun anlamı tartışmalı ve [DOĞRULA: 'Arepo' kelimesinin tam anlamı veya kökeni net değil], TENET 'tutar', OPERA 'iş, çaba' ve ROTAS ise 'tekerlekler' veya 'döndürür' anlamına gelir.\n\nPeki, bu kare ne amaçla yapılmıştı? Kimi teorisyenler onu erken Hristiyanlığın gizli bir sembolü olarak görürken, kimileri ise büyülü güçleri olduğuna inanır; yangınları söndürmekten nazardan korumaya kadar çeşitli faydaları olduğuna dair inançlar yaygındır. Ancak belki de en basit açıklama, sadece zekice tasarlanmış bir kelime oyunu, antik dünyanın bir tür \"sudoku\"su olduğudur. Her ne olursa olsun, Sator Karesi hala sırrını koruyor ve bize geçmişin ne kadar karmaşık ve yaratıcı olabileceğini fısıldıyor.",
+      "fun_fact": "Bazı dilbilimciler, Sator Karesi'ndeki harflerin farklı bir düzenlemeyle 'Pater Noster' (Latince 'Babamız') duasını oluşturduğunu iddia eder.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41898",
+        "https://tr.wikipedia.org/wiki/Sator_Karesi",
+        "https://en.wikipedia.org/wiki/Sator_Square"
+      ],
+      "wikidata_qid": "Q41898"
+    },
+    {
+      "id": "Q207711",
+      "date": "2026-11-13",
+      "category": "gida-icecek",
+      "widget_title": "Bloody Mary kokteyli ne zaman ortaya çıktı?",
+      "hook": "Sabah kahvaltılarının, brunch'ların ve bazen de 'ertesi gün' sendromunun vazgeçilmezi Bloody Mary'nin hikayesi oldukça ilginç.",
+      "answer_year": 1921,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Bloody Mary kokteyli, brunch masalarının ve ‘ertesi gün’ iyileşme seanslarının vazgeçilmezi olarak bilinse de, aslında oldukça köklü bir geçmişe sahip. Bu ikonik içecek, tahmin ettiğinizden çok daha eski bir tarihte, ta 1921 yılında Fransız barmen Fernand Petiot sayesinde ortaya çıktı.\n\nPetiot, o dönemde Paris’in meşhur Harry’s New York Bar’ında çalışıyordu ve müşterilerin votka ile domates suyunu karıştırma talepleri üzerine bu yeni içeceği geliştirdi. İlk başta oldukça basit bir karışımdı; votka ve domates suyu. Ancak zamanla tuz, karabiber, Worcestershire sosu ve Tabasco gibi eklemelerle bugünkü karmaşık ve zengin tadına kavuştu. Petiot'un bu ilk denemesi, kokteyl dünyasında bir devrim yaratacak, basit ama etkileyici bir başlangıç oldu.\n\nKokteylin isminin nereden geldiği ise biraz muamma. En yaygın rivayetlerden biri, adını dönemin meşhur kabare yıldızı Mary Pickford’dan aldığı yönünde. Bir diğer teori ise, İngiltere Kraliçesi I. Mary’nin lakabı olan “Kanlı Mary”den ilham alındığını öne sürer. Hatta bazıları, Chicago'da [DOĞRULA: Chicago'da bir barda çalışan Mary isimli bir garsonla ilgili rivayet] bir barda çalışan bir garson kızdan esinlenildiğini söyler. Ancak kesin olan şey, Petiot'un yaratıcılığının bu efsanevi içeceği bize kazandırdığıdır. Bugün dünya çapında milyonlarca insan tarafından keyifle tüketilen Bloody Mary, sadece bir kokteyl değil, adeta bir kültür ikonu haline gelmiştir.",
+      "fun_fact": "Bloody Mary'nin adı için İngiltere Kraliçesi I. Mary'den, hatta bir Chicago barında çalışan garson kızdan ilham alındığına dair farklı rivayetler bulunur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q207711",
+        "https://tr.wikipedia.org/wiki/Bloody_Mary_(i%C3%A7ki)",
+        "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)"
+      ],
+      "wikidata_qid": "Q207711"
+    },
+    {
+      "id": "Q4375583",
+      "date": "2026-11-14",
+      "category": "giyim",
+      "widget_title": "SSCB Kan Bağışçıları Madalyası ne zaman verildi?",
+      "hook": "Kan vermek hayat kurtarır, peki bu fedakarlığın onurlandırıldığı özel bir madalyanın hikayesini biliyor musunuz?",
+      "answer_year": 1944,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "İnsanlık tarihi boyunca kan bağışı, çoğu zaman görünmez kahramanların sessiz fedakarlığı olmuştur. Ancak bazı dönemlerde, bu yaşam kurtarıcı eylemin önemi öylesine artar ki, devletler bağışçılarını özel nişanlarla onurlandırma ihtiyacı hisseder. SSCB Kan Bağışçıları Madalyası da tam olarak böyle bir dönemin ürünüdür. Bu özel madalya, 1944 yılında, yani İkinci Dünya Savaşı'nın en çetin günlerinde, cephede yaralanan askerlerin ve sivil halkın hayatlarını kurtarmak için kan bağışlayan Sovyet vatandaşlarını onurlandırmak amacıyla [DOĞRULA: resmen yürürlüğe kondu/tesis edildi ifadesini kullanmalı mıyım?] yürürlüğe kondu. Savaş zamanı koşullarında, kan bankalarının ve tıbbi kaynakların kısıtlı olduğu bir dönemde, gönüllü kan bağışçıları hayati bir rol oynuyordu. Madalya, bu fedakarlığın tanınması ve takdir edilmesi için bir semboldü. Hem düzenli kan bağışçılarını teşvik ediyor hem de o zorlu yıllarda toplumsal dayanışmayı pekiştiriyordu. Madalyanın tam olarak kim tarafından tasarlandığı veya ilk olarak kimlere verildiği bilgisi [DOĞRULA: yaygın olarak biliniyor mu/kayıtlara geçmiş mi?] net olmasa da, onun temsil ettiği değer tartışılmazdı: savaşın yaralarını sarmak için gösterilen insanüstü çaba ve dayanışma ruhu. Bu madalya, basit bir metal parçasından çok daha fazlasıydı; kurtarılan her hayatın ve gösterilen her cesur adımın bir nişanıydı.",
+      "fun_fact": "Bugün birçok ülkede kan bağışçıları farklı seviyelerde ödüllendirilirken, SSCB'deki bu madalya, tarihin belirli bir dönemindeki kolektif fedakarlığın nadir bir sembolüdür.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4375583",
+        "https://tr.wikipedia.org/wiki/SSCB_Kan_Ba%C4%9F%C4%B1%C5%9F%C3%A7%C4%B1lar%C4%B1_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Honoured_Blood_Donor_of_the_USSR"
+      ],
+      "wikidata_qid": "Q4375583"
+    },
+    {
+      "id": "Q209974",
+      "date": "2026-11-15",
+      "category": "gida-icecek",
+      "widget_title": "Beşamel sos mutfaklara ne zaman girdi?",
+      "hook": "Mutfakların bu kadife dokulu klasiğinin aslında düşündüğünüzden çok daha eski bir hikayesi olabilir mi?",
+      "answer_year": 1396,
+      "year_precision": "year",
+      "guess_range": [
+        1290,
+        1470
+      ],
+      "body": "Mutfakların vazgeçilmezi beşamel sos dendiğinde, aklınıza hemen Fransız mutfağı ve hatta [DOĞRULA: Louis de Béchameil'in adıyla ilişkilendirilen 17. yüzyıl hikayesi] gelebilir. Oysa bu kremsi sosun kökenleri, tahminlerinizden çok daha eskiye, taa 1396 yılına dayanıyor! Evet, yanlış duymadınız. O dönemde yazılmış bir yemek kitabında, bugünkü beşamel sosa benzeyen, tereyağı, un ve sütten yapılan bir sosun tarifi bulunuyor. Elbette o zamanki hali, günümüzdeki pürüzsüz ve kadifemsi dokusundan biraz farklı, belki daha yoğun veya basit bir 'beyaz sos' formundaydı. Ama temel bileşenler ve mantık aynıydı. Louis de Béchameil ise sosu icat etmekten ziyade, [DOĞRULA: Kral XIV. Louis'nin baş aşçısı olarak, belki de var olan bir tarifi geliştirerek veya popülerleştirerek] adını sosla ilişkilendirmiştir. Zamanla tarifler evrildi, rafine edildi ve günümüzdeki mükemmel beşamel sos halini aldı. Lazanya, musakka, graten gibi sayısız yemeğe lezzet katan bu sos, gerçekten de mutfak dünyasının zamana meydan okuyan klasiklerinden biri.",
+      "fun_fact": "Beşamel sosun, Fransız mutfağına girmeden önce İtalya'da 'salsa colla' adıyla bilinen benzer bir beyaz sostan türediği düşünülüyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q209974",
+        "https://tr.wikipedia.org/wiki/Be%C5%9Famel_sos",
+        "https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce"
+      ],
+      "wikidata_qid": "Q209974"
+    },
+    {
+      "id": "Q45793841",
+      "date": "2026-11-16",
+      "category": "giyim",
+      "widget_title": "III. Napolyon'un görkemli tacı ne zaman tahtına kavuştu?",
+      "hook": "Fransız İmparatoru III. Napolyon'un başını süsleyen bu göz kamaştırıcı taç, bir dönemin ihtişamını yansıtıyor.",
+      "answer_year": 1855,
+      "year_precision": "year",
+      "guess_range": [
+        1750,
+        1930
+      ],
+      "body": "1855 yılı, Fransa'da İkinci İmparatorluk'un ihtişamının doruklarda yaşandığı bir dönemdi ve tam da bu tarihte, İmparator III. Napolyon için görkemli bir taç yaratıldı. Bu taç, sadece paha biçilmez mücevherlerle süslü bir başlık değil, aynı zamanda III. Napolyon'un imparatorluk gücünün ve otoritesinin en belirgin simgelerindendi. Amcası I. Napolyon'un mirası üzerine kurduğu bu yeni imparatorluğun meşruiyetini pekiştirmek için imparatorluk nişaneleri büyük önem taşıyordu.\n\nTacın tam olarak kim tarafından yapıldığı bilgisi bize ulaşmasa da, dönemin en usta mücevher sanatçılarının elinden çıktığına şüphe yok. [DOĞRULA: Tacın yapımında kullanılan ana malzemeler ve barındırdığı en dikkat çekici mücevherler nelerdi?] Bu eser, dönemin sanatsal anlayışını ve zanaatkarlığının zirvesini yansıtıyordu. III. Napolyon'un tacı, onun imparatorluk seremonilerinde ve önemli devlet törenlerinde kullandığı, gücü ve ihtişamı temsil eden merkezi bir unsurdu. Ne yazık ki, İkinci İmparatorluk'un ömrü uzun sürmedi ve 1870'lerde çöküşüyle birlikte, bu taç gibi birçok imparatorluk nişanesinin akıbeti de belirsizleşti. [DOĞRULA: Tacın bugünkü durumu veya nerede sergilendiği bilgisi.] Geçmişin bu görkemli sembolü, dönemin siyasi ve sanatsal atmosferini anlamamız için değerli bir anahtar olmaya devam ediyor.",
+      "fun_fact": "İmparatorluk döneminin sona ermesiyle birlikte, birçok kraliyet mücevheri gibi III. Napolyon'un tacının da kaderi, politik rüzgarlara göre şekillendi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q45793841",
+        "https://tr.wikipedia.org/wiki/III._Napolyon%27un_tac%C4%B1",
+        "https://en.wikipedia.org/wiki/Crown_of_Napoleon_III"
+      ],
+      "wikidata_qid": "Q45793841"
+    },
+    {
+      "id": "Q213338",
+      "date": "2026-11-17",
+      "category": "gida-icecek",
+      "widget_title": "Merlot üzümü ne zaman ismini duyurmaya başladı?",
+      "hook": "Dünyanın en sevilen şaraplık üzümlerinden Merlot'nun hikayesinin ne zamana dayandığını biliyor musun?",
+      "answer_year": 1750,
       "year_precision": "year",
       "guess_range": [
         1700,
         1830
       ],
-      "body": "Almanya'nın Heidelberg Kalesi'nin mahzenlerinde, görenleri hayran bırakan devasa bir şarap fıçısı durur: Heidelberg Tun'u. Bu etkileyici yapı, sadece bir fıçıdan çok daha fazlası; aynı zamanda geçmişin mühendislik yeteneğinin ve eğlence anlayışının bir sembolü. Tam 1751 yılında tamamlanan bu görkemli fıçı, dönemin şarap depolama ihtiyaçlarına cevap vermek üzere tasarlandı. İçine [DOĞRULA: yaklaşık 220.000 litre] şarap alabilen bu dev, bir zamanlar sarayın şarap tedarikinin önemli bir parçasıydı.\n\nBöylesine büyük bir yapıyı kimin hayata geçirdiği tam olarak bilinmese de, yapımında yüzlerce ustanın çalıştığı düşünülüyor. Heidelberg Tun'u, kalenin tarihinde inşa edilen dört farklı büyük fıçıdan oluşan bir serinin sonuncusu ve en büyüğüdür. İlk büyük fıçı 1591'de inşa edilmiş, ancak daha sonra savaşlar sırasında tahrip olmuştu. Günümüzdeki Tun, önceki fıçıların yıkılmasıyla oluşan boşluğu doldurmak için yapıldı. Amacı sadece şarap depolamak değildi; aynı zamanda kalenin festivallerinde ve kutlamalarında bir sembol olarak da kullanılıyordu. Hatta üzerinde bir dans pisti olduğu [DOĞRULA: platformda dans edildiği bilgisi] bile söylenir! Günümüzde artık şarapla dolu olmasa da, Heidelberg Tun'u kalenin en popüler turistik cazibe merkezlerinden biri olmaya devam ediyor. Ziyaretçiler bu devasa yapıyı görmek ve onunla birlikte tarihin derinliklerine inmek için dünyanın dört bir yanından geliyor.",
-      "fun_fact": "Bu devasa fıçının üzerinde, bir zamanlar ziyaretçilerin dans ettiği bir platform olduğu söylenir!",
+      "body": "Merlot, üzüm bağlarının asil prenslerinden biri ve şarap dünyasının vazgeçilmez lezzetlerinden. Peki, bu zarif üzüm ne zaman sahneye çıktı? Verilere göre, Merlot'nun adı kayıtlarda ilk kez 1750 yılında karşımıza çıkıyor. Ancak bu tarih, üzümün kendisinin icat edildiği ya da ortaya çıktığı anlamına gelmiyor, daha ziyade bu adla resmen anılmaya başlandığı bir dönemi işaret ediyor. Muhtemelen daha öncesinde de vardı ama farklı isimlerle biliniyor veya henüz resmi bir kimliğe bürünmemişti. \n\nMerlot'nun anavatanı, dünyanın en prestijli şarap bölgelerinden biri olan Bordeaux, Fransa olarak kabul edilir. Adının kökeni de oldukça sevimli bir tahmine dayanıyor: 'küçük karatavuk' anlamına gelen 'merle' kelimesinden geldiği düşünülüyor, çünkü bu üzümlerin koyu, morumsu rengi karatavukların tüylerini andırıyor ve kuşlar bu tatlı üzümleri çok seviyor. [DOĞRULA: Merlot adının karatavuk ile bağlantısının kesinliği]\n\nBugün Merlot, Cabernet Sauvignon'dan sonra dünya genelinde en çok ekilen ikinci şaraplık üzüm çeşididir. Yumuşak tanenleri ve dolgun yapısıyla hem tek başına harika şaraplar verir hem de farklı üzümlerle harmanlandığında şaraplara derinlik ve yumuşaklık katar. Kırmızı meyve aromalarıyla damakları şenlendiren Merlot, gerçekten de köklü bir geçmişe sahip.",
+      "fun_fact": "Merlot üzümleri, adını Fransızcada 'küçük karatavuk' anlamına gelen 'merle' kelimesinden almış olabilir, çünkü rengi karatavukların tüylerine benzer ve kuşlar bu üzümleri çok sever!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q558540",
-        "https://en.wikipedia.org/wiki/Heidelberg_Tun"
+        "https://www.wikidata.org/wiki/Q213338",
+        "https://tr.wikipedia.org/wiki/Merlot",
+        "https://en.wikipedia.org/wiki/Merlot"
       ],
-      "wikidata_qid": "Q558540"
+      "wikidata_qid": "Q213338"
     },
     {
-      "id": "Q147883",
+      "id": "Q465774",
+      "date": "2026-11-18",
+      "category": "giyim",
+      "widget_title": "Altın Post Nişanı ne zaman kuruldu?",
+      "hook": "Avrupa'nın en eski ve prestijli şövalyelik nişanlarından Altın Post Nişanı'nın sırrı neydi?",
+      "answer_year": 1430,
+      "year_precision": "year",
+      "guess_range": [
+        1330,
+        1510
+      ],
+      "body": "Avrupa'nın en eski ve prestijli şövalyelik nişanlarından biri olan Altın Post Nişanı, 1430 yılında kuruldu. Kurucusu, Burgonya Dükü Philippe le Bon (İyi Philippe) idi. Dük Philippe, bu nişanı, Portekizli Isabella ile olan evliliğini kutlamak ve Burgonya Dükalığı'nın ihtişamını pekiştirmek amacıyla [DOĞRULA: amacı bu muydu, evlilikle doğrudan bağlantısı neydi?] tesis etti.\n\nNişanın ismi, Antik Yunan mitolojisindeki Argonotlar'ın Altın Post'u arayışına bir göndermedir. Bu sembol, saflığı, kahramanlığı ve Hristiyanlık inancına bağlılığı temsil ediyordu. Nişan, üyelerini yalnızca yüksek ahlaki değerlere sahip, cesur ve sadık soylulardan seçerek Avrupa'nın en özel kulüplerinden biri haline geldi. Amacı, üyeleri arasında dostluğu ve kardeşliği teşvik etmek, şövalyelik erdemlerini yüceltmek ve Katolik inancını korumaktı.\n\nKurulduğu günden itibaren büyük bir saygınlık kazanan Altın Post Nişanı, yüzyıllar boyunca Avrupa'nın en güçlü hükümdarlarının ve soylularının arzuladığı bir onur payesi oldu. Nişanın zincirleri ve madalyaları, genellikle altın ve değerli taşlarla süslü, büyüleyici sanat eserleriydi. Bu nişan, siyasi ittifakların pekiştirilmesinde ve hanedanların prestijinin artırılmasında önemli bir rol oynamıştır. Halen iki farklı kola ayrılmış olsa da (İspanyol ve Avusturya kolları), Altın Post Nişanı, tarihteki yerini ve etkisini korumaya devam ediyor.",
+      "fun_fact": "Nişan, tarih boyunca iki ana kola ayrılarak varlığını sürdürmüştür: İspanyol ve Avusturya kolları.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q465774",
+        "https://tr.wikipedia.org/wiki/Alt%C4%B1n_Post_%C5%9E%C3%B6valyeleri_Tarikat%C4%B1",
+        "https://en.wikipedia.org/wiki/Order_of_the_Golden_Fleece"
+      ],
+      "wikidata_qid": "Q465774"
+    },
+    {
+      "id": "Q2168523",
+      "date": "2026-11-19",
+      "category": "gida-icecek",
+      "widget_title": "The Famous Grouse viskisinin hikayesi ne zaman başladı?",
+      "hook": "İskoçya'nın en meşhur viskilerinden biri olan The Famous Grouse'un kökenleri sandığınızdan daha eskiye dayanıyor olabilir!",
+      "answer_year": 1896,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Bugün dünyanın dört bir yanında kadeh kaldırılan İskoç viskisi The Famous Grouse, köklerini 1896 yılına dayıyor. Perth merkezli bir aile şirketi olan Matthew Gloag & Son tarafından yaratılan bu harman viski, başlangıçta 'Gloag's Best Perth Whisky' adıyla piyasaya sürülmüştü. Ancak Matthew Gloag'ın torunu Matthew Gloag III'ün vizyonuyla, İskoçya'nın sembol kuşlarından biri olan kızıl kekliğe (red grouse) atıfla, 1896'da ismi 'The Grouse Brand' olarak değiştirildi. [DOĞRULA: Matthew Gloag III'ün adı doğru mu?] Kısa sürede o kadar popüler oldu ki, 1905 yılında önüne 'Famous' (Meşhur) kelimesi eklenerek bugünkü ikonik adı olan The Famous Grouse'u aldı. Bu isim değişikliği, viskinin kalitesine ve hızla artan şöhretine bir göndermeydi. Yıllar içinde, Highland Park ve The Macallan gibi saygın malt viskilerini harmanında kullanarak kendine özgü yumuşak ve dengeli bir lezzet profili oluşturdu. İskoçya'nın en çok satan viskilerinden biri haline gelmesi ve global çapta tanınması, onun hikayesini sadece bir içki olmaktan çıkarıp, bir başarı öyküsüne dönüştürdü. Soğuk İskoçya gecelerinde veya dost meclislerinde, The Famous Grouse, geçmişten gelen bir mirasın günümüzdeki yansıması olarak kadehlerdeki yerini koruyor.",
+      "fun_fact": "Şişenin üzerindeki kızıl keklik figürü, sadece bir logo değil, aynı zamanda İskoçya'nın vahşi doğasının ve zengin mirasının da bir simgesidir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2168523",
+        "https://tr.wikipedia.org/wiki/The_Famous_Grouse",
+        "https://en.wikipedia.org/wiki/The_Famous_Grouse"
+      ],
+      "wikidata_qid": "Q2168523"
+    },
+    {
+      "id": "Q478850",
+      "date": "2026-11-20",
+      "category": "giyim",
+      "widget_title": "Kızıl Bayrak İşçi Nişanı ne zaman kuruldu?",
+      "hook": "Sovyetler Birliği'nde emeğin onurlandırıldığı özel bir nişanı keşfetmeye ne dersiniz?",
+      "answer_year": 1928,
+      "year_precision": "day",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Sovyetler Birliği'nin işçi sınıfına verdiği değeri gösteren önemli sembollerden biri olan Kızıl Bayrak İşçi Nişanı, 1928 yılında kuruldu. Bu nişan, askeri başarılar yerine sivil alandaki olağanüstü katkıları ödüllendirmek amacıyla tasarlanmıştı. Tarım, sanayi, bilim, kültür, eğitim ve sağlık gibi pek çok farklı sektörde gösterilen üstün başarılar, bu prestijli ödülle taçlandırılıyordu.\n\nKızıl Bayrak İşçi Nişanı, aynı zamanda Sovyet propagandasında da önemli bir rol oynuyordu. Çalışmanın ve fedakarlığın yüceltildiği bu dönemde, nişan sahipleri topluma örnek gösterilen kahramanlar olarak kabul edilirdi. Nişan sadece bireylere değil, aynı zamanda kurum ve kuruluşlara da [DOĞRULA: şehirler de dahil miydi?] verildi. Bu da nişanın toplumsal önemi ve kolektif çalışmaya verilen değerin bir göstergesiydi.\n\nNişanın tasarımı, Sovyet ideolojisinin temel öğelerini yansıtıyordu: çekiç ve orak, kızıl bayrak ve yıldız. Bu semboller, işçi ve köylü birliğinin ve komünist ideallerin temsilcisiydi. Yıllar içinde nişanın görünümünde küçük değişiklikler yapılsa da, ana hatları korunmuştur.\n\n1991 yılında Sovyetler Birliği'nin dağılmasıyla birlikte, Kızıl Bayrak İşçi Nişanı da tarihteki yerini aldı. Ancak bir dönemin emek ve başarıya verdiği önemin kalıcı bir anıtı olarak hatırlanmaya devam ediyor.",
+      "fun_fact": "Bu nişan, askeri başarıları ödüllendiren Kızıl Bayrak Nişanı'nın sivil hayattaki karşılığı olarak tasarlanmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q478850",
+        "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_Bayrak_%C4%B0%C5%9F%C3%A7i_Ni%C5%9Fan%C4%B1",
+        "https://en.wikipedia.org/wiki/Order_of_the_Red_Banner_of_Labour"
+      ],
+      "wikidata_qid": "Q478850"
+    },
+    {
+      "id": "Q219141",
+      "date": "2026-11-21",
+      "category": "gida-icecek",
+      "widget_title": "Zombie kokteyli ilk ne zaman ortalığı karıştırdı?",
+      "hook": "İçenleri adeta zombiye çeviren bu efsanevi kokteylin kökenleri, tahmin ettiğinizden çok daha renkli!",
+      "answer_year": 1934,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Zombie kokteylinin hikayesi, aslında Hollywood'un parıltılı dünyasında ve tiki kültürünün doğuşunda saklı. Takvimler 1934 yılını gösterirken, Donn Beach (gerçek adı Ernest Raymond Beaumont Gantt) adında vizyoner bir barmen, Hollywood'daki \"Don the Beachcomber\" restoranında bu gizemli içeceği yarattı. İddiaya göre, yorgun düşmüş bir arkadaşının isteği üzerine, onu canlandıracak ama aynı zamanda ertesi güne kadar 'zombi' gibi hissettirecek bir karışım hazırladı. Ve işte efsanevi Zombie böyle doğdu! Bu kokteylin ünü, sadece güçlü alkol içeriğinden değil, aynı zamanda o dönemde oldukça egzotik kabul edilen tropikal meyve suları ve çeşitli romların ustaca harmanlanmasından geliyordu. Donn Beach, tariflerini büyük bir sır gibi saklardı ve hatta barındaki barmenlerin bile tüm tarifi bilmelerine izin vermezdi. [DOĞRULA: Donn Beach'in tarifi parça parça verdiğini veya sadece kendisinin tamamını bildiğini doğrulayabiliriz.] Bu sır perdesi, Zombie'nin etrafındaki efsaneyi daha da güçlendirdi. Kokteylin orijinal hali, birden fazla rom çeşidinin yanı sıra, çeşitli baharatlar ve meyve sularını içeriyordu; bu da ona eşsiz, karmaşık bir tat katıyordu. Ancak unutmayın, Zombie sadece lezzetli değil, aynı zamanda oldukça güçlüdür! Bu yüzden adını sonuna kadar hak ediyor.",
+      "fun_fact": "Donn Beach, Zombie'nin orijinal tarifini o kadar gizli tuttu ki, menülerinde bile içeriğini sadece 'çok güçlü' olarak belirtirdi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q219141",
+        "https://tr.wikipedia.org/wiki/Zombie_(kokteyl)",
+        "https://en.wikipedia.org/wiki/Zombie_(cocktail)"
+      ],
+      "wikidata_qid": "Q219141"
+    },
+    {
+      "id": "Q48189",
       "date": "2026-11-22",
       "category": "giyim",
-      "widget_title": "Büyük Katerina'nın İmparatorluk Tacı ne zaman yapıldı?",
-      "hook": "Peki ya Çariçe Büyük Katerina'nın taç giyme töreni için özel olarak hazırlanan bu muhteşem eserin hikayesini biliyor musunuz?",
-      "answer_year": 1762,
+      "widget_title": "Kudüs'te doğan Töton Şövalyeleri ne zaman sahneye çıktı?",
+      "hook": "Kutsal Topraklar'da bir araya gelen bu şövalyeler, hem savaşçı hem de yardımseverdi; peki hikayeleri ne zaman başladı?",
+      "answer_year": 1190,
+      "year_precision": "year",
+      "guess_range": [
+        1090,
+        1270
+      ],
+      "body": "Tarih, bazen en beklenmedik yerlerde kahramanlık ve bağlılık hikayeleri yazar. Töton Şövalyeleri'nin hikayesi de Kudüs'ün o çalkantılı dönemlerinde başladı. Üçüncü Haçlı Seferi'nin yoğunlaştığı, Kudüs Krallığı'nın Akka Kuşatması'nda can çekiştiği yıllardı. Alman hacılar ve tüccarlar, yaralılara bakmak için çadır hastaneler kurdular. İşte bu mütevazı başlangıç, 1190 yılında, daha sonra büyük bir güç haline gelecek olan Töton Şövalyeleri Tarikatı'nın çekirdeğini oluşturdu.\n\nBaşlangıçta bir hastane tarikatı olarak kurulan Töton Şövalyeleri, kısa sürede askeri bir kimlik kazandı. Papalık onayıyla birlikte [DOĞRULA: Tarikatın kuruluşu veya resmi tanınması için hangi papa onay verdi?], hem yaralılara bakmaya devam ettiler hem de Kutsal Topraklar'ı savunmak için kılıç kuşandılar. Kendilerine özgü beyaz pelerinleri üzerindeki siyah haçlarıyla tanınıyorlardı. Kutsal Topraklar'daki misyonları sona erdiğinde, Töton Şövalyeleri'nin gözü başka topraklara, Baltık Denizi kıyılarına çevrildi. Prusya'ya çağrıldılar ve burada pagan topraklarını Hristiyanlaştırma misyonunu üstlendiler. Bu süreçte güçlü kaleler inşa ettiler ve [DOĞRULA: Prusya'daki genişlemeleri ve askeri faaliyetleri hangi yüzyıllarda yoğunlaştı?] bölgenin siyasi haritasını derinden etkilediler.\n\nGünümüzde hala varlığını sürdüren bu köklü tarikat, yüzyıllar boyunca Avrupa tarihinde önemli bir rol oynamıştır. Sadece savaşçı değil, aynı zamanda idareci, inşaatçı ve kültür taşıyıcısı olarak da izler bırakmışlardır.",
+      "fun_fact": "Töton Şövalyeleri, günümüzde hala hayır işleriyle uğraşan bir dinî tarikat olarak varlığını sürdürüyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48189",
+        "https://tr.wikipedia.org/wiki/T%C3%B6ton_%C5%9E%C3%B6valyeleri",
+        "https://en.wikipedia.org/wiki/Teutonic_Order"
+      ],
+      "wikidata_qid": "Q48189"
+    },
+    {
+      "id": "Q222787",
+      "date": "2026-11-23",
+      "category": "gida-icecek",
+      "widget_title": "Amerika'nın ikonik burbonu Jim Beam ne zaman ortaya çıktı?",
+      "hook": "Amerika'nın en köklü viski markalarından Jim Beam'in hikayesinin ne zaman başladığını biliyor musunuz?",
+      "answer_year": 1795,
       "year_precision": "year",
       "guess_range": [
         1700,
-        1840
+        1870
       ],
-      "body": "Rus İmparatorluk Tacı, 1762 yılında, tahtın yeni sahibi Çariçe II. Katerina'nın (nam-ı diğer Büyük Katerina) taç giyme töreni için özel olarak tasarlandı ve yapıldı. Bu görkemli eser, Rus İmparatorluğu'nun yeni ve güçlü yüzünü tüm dünyaya göstermek amacıyla sadece birkaç ay gibi kısa bir sürede tamamlandı. Tacın her bir detayı, dönemin zenginliğini ve sanatsal ustalığını yansıtıyordu. Üzerinde yaklaşık 5000'e yakın pırıltılı elmas ve 75 adet değerli inci bulunuyordu. Tüm bu ışıltının tepesinde ise 398 karatlık, dünyanın en büyük işlenmemiş spinellerinden biri olan devasa kırmızı spinel taşı duruyordu. Tacın kimler tarafından yapıldığına dair net bilgiler günümüze tam olarak ulaşmamış olsa da, dönemin en yetenekli mücevher ustalarının, Katerina'nın vizyonu doğrultusunda bir araya gelerek bu eşsiz parçayı yarattığına şüphe yok. İmparatorluk Tacı, Katerina'dan sonraki tüm Rus imparatorlarının taç giyme törenlerinde kullanıldı ve Romanov Hanedanı'nın ihtişamlı sonuna kadar Rus gücünün ve hanedanının en bilinen sembollerinden biri oldu. Günümüzde Moskova Kremlin Silahhanesi'nde ziyaretçilerini büyülemeye devam eden bu taç, sadece bir mücevher değil, aynı zamanda Rus tarihinin canlı bir tanığıdır.",
-      "fun_fact": "Tacın tepesindeki 398 karatlık devasa kırmızı spinel, aslında Tibet'ten Rusya'ya gelmiş ve taçtan yıllar önce sarayın hazinesine eklenmişti!",
+      "body": "Jim Beam'in köklü hikayesi, 1795 yılında, taze bir başlangıç yapmak isteyen genç bir çiftçi olan Jacob Beam ile başlıyor. O yıllarda Kentucky'nin verimli topraklarına yerleşen Jacob, mısır fazlasını değerlendirmenin bir yolunu ararken, buğday bazlı viskilerin aksine mısır ağırlıklı bir tarif geliştirdi. Ortaya çıkan bu viski, damıtma süreci ve olgunlaştırma yöntemleriyle benzersiz bir karakter taşıyordu. İlk başta 'Old Jake Beam Sour Mash' olarak bilinen bu ürün, kısa sürede bölgede popülerlik kazandı. Jacob Beam, viskisini fıçılarda yaşlandırarak daha yumuşak ve zengin bir tat elde etti ve bu, burbon viskisinin temelini oluşturdu. [DOĞRULA: İlk damıtımevinin tam konumu veya ilk satış noktaları hakkında bilgi.] Yıllar içinde Jim Beam, aileden gelen bir miras olarak varlığını sürdürdü. Her yeni nesil, Jacob'ın orijinal tarifine sadık kalarak ancak aynı zamanda üretim tekniklerini geliştirerek markayı ileri taşıdı. Yedi kuşaktır Beam ailesinin üyeleri tarafından yönetilen bu viski imparatorluğu, sadece bir içecek üretmekle kalmadı, aynı zamanda Amerikan viski tarihinin önemli bir parçasını oluşturdu. Jim Beam, sadece bir içki değil, aynı zamanda bir aile geleneği, çalışkanlık ve kalıcılık hikayesidir. Bugün de ilk günkü özen ve tutkuyla üretilen Jim Beam, dünya çapında bilinen ve sevilen bir burbon markası olmaya devam ediyor.",
+      "fun_fact": "Jim Beam markası, adını 1930'larda şirketi yeniden inşa eden James B. Beam'den almıştır.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q147883",
-        "https://en.wikipedia.org/wiki/Imperial_crown_of_Russia"
+        "https://www.wikidata.org/wiki/Q222787",
+        "https://tr.wikipedia.org/wiki/Jim_Beam",
+        "https://en.wikipedia.org/wiki/Jim_Beam"
       ],
-      "wikidata_qid": "Q147883"
+      "wikidata_qid": "Q222787"
     },
     {
-      "id": "Q1398251",
-      "date": "2026-11-23",
+      "id": "Q506369",
+      "date": "2026-11-24",
+      "category": "giyim",
+      "widget_title": "Banyo Nişanı ne zaman kuruldu?",
+      "hook": "Adıyla şaşırtan bu özel nişan, İngiliz tarihinde köklü bir geçmişe sahip!",
+      "answer_year": 1725,
+      "year_precision": "day",
+      "guess_range": [
+        1700,
+        1800
+      ],
+      "body": "\"Banyo Nişanı\" adını ilk duyduğunuzda aklınıza ne geliyor? Çoğu kişi için bu isim, bir şövalyelik nişanından çok, kişisel bakım ürünlerini veya bir kaplıca deneyimini çağrıştırabilir. Ancak bu yanıltıcı isim, aslında Birleşik Krallık'ın en eski ve en saygın şövalyelik nişanlarından birini gizler! Kökenleri Orta Çağ'a dayanan, şövalye adaylarının arınma amacıyla banyo yaptığı eski ritüellere bir gönderme yapsa da, \"En Şerefli Banyo Nişanı\" olarak bildiğimiz hali, resmen 1725 yılında Kral I. George tarafından ihdas edildi.\n\nBu tarihte artık o eski banyo ritüelleri büyük ölçüde terk edilmişti, yani nişanın adı daha çok tarihi bir geleneğe saygı niteliğindeydi. Nişan, özellikle İngiliz tacına askeri veya sivil alanda üstün hizmetlerde bulunan kişileri ödüllendirmek amacıyla kuruldu. Banyo Nişanı, zaman içinde askeri ve sivil bölümler olmak üzere iki ana kategoriye ayrıldı ve her iki bölümde de farklı derecelere sahip üyeleri bulunur. Bu prestijli unvan, günümüzde de İngiliz Kraliyet Ailesi üyeleri ve kamu hizmetinde öne çıkan önemli şahsiyetlere verilmeye devam ediyor. [DOĞRULA: Nişanın dereceleri ve modern uygulamaları hakkında ek detaylar.]",
+      "fun_fact": "Banyo Nişanı üyeleri, unvanlarına göre \"Sir\" veya \"Dame\" olarak hitap edilebilirler ve genellikle özel törenlerde kendilerine has bir boyun süsü takarlar.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q506369",
+        "https://tr.wikipedia.org/wiki/Banyo_Ni%C5%9Fan%C4%B1",
+        "https://en.wikipedia.org/wiki/Order_of_the_Bath"
+      ],
+      "wikidata_qid": "Q506369"
+    },
+    {
+      "id": "Q2297786",
+      "date": "2026-11-25",
       "category": "gida-icecek",
-      "widget_title": "Lezzetli Fettuş salatası mutfaklara ne zaman girdi?",
-      "hook": "Ortadoğu mutfağının ferahlatıcı yıldızı Fettuş'un hikayesine hazır mısın?",
+      "widget_title": "Wyborowa votka ne zaman damıtılmaya başlandı?",
+      "hook": "Polonya'nın en ikonik tatlarından biri olan Wyborowa'nın kökleri şaşırtıcı derecede derinlere iniyor.",
+      "answer_year": 1823,
+      "year_precision": "year",
+      "guess_range": [
+        1720,
+        1900
+      ],
+      "body": "Votka denince akla gelen ilk markalardan biri olan Wyborowa, Polonya'nın zengin damıtım geleneğinin yaşayan bir kanıtı. Peki bu efsanevi içkinin ilk kez ne zaman damıtıldığını hiç merak ettiniz mi? Cevap, sandığınızdan çok daha eski bir tarihe dayanıyor: 1823.\n\nPolonya'nın Poznań şehrinde temelleri atılan Wyborowa, o yıllarda henüz bir marka olmaktan çok, yerel bir damıtım evinin özenli çalışmasının ürünüydü. Aslında Wyborowa'nın tarihi, bir damıtım ustasının mükemmel tadı arayışıyla başladı. Seçkin çavdar taneleri ve saf kaynak suyu kullanarak, dönemin en ileri damıtım teknikleriyle üretilen bu votka, kısa sürede kalitesiyle adından söz ettirmeye başladı. İsmi \"seçilmiş\" veya \"seçkin\" anlamına gelen Wyborowa, gerçekten de bu ismi hak eden bir üretim anlayışıyla doğdu.\n\n19. yüzyılın ortalarına doğru, Wyborowa'nın ünü Polonya sınırlarını aşmaya başladı ve votka, Avrupa'nın diğer bölgelerine de ihraç edildi. Bu durum, Wyborowa'yı küresel pazarda tanınan ilk Polonya votkalarından biri haline getirdi ve Polonya votkasının dünya çapında itibar kazanmasında büyük rol oynadı. [DOĞRULA: Wyborowa'nın 1900'lerin başında uluslararası sergilerde altın madalyalar kazanıp kazanmadığı.] Yıllar içinde birçok uluslararası ödül kazanarak kalitesini tescilleyen marka, günümüzde de Polonya'nın en bilinen ve sevilen votka markalarından biri olmaya devam ediyor. Her damlasında yüzyılı aşkın bir mirasın, özenli bir işçiliğin ve Polonya ruhunun izlerini taşıyan Wyborowa, votka severler için zamana meydan okuyan bir lezzet sunuyor.",
+      "fun_fact": "Wyborowa, Avrupa Birliği tarafından \"Polonya Votkası\" tanımına uygunluğu tescillenen ilk markalardan biridir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2297786",
+        "https://tr.wikipedia.org/wiki/Wyborowa",
+        "https://en.wikipedia.org/wiki/Wyborowa"
+      ],
+      "wikidata_qid": "Q2297786"
+    },
+    {
+      "id": "Q5251769",
+      "date": "2026-11-26",
+      "category": "giyim",
+      "widget_title": "SS-Ehrendegen ne zaman kullanılmaya başlandı?",
+      "hook": "Sıradan bir kılıçtan çok daha fazlası olan bu özel hançerin hikayesini merak ediyor musunuz?",
+      "answer_year": 1935,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Bugün baktığımızda sadece bir üniforma aksesuarı gibi görünen SS-Ehrendegen, yani \"SS Şeref Hançeri\" (bazen kılıcı olarak da anılır), ait olduğu dönemde oldukça derin anlamlar taşıyordu. Bu özel parça, 1935 yılında SS bünyesinde bir onur ve statü sembolü olarak kullanılmaya başlandı. Savaş meydanında aktif olarak kullanılmak üzere tasarlanmamıştı; aksine, SS hiyerarşisinde üstün hizmet veya belirli bir sadakat seviyesini gösteren seçkin üyelere verilen bir nişandı. Tasarımı, dönemin militarist estetiğini yansıtan detaylara sahipti: siyah kabza, gümüş renkli metal aksamlar ve genellikle bıçağının üzerinde \"Meine Ehre heißt Treue\" (Onurum Sadakattir) mottosu bulunurdu. [DOĞRULA: Kılıç üzerindeki mottonun standart bir özellik olup olmadığını ve tam metnini.] SS-Ehrendegen'in sahipleri, onu hem bir onur nişanı hem de örgüt içindeki konumlarının ve bağlılıklarının bir göstergesi olarak taşırlardı. Bu obje, sadece bir metal parçası olmaktan öte, sahibinin SS ideolojisine olan bağlılığının ve örgüt içindeki itibarının somut bir ifadesiydi. Tarihin bu karmaşık dönemini ve bir örgütün semboller aracılığıyla nasıl kimlik inşa ettiğini anlamak için ilginç bir pencere sunar.",
+      "fun_fact": "Her ne kadar 'şeref kılıcı' olarak adlandırılsa da, boyutları itibarıyla daha çok bir hançere yakındı ve gerçek bir savaş aleti değildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5251769",
+        "https://tr.wikipedia.org/wiki/SS-Ehrendegen",
+        "https://en.wikipedia.org/wiki/Degen_(SS)"
+      ],
+      "wikidata_qid": "Q5251769"
+    },
+    {
+      "id": "Q2339814",
+      "date": "2026-11-27",
+      "category": "gida-icecek",
+      "widget_title": "S'more ne zaman kamp ateşlerinin yıldızı oldu?",
+      "hook": "Şimdi o dillere destan marshmallow, çikolata ve bisküvi üçlüsünün sır perdesini aralayalım.",
+      "answer_year": 1920,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Kamp ateşi etrafında toplananların, közde hafifçe kızarmış marshmallow'un o eşsiz kokusunu aldığında hissettiği o tarifsiz heyecanı bilir misiniz? İşte o anın yıldızı, yani S'more, Amerikan kamp geleneğinin vazgeçilmez bir parçası. Peki, bu enfes üçlü – bisküvi, çikolata ve o yapış yapış marshmallow – ne zaman bir araya gelip kalbimizi fethetti? Cevap sizi 1920'lere götürüyor.\n\nS'more'un tam olarak kim tarafından icat edildiği hala gizemini koruyor. Ancak bildiğimiz kadarıyla, bu lezzetli kombinasyonun izleri 1920'li yıllara kadar uzanıyor. Adı ise aslında 'some more' yani 'biraz daha' ifadesinin kısaltmasından geliyor. Kamp ateşi etrafında bu tatlıyı yiyen herkesin mutlaka 'biraz daha' istemesi, bu eğlenceli ismin doğmasına neden olmuş. Hatta, ilk yazılı tariflerden biri 1927 yılında [DOĞRULA: Girl Scouts'ın 'Tramping and Trailing with the Girl Scouts' adlı kitabında] 'Some More' adıyla yayımlandı ve bu tatlının kampçıların favori ikramı olduğu belirtiliyordu.\n\nAslında tarifin basitliği onun en büyük gücü. İki adet kraker arasına eritilmiş çikolata ve közde ısıtılmış, dışı hafifçe karamelize olmuş marshmallow… Bu kombinasyon o kadar karşı konulmaz ki, birini yedikten sonra ikinciye uzanmak kaçınılmaz oluyor. S'more sadece bir tatlı değil; kamp ateşi etrafında kurulan dostlukların, anlatılan hikayelerin ve gökyüzüne bakılarak yapılan hayallerin de bir sembolü haline gelmiş.",
+      "fun_fact": "Her yıl 10 Ağustos, Amerika'da Ulusal S'more Günü olarak kutlanır ve bu tatlıya olan düşkünlük bir kez daha hatırlanır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2339814",
+        "https://tr.wikipedia.org/wiki/S%27more",
+        "https://en.wikipedia.org/wiki/S%27more"
+      ],
+      "wikidata_qid": "Q2339814"
+    },
+    {
+      "id": "Q534676",
+      "date": "2026-11-28",
+      "category": "giyim",
+      "widget_title": "Varşova'nın Kurtuluşu Madalyası ne zaman verildi?",
+      "hook": "İkinci Dünya Savaşı'nın çetin günlerinde, bir şehrin yeniden doğuşunu simgeleyen bu madalyanın hikayesini biliyor musunuz?",
+      "answer_year": 1945,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "İkinci Dünya Savaşı'nın en yıkıcı cephelerinden birine tanıklık eden Polonya'nın başkenti Varşova, savaşın sonuna doğru, Kızıl Ordu'nun ve Polonyalı birliklerin çabalarıyla Naziler'in elinden kurtarıldı. Şehrin işgalden kurtarılmasında gösterilen cesaret ve fedakarlığı onurlandırmak amacıyla, \"Varşova'nın Kurtuluşu Madalyası\" 1945 yılında SSCB tarafından ihdas edildi. Bu madalya, Sovyetler Birliği'nin İkinci Dünya Savaşı'ndaki zafer madalyaları serisinin önemli bir parçasıydı. Genellikle Varşova Taarruzu'na katılan Kızıl Ordu askerlerine, denizcilere ve çavuşlara, aynı zamanda aktif rol alan Polonyalı direnişçilere ve sivillere de verilirdi. Madalyanın verilmesiyle, Varşova'nın harap edilmiş sokaklarından yeniden ayağa kalkışı ve özgürlüğüne kavuşması simgeleniyordu. Şehrin Nazi işgali altında yaşadığı zulüm ve ardından gelen kurtuluş mücadelesi, Avrupa tarihinin en trajik ve aynı zamanda en kahramanlık dolu sayfalarından biridir. Bu madalya, sadece bir metal parçası değil, aynı zamanda o dönemde yaşanan büyük acıların ve kazanılan özgürlüğün paha biçilmez değerinin de bir nişanesiydi. Üzerindeki tasarım, [DOĞRULA: Madalyanın ön yüzünde yer alan ana tasarım öğeleri ve arka yüzündeki yazı hakkında bilgi edinilebilir mi?] genellikle o dönemin zafer ve dayanışma ruhunu yansıtan motifler taşırdı. Varşova'nın kurtarılması, Avrupa'nın yeniden şekillenmesinde kritik bir adımdı ve bu madalya, o tarihi anın yaşayan bir hatırası olarak binlerce kişiye verildi, onların anısını onurlandırdı.",
+      "fun_fact": "Bu madalyanın, yaklaşık [DOĞRULA: Tam sayı teyit edilmeli, bazı kaynaklarda 1.127.000 civarı olduğu belirtiliyor] 1.127.000 kişiye verildiği tahmin edilmektedir, bu da Varşova'nın kurtuluş mücadelesine katılımın ne kadar geniş olduğunu gösterir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q534676",
+        "https://tr.wikipedia.org/wiki/Var%C5%9Fova%27n%C4%B1n_Kurtulu%C5%9Fu_Madalyas%C4%B1",
+        "https://en.wikipedia.org/wiki/Medal_%22For_the_Liberation_of_Warsaw%22"
+      ],
+      "wikidata_qid": "Q534676"
+    },
+    {
+      "id": "Q244611",
+      "date": "2026-11-29",
+      "category": "gida-icecek",
+      "widget_title": "Soğan Halkaları Masamıza Ne Zaman Geldi?",
+      "hook": "O çıtır çıtır, altın rengi lezzetin tarihi, sandığınızdan çok daha eski olabilir!",
       "answer_year": 1900,
       "year_precision": "year",
       "guess_range": [
         1800,
         1980
       ],
-      "body": "Ortadoğu sofralarının vazgeçilmezi Fettuş, tazeliği ve lezzetiyle gönülleri fetheden bir salata. Genellikle kızarmış veya kavrulmuş pide parçacıkları, taze yeşillikler (marul, roka), domates, salatalık, turp gibi sebzelerle hazırlanan bu nefis karışım, sumaklı ve nar ekşili özel sosuyla bambaşka bir boyut kazanır.\n\nFettuş'un kökenleri, yiyecek israfını önleme geleneğine dayanıyor. Bölgede yüzyıllardır bayat ekmeklerin değerlendirilmesi amacıyla farklı salata türleri yapıldığı biliniyor. Fettuş da bu geleneğin modern ve en popüler temsilcilerinden biri. Tarihi kayıtlara göre, bugün bildiğimiz haliyle 20. yüzyılın başlarında, özellikle 1900'lü yıllarda, Levant mutfağında kendine sağlam bir yer edinmiş. Ancak bu tarihin, salatanın temel prensiplerinin çok daha eskiye dayanan bir evrimin sonucu olduğu düşünülüyor. [DOĞRULA: Fettuş benzeri salataların daha eski formlarının varlığı ve adlandırması].\n\nBu lezzetli salatanın belirli bir mucidi yok; tıpkı pek çok geleneksel yemek gibi, zamanla bölge halkının mutfak tecrübeleriyle şekillenmiş ve sofraların ayrılmaz bir parçası haline gelmiş. Her ne kadar ana malzemeleri basit olsa da, tazeliği ve dengeli ekşiliğiyle her yudumda damaklarda şölen yaşatır. Özellikle sıcak yaz günlerinde ferahlatıcı bir öğün alternatifi arayanlar için biçilmiş kaftan!",
-      "fun_fact": "Adını, içinde kullanılan 'fattah' yani ufalanmış veya kızarmış ekmeklerden aldığı söylenir, bu da salatanın israfı önleme ruhunu yansıtır.",
+      "body": "Soğan halkaları… Birçoğumuzun favori atıştırmalıklarından biri, değil mi? Genellikle fast food menülerinin ayrılmaz bir parçası olarak karşımıza çıksalar da, bu lezzetli halkaların tarihi aslında oldukça eskiye dayanıyor. Kayıtlar, soğan halkalarının yaklaşık 1900'lerin başlarında ortaya çıktığını gösteriyor. Ancak şaşırtıcı bir şekilde, bu ikonik yiyeceğin tam olarak kim tarafından veya nerede icat edildiğine dair kesin bir bilgi bulunmuyor.\n\nBazı kaynaklar, 1933 yılında Texas'taki [DOĞRULA: Kirbys Pig Stand restoranının] soğan halkalarını menüsüne ekleyen ilk yerlerden biri olduğunu öne sürse de, soğanların kızartılarak tüketilme fikri çok daha öncesine dayanıyor. Aslında, kızarmış sebzeler, özellikle de soğan, dünya mutfaklarında yüzyıllardır farklı şekillerde yer bulmuştu. Günümüzdeki formuna en yakın tariflerden biri, 1802 tarihli İngiliz yemek kitabı olan [DOĞRULA: John Mollard'ın \"The Art of Cookery Made Easy and Refined\"] adlı eserinde, \"kızarmış soğan\" adıyla yer alıyor ve bu tarif, modern soğan halkalarına oldukça benziyor!\n\nDolayısıyla, soğan halkaları anlık bir ilhamın değil, zamanla gelişen ve farklı kültürlerden beslenen bir mutfak geleneğinin ürünü gibi görünüyor. Belki de bu yüzden, isimsiz kahramanlarının lezzetli mirası, dünyanın dört bir yanında sevilerek tüketilmeye devam ediyor. Bir dahaki sefere bir soğan halkası ısırdığınızda, yaklaşık yüz yirmi yıllık bir tarihin tadına baktığınızı düşünebilirsiniz!",
+      "fun_fact": "Amerika Birleşik Devletleri'nde 22 Haziran, resmi olmayan \"Ulusal Soğan Halkası Günü\" olarak kutlanır!",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1398251",
-        "https://tr.wikipedia.org/wiki/Fettu%C5%9F",
-        "https://en.wikipedia.org/wiki/Fattoush"
+        "https://www.wikidata.org/wiki/Q244611",
+        "https://tr.wikipedia.org/wiki/So%C4%9Fan_halkas%C4%B1",
+        "https://en.wikipedia.org/wiki/Onion_ring"
       ],
-      "wikidata_qid": "Q1398251"
+      "wikidata_qid": "Q244611"
     },
     {
-      "id": "Q569880",
-      "date": "2026-11-24",
-      "category": "gunluk-nesneler",
-      "widget_title": "Batı Virginia Eyalet Mührü ne zaman kabul edildi?",
-      "hook": "Bir eyaletin resmi kimliğini temsil eden mühürler, kuruluş hikayelerinin sessiz tanıklarıdır. Peki, Batı Virginia'nın simgesi olan bu mühür ne zaman resmiyet kazandı?",
-      "answer_year": 1863,
-      "year_precision": "year",
-      "guess_range": [
-        1760,
-        1940
-      ],
-      "body": "Her eyaletin bir kimliği vardır ve bu kimliğin en güçlü ifadelerinden biri de eyalet mührüdür. Batı Virginia için de durum farklı değil. Amerika Birleşik Devletleri tarihinde çalkantılı bir dönemde, 1863 yılında bir eyalet olarak doğan Batı Virginia, kendi egemenliğini ve değerlerini yansıtan bir mührü de aynı yıl içinde kabul etti. Bu mühür, eyaletin resmi belgelerinde, yasalarında ve diğer önemli yazışmalarında kullanılarak devlete ait her şeyin gerçekliğini ve otoritesini onaylayan bir nişan haline geldi. Ne yazık ki, bu anlamlı sembolün tam olarak kim tarafından tasarlandığı veya yaratıldığı bilgisi günümüze kadar ulaşamamıştır, bu da o döneme ait birçok tarihi objede karşılaşılan yaygın bir durumdur. Ancak bu durum, mührün Batı Virginia için taşıdığı değeri ve eyaletin kurulduğu zorlu dönemin anısını asla azaltmaz. Mühür, yeni kurulan bir devletin kendi ayakları üzerinde duruşunun ve bağımsızlığının bir simgesi olarak kabul görmüştür. Bu tür mühürler, sadece bir sembol olmanın ötesinde, bir eyaletin geçmişini, şimdiki zamanını ve geleceğe dönük umutlarını da içinde barındırır.",
-      "fun_fact": "Birçok eyalet mührü, genellikle eyaletin madencilik, tarım veya sanayi gibi temel ekonomik faaliyetlerini yansıtan semboller içerir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q569880",
-        "https://en.wikipedia.org/wiki/Seal_of_West_Virginia"
-      ],
-      "wikidata_qid": "Q569880"
-    },
-    {
-      "id": "Q1506830",
-      "date": "2026-11-25",
-      "category": "giyim",
-      "widget_title": "Saint Helena Madalyası ilk kez ne zaman takıldı?",
-      "hook": "Napolyon'un eski askerlerinin göğsünü süsleyen bu madalya ne anlama geliyordu?",
-      "answer_year": 1857,
-      "year_precision": "day",
-      "guess_range": [
-        1750,
-        1930
-      ],
-      "body": "Fransa İmparatoru Napolyon Bonapart'ın şanlı ordusunda savaşmış, destansı seferlerin tozunu yutmuş gaziler... Yıllar sonra, onların fedakarlıkları nihayet resmi bir nişanla taçlandırıldı. Ancak bu, Napolyon hayattayken değil, onun yeğeni III. Napolyon döneminde gerçekleşti. **Saint Helena Madalyası**, 1857 yılında, Napolyon I'in imparatorluk ordularında 1792 ile 1815 yılları arasında görev yapmış hayatta kalan tüm askerleri onurlandırmak amacıyla çıkarıldı. Bu, Fransa tarihinde dağıtılan ilk hatıra madalyasıydı.\n\nMadalyanın kendisi, Napolyon Bonapart'ın defne çelenkli bir büstünü taşıyordu ve üzerinde \"A Ses Compagnons De Gloire Sa Derniere Pensée\" (Şanlı Yoldaşlarına Son Düşüncesi) yazılıydı. Bronzdan yapılmış bu nişan, sadece bir metal parçası değil, o dönemin çalkantılı olaylarına tanıklık etmiş, İmparator'a sadakatle hizmet etmiş binlerce askerin gurur nişanıydı. Napolyon Savaşları'nın sona ermesinden on yıllar sonra gelen bu jest, birçok yaşlı gazi için hem duygusal bir anlam taşıyor hem de geçmişin hatıralarını canlandırıyordu. Her ne kadar uzun zaman geçmiş olsa da, bu madalya ile gaziler bir kez daha hatırlandı ve geçmiş kahramanlıkları takdir edildi.",
-      "fun_fact": "Bu madalyaya adını veren Saint Helena, Napolyon Bonapart'ın sürgün hayatının son demlerini geçirdiği o meşhur adadır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1506830",
-        "https://en.wikipedia.org/wiki/Saint_Helena_Medal"
-      ],
-      "wikidata_qid": "Q1506830"
-    },
-    {
-      "id": "Q1401202",
-      "date": "2026-11-26",
-      "category": "gida-icecek",
-      "widget_title": "Bu ikonik Negroni kokteyli ne zaman ortaya çıktı?",
-      "hook": "Bu zarif kırmızı İtalyan kokteyli, kısa sürede dünya çapında bir fenomen haline geldi.",
-      "answer_year": 1919,
-      "year_precision": "year",
-      "guess_range": [
-        1810,
-        1990
-      ],
-      "body": "Kırmızı rengi, acı-tatlı dengesi ve sofistike karakteriyle gönüllere taht kuran Negroni kokteyli, dünya sahnesine 1919 yılında çıktı. Bu ikonik İtalyan klasiği, cin, Campari ve tatlı kırmızı vermutun eşit oranlarda harmanlanmasıyla ortaya çıkan zamansız bir lezzet. Efsaneye göre, bu göz alıcı kokteylin doğuş hikayesi İtalya’nın Floransa şehrinde bir bara dayanıyor. [DOĞRULA: Negroni’nin ilk hazırlandığı yer Caffè Casoni (şimdiki adıyla Caffè Giacosa) miydi?] Hikaye, Kont Camillo Negroni'nin [DOĞRULA: Kont Camillo Negroni'nin gerçekten yaşamış ve bu kokteylin isim babası olup olmadığı] bir gün barmenden, o dönem popüler olan Americano kokteylini biraz daha 'güçlendirmesini' istemesiyle başlıyor. Kont, Americano'da kullanılan sodalı su yerine cin eklenmesini rica etti ve böylece, dengeli ama cesur aromalarıyla yeni bir içki doğdu. Barmen, bu özel isteği yerine getirdi ve o günden sonra bu yeni karışım, onu sipariş eden Kont'un adıyla anılmaya başlandı.\n\nNegroni, kısa sürede sadece İtalya'da değil, tüm dünyada kokteyl severlerin favorisi haline geldi. Basit ama etkileyici formülü sayesinde, barmenler için hazırlaması keyifli, tadı ise unutulmaz bir deneyim sunuyor. Aperitivo kültürünün vazgeçilmez bir parçası olan Negroni, kendine has karakteriyle birçok türe ilham verdi. Üç ana bileşeninin her birinin tadını ayrı ayrı hissettirmesi ama aynı zamanda bir bütün oluşturması, onu gerçekten özel kılıyor. Negroni, zamanın ötesinde bir klasik olmaya devam ediyor ve her yudumda İtalyan zarafetini tattırıyor.",
-      "fun_fact": "Her yıl Haziran ayında kutlanan \"Negroni Haftası\" boyunca, dünya genelinde birçok bar bu klasik kokteyli kutlar ve gelirlerinin bir kısmını yardım kuruluşlarına bağışlar.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1401202",
-        "https://tr.wikipedia.org/wiki/Negroni",
-        "https://en.wikipedia.org/wiki/Negroni"
-      ],
-      "wikidata_qid": "Q1401202"
-    },
-    {
-      "id": "Q575941",
-      "date": "2026-11-27",
-      "category": "gunluk-nesneler",
-      "widget_title": "Secchi diski ne zaman suyun sırlarını açığa vurdu?",
-      "hook": "Deniz ve göllerin derinliklerindeki berraklığı ölçmek için kullanılan bu basit ama dahiyane araç, kimin aklına geldi dersiniz?",
-      "answer_year": 1865,
-      "year_precision": "year",
-      "guess_range": [
-        1760,
-        1940
-      ],
-      "body": "Görünüşte basit, ancak su altı dünyasının şeffaflığını anlamak için paha biçilmez bir araç olan Secchi diskinin hikayesi, bize bazen en iyi çözümlerin en sade olanlar olduğunu hatırlatır. Deniz bilimcilerinin ve göl araştırmacılarının suyun ne kadar berrak olduğunu, yani ışığın ne kadar derine ulaşabildiğini merak etmesiyle ortaya çıktı.\n\nİşte bu merak, 1865 yılında İtalyan Cizvit rahibi ve gökbilimci Angelo Secchi'yi harekete geçirdi. O zamanlar Papalık Donanması'nda bilimsel araştırmalar yapan Secchi, Akdeniz'deki suyun şeffaflığını sistematik olarak ölçmenin bir yolunu arıyordu. Ve işte o zaman, basit ama etkili çözümü buldu: Secchi diski.\n\nPeki, bu disk neye benziyordu ve nasıl çalışıyordu? Tipik olarak yaklaşık 30 cm çapında, siyah ve beyaz renklerde dördüncü bölümlere ayrılmış, yuvarlak bir disk. Bir ipin ucuna bağlanarak yavaşça suya indirilir ve gözden kaybolduğu derinlik not edilir. Sonra tekrar yukarı çekilir ve görünür hale geldiği derinlik kaydedilir. Bu iki derinliğin ortalaması, suyun \"Secchi derinliği\" olarak kabul edilir ve o su kütlesinin berraklığı hakkında bize değerli bir fikir verir.\n\nSecchi diski, o günden bu yana okyanus biliminde, limnolojide (göl bilimi) ve çevre izlemede temel bir araç haline geldi. Alg patlamaları, kirlilik veya tortu gibi faktörlerin suyun berraklığını nasıl etkilediğini anlamak için günümüzde bile dünya çapında kullanılıyor. Angelo Secchi'nin bu mütevazı buluşu, su kalitesi araştırmalarına kalıcı bir miras bırakmıştır.",
-      "fun_fact": "Secchi diskiyle elde edilen veriler, iklim değişikliğinin göller ve denizler üzerindeki etkilerini izlemek için bile kullanılıyor!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q575941",
-        "https://en.wikipedia.org/wiki/Secchi_disk"
-      ],
-      "wikidata_qid": "Q575941"
-    },
-    {
-      "id": "Q1514666",
-      "date": "2026-11-28",
-      "category": "giyim",
-      "widget_title": "Kadınlara özel Şefkat Nişanı hangi yıl ihdas edildi?",
-      "hook": "Kadınların hayırseverlik ve sosyal hizmetlerdeki rolünü onurlandırmak için Osmanlı'da özel bir nişan tasarlandığını biliyor muydunuz?",
-      "answer_year": 1878,
-      "year_precision": "year",
-      "guess_range": [
-        1770,
-        1950
-      ],
-      "body": "Tarih 1878'i gösterdiğinde, Osmanlı İmparatorluğu'nda çok özel bir nişan ortaya çıktı: Şefkat Nişanı. Bu nişan, Sultan II. Abdülhamid tarafından, özellikle 93 Harbi (1877-1878 Osmanlı-Rus Savaşı) sırasında ve sonrasında, insani yardım ve sosyal hizmetlerde olağanüstü çaba gösteren Müslüman ve gayrimüslim kadınları onurlandırmak amacıyla tesis edildi. O dönemde savaşın yarattığı büyük acılar ve göç dalgasıyla mücadele eden kadınlar, cephe gerisinde ve hastanelerde büyük bir fedakarlıkla çalıştılar.\n\nŞefkat Nişanı, genel olarak pembe kurdeleli bir madalyon şeklinde tasvir edilir ve üzerinde padişahın tuğrası ile birlikte \"insaniyet\" ve \"yardımseverlik\" gibi erdemleri simgeleyen motifler bulunurdu. Nişanın farklı dereceleri vardı ve bu dereceler madalyonun boyutu veya üzerindeki değerli taşlarla ayırt edilebilirdi. Bu nişan, sadece bir süs eşyası olmaktan öte, kadınların toplumsal hayattaki görünürlüğünü ve katkılarını resmi olarak tanıyan önemli bir sembol haline geldi. Osmanlı İmparatorluğu'nda kadınlara yönelik bu türden bir resmi onurlandırma, o dönemin şartlarında oldukça yenilikçi ve ileri görüşlü bir adımdı. Nişan, imparatorluğun sonuna kadar varlığını sürdürdü ve birçok değerli kadına takdim edildi.",
-      "fun_fact": "Şefkat Nişanı, Osmanlı İmparatorluğu'nda kadınlara verilen ilk ve tek özel nişandı.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1514666",
-        "https://tr.wikipedia.org/wiki/%C5%9Eefkat_Ni%C5%9Fan%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_Charity"
-      ],
-      "wikidata_qid": "Q1514666"
-    },
-    {
-      "id": "Q1428749",
-      "date": "2026-11-29",
-      "category": "gida-icecek",
-      "widget_title": "Strongbow Elma Şarabı Hangi Yıl Ortaya Çıktı?",
-      "hook": "Elma şarabı tutkunlarının vazgeçilmezi Strongbow'un tarih sahnesine ne zaman çıktığını biliyor muydun?",
-      "answer_year": 1962,
-      "year_precision": "year",
-      "guess_range": [
-        1860,
-        2026
-      ],
-      "body": "Birleşik Krallık'ın meşhur elma şarabı Strongbow, 1962 yılında İngiltere'de ilk kez piyasaya sürüldü. O günden bu yana, tazeleyici ve ferahlatıcı tadıyla dünya çapında milyonlarca kişinin favorisi haline geldi. Strongbow, özellikle kuru ve keskin elma şarabı sevenler için ideal bir seçim olarak kabul edilir ve kendine has karakteriyle diğer elma şaraplarından ayrılır.\n\nMarkanın adının kökeni, 12. yüzyılda yaşamış ünlü Norman savaşçısı Richard de Clare'in \"Strongbow\" lakabına dayanıyor olabilir. Bu isim, gücü ve kararlılığı simgeleyerek markanın sağlam karakterini yansıttığı düşünülüyor. [DOĞRULA: Strongbow markasının adının kökeni gerçekten 12. yüzyıl savaşçısı Richard de Clare'in \"Strongbow\" lakabından mı geliyor?]. Strongbow'un yaratıcıları, İngiliz elma şarabı geleneğini modern damak zevkleriyle buluşturmayı hedeflemişlerdi ve bu hedeflerine ulaştılar.\n\nYıllar içinde Strongbow, orijinal tarifine sadık kalarak kalitesini korudu, ancak farklı lezzetler ve çeşitler sunarak ürün yelpazesini genişletti. Özellikle yaz aylarının sıcak günlerinde buz gibi bir Strongbow'un sunduğu ferahlık hissi bambaşka. Bugün dünyanın pek çok yerinde, pub'lardan restoranlara, ev partilerinden festivallere kadar geniş bir yelpazede Strongbow'a rastlamak mümkün. İngiliz pub kültürünün ayrılmaz bir parçası olan Strongbow, geleneksel elma şarabı üretimi mirasını modern bir yaklaşımla birleştirerek global bir başarı hikayesine imza atmıştır. Elma şarabı denince akla gelen ilk markalardan biri olması, onun kalitesinin ve özgün lezzetinin bir kanıtıdır.",
-      "fun_fact": "Strongbow, dünyanın en çok satan elma şarabı markalarından biri konumundadır.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1428749",
-        "https://en.wikipedia.org/wiki/Strongbow_(cider)"
-      ],
-      "wikidata_qid": "Q1428749"
-    },
-    {
-      "id": "Q577817",
+      "id": "Q545902",
       "date": "2026-11-30",
-      "category": "gunluk-nesneler",
-      "widget_title": "Bu ilginç mekanizma, De Prony freni, ne zaman icat edildi?",
-      "hook": "Motorların gücünü ölçmek için kullanılan bu ilginç cihazın hikayesi sizi şaşırtacak.",
-      "answer_year": 1821,
+      "category": "giyim",
+      "widget_title": "Lombardiya Demir Tacı ne zaman kralların başına konuldu?",
+      "hook": "Kralların başını süsleyen bu demir tacın efsanesi neydi?",
+      "answer_year": 1000,
       "year_precision": "year",
       "guess_range": [
-        1720,
-        1900
+        900,
+        1080
       ],
-      "body": "Günümüzde arabalarımızın motor güçlerini, elektrikli aletlerimizin performansını merak etmemiz çok doğal. Ama motorlar ilk ortaya çıktığında, bu gücü somut bir şekilde ölçmek o kadar da kolay değildi. İşte tam da bu ihtiyaca cevap veren, mühendislik dünyasında çığır açan bir cihaz var: De Prony freni. 1821 yılında Fransız mühendis ve matematikçi Gaspard de Prony tarafından geliştirilen bu mekanizma, bir motorun ya da makinenin ürettiği gücü hassas bir şekilde ölçmek için tasarlandı.\nPeki nasıl çalışıyordu? Temel olarak, dönen bir milin üzerine sürtünme oluşturarak, o milin torkunu ölçmeyi sağlıyordu. Bir nevi, motorun döndürmeye çalıştığı diski yavaşlatan bir fren görevi görüyordu. Bu sürtünme kuvveti, belirli bir kol uzunluğuyla birleştiğinde, motorun ne kadar iş yaptığını, yani gücünü anlamamıza olanak tanıyordu. Elde edilen bu güç daha sonra genellikle ısı olarak dağıtılırdı.\nDe Prony freni, buhar motorlarından elektrik motorlarına kadar pek çok farklı güç kaynağının performansını anlamada kritik bir rol oynadı. Sanayi Devrimi'nin ilerlemesinde, makinelerin daha verimli ve güçlü hale gelmesinde, mühendislere değerli veriler sunarak adeta bir kilometre taşı oldu. Belki de doğrudan günlük hayatta kullandığımız bir eşya değil ama günümüzdeki modern dinamometrelerin ve güç ölçüm sistemlerinin atası olduğunu söylemek yanlış olmaz. Onun sayesinde, motorlarımızı ve makinelerimizi çok daha iyi anladık ve geliştirdik.",
-      "fun_fact": "Ölçtüğü mekanik enerjiyi sürtünme yoluyla ısı enerjisine dönüştürerek çalışan De Prony freni, buhar motorlarının 'beygir gücünü' belirlemede önemli bir rol oynadı.",
+      "body": "Lombardiya Demir Tacı, sadece altından ve değerli taşlardan oluşmuş bir mücevher değil; aynı zamanda efsanelerle örülü, gücün ve kutsallığın kadim bir sembolüdür. Onun tam olarak ne zaman ortaya çıktığı, tarihçiler arasında hala bir tartışma konusu. Ancak kesin olan bir şey var ki, 1000 yılına gelindiğinde, bu büyüleyici taç çoktan Avrupa'nın en saygın krallık sembollerinden biri haline gelmişti bile.\n\nTacın en dikkat çekici özelliği, elbette \"demir\" adını almasına neden olan o gizemli halka. Dış kısmı altın ve değerli taşlarla süslü olsa da, içinde ince bir demir bant bulunur. Efsaneye göre bu demir bant, Hz. İsa'nın çarmıha gerildiği çivilerden biriyle yapılmıştı. Bu inanç, taca sadece krallık gücü değil, aynı zamanda derin bir dini anlam da katıyordu. [DOĞRULA: Tacın içinde bulunan demir bandın gerçekten efsaneye dayandığı ve bu efsanenin tarihi kökenleri.]\n\nYüzyıllar boyunca Lombard krallarından Kutsal Roma İmparatorlarına kadar birçok önemli hükümdar, İtalya üzerindeki egemenliklerini meşrulaştırmak için bu tacı kullandı. Hatta 19. yüzyılda Napolyon Bonapart bile kendini İtalya Kralı ilan ederken, bu antik tacı başının üzerine koydurdu. Lombardiya Demir Tacı, bugün hala İtalya'nın Monza Katedrali'nde sergileniyor ve geçmişin o ihtişamlı günlerine tanıklık etmeye devam ediyor.",
+      "fun_fact": "Tacın altın kısımlarındaki birbirinden güzel kabartmalar ve mineler, Orta Çağ sanatının ne kadar ince işçiliğe sahip olduğunu gözler önüne seriyor.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q577817",
-        "https://en.wikipedia.org/wiki/Prony_brake"
+        "https://www.wikidata.org/wiki/Q545902",
+        "https://tr.wikipedia.org/wiki/Lombardiya_Demir_Tac%C4%B1",
+        "https://en.wikipedia.org/wiki/Iron_Crown"
       ],
-      "wikidata_qid": "Q577817"
+      "wikidata_qid": "Q545902"
     }
   ]
 }
