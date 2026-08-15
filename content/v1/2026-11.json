@@ -3,118 +3,8 @@
   "month": "2026-11",
   "items": [
     {
-      "id": "Q2625790",
-      "date": "2026-11-01",
-      "category": "gida-icecek",
-      "widget_title": "Frosted Flakes kahvaltı sofralarına ne zaman geldi?",
-      "hook": "O buz gibi, tatlı kaplamalı mısır gevrekleri sofralarımıza nasıl girdi dersiniz?",
-      "answer_year": 1952,
-      "year_precision": "year",
-      "guess_range": [
-        1850,
-        2026
-      ],
-      "body": "Frosted Flakes, ya da bilinen adıyla Kellogg's Frosted Flakes, kahvaltı masalarının vazgeçilmez lezzetlerinden biri haline gelmeyi başarmış, şekerli mısır gevreği dendiğinde akla ilk gelen markalardan. Bu ikonik gevrek, tatlı ve çıtır dokusuyla milyonların gönlünü fethetti. Peki, bu lezzet yolculuğuna ne zaman çıktı? Takvimler 1952 yılını gösterdiğinde, Kellogg's şirketi kahvaltı dünyasına yepyeni bir soluk getirdi. Aslında Kellogg's'un mısır gevreği tarihi çok daha eskilere dayansa da, bu özel, şekerle kaplanmış versiyonu işte o yıl ortaya çıktı. Özellikle çocuklara hitap eden tatlı kahvaltılık gevrek trendinin önemli öncülerinden biri olan Frosted Flakes, kısa sürede büyük bir popülerlik kazandı. Markanın başarısının arkasında, sadece lezzetli bir ürün değil, aynı zamanda akılda kalıcı bir pazarlama stratejisi de vardı. \"They're GR-R-REAT!\" sloganıyla ve enerjik maskotu Tony the Tiger (Kaplan Tony) ile özdeşleşen Frosted Flakes, Tony'nin 1952'de ürünüyle birlikte tanıtılmasıyla tam bir efsane haline geldi. Tony the Tiger, o günden bu yana markanın yüzü olarak kalmış, gevreğin cazibesini artıran neşeli ve güçlü bir figür olmuştur. Gevreğin temel fikri basitti: Zaten sevilen mısır gevreğini, çekici bir şeker kaplamasıyla daha da lezzetli ve eğlenceli hale getirmek. Bu basit ama etkili formül, Frosted Flakes'in dünya çapında milyonlarca insanın kahvaltı kasesinde yerini almasını sağladı ve onu modern kahvaltı kültürünün ayrılmaz bir parçası yaptı.",
-      "fun_fact": "Frosted Flakes'in maskotu Tony the Tiger'ın ilk çizimleri arasında bir panda, bir puma ve bir ayı da adaylar arasındaydı!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q2625790",
-        "https://tr.wikipedia.org/wiki/Frosted_Flakes",
-        "https://en.wikipedia.org/wiki/Frosted_Flakes"
-      ],
-      "wikidata_qid": "Q2625790"
-    },
-    {
-      "id": "Q273027",
-      "date": "2026-11-02",
-      "category": "gida-icecek",
-      "widget_title": "Klasik Martini kokteyli ilk kez ne zaman karıştırıldı?",
-      "hook": "Adını sıkça duyduğumuz, zarif bardağıyla ikonikleşen Martini'nin kökenleri sandığınızdan daha eskiye dayanıyor olabilir mi?",
-      "answer_year": 1880,
-      "year_precision": "year",
-      "guess_range": [
-        1780,
-        1960
-      ],
-      "body": "Kokteyl dünyasının en ikonik ve tartışmasız klasikleri arasında yer alan Martini, sadece bir içecekten çok daha fazlası; o bir stil ve zarafet sembolü. Peki, bu efsanevi kokteylin kökenleri ne zaman ve nasıl ortaya çıktı? Tam olarak kimin yarattığı gizemini korusa da, modern Martini'nin bildiğimiz şeklini alması 1880 yılına işaret ediyor.\n\nMartini'nin doğuşu üzerine birçok efsane ve teori mevcut. En yaygın hikayelerden biri, 1860'lı yıllarda Kaliforniya'daki Martinez kasabasında, bir altın madencisinin özel bir içki talebi üzerine ortaya çıkan 'Martinez Special' kokteyliyle başladığını öne sürer. Zamanla bu ismin kısalarak Martini'ye dönüştüğü düşünülür. Başka bir hipotez ise, kokteylin adını popüler İtalyan vermut markası Martini & Rossi'den aldığını iddia eder. Çünkü bu vermut, kokteylin vazgeçilmez bir bileşeni haline gelmiştir. Ancak bu köken teorilerinin hiçbirinin kesin bir kanıtı bulunmamaktadır.\n\nKesin olan şu ki, 1880'ler Martini'nin tarihindeki önemli bir dönüm noktası oldu. Bu yıllarda cin ve vermutun ustaca harmanlandığı tarifler barmenlerin menülerinde yerini bulmaya başladı. Başlangıçta genellikle tatlı vermutla hazırlanan Martini, zamanla sek vermuta doğru evrildi ve günümüzdeki kuru, keskin lezzetine ulaştı. James Bond gibi kült karakterlerle ve sayısız Hollywood filmiyle özdeşleşen Martini, kısa sürede dünya çapında bir fenomen haline geldi. Dolayısıyla 1880 yılı, bu zarif kokteylin bilinmeyen mucitleri tarafından adeta yeniden keşfedildiği, modern ve sofistike karakterini kazandığı bir başlangıç noktası oldu.",
-      "fun_fact": "Martini'nin 'sek' veya 'ıslak' olması, içine konulan vermut miktarına göre belirlenir: ne kadar az vermut, o kadar sek!",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q273027",
-        "https://tr.wikipedia.org/wiki/Martini_(kokteyl)",
-        "https://en.wikipedia.org/wiki/Martini_(cocktail)"
-      ],
-      "wikidata_qid": "Q273027"
-    },
-    {
-      "id": "Q275508",
-      "date": "2026-11-03",
-      "category": "gida-icecek",
-      "widget_title": "Meşhur Sezar salatası kaç yılında ortaya çıktı?",
-      "hook": "Tüm dünyada sevilerek tüketilen bu efsanevi salatanın hikayesi, aslında oldukça sıcak bir başlangıca sahip.",
-      "answer_year": 1924,
-      "year_precision": "year",
-      "guess_range": [
-        1820,
-        2000
-      ],
-      "body": "Dünyaca ünlü Sezar salatası, tahmin edebileceğiniz gibi Roma İmparatoru Julius Caesar ile değil, yaratıcısı İtalyan asıllı şef Caesar Cardini ile anılan bir lezzettir. Bu ikonik salatanın doğuşu, 1924 yılına dayanıyor ve hikayesi de oldukça ilginç.\n\nRivayete göre, Cardini'nin Meksika'nın Tijuana şehrindeki veya [DOĞRULA: Cardini'nin restoranının tam konumu, Tijuana mı yoksa San Diego'da da şubesi var mıydı, netleştirilmeli. Tijuana daha yaygın bir inanış.] restoranında bir Pazar akşamı, 4 Temmuz hafta sonu gibi yoğun bir zamanda malzemeler tükenmeye başlamış. Mutfağında kalan az sayıdaki malzemeyle misafirlerine sunabileceği yaratıcı bir şeyler düşünmek zorunda kalan şef, elindeki marul, zeytinyağı, yumurta, parmesan peyniri, Worcestershire sosu, sarımsak ve krutonları bir araya getirerek o meşhur salatayı doğaçlama olarak hazırlamış. Hatta bazı kaynaklar, Cardini'nin bu salatayı kendi evinde, misafirleri için hazırladığını söyler. [DOĞRULA: Hikayenin restoran mutfağında mı yoksa şefin evinde mi geçtiği detaylandırılmalı.]\n\nSezar salatası, kısa sürede sınırların ötesine geçerek hem Meksika'da hem de Amerika'da popülerlik kazanmış. Özellikle Hollywood yıldızları arasında favori bir lezzet haline gelmesi, ününü daha da artırmış. Orijinal tarifte, günümüzde birçok restoranda kullanılan ançuez bulunmadığını belirtmekte fayda var; o kendine özgü umami tadı, büyük ölçüde Worcestershire sosundan geliyordu. Basit malzemelerle yaratılan bu lezzet şöleni, günümüzde dünya mutfağının vazgeçilmezleri arasında yer alıyor.",
-      "fun_fact": "Sezar salatasının orijinal tarifinde ançuez bulunmadığını biliyor muydunuz?",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q275508",
-        "https://tr.wikipedia.org/wiki/Sezar_salatas%C4%B1",
-        "https://en.wikipedia.org/wiki/Caesar_salad"
-      ],
-      "wikidata_qid": "Q275508"
-    },
-    {
-      "id": "Q28165",
-      "date": "2026-11-04",
-      "category": "gida-icecek",
-      "widget_title": "Tarçın hayatımıza ne zaman girdi?",
-      "hook": "Antik çağlardan beri mutfaklarımızda ve şifa reçetelerimizde yer alan bu egzotik baharatın yolculuğuna çıkmaya hazır mısın?",
-      "answer_year": -1999,
-      "year_precision": "year",
-      "guess_range": [
-        -2100,
-        -1920
-      ],
-      "body": "Tarçın... sadece mutfaklarımızın vazgeçilmezi mi, yoksa binlerce yıllık bir efsanenin başrol oyuncusu mu? Bu egzotik kokulu ağaç kabuğu, insanoğlunun bilinen en eski ve en değerli baharatlarından biri. Hikayesi o kadar eskiye dayanıyor ki, tarçının hayatımıza tam olarak ne zaman girdiğini bilmek neredeyse imkansız. Ancak elimizdeki veriler, onun M.Ö. 2000'li yıllardan bile önce, yani dört bin yıldan uzun bir süredir bizimle olduğunu gösteriyor.\n\nAntik Mısır'da, tarçın sadece lezzet için değil, aynı zamanda mumyalama ritüellerinde ve kutsal tütsülerde kullanılıyordu. Değeri o kadar büyüktü ki, altın ve gümüşle eş tutulur, hatta bazen onlardan bile daha kıymetli sayılırdı. Çin ve Hindistan gibi kadim medeniyetlerde ise tarçın, geleneksel tıbbın önemli bir parçası olmuş, çeşitli rahatsızlıkların tedavisinde kullanılmıştır. Onun sadece yemeklere kattığı eşsiz aroma değil, aynı zamanda sağlık üzerindeki olumlu etkileri de nesiller boyu aktarılmıştır.\n\nDoğu'nun uzak diyarlarından, zorlu ticaret yolları üzerinden Batı'ya ulaşan tarçın, aslında bir doğa harikası. İnsan eliyle \"icat\" edilmese de, keşfedildiği andan itibaren medeniyetlerin gelişiminde, ticaretin ve kültürlerin harmanlanmasında büyük rol oynamış bir hazine. Bu değerli baharatın serüveni, insanlık tarihi kadar eski ve büyüleyici.",
-      "fun_fact": "Antik Mısır'da, tarçın o kadar değerliydi ki, firavunların mezarlarında bile bulunmuştur.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q28165",
-        "https://tr.wikipedia.org/wiki/Tar%C3%A7%C4%B1n",
-        "https://en.wikipedia.org/wiki/Cinnamon"
-      ],
-      "wikidata_qid": "Q28165"
-    },
-    {
-      "id": "Q285480",
-      "date": "2026-11-05",
-      "category": "gida-icecek",
-      "widget_title": "Baileys Irish Cream hangi yıl içimizi ısıtmaya başladı?",
-      "hook": "Kremalı bir rüya, viskinin sıcaklığıyla buluştuğunda ortaya çıkan bu lezzet harikasının hikayesine hazır mısın?",
-      "answer_year": 1974,
-      "year_precision": "year",
-      "guess_range": [
-        1870,
-        2026
-      ],
-      "body": "Bir zamanlar İrlanda'nın yeşil tepelerinde, akıllara kazınacak bir lezzet yaratma fikri dolaşıyordu: İrlanda viskisinin o eşsiz sıcaklığını, taze İrlanda kremasının kadifemsi dokusuyla birleştirmek. Kulağa hoş gelse de, bu ikilinin birbirine uyumlu ve stabil bir şekilde karışmasını sağlamak hiç de kolay değildi. Kremayı alkolle birleştirip bozulmadan uzun süre dayanmasını sağlamak, dönemin gıda bilimcileri ve içecek uzmanları için gerçek bir meydan okumaydı. Ancak 1974 yılında, dört yıllık yoğun bir araştırma ve geliştirme sürecinin sonunda, bu zorluğun üstesinden gelindi ve Baileys Irish Cream doğdu! Bu yenilikçi içecek, krema ve viskinin, bir tür doğal koruyucu görevi görerek bozulmasını engelleyen benzersiz bir emülsiyon tekniği sayesinde buzdolabına bile ihtiyaç duymadan, açılmadığı sürece iki yıla kadar raf ömrüne sahip oldu. Kısa sürede dünya genelinde büyük bir popülerlik kazandı ve İrlanda'nın en sevilen ihracat ürünlerinden biri haline geldi. Baileys, sadece bir içki değil, aynı zamanda dostlukların, sohbetlerin ve tatlı kaçamakların vazgeçilmez bir parçası oldu. Her yudumda İrlanda'nın ruhunu ve kremalı lezzetini hissettiren bu özel içki, günümüzde de milyonlarca kişinin favorisi olmaya devam ediyor.",
-      "fun_fact": "Baileys, dünyada en çok satan kremalı likör unvanını gururla taşıyor ve her yıl milyonlarca şişesi dünya çapında tüketiliyor.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q285480",
-        "https://tr.wikipedia.org/wiki/Baileys_Irish_Cream",
-        "https://en.wikipedia.org/wiki/Baileys_Irish_Cream"
-      ],
-      "wikidata_qid": "Q285480"
-    },
-    {
       "id": "Q2915859",
-      "date": "2026-11-06",
+      "date": "2026-11-01",
       "category": "gida-icecek",
       "widget_title": "Fettuccine Alfredo sofralarımıza ne zaman geldi?",
       "hook": "Tereyağı ve parmesanla dans eden bu lezzet şöleni ne zaman doğdu dersiniz?",
@@ -136,7 +26,7 @@
     },
     {
       "id": "Q2916558",
-      "date": "2026-11-07",
+      "date": "2026-11-02",
       "category": "gida-icecek",
       "widget_title": "Orbit markasının kökenleri ne zaman atıldı?",
       "hook": "Günümüzde bildiğimiz o ferahlatıcı sakızın adının, tahmin ettiğimizden çok daha eski bir hikayesi olduğunu biliyor muydunuz?",
@@ -158,7 +48,7 @@
     },
     {
       "id": "Q2964257",
-      "date": "2026-11-08",
+      "date": "2026-11-03",
       "category": "gida-icecek",
       "widget_title": "Chocapic kahvaltı sofralarımıza ne zaman girdi?",
       "hook": "Chocapic'in o meşhur çikolatalı tadı, mutfaklarımıza ilk ne zaman ulaştı dersiniz?",
@@ -180,7 +70,7 @@
     },
     {
       "id": "Q3007961",
-      "date": "2026-11-09",
+      "date": "2026-11-04",
       "category": "gida-icecek",
       "widget_title": "Cutty Sark viskisi ilk ne zaman şişelendi?",
       "hook": "Denizlerin hırçın ruhunu taşıyan bu efsanevi içki, ilk kez hangi yıl kadehlerle buluştu?",
@@ -202,7 +92,7 @@
     },
     {
       "id": "Q3076217",
-      "date": "2026-11-10",
+      "date": "2026-11-05",
       "category": "gida-icecek",
       "widget_title": "Dewar's viski markası ne zaman kuruldu?",
       "hook": "İskoç viskisi Dewar's, macerasına ne zaman başladı?",
@@ -224,7 +114,7 @@
     },
     {
       "id": "Q3268",
-      "date": "2026-11-11",
+      "date": "2026-11-06",
       "category": "gida-icecek",
       "widget_title": "Fransa'nın meşhur elma brendisi Kalvados ne zaman başladı?",
       "hook": "Elmanın bambaşka bir yorumu olan, sıcak sohbetlerin eşlikçisi Kalvados'un hikayesi çok eskilere dayanıyor.",
@@ -246,7 +136,7 @@
     },
     {
       "id": "Q3270660",
-      "date": "2026-11-12",
+      "date": "2026-11-07",
       "category": "gida-icecek",
       "widget_title": "Voss suyunun hikayesi ne zaman başladı?",
       "hook": "O kendine özgü şişesiyle tanınan Voss suyunun aslında sandığınızdan çok daha genç bir geçmişi var!",
@@ -268,7 +158,7 @@
     },
     {
       "id": "Q331630",
-      "date": "2026-11-13",
+      "date": "2026-11-08",
       "category": "gida-icecek",
       "widget_title": "Pilsner Urquell'in altın çağı ne zaman başladı?",
       "hook": "Bugün tüm dünyada severek içtiğimiz açık renkli, berrak biraların atası nerede ve nasıl doğdu dersiniz?",
@@ -290,7 +180,7 @@
     },
     {
       "id": "Q332378",
-      "date": "2026-11-14",
+      "date": "2026-11-09",
       "category": "gida-icecek",
       "widget_title": "Absolut Vodka ne zaman şişelenmeye başlandı?",
       "hook": "O ikonik şişesiyle dünya barlarını fetheden Absolut Vodka'nın kökleri, hayal ettiğinizden çok daha eskilere dayanıyor.",
@@ -312,7 +202,7 @@
     },
     {
       "id": "Q34172",
-      "date": "2026-11-15",
+      "date": "2026-11-10",
       "category": "gida-icecek",
       "widget_title": "Tereyağı sofralarımızdaki yerini ne zaman aldı?",
       "hook": "Mutfakların vazgeçilmezi tereyağının hikayesi, insanlık tarihi kadar eski.",
@@ -334,7 +224,7 @@
     },
     {
       "id": "Q343276",
-      "date": "2026-11-16",
+      "date": "2026-11-11",
       "category": "gida-icecek",
       "widget_title": "Actimel ilk kez ne zaman raflardaki yerini aldı?",
       "hook": "Bağışıklık sistemine destek denince akla gelen ilk markalardan Actimel'in doğuş tarihi neydi?",
@@ -356,7 +246,7 @@
     },
     {
       "id": "Q347187",
-      "date": "2026-11-17",
+      "date": "2026-11-12",
       "category": "gida-icecek",
       "widget_title": "Dom Pérignon markası hangi yıl ortaya çıktı?",
       "hook": "Şampanyanın efsanevi ismi, aslında düşündüğünüzden çok daha genç bir hikayeye sahip olabilir!",
@@ -378,7 +268,7 @@
     },
     {
       "id": "Q3493770",
-      "date": "2026-11-18",
+      "date": "2026-11-13",
       "category": "gida-icecek",
       "widget_title": "Şekersiz ama tam lezzet: Pepsi Max ne zaman ortaya çıktı?",
       "hook": "Şekersiz kolalı içecekler dünyasında kendine sağlam bir yer edinen Pepsi Max'in hikayesini merak ediyor musunuz?",
@@ -400,7 +290,7 @@
     },
     {
       "id": "Q36465",
-      "date": "2026-11-19",
+      "date": "2026-11-14",
       "category": "gida-icecek",
       "widget_title": "Un insanlık tarihinde ne zaman yerini aldı?",
       "hook": "Tarihin tozlu sayfalarında, unun hikayesi sandığımızdan çok daha eskilere dayanıyor.",
@@ -422,7 +312,7 @@
     },
     {
       "id": "Q372270",
-      "date": "2026-11-20",
+      "date": "2026-11-15",
       "category": "gida-icecek",
       "widget_title": "Elmalı gazozların kralı Appletiser ne zaman hayatımıza girdi?",
       "hook": "Şişede sunulan bu ferahlatıcı elma keyfinin hikayesini merak ediyor musun?",
@@ -444,7 +334,7 @@
     },
     {
       "id": "Q3895013",
-      "date": "2026-11-21",
+      "date": "2026-11-16",
       "category": "gida-icecek",
       "widget_title": "Paradise kokteyli hangi yıl dünyaya geldi?",
       "hook": "Adı gibi cennetten bir tat sunan bu klasik kokteylin hikayesi, onu ilk yudumladığınızda size de ilham verecek.",
@@ -466,7 +356,7 @@
     },
     {
       "id": "Q396184",
-      "date": "2026-11-22",
+      "date": "2026-11-17",
       "category": "gida-icecek",
       "widget_title": "Kanada'nın meşhur lezzeti Poutine ne zaman doğdu?",
       "hook": "Poutine'in bu lezzetli yolculuğu hangi on yılda başladı?",
@@ -488,7 +378,7 @@
     },
     {
       "id": "Q4039669",
-      "date": "2026-11-23",
+      "date": "2026-11-18",
       "category": "gida-icecek",
       "widget_title": "İskoç viskisi Grant's'in hikayesi ne zaman başladı?",
       "hook": "İskoçya'nın en sevilen viski markalarından Grant's'in kökenleri, tahmin ettiğinizden daha da eskiye dayanıyor olabilir mi?",
@@ -510,7 +400,7 @@
     },
     {
       "id": "Q4247887",
-      "date": "2026-11-24",
+      "date": "2026-11-19",
       "category": "gida-icecek",
       "widget_title": "Katsu-sando'nun lezzet yolculuğu ne zaman başladı?",
       "hook": "Japon mutfağının ikonik lezzetlerinden Katsu-sando, sandviç tutkunlarının kalbini nasıl fethetti?",
@@ -532,7 +422,7 @@
     },
     {
       "id": "Q43514443",
-      "date": "2026-11-25",
+      "date": "2026-11-20",
       "category": "gida-icecek",
       "widget_title": "Acı Sosların Kraliçesi Lao Gan Ma Ne Zaman Ortaya Çıktı?",
       "hook": "Çin mutfağının vazgeçilmezi, acı sos tutkunlarının kalbinde taht kuran Lao Gan Ma'nın hikayesi, aslında bir kadının azmine dayanıyor.",
@@ -554,7 +444,7 @@
     },
     {
       "id": "Q455219",
-      "date": "2026-11-26",
+      "date": "2026-11-21",
       "category": "gida-icecek",
       "widget_title": "Amarone Şarabı Resmi Olarak Ne Zaman Tanındı?",
       "hook": "İtalyan şarap dünyasının bu güçlü ve zengin lezzeti, aslında sandığımızdan daha genç bir tarihe sahip olabilir mi?",
@@ -576,7 +466,7 @@
     },
     {
       "id": "Q455290",
-      "date": "2026-11-27",
+      "date": "2026-11-22",
       "category": "gida-icecek",
       "widget_title": "Amarula ne zaman hayatımıza girdi?",
       "hook": "Afrika savanlarının egzotik tadını şişeye sığdıran bu krema likörü, acaba ne kadar süredir dünyayı büyülüyor?",
@@ -598,7 +488,7 @@
     },
     {
       "id": "Q471753",
-      "date": "2026-11-28",
+      "date": "2026-11-23",
       "category": "gida-icecek",
       "widget_title": "Cuba Libre ne zaman ilk kez yudumlandı?",
       "hook": "Rum, kola ve bir dilim misket limonu... Bu basit karışım, özgürlüğe adanmış bir kadeh haline nasıl geldi?",
@@ -620,7 +510,7 @@
     },
     {
       "id": "Q484544",
-      "date": "2026-11-29",
+      "date": "2026-11-24",
       "category": "gida-icecek",
       "widget_title": "Cheetos peynir keyfini ne zaman başlattı?",
       "hook": "O turuncu parmakları ve unutulmaz peynir tadını kim sevmez ki?",
@@ -642,7 +532,7 @@
     },
     {
       "id": "Q487338",
-      "date": "2026-11-30",
+      "date": "2026-11-25",
       "category": "gida-icecek",
       "widget_title": "Serinletici Mojito kokteyli ilk kez ne zaman yapıldı?",
       "hook": "Küba'nın sıcak ikliminden doğan bu tazeleyici içecek, tarihin hangi noktasında bardaklarımıza konuk oldu?",
@@ -661,6 +551,116 @@
         "https://en.wikipedia.org/wiki/Mojito"
       ],
       "wikidata_qid": "Q487338"
+    },
+    {
+      "id": "Q4883072",
+      "date": "2026-11-26",
+      "category": "gida-icecek",
+      "widget_title": "Bell's viski efsanesi ne zaman başladı?",
+      "hook": "İskoçya'nın bereketli topraklarından çıkan bu harman viski, kadehlerimize ilk ne zaman konuk oldu dersiniz?",
+      "answer_year": 1851,
+      "year_precision": "year",
+      "guess_range": [
+        1750,
+        1930
+      ],
+      "body": "Bugün dünyanın dört bir yanında keyifle yudumlanan Bell's İskoç Viskisi, tarihiyle de oldukça köklü bir geçmişe sahip. İlk olarak 1851 yılında Arthur Bell'in öncülüğünde harmanlanmaya başlanan bu özel içecek, kısa sürede büyük bir üne kavuştu. [DOĞRULA: Arthur Bell'in viski işine girişinin kesin tarihi ve şirketin kuruluşu hakkında daha detaylı bilgi.] Başlangıçta Perth'te küçük bir işletme olarak faaliyet gösteren Arthur Bell, zamanla harmanlama sanatındaki ustalığıyla tanındı. Bell's, temelde bir \"harman viski\" olmasıyla öne çıkar. Bu, farklı malt ve tahıl viskilerinin ustaca bir araya getirilmesiyle elde edildiği anlamına gelir; yani tek bir damıtımevinden çıkan viskiden ziyade, farklı karakterdeki viskilerin mükemmel bir denge içinde buluşmasıdır. Arthur Bell, bu dengeyi yakalamadaki yeteneği sayesinde markasını hızla büyüttü ve viskinin sadece tek bir tadı olmadığını kanıtladı. Özellikle Birleşik Krallık'ta büyük bir popülerlik kazanan Bell's, zamanla uluslararası arenada da adından söz ettirdi. Günümüzde hala İskoçya'nın geleneksel viski üretim mirasını taşıyan Bell's, kendine has karakteri ve yumuşak içimiyle viski severlerin favorilerinden biri olmaya devam ediyor. Bu özel içeceğin uzun ve zengin tarihi, onu sadece bir viskiden öte, İskoçya'nın kültürel bir parçası haline getiriyor.",
+      "fun_fact": "Bell's'in kurucusu Arthur Bell, viski işine başlamadan önce bir çay ve şarap tüccarıydı. [DOĞRULA: Arthur Bell'in viski işine başlamadan önceki mesleki geçmişi.]",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4883072",
+        "https://tr.wikipedia.org/wiki/Bell%27s",
+        "https://en.wikipedia.org/wiki/Bell%27s_whisky"
+      ],
+      "wikidata_qid": "Q4883072"
+    },
+    {
+      "id": "Q502268",
+      "date": "2026-11-27",
+      "category": "gida-icecek",
+      "widget_title": "Ünlü İskoç viskisi Johnnie Walker'ın hikayesi ne zaman başladı?",
+      "hook": "Bir asırdan fazla süredir tüm dünyada keyifle yudumlanan bu ikonik viskinin kökenleri sizi şaşırtabilir.",
+      "answer_year": 1820,
+      "year_precision": "year",
+      "guess_range": [
+        1720,
+        1900
+      ],
+      "body": "Bugün dünyanın dört bir yanında kadehleri dolduran efsanevi Johnnie Walker viskisinin hikayesi, aslında çok daha mütevazı bir başlangıca dayanıyor. Yıl 1820'yi gösterdiğinde, İskoçya'nın Kilmarnock kasabasında genç bir çiftçi oğlu olan John Walker, babasının vefatının ardından ailesinin çiftliğini satarak bir bakkal dükkanı açtı. O dönemde viskiler genellikle tek malt olarak satılıyor ve kaliteleri pek de tutarlı olmuyordu. John, müşterilerine daha iyi bir deneyim sunmak amacıyla, tıpkı dükkanında sattığı çaylar gibi, farklı viskileri karıştırarak kendi harmanını yaratmaya başladı. Bu, gelecekte tüm dünyayı fethedecek bir markanın ilk adımlarıydı.\n\nBaşlangıçta \"Walker's Kilmarnock Whisky\" olarak bilinen bu özel harman, John'un oğlu Alexander Walker sayesinde gerçek potansiyeline ulaştı. Alexander, markanın uluslararası arenada tanınmasını sağlayan en önemli adımları attı. İkonik kare şişe tasarımı ve etiketin 24 derecelik açıyla yapıştırılması da onun dehasının bir ürünüydü; bu sayede şişeler nakliye sırasında daha az kırılıyor ve sandıklara daha fazla ürün sığıyordu. Markanın alameti farikası haline gelen \"Yürüyen Adam\" (Striding Man) logosu ise [DOĞRULA: 1908 yılında mı?] Thomas Browne adında bir karikatürist tarafından yaratıldı ve markanın ileriye dönük, dinamik ruhunu mükemmel bir şekilde yansıttı. Johnnie Walker, sadece bir viski markası değil, aynı zamanda azim, yenilikçilik ve küresel bir başarı hikayesinin de sembolü haline geldi.",
+      "fun_fact": "Johnnie Walker'ın kare şişesi ve eğik etiketi, başlangıçta nakliyeyi kolaylaştırmak ve daha fazla şişenin sandıklara sığmasını sağlamak için tasarlanmıştır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q502268",
+        "https://tr.wikipedia.org/wiki/Johnnie_Walker",
+        "https://en.wikipedia.org/wiki/Johnnie_Walker"
+      ],
+      "wikidata_qid": "Q502268"
+    },
+    {
+      "id": "Q542594",
+      "date": "2026-11-28",
+      "category": "gida-icecek",
+      "widget_title": "Angostura Bitters'ın efsanevi yolculuğu ne zaman başladı?",
+      "hook": "Barmenlerin sırrı, kokteyllerin ruhu Angostura Bitters'ın ilginç hikayesini hiç merak ettiniz mi?",
+      "answer_year": 1824,
+      "year_precision": "year",
+      "guess_range": [
+        1720,
+        1900
+      ],
+      "body": "Kokteyllerin ve yemeklerin vazgeçilmez lezzetlendiricisi Angostura Bitters, aslında bir ilaç olarak doğdu! Hikaye, 1824 yılında, o zamanlar Gran Colombia'nın bir parçası olan Venezuela'nın Angostura şehrinde başlıyor. Alman cerrah Dr. Johann Gottlieb Benjamin Siegert, askerler için mide rahatsızlıklarını gidermeye yardımcı olacak bir tonik geliştirmek amacıyla bitkisel bir formül üzerinde çalışıyordu. Bu özel karışım, kısa sürede bölgede 'Dr. Siegert'in Bitters'ı' olarak ün saldı.\n\nBaşlangıçta tıbbi amaçla kullanılan bu eşsiz iksir, zamanla barmenlerin dikkatini çekti ve kokteyllerin gizli kahramanı haline geldi. Margarita'dan Old Fashioned'a, Negroni'den Manhattan'a kadar pek çok klasik kokteylde birkaç damla Angostura Bitters, lezzeti bir üst seviyeye taşıyor, denge ve derinlik katıyor.\n\nAngostura Bitters'ı raflarda gördüğünüzde dikkatinizi çeken ilk şey, muhtemelen şişeye oranla oldukça büyük duran etiketi olacaktır. Bu, aslında bir baskı hatası mı, yoksa pazarlama stratejisi mi? Efsaneye göre, üretim hızla artarken, etiket ve şişe siparişleri karıştırılmış. Ancak bu 'hata' o kadar benimsenmiş ki, ürünün ikonik bir parçası haline gelmiş ve kasıtlı olarak bu şekilde devam ettirilmiş. Dolayısıyla, bu devasa etiket, aslında markanın kimliğinin ta kendisi! Günümüzde Trinidad ve Tobago'da üretilen Angostura Bitters, dünyanın dört bir yanındaki barların ve mutfakların vazgeçilmezi olmaya devam ediyor.",
+      "fun_fact": "Angostura Bitters'ın tarifinin, dünyada sadece birkaç kişi tarafından bilinen sıkı bir sır olarak saklandığını biliyor muydunuz?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q542594",
+        "https://tr.wikipedia.org/wiki/Angostura_Bitters",
+        "https://en.wikipedia.org/wiki/Angostura_bitters"
+      ],
+      "wikidata_qid": "Q542594"
+    },
+    {
+      "id": "Q5713678",
+      "date": "2026-11-29",
+      "category": "gida-icecek",
+      "widget_title": "Hendrick's Gin kadehlerimize ne zaman doldu?",
+      "hook": "Salatalık ve gülün eşsiz uyumuyla bilinen bu ikonik cin, dünya sahnesine ne zaman çıktı dersiniz?",
+      "answer_year": 1999,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Cin denince aklımıza ilk gelenlerden biri haline gelen Hendrick's, aslında sandığınızdan daha genç bir tarihe sahip. 1999 yılında piyasaya sürülen bu özel içki, o döneme kadar bildiğimiz cin algısını kökten değiştirdi. Geleneksel aromaların ötesine geçerek salatalık ve gül esanslarını damıtma sürecine dahil etmesiyle, kendine bambaşka bir yer edindi. İskoçya'nın güneybatı kıyısındaki Girvan kasabasında, [DOĞRULA: William Grant & Sons damıtımevinde mi üretiliyor?] küçük partiler halinde üretilen Hendrick's, iki farklı imbikte damıtılıyor: eski bir Carter-Head Still ve bir pot still. Bu iki farklı imbikten gelen ruhların harmanlanması, ona o eşsiz pürüzsüzlüğü ve karmaşık tadı veriyor. Markanın yaratıcıları, Viktorya döneminin eksantrik ruhundan ilham aldıklarını ve \"garip ama harika\" bir cin yaratmayı hedeflediklerini belirtiyorlar. Kısa sürede cin severlerin favorisi haline gelen Hendrick's, barların menülerine girmesiyle birlikte, cin kokteyllerine de yepyeni bir soluk getirdi. Özellikle salatalık dilimiyle servis edilmesi, onun imza sunumu haline geldi ve diğer cin markalarını da farklılaşmaya teşvik etti.",
+      "fun_fact": "Hendrick's'in karanlık renkli, Viktorya dönemi eczacı şişesini andıran tasarımı, içeriğindeki gizemli iksiri çağrıştırmak için özel olarak seçilmiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5713678",
+        "https://tr.wikipedia.org/wiki/Hendrick%27s",
+        "https://en.wikipedia.org/wiki/Hendrick%27s_Gin"
+      ],
+      "wikidata_qid": "Q5713678"
+    },
+    {
+      "id": "Q578473",
+      "date": "2026-11-30",
+      "category": "gida-icecek",
+      "widget_title": "Bu Lezzet Bombası Kapsalon Ne Zaman Ortaya Çıktı?",
+      "hook": "Hollanda'dan tüm dünyaya yayılan bu katmanlı lezzet bombası, mutfak sahnesine ne zaman çıktı dersiniz?",
+      "answer_year": 2003,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Hollanda'nın en sevilen 'suçlu zevk' yemeklerinden biri olan Kapsalon, patates kızartması, döner veya şavurma eti, eritilmiş Gouda peyniri, salata (genellikle marul, domates, salatalık) ve bol sarımsak sosunun katmanlar halinde birleştiği, genellikle alüminyum bir tepside sunulan doyurucu bir şölendir. Adı Hollandaca'da 'kuaför salonu' anlamına gelen bu yemeğin ardındaki hikaye, sandığınızdan çok daha yeni.\n\nKapsalon'un bu dünyaya gelişi 2003 yılına dayanıyor. Evet, yanlış duymadınız, bu lezzetli karışım sadece yirmi küsur yıllık bir geçmişe sahip! Rivayete göre, Rotterdam'da bir kuaför salonunun sahibi olan Nathaniel Gomes [DOĞRULA: Kapsalon'u ilk sipariş eden kişinin adı ve mesleği], öğle yemeğinde dönerciye gidip favori malzemelerini özel bir kapta bir araya getirmesini istedi. Dönerci de bu özel isteği yerine getirdi ve ortaya Kapsalon çıktı. Orijinal yaratıcısı tam olarak bilinmese de, bu 'birleştirme' fikrinin Hollanda fast food dünyasını kökten değiştirdiği kesin. Kısa sürede Rotterdam'dan tüm Hollanda'ya yayılan Kapsalon, hem pratikliği hem de doyuruculuğuyla öğrencilerin, gece dışarı çıkanların ve lezzetli bir kaçamak arayan herkesin favorisi haline geldi. Modern bir klasik desek yeri!",
+      "fun_fact": "Bir porsiyon Kapsalon'un ağırlığı bazen bir kilogramı bulabilir, bu da onu tek kişilik bir ziyafet haline getirir!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q578473",
+        "https://tr.wikipedia.org/wiki/Kapsalon",
+        "https://en.wikipedia.org/wiki/Kapsalon"
+      ],
+      "wikidata_qid": "Q578473"
     }
   ]
 }

@@ -91,48 +91,48 @@
       "wikidata_qid": "Q1049501"
     },
     {
-      "id": "Q1126741",
+      "id": "Q163700",
       "date": "2026-09-05",
       "category": "giyim",
-      "widget_title": "Agamemnon'un Maskesi ne zaman keşfedildi?",
-      "hook": "Altın rengiyle göz kamaştıran bu maske, adını Truva Savaşı'nın efsanevi kahramanından alıyor. Ama gerçekten ona mı ait?",
-      "answer_year": 1876,
+      "widget_title": "Fransa'nın en prestijli nişanı ne zaman kuruldu?",
+      "hook": "Fransız İhtilali'nin ardından birliği sağlamak ve liyakati ödüllendirmek için tasarlanan bu sembol, bugün bile dünya çapında saygı görüyor.",
+      "answer_year": 1802,
       "year_precision": "day",
       "guess_range": [
-        1770,
-        1950
+        1700,
+        1880
       ],
-      "body": "Miken'in kraliyet mezarlarından çıkan bu muhteşem eser, 1876 yılında Alman arkeolog Heinrich Schliemann tarafından gün ışığına çıkarıldı. Schliemann, o dönemde [DOĞRULA: Schliemann'ın kazılarının resmi denetimi hakkında bilgi] denetiminde kazılarını yürütüyordu ve bu keşifle adeta bir tarih hazinesini ortaya çıkardığını düşünüyordu. Maskeyi bulduğunda, heyecanla Yunanistan Kralı'na bir telgraf çekerek 'Agamemnon'un yüzüne baktığını' söylemişti. Gerçekten de, Truva Savaşı'nın efsanevi komutanı Agamemnon'a atfedilmesi, bu maskeye inanılmaz bir ün kazandırdı. Ancak modern arkeolojik çalışmalar, maskenin MÖ 16. yüzyıla, yani Schliemann'ın düşündüğünden çok daha eski bir döneme ait olduğunu gösteriyor. Bu da Agamemnon'un yaşamış olabileceği düşünülen dönemden çok daha eski. Yani evet, adı 'Agamemnon'un Maskesi' olarak kalsa da, aslında başka bir Miken kralına ya da önemli bir kişiye ait olduğu düşünülüyor. Beş altın maskeden sadece biri olan bu eser, ölen kişinin yüzüne yerleştirilen ve altın varaktan yapılmış muhteşem bir cenaze maskesi.",
-      "fun_fact": "Maskenin üzerinde, dönemin ustalarının muazzam işçiliğini gösteren ince detaylar ve hatta bir bıyık figürü bulunuyor.",
+      "body": "\"Légion d'honneur\" veya \"Onur Lejyonu\", Fransa'nın en yüksek dereceli sivil ve askeri nişanı olarak 1802 yılında kuruldu. Bu prestijli ödül, çalkantılı Fransız İhtilali sonrasında ülkeyi yeniden birleştirmeyi ve hem askerî hem de sivil alanda üstün başarı gösteren kişileri ödüllendirmeyi amaçlıyordu. Kurucusu, Fransa İmparatoru Napolyon Bonapart'tı. Napolyon, krallık dönemindeki eski şövalyelik nişanlarının yerine geçecek, soyluluğa değil, liyakate dayalı yeni bir ödül sistemi yaratmak istiyordu. Bu nişan, devrimin getirdiği eşitlik ruhunu korurken, ulusal bir kimlik ve gurur aracı olarak tasarlandı.\n\nNapolyon, [DOĞRULA: savaş sırasında gösterilen kahramanlıkların ve sivil alandaki olağanüstü hizmetlerin takdir edilmesi gerektiğine inanıyordu.] Onur Lejyonu, bu inancın bir yansıması olarak doğdu ve kısa sürede ülkenin en saygın nişanı haline geldi. İlk başta beş farklı rütbeden oluşuyordu: Şövalye, Subay, Komutan, Büyük Subay ve Büyük Haç. Bu yapı, küçük değişikliklerle günümüze kadar korunmuştur. Nişanın sembolü olan kırmızı kurdele ve haç şeklindeki madalya, zamanla Fransa'nın ulusal sembollerinden biri haline geldi ve Fransa'nın değerlerini temsil etti.\n\nBugün bile \"Onur Lejyonu\", yalnızca Fransız vatandaşlarına değil, Fransa'ya veya evrensel değerlere önemli katkılarda bulunmuş yabancılara da veriliyor. Bu, onu uluslararası alanda tanınan ve saygı duyulan bir sembol haline getiriyor. Onur Lejyonu'nu almak, bir bireyin kendi alanında ulaştığı en yüksek seviyelerden birini temsil eder ve iki yüzyılı aşkın süredir Fransız kimliğinin ayrılmaz bir parçası olmuştur.",
+      "fun_fact": "Onur Lejyonu'nun ana merkezi, Paris'teki tarihi Salm Sarayı'nda bulunuyor.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1126741",
-        "https://tr.wikipedia.org/wiki/Agamemnon_maskesi",
-        "https://en.wikipedia.org/wiki/Mask_of_Agamemnon"
+        "https://www.wikidata.org/wiki/Q163700",
+        "https://tr.wikipedia.org/wiki/L%C3%A9gion_d%27honneur",
+        "https://en.wikipedia.org/wiki/Legion_of_Honour"
       ],
-      "wikidata_qid": "Q1126741"
+      "wikidata_qid": "Q163700"
     },
     {
-      "id": "Q1370184",
+      "id": "Q139032",
       "date": "2026-09-06",
       "category": "gunluk-nesneler",
-      "widget_title": "Bilgisayar destekli tasarımın öncüsü Sketchpad ne zaman doğdu?",
-      "hook": "Eğer bir bilgisayarla çizim yapmanın ne kadar doğal hissettirebileceğini hiç düşündüyseniz, bu sorunun cevabı sizi modern bilgisayar grafiklerinin temellerine götürecek.",
+      "widget_title": "Ommaya rezervuarı ne zaman icat edildi?",
+      "hook": "Beynimize ilaç göndermek sizce ne kadar zorlu bir iş olabilir?",
       "answer_year": 1963,
       "year_precision": "year",
       "guess_range": [
         1860,
         2026
       ],
-      "body": "Sketchpad, 1963 yılında ortaya çıkan ve bilgisayar grafiklerinin temelini atan devrim niteliğinde bir yazılımdı. [DOĞRULA: Genellikle Ivan Sutherland'ın MIT'deki tez çalışması olarak bilinen Sketchpad'in asıl geliştiricisi veya ekibi hakkında detaylar.] Bu program, interaktif bilgisayar grafiklerinin ve CAD (Bilgisayar Destekli Tasarım) yazılımlarının adeta büyükbabası sayılır. Sketchpad'den önce bilgisayarlar devasa, oda büyüklüğünde makinelerdi ve genellikle sadece karmaşık hesaplamalar için kullanılırdı; görsel arayüzler ve kullanıcıların doğrudan manipülasyon yapabildiği kavramlar neredeyse yoktu. Geliştiricileri, dönemin yeni teknolojisi olan ışıklı kalem (light pen) kullanarak ekranda doğrudan çizim yapma, var olan objeleri taşıma, kopyalama ve hatta ölçeklendirme gibi işlemleri mümkün kıldı. Bu o kadar çığır açıcıydı ki, kullanıcıların bir objeyi \"seçip\" onu sürükleyebildiği, üzerinde değişiklik yapabildiği ilk gerçek anlamda etkileşimli grafik arayüzlerinden biriydi. Bir kare çizdiğinizi ve sonra onu kolayca çoğaltıp, döndürüp veya boyutunu değiştirebildiğinizi hayal edin; bu, o dönem için bilim kurgu gibiydi. Bu özellikler, mühendislikten mimariye, ürün tasarımından haritacılığa kadar pek çok alanda tasarım süreçlerini sonsuza dek değiştirecek devasa bir potansiyele sahipti. Sketchpad, aynı zamanda objeler arasındaki geometrik kısıtlamaları (örneğin, iki çizginin paralel kalması, bir açının sabit kalması gibi) koruyabilen ilk sistemlerden biriydi, ki bu, modern CAD programlarının vazgeçilmez bir temel özelliğidir. Bu yazılım, günümüzün tüm grafik tabanlı kullanıcı arayüzlerinin ve sanal gerçeklik çalışmalarının da erken bir tohumu olarak kabul edilir. [DOĞRULA: Sketchpad'in tam olarak hangi üniversite veya laboratuvarda geliştirildiği ve hangi bilgisayar sistemi üzerinde çalıştığı bilgisi.]",
-      "fun_fact": "Sketchpad, kullanıcıların bir nesnenin kopyasını oluşturup, orijinal nesne üzerinde yapılan bir değişikliğin kopyasında da otomatik olarak güncellenmesini sağlayan bir özelliğe sahipti; bu, şimdiki \"instance\" kavramının erken bir örneğiydi!",
+      "body": "Beyin veya omuriliğe ilaç ulaştırmak, tıp dünyasının karşılaştığı en karmaşık zorluklardan biriydi. Doğrudan hedefe ulaşmak hem ilaçların etkinliğini artırmak hem de sistemik yan etkileri azaltmak açısından kritikti. İşte tam da bu noktada, 1963 yılında Pakistan asıllı Amerikalı nörocerrah Ayub K. Ommaya'nın geliştirdiği Ommaya rezervuarı, tıp tarihinde önemli bir dönüm noktası oldu.\n\nBu küçük ama güçlü cihaz, temelde kafa derisinin altına, genellikle saçlı derinin altına yerleştirilen kubbe şeklinde, esnek bir rezervuardan ve beyin veya omurilik sıvısına (BOS) uzanan ince bir kateterden oluşur. Doktorlar, rezervuara dışarıdan iğneyle erişerek doğrudan BOS içine ilaç verebilir veya BOS örneği alabilirler. Bu yöntem, özellikle kan-beyin bariyerini geçmekte zorlanan kemoterapi ilaçlarının beyin tümörleri gibi hedeflere etkili bir şekilde ulaştırılmasını sağladı.\n\nOmmaya rezervuarı sayesinde, daha önce erişilmesi zor olan bölgelere defalarca invaziv işlem yapma ihtiyacı ortadan kalktı. Kanser tedavisinde kemoterapi, bazı enfeksiyonların tedavisinde antibiyotikler veya ağrı yönetimi için ilaçların doğrudan verilmesi gibi hayati uygulamalar için vazgeçilmez bir araç haline geldi. Aynı zamanda, tanı ve tedavi takibinde önemli rol oynayan beyin omurilik sıvısı (BOS) örneği almak için de sıkça kullanılır. Dr. Ommaya'nın bu yeniliği, hastaların yaşam kalitesini artırma ve daha etkili tedavi yöntemleri geliştirme konusunda büyük bir adım oldu ve günümüzde hala yaygın olarak kullanılmaktadır.",
+      "fun_fact": "Ommaya rezervuarı, kranial boşluğa uzun süreli ve tekrar eden erişim sağlayan ilk kalıcı subkutan cihazlardan biriydi.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q1370184",
-        "https://tr.wikipedia.org/wiki/Sketchpad",
-        "https://en.wikipedia.org/wiki/Sketchpad"
+        "https://www.wikidata.org/wiki/Q139032",
+        "https://tr.wikipedia.org/wiki/Ommaya_rezervuar",
+        "https://en.wikipedia.org/wiki/Ommaya_reservoir"
       ],
-      "wikidata_qid": "Q1370184"
+      "wikidata_qid": "Q139032"
     },
     {
       "id": "Q1051149",
@@ -157,48 +157,48 @@
       "wikidata_qid": "Q1051149"
     },
     {
-      "id": "Q1514666",
+      "id": "Q17231052",
       "date": "2026-09-08",
       "category": "giyim",
-      "widget_title": "Kadınlara özel Şefkat Nişanı hangi yıl ihdas edildi?",
-      "hook": "Kadınların hayırseverlik ve sosyal hizmetlerdeki rolünü onurlandırmak için Osmanlı'da özel bir nişan tasarlandığını biliyor muydunuz?",
-      "answer_year": 1878,
-      "year_precision": "year",
+      "widget_title": "N95 maskesi ne zaman ortaya çıktı?",
+      "hook": "Pandemilerde en büyük kurtarıcılarımızdan biri olan N95 maskesi, aslında düşündüğümüzden daha yakın bir geçmişe sahip olabilir mi?",
+      "answer_year": 1995,
+      "year_precision": "day",
       "guess_range": [
-        1770,
-        1950
-      ],
-      "body": "Tarih 1878'i gösterdiğinde, Osmanlı İmparatorluğu'nda çok özel bir nişan ortaya çıktı: Şefkat Nişanı. Bu nişan, Sultan II. Abdülhamid tarafından, özellikle 93 Harbi (1877-1878 Osmanlı-Rus Savaşı) sırasında ve sonrasında, insani yardım ve sosyal hizmetlerde olağanüstü çaba gösteren Müslüman ve gayrimüslim kadınları onurlandırmak amacıyla tesis edildi. O dönemde savaşın yarattığı büyük acılar ve göç dalgasıyla mücadele eden kadınlar, cephe gerisinde ve hastanelerde büyük bir fedakarlıkla çalıştılar.\n\nŞefkat Nişanı, genel olarak pembe kurdeleli bir madalyon şeklinde tasvir edilir ve üzerinde padişahın tuğrası ile birlikte \"insaniyet\" ve \"yardımseverlik\" gibi erdemleri simgeleyen motifler bulunurdu. Nişanın farklı dereceleri vardı ve bu dereceler madalyonun boyutu veya üzerindeki değerli taşlarla ayırt edilebilirdi. Bu nişan, sadece bir süs eşyası olmaktan öte, kadınların toplumsal hayattaki görünürlüğünü ve katkılarını resmi olarak tanıyan önemli bir sembol haline geldi. Osmanlı İmparatorluğu'nda kadınlara yönelik bu türden bir resmi onurlandırma, o dönemin şartlarında oldukça yenilikçi ve ileri görüşlü bir adımdı. Nişan, imparatorluğun sonuna kadar varlığını sürdürdü ve birçok değerli kadına takdim edildi.",
-      "fun_fact": "Şefkat Nişanı, Osmanlı İmparatorluğu'nda kadınlara verilen ilk ve tek özel nişandı.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1514666",
-        "https://tr.wikipedia.org/wiki/%C5%9Eefkat_Ni%C5%9Fan%C4%B1",
-        "https://en.wikipedia.org/wiki/Order_of_Charity"
-      ],
-      "wikidata_qid": "Q1514666"
-    },
-    {
-      "id": "Q139032",
-      "date": "2026-09-09",
-      "category": "gunluk-nesneler",
-      "widget_title": "Ommaya rezervuarı ne zaman icat edildi?",
-      "hook": "Beynimize ilaç göndermek sizce ne kadar zorlu bir iş olabilir?",
-      "answer_year": 1963,
-      "year_precision": "year",
-      "guess_range": [
-        1860,
+        1890,
         2026
       ],
-      "body": "Beyin veya omuriliğe ilaç ulaştırmak, tıp dünyasının karşılaştığı en karmaşık zorluklardan biriydi. Doğrudan hedefe ulaşmak hem ilaçların etkinliğini artırmak hem de sistemik yan etkileri azaltmak açısından kritikti. İşte tam da bu noktada, 1963 yılında Pakistan asıllı Amerikalı nörocerrah Ayub K. Ommaya'nın geliştirdiği Ommaya rezervuarı, tıp tarihinde önemli bir dönüm noktası oldu.\n\nBu küçük ama güçlü cihaz, temelde kafa derisinin altına, genellikle saçlı derinin altına yerleştirilen kubbe şeklinde, esnek bir rezervuardan ve beyin veya omurilik sıvısına (BOS) uzanan ince bir kateterden oluşur. Doktorlar, rezervuara dışarıdan iğneyle erişerek doğrudan BOS içine ilaç verebilir veya BOS örneği alabilirler. Bu yöntem, özellikle kan-beyin bariyerini geçmekte zorlanan kemoterapi ilaçlarının beyin tümörleri gibi hedeflere etkili bir şekilde ulaştırılmasını sağladı.\n\nOmmaya rezervuarı sayesinde, daha önce erişilmesi zor olan bölgelere defalarca invaziv işlem yapma ihtiyacı ortadan kalktı. Kanser tedavisinde kemoterapi, bazı enfeksiyonların tedavisinde antibiyotikler veya ağrı yönetimi için ilaçların doğrudan verilmesi gibi hayati uygulamalar için vazgeçilmez bir araç haline geldi. Aynı zamanda, tanı ve tedavi takibinde önemli rol oynayan beyin omurilik sıvısı (BOS) örneği almak için de sıkça kullanılır. Dr. Ommaya'nın bu yeniliği, hastaların yaşam kalitesini artırma ve daha etkili tedavi yöntemleri geliştirme konusunda büyük bir adım oldu ve günümüzde hala yaygın olarak kullanılmaktadır.",
-      "fun_fact": "Ommaya rezervuarı, kranial boşluğa uzun süreli ve tekrar eden erişim sağlayan ilk kalıcı subkutan cihazlardan biriydi.",
+      "body": "N95 maskesi, özellikle son yıllarda yaşadığımız küresel salgınlarla birlikte adını tüm dünyaya duyuran, neredeyse herkesin tanıdığı bir yüz koruyucusu haline geldi. Peki, bu denli hayati bir koruyucunun tarihi ne kadar eskiye dayanıyor? Pek çok kişi onun son pandemilerle birlikte hayatımıza girdiğini düşünse de, aslında \"N95\" adlandırması çok daha erken, tam olarak 1995 yılında şekillendi.\n\nAslında N95, bir markanın adı olmaktan ziyade, Amerika Birleşik Devletleri Ulusal İş Sağlığı ve Güvenliği Enstitüsü (NIOSH) tarafından belirlenen bir performans standardını ifade eder. Bu standart, maskenin havadaki en az %95 oranındaki 0,3 mikron boyutundaki partikülleri filtreleyebildiğini gösterir. Bu, N95'i sadece büyük damlacıklardan değil, aynı zamanda virüsler ve bakteriler gibi çok daha küçük aerosollerden korunmada etkili kılar.\n\nElbette, insanlık tarihi boyunca nefes yoluyla bulaşan hastalıklardan veya tozdan korunma çabaları hep oldu. [DOĞRULA: Venedik veba doktorlarının gagalı maskeleri gibi erken örnekler verilebilir mi?] [DOĞRULA: Endüstriyel devrimle birlikte madencilik ve diğer kirli iş kollarında kullanılan ilk filtreli maske prototipleri ne zaman ortaya çıktı?] Ancak 1995 yılındaki NIOSH düzenlemesi, bu koruyucu ekipmanların belirli ve ölçülebilir bir performansa sahip olmasını sağlayarak, işçi sağlığı ve halk sağlığı alanında önemli bir dönüm noktasını işaret etti. Bu tarihten itibaren N95, sadece bir koruma aracı değil, aynı zamanda güvenilirliğin ve etkinliğin bir sembolü haline geldi. O günden bu yana, sağlık çalışanlarından inşaat işçilerine kadar pek çok farklı sektörde güvenle kullanılmaya devam ediyor.",
+      "fun_fact": "N95 maskelerindeki 'N' harfi 'yağa dayanıklı değil' (Not resistant to oil) anlamına gelirken, '95' sayısı ise havadaki partiküllerin en az %95'ini filtreleme kapasitesini ifade eder.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q139032",
-        "https://tr.wikipedia.org/wiki/Ommaya_rezervuar",
-        "https://en.wikipedia.org/wiki/Ommaya_reservoir"
+        "https://www.wikidata.org/wiki/Q17231052",
+        "https://tr.wikipedia.org/wiki/N95_maske",
+        "https://en.wikipedia.org/wiki/N95_respirator"
       ],
-      "wikidata_qid": "Q139032"
+      "wikidata_qid": "Q17231052"
+    },
+    {
+      "id": "Q4781198",
+      "date": "2026-09-09",
+      "category": "gunluk-nesneler",
+      "widget_title": "Apple Bilgisayar Faresi ne zaman tanıtıldı?",
+      "hook": "Bilgisayar dünyasında bir devrim yaratan, o ikonik tek tuşlu farenin Apple macerası ne zaman başladı?",
+      "answer_year": 1983,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Fare denince aklımıza gelen ilk markalardan biri Apple olsa da, bilgisayar faresinin kendisi aslında Apple tarafından icat edilmedi. Farenin ilk konsepti ve prototipleri 1960'lı yıllarda Douglas Engelbart liderliğindeki ekip tarafından ortaya konuldu ve daha sonra Xerox PARC'ta geliştirildi. Ancak fareyi geniş kitlelere ulaştıran, sade ve kullanıcı dostu bir arayüz aracı haline getiren şirketlerden biri kesinlikle Apple oldu.\n\nApple'ın kendi fare macerası ise 1983 yılında, şirketin dönemin ileri teknolojili ancak ticari olarak çok başarılı olamayan Lisa bilgisayarı ile başladı. İşte bu tarihte, kullanıcıların ekranla etkileşimini kökten değiştiren o tek tuşlu, sade Apple faresi sahneye çıktı. Lisa ile gelen fare, o dönemdeki diğer farelerin daha karmaşık ve çok tuşlu tasarımlarına kıyasla dikkat çekici bir sadeliğe sahipti. Amacı, herkesin kolayca kullanabileceği bir arayüz sağlamaktı.\n\nKısa bir süre sonra, 1984'te tanıtılan efsanevi Macintosh ile birlikte gelerek adeta simgeleşti. Macintosh'un grafiksel kullanıcı arayüzü (GUI) ile fare, bilgisayar kullanımını çok daha sezgisel ve erişilebilir hale getirdi. Apple'ın bu tek tuşlu tasarımı, yıllarca şirketin felsefesini yansıtan bir imza niteliği taşıdı ve modern farelerin evriminde önemli bir dönüm noktası oldu.",
+      "fun_fact": "Apple'ın ilk faresi, maliyeti düşük tutmak ve üretimini kolaylaştırmak amacıyla tek tuşlu olarak tasarlandı ve bu sadelik aynı zamanda bir tasarım felsefesine dönüştü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4781198",
+        "https://tr.wikipedia.org/wiki/Apple_Bilgisayar_Faresi",
+        "https://en.wikipedia.org/wiki/Apple_pointing_devices"
+      ],
+      "wikidata_qid": "Q4781198"
     },
     {
       "id": "Q1068671",
@@ -223,48 +223,48 @@
       "wikidata_qid": "Q1068671"
     },
     {
-      "id": "Q163700",
+      "id": "Q41898",
       "date": "2026-09-11",
       "category": "giyim",
-      "widget_title": "Fransa'nın en prestijli nişanı ne zaman kuruldu?",
-      "hook": "Fransız İhtilali'nin ardından birliği sağlamak ve liyakati ödüllendirmek için tasarlanan bu sembol, bugün bile dünya çapında saygı görüyor.",
-      "answer_year": 1802,
-      "year_precision": "day",
+      "widget_title": "Beş kelimelik bu Latince bulmaca ne zaman ortaya çıktı?",
+      "hook": "Hem ileri hem geri okunan bu beş kelimelik Latince karenin sırrı ne zaman başladı?",
+      "answer_year": 1,
+      "year_precision": "year",
       "guess_range": [
-        1700,
-        1880
+        -100,
+        80
       ],
-      "body": "\"Légion d'honneur\" veya \"Onur Lejyonu\", Fransa'nın en yüksek dereceli sivil ve askeri nişanı olarak 1802 yılında kuruldu. Bu prestijli ödül, çalkantılı Fransız İhtilali sonrasında ülkeyi yeniden birleştirmeyi ve hem askerî hem de sivil alanda üstün başarı gösteren kişileri ödüllendirmeyi amaçlıyordu. Kurucusu, Fransa İmparatoru Napolyon Bonapart'tı. Napolyon, krallık dönemindeki eski şövalyelik nişanlarının yerine geçecek, soyluluğa değil, liyakate dayalı yeni bir ödül sistemi yaratmak istiyordu. Bu nişan, devrimin getirdiği eşitlik ruhunu korurken, ulusal bir kimlik ve gurur aracı olarak tasarlandı.\n\nNapolyon, [DOĞRULA: savaş sırasında gösterilen kahramanlıkların ve sivil alandaki olağanüstü hizmetlerin takdir edilmesi gerektiğine inanıyordu.] Onur Lejyonu, bu inancın bir yansıması olarak doğdu ve kısa sürede ülkenin en saygın nişanı haline geldi. İlk başta beş farklı rütbeden oluşuyordu: Şövalye, Subay, Komutan, Büyük Subay ve Büyük Haç. Bu yapı, küçük değişikliklerle günümüze kadar korunmuştur. Nişanın sembolü olan kırmızı kurdele ve haç şeklindeki madalya, zamanla Fransa'nın ulusal sembollerinden biri haline geldi ve Fransa'nın değerlerini temsil etti.\n\nBugün bile \"Onur Lejyonu\", yalnızca Fransız vatandaşlarına değil, Fransa'ya veya evrensel değerlere önemli katkılarda bulunmuş yabancılara da veriliyor. Bu, onu uluslararası alanda tanınan ve saygı duyulan bir sembol haline getiriyor. Onur Lejyonu'nu almak, bir bireyin kendi alanında ulaştığı en yüksek seviyelerden birini temsil eder ve iki yüzyılı aşkın süredir Fransız kimliğinin ayrılmaz bir parçası olmuştur.",
-      "fun_fact": "Onur Lejyonu'nun ana merkezi, Paris'teki tarihi Salm Sarayı'nda bulunuyor.",
+      "body": "Antik dünyanın en büyüleyici bilmecelerinden biri olan Sator Karesi, sadece beş Latince kelimeden oluşmasına rağmen yüzyıllardır araştırmacıların zihnini meşgul ediyor. Bu gizemli kare, \"SATOR, AREPO, TENET, OPERA, ROTAS\" kelimelerini öyle bir düzenle bir araya getirir ki, ister yukarıdan aşağı, ister aşağıdan yukarı, ister soldan sağa, ister sağdan sola okuyun, sonuç hep aynıdır! Bu palindromik yapı, onu kelime oyunlarının en erken ve en sofistike örneklerinden biri yapar.\n\nSator Karesi'nin ortaya çıkışı [DOĞRULA: Sator Karesi'nin kesin ortaya çıkış tarihi ve ilk bilinen örnekleri], tahminlere göre İsa'dan sonraki ilk yüzyıla, yani yaklaşık MS 1 yılı civarına dayanıyor. En eski örneklerinden bazıları, MS 79'da Vezüv Yanardağı patlamasıyla küller altına gömülen Pompeii'nin duvarlarında bulunmuştur. Bu, karenin o dönemde zaten popüler olduğunu gösterir. Kelimelerin anlamlarına gelince: SATOR 'ekin eken', AREPO'nun anlamı tartışmalı ve [DOĞRULA: 'Arepo' kelimesinin tam anlamı veya kökeni net değil], TENET 'tutar', OPERA 'iş, çaba' ve ROTAS ise 'tekerlekler' veya 'döndürür' anlamına gelir.\n\nPeki, bu kare ne amaçla yapılmıştı? Kimi teorisyenler onu erken Hristiyanlığın gizli bir sembolü olarak görürken, kimileri ise büyülü güçleri olduğuna inanır; yangınları söndürmekten nazardan korumaya kadar çeşitli faydaları olduğuna dair inançlar yaygındır. Ancak belki de en basit açıklama, sadece zekice tasarlanmış bir kelime oyunu, antik dünyanın bir tür \"sudoku\"su olduğudur. Her ne olursa olsun, Sator Karesi hala sırrını koruyor ve bize geçmişin ne kadar karmaşık ve yaratıcı olabileceğini fısıldıyor.",
+      "fun_fact": "Bazı dilbilimciler, Sator Karesi'ndeki harflerin farklı bir düzenlemeyle 'Pater Noster' (Latince 'Babamız') duasını oluşturduğunu iddia eder.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q163700",
-        "https://tr.wikipedia.org/wiki/L%C3%A9gion_d%27honneur",
-        "https://en.wikipedia.org/wiki/Legion_of_Honour"
+        "https://www.wikidata.org/wiki/Q41898",
+        "https://tr.wikipedia.org/wiki/Sator_Karesi",
+        "https://en.wikipedia.org/wiki/Sator_Square"
       ],
-      "wikidata_qid": "Q163700"
+      "wikidata_qid": "Q41898"
     },
     {
-      "id": "Q15122248",
+      "id": "Q5371511",
       "date": "2026-09-12",
       "category": "gunluk-nesneler",
-      "widget_title": "CryptoLocker kabusu ilk ne zaman ortaya çıktı?",
-      "hook": "Bir anda bilgisayarınızı kilitleyip sizden fidye isteyen bu yazılımın hikayesini merak ediyor musunuz?",
-      "answer_year": 2013,
+      "widget_title": "Sanal şarkıcı Gackpoid sahneye ilk ne zaman çıktı?",
+      "hook": "Japon müziğinin sevilen seslerinden Gackpoid'in sahneye çıkış hikayesini merak ediyor musun?",
+      "answer_year": 2008,
       "year_precision": "day",
       "guess_range": [
-        1910,
+        1900,
         2026
       ],
-      "body": "CryptoLocker, dijital dünyada adeta bir kabusun başlangıcı oldu. 2013 yılında ortaya çıktığında, bilgisayar kullanıcılarını şaşkına çeviren ve büyük paniğe yol açan bu kötü amaçlı yazılım, modern siber saldırıların en yıkıcı örneklerinden biriydi. Temelde bir fidye yazılımı (ransomware) olan CryptoLocker, bulaştığı bilgisayarlardaki belgeleri, fotoğrafları ve diğer önemli dosyaları şifreleyerek erişilemez hale getiriyordu. Bir anda tüm dijital hatıralarınızın veya iş dokümanlarınızın kilitlenmesi, birçok kişi için tam anlamıyla bir şok etkisi yaratmıştı.\n\nKilitlenen ekranlarda beliren o fidye mesajı, dosyaları kurtarmak için genellikle belirli bir süre içinde Bitcoin gibi dijital para birimleriyle ödeme yapılmasını talep ediyordu. Bu süre dolduğunda, dosyaların sonsuza dek kaybedileceği tehdidi savruluyordu ki bu da mağdurlar üzerinde büyük bir baskı oluşturuyordu. CryptoLocker'ın yarattığı etki o kadar büyüktü ki, binlerce kişisel bilgisayarın ve şirketin ağının hedef alındığına dair raporlar geliyordu. Siber güvenlik uzmanları ve kolluk kuvvetleri, bu tehdide karşı uluslararası çapta büyük bir mücadele başlattı. [DOĞRULA: Kasım 2013'te ilk kez tespit edilen bu zararlı yazılımın, bir botnet aracılığıyla yayılmaya başladığı belirtiliyor.] [DOĞRULA: Mayıs 2014'te uluslararası bir operasyon olan \"Operation Tovar\" ile CryptoLocker'ın ana altyapısının çökertildiği ve birçok sunucunun ele geçirildiği bilgisi yaygındır.]\n\nBu tür yıkıcı fidye yazılımlarının yayılmasından sonra, düzenli veri yedeklemesinin ve güncel siber güvenlik yazılımlarının kullanılması gibi basit ama etkili önlemlerin önemi bir kez daha acı bir şekilde anlaşıldı. CryptoLocker, dijital çağın getirdiği yeni riskleri ve siber suçluların ne kadar ileri gidebileceğini gösteren, aynı zamanda siber savunma stratejilerimizin gelişiminde de önemli bir dönüm noktasıydı.",
-      "fun_fact": "CryptoLocker, fidyeyi Bitcoin olarak talep eden ilk büyük çaplı zararlı yazılımlardan biriydi ve böylece kripto paraların siber suçlardaki rolünü de bir nevi gözler önüne sermiş oldu.",
+      "body": "Müzik dünyasında sanal karakterlerin, özellikle de Japonya'da, ne kadar popüler olduğunu bilmeyen yoktur. İşte bu sanal dünyadan bize ulaşan, ikonik bir ses bankası olan Gackpoid, 2008 yılında müzikseverlerle buluştu. Peki, Gackpoid kimdir ve hikayesi nedir?\n\nGackpoid, Yamaha'nın geliştirdiği Vocaloid yazılımı için yaratılmış bir ses bankasıdır. Onu özel kılan ve kısa sürede geniş bir hayran kitlesi edinmesini sağlayan şey ise, Japon rock müzisyeni Gackt'ın sesi kullanılarak hazırlanmış olmasıdır. Yani, Gackpoid'in arkasındaki o güçlü ve karakteristik ses, Gackt'a aittir. Bu işbirliği, hem Vocaloid teknolojisinin sınırlarını zorlamış hem de Gackt hayranlarını sanal dünyaya çekmiştir.\n\nVocaloid, kullanıcıların şarkı sözlerini ve melodilerini girerek sanal bir şarkıcının sesini kullanarak şarkı yapmasını sağlayan bir sentezleme yazılımıdır. Gackpoid, bu yazılımın bir parçası olarak çıktığı günden itibaren kendi karakter tasarımı ve ses rengiyle dikkat çekti. [DOĞRULA: Gackpoid'in geliştirici şirketi ve karakter tasarımcısı hakkında daha fazla bilgi eklenebilir mi?] Özellikle Nico Nico Douga gibi platformlarda hayran yapımı şarkılarla ünü hızla yayıldı. Sanatçı Gackt'ın bu projeye dahil olması, Gackpoid'in piyasaya sürülmesini büyük bir heyecanla karşılamasını sağladı.\n\nGackpoid'in çıkışı, Vocaloid evrenine yeni bir boyut kattı ve sanal şarkıcıların popülaritesini daha da artırdı. 2008'den bu yana, hem profesyonel müzisyenler hem de amatör yapımcılar tarafından birçok eserde kullanıldı, hatta kendi konserlerini bile verdi! Sanal bir sesin bu denli gerçek bir etki yaratabilmesi gerçekten şaşırtıcı, değil mi?",
+      "fun_fact": "Gackpoid'in ikonik mor rengi ve samuray zırhına benzer kıyafeti, Japon kültürüne göndermelerle dolu.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q15122248",
-        "https://tr.wikipedia.org/wiki/CryptoLocker",
-        "https://en.wikipedia.org/wiki/CryptoLocker"
+        "https://www.wikidata.org/wiki/Q5371511",
+        "https://tr.wikipedia.org/wiki/Gackpoid",
+        "https://en.wikipedia.org/wiki/Gackpoid"
       ],
-      "wikidata_qid": "Q15122248"
+      "wikidata_qid": "Q5371511"
     },
     {
       "id": "Q1071385",
@@ -289,48 +289,48 @@
       "wikidata_qid": "Q1071385"
     },
     {
-      "id": "Q17231052",
+      "id": "Q599",
       "date": "2026-09-14",
       "category": "giyim",
-      "widget_title": "N95 maskesi ne zaman ortaya çıktı?",
-      "hook": "Pandemilerde en büyük kurtarıcılarımızdan biri olan N95 maskesi, aslında düşündüğümüzden daha yakın bir geçmişe sahip olabilir mi?",
-      "answer_year": 1995,
-      "year_precision": "day",
-      "guess_range": [
-        1890,
-        2026
-      ],
-      "body": "N95 maskesi, özellikle son yıllarda yaşadığımız küresel salgınlarla birlikte adını tüm dünyaya duyuran, neredeyse herkesin tanıdığı bir yüz koruyucusu haline geldi. Peki, bu denli hayati bir koruyucunun tarihi ne kadar eskiye dayanıyor? Pek çok kişi onun son pandemilerle birlikte hayatımıza girdiğini düşünse de, aslında \"N95\" adlandırması çok daha erken, tam olarak 1995 yılında şekillendi.\n\nAslında N95, bir markanın adı olmaktan ziyade, Amerika Birleşik Devletleri Ulusal İş Sağlığı ve Güvenliği Enstitüsü (NIOSH) tarafından belirlenen bir performans standardını ifade eder. Bu standart, maskenin havadaki en az %95 oranındaki 0,3 mikron boyutundaki partikülleri filtreleyebildiğini gösterir. Bu, N95'i sadece büyük damlacıklardan değil, aynı zamanda virüsler ve bakteriler gibi çok daha küçük aerosollerden korunmada etkili kılar.\n\nElbette, insanlık tarihi boyunca nefes yoluyla bulaşan hastalıklardan veya tozdan korunma çabaları hep oldu. [DOĞRULA: Venedik veba doktorlarının gagalı maskeleri gibi erken örnekler verilebilir mi?] [DOĞRULA: Endüstriyel devrimle birlikte madencilik ve diğer kirli iş kollarında kullanılan ilk filtreli maske prototipleri ne zaman ortaya çıktı?] Ancak 1995 yılındaki NIOSH düzenlemesi, bu koruyucu ekipmanların belirli ve ölçülebilir bir performansa sahip olmasını sağlayarak, işçi sağlığı ve halk sağlığı alanında önemli bir dönüm noktasını işaret etti. Bu tarihten itibaren N95, sadece bir koruma aracı değil, aynı zamanda güvenilirliğin ve etkinliğin bir sembolü haline geldi. O günden bu yana, sağlık çalışanlarından inşaat işçilerine kadar pek çok farklı sektörde güvenle kullanılmaya devam ediyor.",
-      "fun_fact": "N95 maskelerindeki 'N' harfi 'yağa dayanıklı değil' (Not resistant to oil) anlamına gelirken, '95' sayısı ise havadaki partiküllerin en az %95'ini filtreleme kapasitesini ifade eder.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q17231052",
-        "https://tr.wikipedia.org/wiki/N95_maske",
-        "https://en.wikipedia.org/wiki/N95_respirator"
-      ],
-      "wikidata_qid": "Q17231052"
-    },
-    {
-      "id": "Q4781198",
-      "date": "2026-09-15",
-      "category": "gunluk-nesneler",
-      "widget_title": "Apple Bilgisayar Faresi ne zaman tanıtıldı?",
-      "hook": "Bilgisayar dünyasında bir devrim yaratan, o ikonik tek tuşlu farenin Apple macerası ne zaman başladı?",
-      "answer_year": 1983,
+      "widget_title": "Kate Middleton'ın gelinliği ne zaman tüm dünyayı büyüledi?",
+      "hook": "Tüm dünyanın nefesini tutarak izlediği o anı hatırlıyor musunuz?",
+      "answer_year": 2011,
       "year_precision": "year",
       "guess_range": [
-        1880,
+        1910,
         2026
       ],
-      "body": "Fare denince aklımıza gelen ilk markalardan biri Apple olsa da, bilgisayar faresinin kendisi aslında Apple tarafından icat edilmedi. Farenin ilk konsepti ve prototipleri 1960'lı yıllarda Douglas Engelbart liderliğindeki ekip tarafından ortaya konuldu ve daha sonra Xerox PARC'ta geliştirildi. Ancak fareyi geniş kitlelere ulaştıran, sade ve kullanıcı dostu bir arayüz aracı haline getiren şirketlerden biri kesinlikle Apple oldu.\n\nApple'ın kendi fare macerası ise 1983 yılında, şirketin dönemin ileri teknolojili ancak ticari olarak çok başarılı olamayan Lisa bilgisayarı ile başladı. İşte bu tarihte, kullanıcıların ekranla etkileşimini kökten değiştiren o tek tuşlu, sade Apple faresi sahneye çıktı. Lisa ile gelen fare, o dönemdeki diğer farelerin daha karmaşık ve çok tuşlu tasarımlarına kıyasla dikkat çekici bir sadeliğe sahipti. Amacı, herkesin kolayca kullanabileceği bir arayüz sağlamaktı.\n\nKısa bir süre sonra, 1984'te tanıtılan efsanevi Macintosh ile birlikte gelerek adeta simgeleşti. Macintosh'un grafiksel kullanıcı arayüzü (GUI) ile fare, bilgisayar kullanımını çok daha sezgisel ve erişilebilir hale getirdi. Apple'ın bu tek tuşlu tasarımı, yıllarca şirketin felsefesini yansıtan bir imza niteliği taşıdı ve modern farelerin evriminde önemli bir dönüm noktası oldu.",
-      "fun_fact": "Apple'ın ilk faresi, maliyeti düşük tutmak ve üretimini kolaylaştırmak amacıyla tek tuşlu olarak tasarlandı ve bu sadelik aynı zamanda bir tasarım felsefesine dönüştü.",
+      "body": "29 Nisan 2011... Dünya, Prens William ile Kate Middleton'ın Westminster Abbey'deki düğününe kilitlenmişti. Ama tüm gözler, Kate'in o an ne giyeceğindeydi. Gelinlik, Sarah Burton'ın Alexander McQueen modaevi için tasarladığı, zarafet ve modernliği harmanlayan bir başyapıttı.\n\nBu ikonik elbise, fildişi rengi saten üzerine dantel işlemelerle bezenmiş, uzun kollu ve V yakalı bir tasarıma sahipti. İngiliz Gülleri, İskoç Devedikenleri, İrlanda Yoncaları ve Galler Nergisleri'ni temsil eden motiflerle süslenmiş danteller, İngiliz kraliyet geleneğini modern bir dokunuşla birleştiriyordu. Bu hassas dantel işçiliği, Royal School of Needlework tarafından titizlikle hazırlandı. Gelinliğin yaklaşık 2 metre 70 santimetrelik tül kuyruğu ise Kate'in yürüyüşüne masalsı bir hava kattı.\n\nKate'in gelinliği, sadece bir düğün elbisesi olmanın ötesine geçti. Anında dünya çapında bir moda ikonuna dönüştü, gelinlik trendlerini derinden etkiledi ve sayısız gelinin hayallerini süsledi. Yıllar geçse de zarafeti ve zamansız güzelliğiyle hatırlanmaya devam eden bu elbise, bir döneme damgasını vuran kültürel bir miras haline geldi. Düğün sonrası bir süre sergilenmesiyle de geniş kitlelerin beğenisine sunuldu.",
+      "fun_fact": "Kate'in gelinliği, Kraliçe Victoria'nın 1840'taki düğününden sonra tarihin en çok taklit edilen gelinliklerinden biri oldu.",
       "image": null,
       "sources": [
-        "https://www.wikidata.org/wiki/Q4781198",
-        "https://tr.wikipedia.org/wiki/Apple_Bilgisayar_Faresi",
-        "https://en.wikipedia.org/wiki/Apple_pointing_devices"
+        "https://www.wikidata.org/wiki/Q599",
+        "https://tr.wikipedia.org/wiki/Kate_Middleton%27%C4%B1n_gelinli%C4%9Fi",
+        "https://en.wikipedia.org/wiki/Wedding_dress_of_Catherine_Middleton"
       ],
-      "wikidata_qid": "Q4781198"
+      "wikidata_qid": "Q599"
+    },
+    {
+      "id": "Q80019",
+      "date": "2026-09-15",
+      "category": "gunluk-nesneler",
+      "widget_title": "Kontrbas ne zaman hayatımıza girdi?",
+      "hook": "Orkestraların dev sesi, caz sahnelerinin vazgeçilmezi kontrbasın derin yankısı ne zamandan beri bizimle?",
+      "answer_year": 1800,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1880
+      ],
+      "body": "Sahnedeki o heybetli duruşuyla, bazen bir orkestranın temeli, bazen de bir caz grubunun ritmik kalbi olan kontrbasın müzik dünyasındaki yolculuğu oldukça ilginç. Yaylı çalgı ailesinin en büyüğü ve en derinden ses vereni olan kontrbasın kesin bir 'icat tarihi' veya tek bir 'mucidi' olmamakla birlikte, modern formuna doğru evrimi 1800'lü yılların başlarında belirginleşmeye başlamıştır.\n\nAslında kontrbas, kendisinden önceki pek çok yaylı enstrümanın, özellikle de viyol familyasından gelen viyolonun büyük kuzeni sayılabilir. Orta Çağ'dan itibaren farklı boyutlarda ve akortlarda bas enstrümanlar kullanıldı. Ancak günümüzdeki şekline, yani dört telli, orkestralarda ve solo performanslarda gördüğümüz formuna ulaşması zaman aldı. 18. yüzyılın sonları ve 19. yüzyılın başları, kontrbasın hem enstrüman yapımı tekniklerinin geliştiği hem de orkestralardaki yerinin sağlamlaştığı bir dönemdi. Bu dönemde boyutları, tellerinin yapısı ve akort sistemleri standartlaşmaya başladı. Bu yüzden, 1800 yılı, kontrbasın bildiğimiz haliyle sahnedeki yerini aldığı, karakteristik özelliklerinin netleştiği bir dönemi işaret ediyor diyebiliriz.\n\nBu büyük enstrüman, o günden bugüne birçok müzik türünde, klasik batı müziğinden caza, folk'tan rock'a kadar kendine sağlam bir yer edinmeyi başardı. [DOĞRULA: Kontrbas çalarken çoğu zaman ayakta durulmasının, enstrümanın büyüklüğü kadar, daha rahat bir çalma pozisyonu sağlamasıyla da ilgili olduğu düşünülür.] Onun derin ve güçlü sesi, müziğe eşsiz bir zenginlik katmaya devam ediyor.",
+      "fun_fact": "Kontrbasın sesi, insan kulağının algılayabileceği en düşük notalardan bazılarını üretebilir, bu da ona müziğe eşsiz bir derinlik katma özelliği verir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q80019",
+        "https://tr.wikipedia.org/wiki/Kontrbas",
+        "https://en.wikipedia.org/wiki/Double_bass"
+      ],
+      "wikidata_qid": "Q80019"
     },
     {
       "id": "Q1090166",
@@ -355,184 +355,8 @@
       "wikidata_qid": "Q1090166"
     },
     {
-      "id": "Q1788876",
-      "date": "2026-09-17",
-      "category": "giyim",
-      "widget_title": "Savaş Liyakat Haçı ne zaman kuruldu?",
-      "hook": "Cephede değil, cephe gerisinde gösterilen olağanüstü hizmetler için bir ödül düşünün.",
-      "answer_year": 1939,
-      "year_precision": "year",
-      "guess_range": [
-        1830,
-        2010
-      ],
-      "body": "II. Dünya Savaşı'nın gölgesinde, cephedeki kahramanlıklar kadar, cephe gerisindeki lojistik, planlama ve sivil hizmetler de kritik önem taşıyordu. Almanya, işte tam da bu tür görevlerde gösterilen üstün gayreti takdir etmek amacıyla özel bir madalya tasarladı: Savaş Liyakat Haçı. 1939 yılında, yani savaşın patlak verdiği yıl, bu nişan resmen yürürlüğe kondu.\n\nSavaş Liyakat Haçı, doğrudan çatışmaya girmeyen ancak savaş çabalarına önemli katkılarda bulunan kişilere verilmek üzere tasarlanmıştı. Bu, hem askerleri hem de sivilleri kapsıyordu. Özellikle, mühimmat üretiminde çalışan fabrika işçilerinden, askeri planlamacılara, ulaşım ağlarını yönetenlerden, cephe gerisinde tıbbi destek sağlayanlara kadar geniş bir yelpazede hizmet edenler bu nişana layık görülebilirdi.\n\nMadalyanın iki ana versiyonu vardı: \"kılıçlı\" ve \"kılıçsız\". Kılıçlı versiyon, düşman ateşi altında olmasa bile askeri çabalar için gösterilen cesaret ve liyakati onurlandırırken, kılıçsız versiyon genellikle savaş çabasına sivil veya askeri düzeyde önemli katkılarda bulunanlara verilirdi. Bu ayrım, madalyanın esnekliğini ve farklı hizmet alanlarını kapsama arzusunu gösteriyordu. Savaş boyunca [DOĞRULA: Bu madalyadan kaç adet verildiği ve en yaygın verilen nişanlardan biri olup olmadığı] Savaş Liyakat Haçı sahibini buldu ve o dönemin en yaygın verilen Alman nişanlarından biri haline geldi. Bu haç, savaşın karmaşık dinamikleri içinde, gözden kaçabilecek ancak vazgeçilmez hizmetlerin bir sembolüydü.",
-      "fun_fact": "Savaş Liyakat Haçı'nın tasarımında [DOĞRULA: Adolf Hitler'in doğrudan bir etkisi olup olmadığı] tartışma konusu olmuştur.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1788876",
-        "https://tr.wikipedia.org/wiki/Sava%C5%9F_Liyakat_Ha%C3%A7%C4%B1",
-        "https://en.wikipedia.org/wiki/War_Merit_Cross"
-      ],
-      "wikidata_qid": "Q1788876"
-    },
-    {
-      "id": "Q5371511",
-      "date": "2026-09-18",
-      "category": "gunluk-nesneler",
-      "widget_title": "Sanal şarkıcı Gackpoid sahneye ilk ne zaman çıktı?",
-      "hook": "Japon müziğinin sevilen seslerinden Gackpoid'in sahneye çıkış hikayesini merak ediyor musun?",
-      "answer_year": 2008,
-      "year_precision": "day",
-      "guess_range": [
-        1900,
-        2026
-      ],
-      "body": "Müzik dünyasında sanal karakterlerin, özellikle de Japonya'da, ne kadar popüler olduğunu bilmeyen yoktur. İşte bu sanal dünyadan bize ulaşan, ikonik bir ses bankası olan Gackpoid, 2008 yılında müzikseverlerle buluştu. Peki, Gackpoid kimdir ve hikayesi nedir?\n\nGackpoid, Yamaha'nın geliştirdiği Vocaloid yazılımı için yaratılmış bir ses bankasıdır. Onu özel kılan ve kısa sürede geniş bir hayran kitlesi edinmesini sağlayan şey ise, Japon rock müzisyeni Gackt'ın sesi kullanılarak hazırlanmış olmasıdır. Yani, Gackpoid'in arkasındaki o güçlü ve karakteristik ses, Gackt'a aittir. Bu işbirliği, hem Vocaloid teknolojisinin sınırlarını zorlamış hem de Gackt hayranlarını sanal dünyaya çekmiştir.\n\nVocaloid, kullanıcıların şarkı sözlerini ve melodilerini girerek sanal bir şarkıcının sesini kullanarak şarkı yapmasını sağlayan bir sentezleme yazılımıdır. Gackpoid, bu yazılımın bir parçası olarak çıktığı günden itibaren kendi karakter tasarımı ve ses rengiyle dikkat çekti. [DOĞRULA: Gackpoid'in geliştirici şirketi ve karakter tasarımcısı hakkında daha fazla bilgi eklenebilir mi?] Özellikle Nico Nico Douga gibi platformlarda hayran yapımı şarkılarla ünü hızla yayıldı. Sanatçı Gackt'ın bu projeye dahil olması, Gackpoid'in piyasaya sürülmesini büyük bir heyecanla karşılamasını sağladı.\n\nGackpoid'in çıkışı, Vocaloid evrenine yeni bir boyut kattı ve sanal şarkıcıların popülaritesini daha da artırdı. 2008'den bu yana, hem profesyonel müzisyenler hem de amatör yapımcılar tarafından birçok eserde kullanıldı, hatta kendi konserlerini bile verdi! Sanal bir sesin bu denli gerçek bir etki yaratabilmesi gerçekten şaşırtıcı, değil mi?",
-      "fun_fact": "Gackpoid'in ikonik mor rengi ve samuray zırhına benzer kıyafeti, Japon kültürüne göndermelerle dolu.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q5371511",
-        "https://tr.wikipedia.org/wiki/Gackpoid",
-        "https://en.wikipedia.org/wiki/Gackpoid"
-      ],
-      "wikidata_qid": "Q5371511"
-    },
-    {
-      "id": "Q1093380",
-      "date": "2026-09-19",
-      "category": "gida-icecek",
-      "widget_title": "Bu ikonik lezzet, Kulüp Sandviç ne zaman menülere girdi?",
-      "hook": "İştah açıcı görünümüyle ve doyurucu lezzetiyle kalpleri fetheden Kulüp Sandviç'in doğuşu ne zamana dayanıyor?",
-      "answer_year": 1900,
-      "year_precision": "year",
-      "guess_range": [
-        1800,
-        1980
-      ],
-      "body": "Görünüşüyle bile iştah kabartan, doyurucu ve lezzetli Kulüp Sandviç, dünya mutfaklarının vazgeçilmezlerinden biri. Peki, bu katmanlı lezzetin hikayesi ne zaman başladı? Yıl 1900'ü gösterirken, bu ikonik sandviçin ilk kez ortaya çıktığına inanılıyor. Ancak işin ilginç yanı, bu lezzetin tam olarak nerede ve kim tarafından icat edildiği hala bir sır perdesiyle örtülü. Çoğu kaynak, Kulüp Sandviç'in New York eyaletinde, lüks bir kulüp veya otelde doğduğuna işaret ediyor. Ortaya atılan teorilerden en popüleri, [DOĞRULA: Saratoga Springs'teki Saratoga Club House'da] veya [DOĞRULA: New York'taki Union Club'da] bir gece geç saatte, eldeki malzemelerle aceleyle hazırlanan bir atıştırmalık olarak ortaya çıktığı yönünde.\n\nStandart bir sandviçten ayrılan en belirgin özelliği, tost edilmiş üç dilim ekmek arasına özenle yerleştirilen dolgun iç harcıdır. Genellikle hindi veya tavuk dilimleri, çıtır pastırma, taze marul, sulu domates ve hafif mayonez ile hazırlanır. Bu malzemelerin uyumu ve katmanlı yapısı, hem göze hem de damağa hitap eden eşsiz bir deneyim sunar. Kısa sürede tüm dünyada popülerleşen Kulüp Sandviç, kahvaltıdan öğle yemeğine, hatta hafif bir akşam yemeğine kadar her öğüne yakışan zamansız bir klasik haline gelmiştir. Onun hikayesi, basit ama dahiyane bir fikrin nasıl küresel bir fenomene dönüştüğünün lezzetli bir kanıtı.",
-      "fun_fact": "Kulüp Sandviç genellikle çapraz olarak dörde bölünerek ve her parça kürdanla sabitlenerek servis edilir; bu da onu hem pratik hem de estetik kılar.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1093380",
-        "https://tr.wikipedia.org/wiki/Kul%C3%BCp_sandvi%C3%A7",
-        "https://en.wikipedia.org/wiki/Club_sandwich"
-      ],
-      "wikidata_qid": "Q1093380"
-    },
-    {
-      "id": "Q41898",
-      "date": "2026-09-20",
-      "category": "giyim",
-      "widget_title": "Beş kelimelik bu Latince bulmaca ne zaman ortaya çıktı?",
-      "hook": "Hem ileri hem geri okunan bu beş kelimelik Latince karenin sırrı ne zaman başladı?",
-      "answer_year": 1,
-      "year_precision": "year",
-      "guess_range": [
-        -100,
-        80
-      ],
-      "body": "Antik dünyanın en büyüleyici bilmecelerinden biri olan Sator Karesi, sadece beş Latince kelimeden oluşmasına rağmen yüzyıllardır araştırmacıların zihnini meşgul ediyor. Bu gizemli kare, \"SATOR, AREPO, TENET, OPERA, ROTAS\" kelimelerini öyle bir düzenle bir araya getirir ki, ister yukarıdan aşağı, ister aşağıdan yukarı, ister soldan sağa, ister sağdan sola okuyun, sonuç hep aynıdır! Bu palindromik yapı, onu kelime oyunlarının en erken ve en sofistike örneklerinden biri yapar.\n\nSator Karesi'nin ortaya çıkışı [DOĞRULA: Sator Karesi'nin kesin ortaya çıkış tarihi ve ilk bilinen örnekleri], tahminlere göre İsa'dan sonraki ilk yüzyıla, yani yaklaşık MS 1 yılı civarına dayanıyor. En eski örneklerinden bazıları, MS 79'da Vezüv Yanardağı patlamasıyla küller altına gömülen Pompeii'nin duvarlarında bulunmuştur. Bu, karenin o dönemde zaten popüler olduğunu gösterir. Kelimelerin anlamlarına gelince: SATOR 'ekin eken', AREPO'nun anlamı tartışmalı ve [DOĞRULA: 'Arepo' kelimesinin tam anlamı veya kökeni net değil], TENET 'tutar', OPERA 'iş, çaba' ve ROTAS ise 'tekerlekler' veya 'döndürür' anlamına gelir.\n\nPeki, bu kare ne amaçla yapılmıştı? Kimi teorisyenler onu erken Hristiyanlığın gizli bir sembolü olarak görürken, kimileri ise büyülü güçleri olduğuna inanır; yangınları söndürmekten nazardan korumaya kadar çeşitli faydaları olduğuna dair inançlar yaygındır. Ancak belki de en basit açıklama, sadece zekice tasarlanmış bir kelime oyunu, antik dünyanın bir tür \"sudoku\"su olduğudur. Her ne olursa olsun, Sator Karesi hala sırrını koruyor ve bize geçmişin ne kadar karmaşık ve yaratıcı olabileceğini fısıldıyor.",
-      "fun_fact": "Bazı dilbilimciler, Sator Karesi'ndeki harflerin farklı bir düzenlemeyle 'Pater Noster' (Latince 'Babamız') duasını oluşturduğunu iddia eder.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q41898",
-        "https://tr.wikipedia.org/wiki/Sator_Karesi",
-        "https://en.wikipedia.org/wiki/Sator_Square"
-      ],
-      "wikidata_qid": "Q41898"
-    },
-    {
-      "id": "Q80019",
-      "date": "2026-09-21",
-      "category": "gunluk-nesneler",
-      "widget_title": "Kontrbas ne zaman hayatımıza girdi?",
-      "hook": "Orkestraların dev sesi, caz sahnelerinin vazgeçilmezi kontrbasın derin yankısı ne zamandan beri bizimle?",
-      "answer_year": 1800,
-      "year_precision": "year",
-      "guess_range": [
-        1700,
-        1880
-      ],
-      "body": "Sahnedeki o heybetli duruşuyla, bazen bir orkestranın temeli, bazen de bir caz grubunun ritmik kalbi olan kontrbasın müzik dünyasındaki yolculuğu oldukça ilginç. Yaylı çalgı ailesinin en büyüğü ve en derinden ses vereni olan kontrbasın kesin bir 'icat tarihi' veya tek bir 'mucidi' olmamakla birlikte, modern formuna doğru evrimi 1800'lü yılların başlarında belirginleşmeye başlamıştır.\n\nAslında kontrbas, kendisinden önceki pek çok yaylı enstrümanın, özellikle de viyol familyasından gelen viyolonun büyük kuzeni sayılabilir. Orta Çağ'dan itibaren farklı boyutlarda ve akortlarda bas enstrümanlar kullanıldı. Ancak günümüzdeki şekline, yani dört telli, orkestralarda ve solo performanslarda gördüğümüz formuna ulaşması zaman aldı. 18. yüzyılın sonları ve 19. yüzyılın başları, kontrbasın hem enstrüman yapımı tekniklerinin geliştiği hem de orkestralardaki yerinin sağlamlaştığı bir dönemdi. Bu dönemde boyutları, tellerinin yapısı ve akort sistemleri standartlaşmaya başladı. Bu yüzden, 1800 yılı, kontrbasın bildiğimiz haliyle sahnedeki yerini aldığı, karakteristik özelliklerinin netleştiği bir dönemi işaret ediyor diyebiliriz.\n\nBu büyük enstrüman, o günden bugüne birçok müzik türünde, klasik batı müziğinden caza, folk'tan rock'a kadar kendine sağlam bir yer edinmeyi başardı. [DOĞRULA: Kontrbas çalarken çoğu zaman ayakta durulmasının, enstrümanın büyüklüğü kadar, daha rahat bir çalma pozisyonu sağlamasıyla da ilgili olduğu düşünülür.] Onun derin ve güçlü sesi, müziğe eşsiz bir zenginlik katmaya devam ediyor.",
-      "fun_fact": "Kontrbasın sesi, insan kulağının algılayabileceği en düşük notalardan bazılarını üretebilir, bu da ona müziğe eşsiz bir derinlik katma özelliği verir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q80019",
-        "https://tr.wikipedia.org/wiki/Kontrbas",
-        "https://en.wikipedia.org/wiki/Double_bass"
-      ],
-      "wikidata_qid": "Q80019"
-    },
-    {
-      "id": "Q11299865",
-      "date": "2026-09-22",
-      "category": "gida-icecek",
-      "widget_title": "Klondike Bar ne zaman dondurma dünyasına katıldı?",
-      "hook": "Kocaman bir çikolataya sarılı buz gibi bir lezzet: Klondike Bar!",
-      "answer_year": 1922,
-      "year_precision": "year",
-      "guess_range": [
-        1820,
-        2000
-      ],
-      "body": "Klondike Bar'ın hikayesi, dondurma severlerin kalbini çalan sade ama efsanevi bir lezzetin doğuşuna dayanıyor. Yıl 1922'ydi ve bu ikonik lezzet ilk kez Amerika'nın Pennsylvania eyaletindeki Isaly Dairy Company tarafından üretildi. Aslında başlangıçta, yerel bir süt ürünleri firması olan Isaly's, süt ve peynir gibi ürünleriyle biliniyordu. Ancak bir fikir ortaya çıktı: dikdörtgen şeklinde, yoğun bir vanilyalı dondurmayı kalın bir çikolata tabakasıyla kaplamak. İşte bu basit ama dahiyane fikir, Klondike Bar'ın temellerini attı.\n\nİlk yıllarında Klondike Bar, sadece Pennsylvania ve Ohio gibi Amerika'nın doğu eyaletlerinde satışa sunuluyordu. Küçük bir bölgenin favorisi haline gelen bu dondurma, \"What would you do for a Klondike Bar?\" (Bir Klondike Bar için neler yapardınız?) sloganıyla ulusal çapta ün kazanmadan önce yıllarca yerel bir sır olarak kaldı. Markanın ulusal dağıtıma geçişi ve tüm Amerika'ya yayılması [DOĞRULA: markanın ulusal dağıtıma ne zaman geçtiği bilgisi] çok daha sonraki yıllarda gerçekleşti. Klondike Bar'ın mucidi [DOĞRULA: Klondike Bar'ın belirli bir mucidinin olup olmadığı veya bu ismin sadece bir şirket ürünü olarak mı ortaya çıktığı] tam olarak bilinmese de, Isaly ailesinin bu yenilikçi dondurmanın arkasındaki itici güç olduğu kabul edilir. Basitliğiyle zamana meydan okuyan bu lezzet, hala milyonların favorisi.",
-      "fun_fact": "Klondike adının, Alaska ve Kanada'da bir zamanlar altın madenciliğiyle ünlü olan Klondike bölgesinden geldiğine inanılıyor.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q11299865",
-        "https://tr.wikipedia.org/wiki/Klondike_(dondurma)",
-        "https://en.wikipedia.org/wiki/Klondike_bar"
-      ],
-      "wikidata_qid": "Q11299865"
-    },
-    {
-      "id": "Q599",
-      "date": "2026-09-23",
-      "category": "giyim",
-      "widget_title": "Kate Middleton'ın gelinliği ne zaman tüm dünyayı büyüledi?",
-      "hook": "Tüm dünyanın nefesini tutarak izlediği o anı hatırlıyor musunuz?",
-      "answer_year": 2011,
-      "year_precision": "year",
-      "guess_range": [
-        1910,
-        2026
-      ],
-      "body": "29 Nisan 2011... Dünya, Prens William ile Kate Middleton'ın Westminster Abbey'deki düğününe kilitlenmişti. Ama tüm gözler, Kate'in o an ne giyeceğindeydi. Gelinlik, Sarah Burton'ın Alexander McQueen modaevi için tasarladığı, zarafet ve modernliği harmanlayan bir başyapıttı.\n\nBu ikonik elbise, fildişi rengi saten üzerine dantel işlemelerle bezenmiş, uzun kollu ve V yakalı bir tasarıma sahipti. İngiliz Gülleri, İskoç Devedikenleri, İrlanda Yoncaları ve Galler Nergisleri'ni temsil eden motiflerle süslenmiş danteller, İngiliz kraliyet geleneğini modern bir dokunuşla birleştiriyordu. Bu hassas dantel işçiliği, Royal School of Needlework tarafından titizlikle hazırlandı. Gelinliğin yaklaşık 2 metre 70 santimetrelik tül kuyruğu ise Kate'in yürüyüşüne masalsı bir hava kattı.\n\nKate'in gelinliği, sadece bir düğün elbisesi olmanın ötesine geçti. Anında dünya çapında bir moda ikonuna dönüştü, gelinlik trendlerini derinden etkiledi ve sayısız gelinin hayallerini süsledi. Yıllar geçse de zarafeti ve zamansız güzelliğiyle hatırlanmaya devam eden bu elbise, bir döneme damgasını vuran kültürel bir miras haline geldi. Düğün sonrası bir süre sergilenmesiyle de geniş kitlelerin beğenisine sunuldu.",
-      "fun_fact": "Kate'in gelinliği, Kraliçe Victoria'nın 1840'taki düğününden sonra tarihin en çok taklit edilen gelinliklerinden biri oldu.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q599",
-        "https://tr.wikipedia.org/wiki/Kate_Middleton%27%C4%B1n_gelinli%C4%9Fi",
-        "https://en.wikipedia.org/wiki/Wedding_dress_of_Catherine_Middleton"
-      ],
-      "wikidata_qid": "Q599"
-    },
-    {
-      "id": "Q1132481",
-      "date": "2026-09-24",
-      "category": "gida-icecek",
-      "widget_title": "Fioravanti lezzeti gıda dünyasına ne zaman girdi?",
-      "hook": "Bu özel İtalyan isminin lezzet dolu tarihi, hangi yılda başladı?",
-      "answer_year": 1898,
-      "year_precision": "year",
-      "guess_range": [
-        1790,
-        1970
-      ],
-      "body": "Fioravanti adını duyduğunuzda aklınıza ne geliyor? Belki de İtalyan esintili bir lezzet, belki de köklü bir aile geleneği... Gıda ve içecek dünyasındaki bu özel ismin tarih sahnesine çıktığı yıl tam olarak 1898. Bu tarih, Fioravanti isminin, damakları şenlendiren ürünlerle özdeşleşmeye başladığı dönemi işaret ediyor.\n\nPek çok İtalyan markasında olduğu gibi, Fioravanti de büyük olasılıkla bir ailenin soyadından geliyor. 19. yüzyılın sonları, Avrupa'da yiyecek ve içecek üretiminin sanayileştiği, yeni markaların ortaya çıktığı hareketli bir dönemdi. Bu süreçte, Fioravanti ismi de bu heyecan verici değişimin bir parçası oldu. Tam olarak hangi ürünle veya hangi girişimle başladığına dair kesin bilgiler olmasa da, 1898 yılının bu lezzet yolculuğunun başlangıcı olduğunu biliyoruz. O dönemde İtalya'da şaraplar, likörler, şuruplar veya özel tatlılar gibi birçok farklı gıda ve içecek ürünü popülerdi. Fioravanti'nin de bu geniş yelpazeden birinde kendine yer bulmuş olması kuvvetle muhtemeldir. Bu, bir likör markasının, bir tatlı tarifinin ya da bir içecek şirketinin kuruluşu olabilir. Hikayesi belki de nesilden nesile aktarılan gizli bir tarifle başladı, kim bilir? Bu gizem, Fioravanti'nin cazibesini daha da artırıyor. Ancak kesin olan şey, 1898'in bu lezzetli ismin dönüm noktası olduğudur.",
-      "fun_fact": "Fioravanti soyadı İtalya'da oldukça yaygın olup, 'çiçek açan' veya 'çiçekli' gibi anlamlara gelmektedir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q1132481",
-        "https://tr.wikipedia.org/wiki/Fioravanti",
-        "https://en.wikipedia.org/wiki/Fioravanti_(soft_drink)"
-      ],
-      "wikidata_qid": "Q1132481"
-    },
-    {
       "id": "Q602536",
-      "date": "2026-09-25",
+      "date": "2026-09-17",
       "category": "giyim",
       "widget_title": "İkonik Casio F-91W kol saati ne zaman hayatımıza girdi?",
       "hook": "Kolunuzda taşıdığınız bu basit görünümlü saat, bir neslin sembolü haline geldi ve dünya çapında milyonlarca sattı.",
@@ -553,8 +377,74 @@
       "wikidata_qid": "Q602536"
     },
     {
+      "id": "Q1093380",
+      "date": "2026-09-18",
+      "category": "gida-icecek",
+      "widget_title": "Bu ikonik lezzet, Kulüp Sandviç ne zaman menülere girdi?",
+      "hook": "İştah açıcı görünümüyle ve doyurucu lezzetiyle kalpleri fetheden Kulüp Sandviç'in doğuşu ne zamana dayanıyor?",
+      "answer_year": 1900,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Görünüşüyle bile iştah kabartan, doyurucu ve lezzetli Kulüp Sandviç, dünya mutfaklarının vazgeçilmezlerinden biri. Peki, bu katmanlı lezzetin hikayesi ne zaman başladı? Yıl 1900'ü gösterirken, bu ikonik sandviçin ilk kez ortaya çıktığına inanılıyor. Ancak işin ilginç yanı, bu lezzetin tam olarak nerede ve kim tarafından icat edildiği hala bir sır perdesiyle örtülü. Çoğu kaynak, Kulüp Sandviç'in New York eyaletinde, lüks bir kulüp veya otelde doğduğuna işaret ediyor. Ortaya atılan teorilerden en popüleri, [DOĞRULA: Saratoga Springs'teki Saratoga Club House'da] veya [DOĞRULA: New York'taki Union Club'da] bir gece geç saatte, eldeki malzemelerle aceleyle hazırlanan bir atıştırmalık olarak ortaya çıktığı yönünde.\n\nStandart bir sandviçten ayrılan en belirgin özelliği, tost edilmiş üç dilim ekmek arasına özenle yerleştirilen dolgun iç harcıdır. Genellikle hindi veya tavuk dilimleri, çıtır pastırma, taze marul, sulu domates ve hafif mayonez ile hazırlanır. Bu malzemelerin uyumu ve katmanlı yapısı, hem göze hem de damağa hitap eden eşsiz bir deneyim sunar. Kısa sürede tüm dünyada popülerleşen Kulüp Sandviç, kahvaltıdan öğle yemeğine, hatta hafif bir akşam yemeğine kadar her öğüne yakışan zamansız bir klasik haline gelmiştir. Onun hikayesi, basit ama dahiyane bir fikrin nasıl küresel bir fenomene dönüştüğünün lezzetli bir kanıtı.",
+      "fun_fact": "Kulüp Sandviç genellikle çapraz olarak dörde bölünerek ve her parça kürdanla sabitlenerek servis edilir; bu da onu hem pratik hem de estetik kılar.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1093380",
+        "https://tr.wikipedia.org/wiki/Kul%C3%BCp_sandvi%C3%A7",
+        "https://en.wikipedia.org/wiki/Club_sandwich"
+      ],
+      "wikidata_qid": "Q1093380"
+    },
+    {
+      "id": "Q11299865",
+      "date": "2026-09-19",
+      "category": "gida-icecek",
+      "widget_title": "Klondike Bar ne zaman dondurma dünyasına katıldı?",
+      "hook": "Kocaman bir çikolataya sarılı buz gibi bir lezzet: Klondike Bar!",
+      "answer_year": 1922,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Klondike Bar'ın hikayesi, dondurma severlerin kalbini çalan sade ama efsanevi bir lezzetin doğuşuna dayanıyor. Yıl 1922'ydi ve bu ikonik lezzet ilk kez Amerika'nın Pennsylvania eyaletindeki Isaly Dairy Company tarafından üretildi. Aslında başlangıçta, yerel bir süt ürünleri firması olan Isaly's, süt ve peynir gibi ürünleriyle biliniyordu. Ancak bir fikir ortaya çıktı: dikdörtgen şeklinde, yoğun bir vanilyalı dondurmayı kalın bir çikolata tabakasıyla kaplamak. İşte bu basit ama dahiyane fikir, Klondike Bar'ın temellerini attı.\n\nİlk yıllarında Klondike Bar, sadece Pennsylvania ve Ohio gibi Amerika'nın doğu eyaletlerinde satışa sunuluyordu. Küçük bir bölgenin favorisi haline gelen bu dondurma, \"What would you do for a Klondike Bar?\" (Bir Klondike Bar için neler yapardınız?) sloganıyla ulusal çapta ün kazanmadan önce yıllarca yerel bir sır olarak kaldı. Markanın ulusal dağıtıma geçişi ve tüm Amerika'ya yayılması [DOĞRULA: markanın ulusal dağıtıma ne zaman geçtiği bilgisi] çok daha sonraki yıllarda gerçekleşti. Klondike Bar'ın mucidi [DOĞRULA: Klondike Bar'ın belirli bir mucidinin olup olmadığı veya bu ismin sadece bir şirket ürünü olarak mı ortaya çıktığı] tam olarak bilinmese de, Isaly ailesinin bu yenilikçi dondurmanın arkasındaki itici güç olduğu kabul edilir. Basitliğiyle zamana meydan okuyan bu lezzet, hala milyonların favorisi.",
+      "fun_fact": "Klondike adının, Alaska ve Kanada'da bir zamanlar altın madenciliğiyle ünlü olan Klondike bölgesinden geldiğine inanılıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11299865",
+        "https://tr.wikipedia.org/wiki/Klondike_(dondurma)",
+        "https://en.wikipedia.org/wiki/Klondike_bar"
+      ],
+      "wikidata_qid": "Q11299865"
+    },
+    {
+      "id": "Q1132481",
+      "date": "2026-09-20",
+      "category": "gida-icecek",
+      "widget_title": "Fioravanti lezzeti gıda dünyasına ne zaman girdi?",
+      "hook": "Bu özel İtalyan isminin lezzet dolu tarihi, hangi yılda başladı?",
+      "answer_year": 1898,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Fioravanti adını duyduğunuzda aklınıza ne geliyor? Belki de İtalyan esintili bir lezzet, belki de köklü bir aile geleneği... Gıda ve içecek dünyasındaki bu özel ismin tarih sahnesine çıktığı yıl tam olarak 1898. Bu tarih, Fioravanti isminin, damakları şenlendiren ürünlerle özdeşleşmeye başladığı dönemi işaret ediyor.\n\nPek çok İtalyan markasında olduğu gibi, Fioravanti de büyük olasılıkla bir ailenin soyadından geliyor. 19. yüzyılın sonları, Avrupa'da yiyecek ve içecek üretiminin sanayileştiği, yeni markaların ortaya çıktığı hareketli bir dönemdi. Bu süreçte, Fioravanti ismi de bu heyecan verici değişimin bir parçası oldu. Tam olarak hangi ürünle veya hangi girişimle başladığına dair kesin bilgiler olmasa da, 1898 yılının bu lezzet yolculuğunun başlangıcı olduğunu biliyoruz. O dönemde İtalya'da şaraplar, likörler, şuruplar veya özel tatlılar gibi birçok farklı gıda ve içecek ürünü popülerdi. Fioravanti'nin de bu geniş yelpazeden birinde kendine yer bulmuş olması kuvvetle muhtemeldir. Bu, bir likör markasının, bir tatlı tarifinin ya da bir içecek şirketinin kuruluşu olabilir. Hikayesi belki de nesilden nesile aktarılan gizli bir tarifle başladı, kim bilir? Bu gizem, Fioravanti'nin cazibesini daha da artırıyor. Ancak kesin olan şey, 1898'in bu lezzetli ismin dönüm noktası olduğudur.",
+      "fun_fact": "Fioravanti soyadı İtalya'da oldukça yaygın olup, 'çiçek açan' veya 'çiçekli' gibi anlamlara gelmektedir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1132481",
+        "https://tr.wikipedia.org/wiki/Fioravanti",
+        "https://en.wikipedia.org/wiki/Fioravanti_(soft_drink)"
+      ],
+      "wikidata_qid": "Q1132481"
+    },
+    {
       "id": "Q1133127",
-      "date": "2026-09-26",
+      "date": "2026-09-21",
       "category": "gida-icecek",
       "widget_title": "Amerikan Kızartılmış Sosis (Corn Dog) Ne Zaman Ortaya Çıktı?",
       "hook": "Sosis, mısır unu harcı ve kızgın yağ... Bu üçlünün birleşimi nasıl ve ne zaman bir Amerikan klasiği haline geldi?",
@@ -576,7 +466,7 @@
     },
     {
       "id": "Q1171787",
-      "date": "2026-09-27",
+      "date": "2026-09-22",
       "category": "gida-icecek",
       "widget_title": "Dasani şişe suyu ilk kez ne zaman piyasaya çıktı?",
       "hook": "Bugün market raflarından tanıdığımız Dasani şişe suyunun hikayesi ne zaman başladı?",
@@ -598,7 +488,7 @@
     },
     {
       "id": "Q1197104",
-      "date": "2026-09-28",
+      "date": "2026-09-23",
       "category": "gida-icecek",
       "widget_title": "Mısır'ın kalbinden çıkan Koşari ne zaman hayatımıza girdi?",
       "hook": "Pirinç, makarna, mercimek ve nohutun bu inanılmaz uyumu, Mısır sokaklarının ruhunu taşıyor.",
@@ -620,7 +510,7 @@
     },
     {
       "id": "Q120189941",
-      "date": "2026-09-29",
+      "date": "2026-09-24",
       "category": "gida-icecek",
       "widget_title": "Grimace Shake ne zaman hayatımıza girdi?",
       "hook": "Sosyal medyayı kasıp kavuran o meşhur mor içecek, Grimace Shake'in doğuş hikayesini merak ediyor musunuz?",
@@ -642,7 +532,7 @@
     },
     {
       "id": "Q1269232",
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "category": "gida-icecek",
       "widget_title": "Lapin Kulta ne zaman ortaya çıktı?",
       "hook": "Kuzeyin buz gibi sularından gelen bu altın rengi lezzetin hikayesi, sizi Fin topraklarının derinliklerine götürecek.",
@@ -661,6 +551,116 @@
         "https://en.wikipedia.org/wiki/Lapin_Kulta"
       ],
       "wikidata_qid": "Q1269232"
+    },
+    {
+      "id": "Q1370611",
+      "date": "2026-09-26",
+      "category": "gida-icecek",
+      "widget_title": "Estrella Damm ne zaman bardağımıza kondu?",
+      "hook": "Akdeniz ruhunu şişesinde taşıyan bu biranın hikayesi tahmin ettiğinizden daha eski olabilir mi?",
+      "answer_year": 1876,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Sıcak bir Barselona öğleden sonrasında serinletici bir yudum… Aklınıza hemen Estrella Damm geliyorsa, bu biranın köklü tarihine bir göz atalım. Takvimler 1876’yı gösterdiğinde, Alsas’tan Barselona’ya göç eden genç August Kuentzmann Damm ve eşi Melanie, hayallerini de yanlarında getirmişlerdi. Akdeniz’in sıcak iklimine uygun, hafif, ferahlatıcı ve kolay içimli bir lager bira üretmekti amaçları. O dönemde İspanya’da daha çok koyu renkli ve ağır biralar revaçtayken, Damm ailesi bu cesur vizyonla kendi bira fabrikalarını kurmaya karar verdi.\n\nİlk olarak Barselona’nın kalbinde, [DOĞRULA: Sant Antoni bölgesindeki caddelerde miydi?] küçük bir bira fabrikası açtılar. Yıldız anlamına gelen 'Estrella' adını verdikleri bu yeni bira, kısa sürede yerel halkın beğenisini kazandı. Akdeniz’in güneşli günlerine eşlik eden bu özel bira, sadece bir içecek olmaktan öte, bir yaşam tarzının sembolü haline geldi. Damm ailesinin başlattığı bu serüven, zamanla Barselona’nın ve tüm İspanya’nın en tanınmış bira markalarından birine dönüştü.\n\nYüzyılı aşkın süredir, Estrella Damm o ilk günkü ferahlatıcı tadı ve kalitesini koruyarak üretiliyor. Bugün sadece İspanya’da değil, dünyanın dört bir yanında bira severlerin kadehinde yer bulan bu Akdeniz klasiği, köklü geçmişiyle bize sadece bir bira değil, aynı zamanda bir hikaye sunmaya devam ediyor. Her yudumda, o 1876 yılındaki vizyonun ve tutkunun izlerini bulmak mümkün.",
+      "fun_fact": "Estrella Damm'ın ikonik kırmızı yıldız logosu, markanın ismindeki 'Estrella' kelimesinin anlamı olan 'yıldız'dan gelir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1370611",
+        "https://tr.wikipedia.org/wiki/Estrella_Damm",
+        "https://en.wikipedia.org/wiki/Estrella_Damm"
+      ],
+      "wikidata_qid": "Q1370611"
+    },
+    {
+      "id": "Q1398251",
+      "date": "2026-09-27",
+      "category": "gida-icecek",
+      "widget_title": "Lezzetli Fettuş salatası mutfaklara ne zaman girdi?",
+      "hook": "Ortadoğu mutfağının ferahlatıcı yıldızı Fettuş'un hikayesine hazır mısın?",
+      "answer_year": 1900,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Ortadoğu sofralarının vazgeçilmezi Fettuş, tazeliği ve lezzetiyle gönülleri fetheden bir salata. Genellikle kızarmış veya kavrulmuş pide parçacıkları, taze yeşillikler (marul, roka), domates, salatalık, turp gibi sebzelerle hazırlanan bu nefis karışım, sumaklı ve nar ekşili özel sosuyla bambaşka bir boyut kazanır.\n\nFettuş'un kökenleri, yiyecek israfını önleme geleneğine dayanıyor. Bölgede yüzyıllardır bayat ekmeklerin değerlendirilmesi amacıyla farklı salata türleri yapıldığı biliniyor. Fettuş da bu geleneğin modern ve en popüler temsilcilerinden biri. Tarihi kayıtlara göre, bugün bildiğimiz haliyle 20. yüzyılın başlarında, özellikle 1900'lü yıllarda, Levant mutfağında kendine sağlam bir yer edinmiş. Ancak bu tarihin, salatanın temel prensiplerinin çok daha eskiye dayanan bir evrimin sonucu olduğu düşünülüyor. [DOĞRULA: Fettuş benzeri salataların daha eski formlarının varlığı ve adlandırması].\n\nBu lezzetli salatanın belirli bir mucidi yok; tıpkı pek çok geleneksel yemek gibi, zamanla bölge halkının mutfak tecrübeleriyle şekillenmiş ve sofraların ayrılmaz bir parçası haline gelmiş. Her ne kadar ana malzemeleri basit olsa da, tazeliği ve dengeli ekşiliğiyle her yudumda damaklarda şölen yaşatır. Özellikle sıcak yaz günlerinde ferahlatıcı bir öğün alternatifi arayanlar için biçilmiş kaftan!",
+      "fun_fact": "Adını, içinde kullanılan 'fattah' yani ufalanmış veya kızarmış ekmeklerden aldığı söylenir, bu da salatanın israfı önleme ruhunu yansıtır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1398251",
+        "https://tr.wikipedia.org/wiki/Fettu%C5%9F",
+        "https://en.wikipedia.org/wiki/Fattoush"
+      ],
+      "wikidata_qid": "Q1398251"
+    },
+    {
+      "id": "Q1401202",
+      "date": "2026-09-28",
+      "category": "gida-icecek",
+      "widget_title": "Bu ikonik Negroni kokteyli ne zaman ortaya çıktı?",
+      "hook": "Bu zarif kırmızı İtalyan kokteyli, kısa sürede dünya çapında bir fenomen haline geldi.",
+      "answer_year": 1919,
+      "year_precision": "year",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Kırmızı rengi, acı-tatlı dengesi ve sofistike karakteriyle gönüllere taht kuran Negroni kokteyli, dünya sahnesine 1919 yılında çıktı. Bu ikonik İtalyan klasiği, cin, Campari ve tatlı kırmızı vermutun eşit oranlarda harmanlanmasıyla ortaya çıkan zamansız bir lezzet. Efsaneye göre, bu göz alıcı kokteylin doğuş hikayesi İtalya’nın Floransa şehrinde bir bara dayanıyor. [DOĞRULA: Negroni’nin ilk hazırlandığı yer Caffè Casoni (şimdiki adıyla Caffè Giacosa) miydi?] Hikaye, Kont Camillo Negroni'nin [DOĞRULA: Kont Camillo Negroni'nin gerçekten yaşamış ve bu kokteylin isim babası olup olmadığı] bir gün barmenden, o dönem popüler olan Americano kokteylini biraz daha 'güçlendirmesini' istemesiyle başlıyor. Kont, Americano'da kullanılan sodalı su yerine cin eklenmesini rica etti ve böylece, dengeli ama cesur aromalarıyla yeni bir içki doğdu. Barmen, bu özel isteği yerine getirdi ve o günden sonra bu yeni karışım, onu sipariş eden Kont'un adıyla anılmaya başlandı.\n\nNegroni, kısa sürede sadece İtalya'da değil, tüm dünyada kokteyl severlerin favorisi haline geldi. Basit ama etkileyici formülü sayesinde, barmenler için hazırlaması keyifli, tadı ise unutulmaz bir deneyim sunuyor. Aperitivo kültürünün vazgeçilmez bir parçası olan Negroni, kendine has karakteriyle birçok türe ilham verdi. Üç ana bileşeninin her birinin tadını ayrı ayrı hissettirmesi ama aynı zamanda bir bütün oluşturması, onu gerçekten özel kılıyor. Negroni, zamanın ötesinde bir klasik olmaya devam ediyor ve her yudumda İtalyan zarafetini tattırıyor.",
+      "fun_fact": "Her yıl Haziran ayında kutlanan \"Negroni Haftası\" boyunca, dünya genelinde birçok bar bu klasik kokteyli kutlar ve gelirlerinin bir kısmını yardım kuruluşlarına bağışlar.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1401202",
+        "https://tr.wikipedia.org/wiki/Negroni",
+        "https://en.wikipedia.org/wiki/Negroni"
+      ],
+      "wikidata_qid": "Q1401202"
+    },
+    {
+      "id": "Q14462719",
+      "date": "2026-09-29",
+      "category": "gida-icecek",
+      "widget_title": "BonAqua şişeleri ilk ne zaman hayatımıza girdi?",
+      "hook": "Şeffaf, ferahlatıcı ve hemen her market rafında karşımıza çıkan BonAqua, hikayesine ne zaman başladı dersin?",
+      "answer_year": 1988,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Şişelenmiş su, modern yaşamın vazgeçilmez bir parçası gibi görünse de, her markanın kendine ait bir başlangıç hikayesi var. İşte bu ferahlatıcı yolculukta BonAqua, 1988 yılında sahneye çıkarak su pazarında kendine yer edinmeye başladı. Bu tarih, BonAqua'nın sadece bir ürün olarak değil, aynı zamanda tüketicilere ulaşılabilir ve kaliteli bir içme suyu alternatifi sunma misyonuyla yola çıktığı zaman dilimini işaret ediyor. 1980'lerin sonları, genel olarak şişelenmiş su pazarının dünya çapında yükselişe geçtiği bir dönemdi. Tüketicilerin sağlık ve pratiklik arayışı, bu tür markaların önünü açtı.\n\nBonAqua da bu dalgayı yakalayarak kısa sürede popülerlik kazandı. Marka, bu tarihten itibaren dünya genelindeki milyonlarca tüketiciye ulaşmak için hızla büyüdü ve yaygınlaştı. Özellikle [DOĞRULA: BonAqua'nın başlangıçta The Coca-Cola Company tarafından piyasaya sürüldüğünü veya bu tarihte şirket portföyüne katıldığını doğrula], küresel içecek devinin gücüyle arkasını da alan BonAqua, kısa sürede market raflarında ve restoran masalarında kendine sağlam bir yer buldu. Bu dönemde birçok farklı ülkede piyasaya sürülerek uluslararası bir marka olma yolunda önemli adımlar attı. 1988, BonAqua'nın sadece bir isim olmaktan çıkıp, günlük rutinlerimizin ve dolayısıyla da içecek kültürümüzün ayrılmaz bir parçası haline gelmesinin miladı oldu diyebiliriz. Yani, elimizdeki o berrak suyun markalı tarihi, aslında çok da eski değilmiş ve her zaman yanı başımızda gibi hissettirse de, belirli bir başlangıç noktası var!",
+      "fun_fact": "BonAqua isminin \"iyi su\" anlamına gelen Latinceden türediği düşünülüyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14462719",
+        "https://tr.wikipedia.org/wiki/BonAqua",
+        "https://en.wikipedia.org/wiki/Bonaqua"
+      ],
+      "wikidata_qid": "Q14462719"
+    },
+    {
+      "id": "Q1538163",
+      "date": "2026-09-30",
+      "category": "gida-icecek",
+      "widget_title": "Gordon's Gin ne zaman kadehlerimizi şenlendirdi?",
+      "hook": "Tarihin tozlu sayfalarından günümüze uzanan, efsanevi bir içeceğin hikayesine hazır mısınız?",
+      "answer_year": 1769,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1840
+      ],
+      "body": "Gordon's Gin, içki dünyasının köklü ve saygın isimlerinden biri olarak 1769 yılında, Londra'nın kalbinde doğdu. Tam 250 yılı aşkın bir süredir kesintisiz bir şekilde üretilen bu ikonik cin, adeta zaman tünelinden geçerek günümüze ulaştı. Markanın kurucusu veya ilk mucidi hakkında elimizdeki bilgiler kısıtlı olsa da, Gordon's adı kısa sürede kalitenin ve eşsiz lezzetin simgesi haline geldi. \"London Dry Gin\" tarzının en önemli temsilcilerinden olan Gordon's, özenle seçilmiş botaniklerle harmanlanarak kendine özgü ferahlatıcı tadını oluşturur. Ardıç meyvesi, kişniş tohumu ve çeşitli narenciye kabukları gibi [DOĞRULA: Gordon's Gin'in temel botanikleri] gizli tarifindeki bileşenler, ona o karakteristik, net ve dengeli profilini verir.\n\nBaşlangıçta Londra'nın hareketli publarında ve sosyete davetlerinde kendine yer bulan bu cin, hızla popülerlik kazanarak zamanla tüm dünyaya yayıldı. Cin ve tonik gibi klasik kokteyllerin vazgeçilmezi haline gelerek kokteyl kültürünün gelişiminde önemli bir rol oynadı. Gordon's sadece bir içecek değil, aynı zamanda İngiliz kültürünün ve sosyal hayatının bir parçası haline geldi. Bugün bile dünya genelinde en çok tercih edilen cin markalarından biri olan Gordon's, basit bir içecekten çok daha fazlası; o, tarihle iç içe geçmiş bir mirasın, keyifli sohbetlerin ve unutulmaz anların sessiz tanığı. Her yudumda tarihin lezzetini hissetmek isterseniz, Gordon's Gin şişesinin arkasındaki bu uzun soluklu hikayeyi hatırlayın.",
+      "fun_fact": "Dünya genelinde en çok satan uluslararası premium cin markalarından biri olan Gordon's Gin, 100'den fazla ülkede tüketicilerle buluşmaktadır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1538163",
+        "https://tr.wikipedia.org/wiki/Gordon%27s_Gin",
+        "https://en.wikipedia.org/wiki/Gordon%27s_Gin"
+      ],
+      "wikidata_qid": "Q1538163"
     }
   ]
 }
