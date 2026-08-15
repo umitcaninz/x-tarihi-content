@@ -289,28 +289,6 @@
       "wikidata_qid": "Q3493770"
     },
     {
-      "id": "Q36465",
-      "date": "2026-11-14",
-      "category": "gida-icecek",
-      "widget_title": "Un insanlık tarihinde ne zaman yerini aldı?",
-      "hook": "Tarihin tozlu sayfalarında, unun hikayesi sandığımızdan çok daha eskilere dayanıyor.",
-      "answer_year": -14000,
-      "year_precision": "year",
-      "guess_range": [
-        -14100,
-        -13920
-      ],
-      "body": "Un, mutfaklarımızın vazgeçilmezi olsa da, aslında insanlık tarihindeki en eski gıdalardan biri. Çoğumuz onu sadece ekmek yapımıyla ilişkilendirse de, bu temel gıda maddesinin kökenleri sandığımızdan çok daha derinlere uzanıyor. Yapılan arkeolojik buluntular, insanların tahılları öğütmeye başladığını ve un benzeri maddeler ürettiğini yaklaşık 14.000 yıl öncesine tarihlendiriyor. Bu kadar eski bir geçmişe sahip olması, unun sadece beslenme alışkanlıklarımızı değil, aynı zamanda yerleşik yaşama geçişimizi ve hatta medeniyetlerin temelini atan kritik unsurlardan biri olduğunu gösteriyor.\n\nDüşünün, Paleolitik dönemde yaşayan atalarımız, önce yabani tahılları özenle toplayıp ardından taşlar arasında ezerek basit bir \"un\" elde ediyordu. Bu ilk öğütülmüş tahıllar, belki de doğrudan çiğ olarak tüketilmiyor, belki de suyla karıştırılıp bir çeşit lapa veya ilkel yiyecekler yapımında kullanılıyordu. Bu basit işlem, enerjik ve besleyici bir gıda kaynağına ulaşmanın ilk adımıydı. Zamanla, bu ilkel yöntemler gelişti ve Neolitik Çağ'da tarımın başlamasıyla un üretimi, insanlığın beslenme tarihinde adeta devrim niteliğinde bir adım oldu. Unun belirli bir \"mucidi\" olmaması aslında çok doğal; o, binlerce yıl süren bir gözlem, keşif ve evrim sürecinin ürünü. İnsanlığın ortak zekası ve hayatta kalma mücadelesinin bir parçası olarak, bu toz haline getirilmiş tahıl, medeniyetlerin gelişiminde kilit bir rol oynamıştır.",
-      "fun_fact": "Un, tarihin en eski ve en önemli işlenmiş gıdalarından biri olup, neredeyse her kültürün mutfağında merkezi bir role sahiptir.",
-      "image": null,
-      "sources": [
-        "https://www.wikidata.org/wiki/Q36465",
-        "https://tr.wikipedia.org/wiki/Un",
-        "https://en.wikipedia.org/wiki/Flour"
-      ],
-      "wikidata_qid": "Q36465"
-    },
-    {
       "id": "Q372270",
       "date": "2026-11-15",
       "category": "gida-icecek",
