@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "month": "2027-12",
+  "items": [
+    {
+      "id": "Q573852",
+      "date": "2027-12-01",
+      "category": "ulasim",
+      "widget_title": "Uluburun batığı ne zaman battı?",
+      "hook": "Bir gemi, neredeyse 3.300 yıl önce Akdeniz’in serin sularına gömüldü... Peki, bu batığın hikayesi nasıl aydınlandı?",
+      "answer_year": -1304,
+      "year_precision": "year",
+      "guess_range": [
+        -1410,
+        -1230
+      ],
+      "body": "Uluburun batığı, günümüzden yaklaşık **3.300 yıl önce**, yani **MÖ 1304 civarında** (Bronz Çağı’nın sonlarına doğru) Akdeniz’in sularına gömülen bir ticaret gemisine ait. Geminin tam olarak ne zaman battığına dair tarih, kalıntılar üzerinde yapılan incelemeler ve radyokarbon tarihleme yöntemleriyle belirlenmiş durumda. Geminin enkazı, 1982 yılında Kaş açıklarında bir dalgıç tarafından tesadüfen keşfedildi ve sonrasında yapılan kazılar, dünyanın en önemli arkeolojik buluntularından biri haline geldi.\n\nBatıkta bulunan yükler arasında **10 ton bakır ve kalay külçeleri**, **cam ve fildişi eserler**, **altın ve gümüş mücevherler** ve hatta **Mısır firavunlarına ait bir mühür** bile vardı. Bu da geminin, o dönemde Akdeniz’in dört bir yanından mal taşıyan bir ticaret gemisi olduğunu gösteriyor. Geminin rotası ve kargosu, Bronz Çağı ticaret ağlarının ne kadar geniş ve karmaşık olduğunu gözler önüne seriyor.\n\nPeki, gemiyi kimler kullanıyordu? Geminin kaptanı veya sahibi bilinmiyor, ancak batığın bulunduğu yer ve içindeki mallar, geminin **Kıbrıs veya Suriye-Filistin kıyılarından** yola çıktığını düşündürüyor. [DOĞRULA: Geminin tam olarak hangi limandan hareket ettiği ve mürettebatının kimlerden oluştuğu konusunda kesin bir bilgi bulunmamaktadır.]\n\nUluburun batığı, sadece bir gemi enkazı değil; aynı zamanda **Bronz Çağı’nın sonuna dair ipuçları taşıyan bir zaman kapsülü** olarak kabul ediliyor. Kazılar sırasında çıkarılan eserler, bugün Bodrum’daki Sualtı Arkeoloji Müzesi’nde sergileniyor ve ziyaretçilere o dönemin zenginliğini ve karmaşıklığını anlatıyor.",
+      "fun_fact": "Uluburun batığında bulunan cam külçeler, camın henüz yaygın olarak üretilmediği bir dönemde lüks bir malzeme olarak kabul ediliyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q573852",
+        "https://tr.wikipedia.org/wiki/Uluburun_bat%C4%B1%C4%9F%C4%B1",
+        "https://en.wikipedia.org/wiki/Uluburun_shipwreck"
+      ],
+      "wikidata_qid": "Q573852"
+    },
+    {
+      "id": "Q634500",
+      "date": "2027-12-02",
+      "category": "iletisim",
+      "widget_title": "GMail Drive ne zaman icat edildi?",
+      "hook": "E-postalarınızı sadece iletişim için değil, dosya depolamak için de kullanabileceğinizi biliyor muydunuz?",
+      "answer_year": 2004,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "GMail Drive, 2004 yılında kullanıma sunulan ve Gmail hesaplarını bir bulut depolama alanı gibi kullanmayı sağlayan yenilikçi bir yazılım olarak karşımıza çıkıyor. Temel fikir, Gmail’in sunduğu geniş depolama alanından (o dönem için devrim niteliğinde olan 1 GB) yararlanarak dosyaları e-posta ekleri olarak saklamaktı. Bu sayede kullanıcılar, harici bir disk ya da bulut hizmeti satın almadan önemli belgelerini ve verilerini güvenli bir şekilde saklayabiliyordu.\n\nProje, Google’ın henüz erken dönemlerinde, üçüncü taraf geliştiriciler tarafından hayata geçirildi. GMail Drive’ın en ilginç yanı, resmi bir Google ürünü olmamasına rağmen, Gmail’in altyapısını kullanarak çalışan bir köprü görevi görmesiydi. Kullanıcılar, basitçe bir klasöre dosya attıkları gibi, bu dosyaları otomatik olarak e-posta eklerine dönüştürüp Gmail hesaplarına gönderebiliyorlardı. [DOĞRULA: GMail Drive’ın geliştiricisi veya arkasındaki ekip hakkında net bir bilgi bulunmamaktadır.]\n\nZamanla, Google’ın kendi bulut depolama hizmeti olan Google Drive’ın 2012 yılında piyasaya sürülmesiyle birlikte, GMail Drive gibi üçüncü parti çözümlerin popülaritesi azaldı. Yine de, GMail Drive’ın dijital depolama alanında bir devrim yarattığı ve kullanıcıların veri yönetimi konusunda farklı bakış açıları kazanmasına katkı sağladığı söylenebilir.",
+      "fun_fact": "GMail Drive, 2004 yılında Gmail’in sunduğu 1 GB depolama alanıyla birlikte, kullanıcıların dosyalarını e-posta eklerinde saklamasına olanak tanıyan ilk uygulamalardan biriydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q634500",
+        "https://tr.wikipedia.org/wiki/GMail_Drive",
+        "https://en.wikipedia.org/wiki/GMail_Drive"
+      ],
+      "wikidata_qid": "Q634500"
+    },
+    {
+      "id": "Q767221",
+      "date": "2027-12-03",
+      "category": "iletisim",
+      "widget_title": "CTV Television Network ne zaman kuruldu?",
+      "hook": "Kanada’nın en büyük televizyon ağlarından biri olan CTV’nin hikayesi, sadece bir yayıncılık başarısının ötesinde!",
+      "answer_year": 1961,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "CTV Television Network, Kanada’nın önde gelen İngilizce televizyon ağlarından biri olarak 1961 yılında yayın hayatına başladı. Kuruluşundan itibaren ülkenin dört bir yanındaki izleyicilere ulaşmayı hedefleyen CTV, başlangıçta yerel istasyonların bir araya gelmesiyle oluşan bir ağ olarak ortaya çıktı. [DOĞRULA: Bu birleşmenin ardındaki ilk itici güçler nelerdi?] İlk yıllarında haber, eğlence ve spor programlarıyla dikkat çeken ağ, Kanada televizyonculuğunun şekillenmesinde önemli bir rol oynadı.\n\n1960’ların ortalarına gelindiğinde CTV, ülke genelinde daha geniş bir kitleye ulaşmayı başardı ve Kanada Radyo-Televizyon ve Telekomünikasyon Komisyonu (CRTC) tarafından resmi olarak tanınan bir yayıncı haline geldi. Bu tanınma, ağın yerel yapımlara daha fazla yatırım yapmasına ve uluslararası içeriklerle rekabet etmesine olanak sağladı. [DOĞRULA: CTV’nin ilk uluslararası işbirlikleri hangi yıllarda ve hangi ülkelerle gerçekleşti?]\n\nGünümüzde CTV, Kanada’nın en çok izlenen televizyon ağlarından biri olarak varlığını sürdürüyor. Hem yerel yapımları hem de uluslararası dizileri bünyesinde barındıran ağ, dijital platformlara da hızlı bir geçiş yaparak izleyicilerine çok çeşitli içerikler sunuyor.",
+      "fun_fact": "CTV’nin ilk yayınlanan programı, 1961 yılında yayınlanan bir haber bülteniydi ve Kanada televizyon tarihinde bir dönüm noktası olarak kabul ediliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q767221",
+        "https://tr.wikipedia.org/wiki/CTV_Television_Network",
+        "https://en.wikipedia.org/wiki/CTV_Television_Network"
+      ],
+      "wikidata_qid": "Q767221"
+    }
+  ]
+}

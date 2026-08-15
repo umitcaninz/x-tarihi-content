@@ -1,0 +1,666 @@
+{
+  "schema_version": 1,
+  "month": "2027-11",
+  "items": [
+    {
+      "id": "Q1038482",
+      "date": "2027-11-01",
+      "category": "ulasim",
+      "widget_title": "Haruka tren hattı ne zaman hizmete girdi?",
+      "hook": "Japonya’nın en hızlı trenlerinden biri olan Haruka, sizi havaalanına sadece 75 dakikada ulaştırıyor — peki ilk seferini yaptığı tarihi biliyor musunuz?",
+      "answer_year": 1994,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Haruka, Japonya’nın batısında yer alan Osaka ile Kansai Uluslararası Havalimanı’nı birbirine bağlayan özel bir ekspres tren hattı. Bu hat, 1994 yılında hizmete girdi ve o günden beri yolculara hızlı, güvenilir ve konforlu bir ulaşım seçeneği sunuyor. Haruka’nın hikayesi, Japonya’nın ulaşım alanındaki yenilikçi adımlarından biri olarak öne çıkıyor.\n\nHaruka’nın devreye alınması, Kansai Uluslararası Havalimanı’nın 1994 yılında açılmasıyla doğrudan bağlantılı. Havalimanı, Osaka Körfezi’ndeki yapay bir ada üzerine inşa edilmişti ve kara ulaşımında yeni çözümler gerektiriyordu. [DOĞRULA: Haruka’nın tasarımında veya işletiminde öne çıkan mühendislik özellikleri nelerdi?] Bu ihtiyacı karşılamak üzere Haruka hattı planlandı ve kısa sürede yerel halkın vazgeçilmezi haline geldi.\n\nBugün Haruka, Shinkansen teknolojisinin bir parçası olarak bilinmese de, Japonya’nın bölgesel tren ağında önemli bir rol oynuyor. Sık sık yapılan bakım ve iyileştirmelerle yolcularına hizmet vermeye devam ediyor.",
+      "fun_fact": "Haruka’nın maksimum hızı 130 km/saat olmasına rağmen, yolcularına sunduğu manzara ve konfor nedeniyle tercih edilen bir seçenek haline geldi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1038482",
+        "https://tr.wikipedia.org/wiki/Haruka_(tren)",
+        "https://en.wikipedia.org/wiki/Haruka_(train)"
+      ],
+      "wikidata_qid": "Q1038482"
+    },
+    {
+      "id": "Q107078602",
+      "date": "2027-11-02",
+      "category": "iletisim",
+      "widget_title": "Organic Maps ne zaman çıktı?",
+      "hook": "Offline haritalar dünyasında adından sıkça söz ettiren bir uygulama var — peki sizce Organic Maps ne zaman yolculuğuna başladı?",
+      "answer_year": 2021,
+      "year_precision": "year",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Organic Maps, internete bağlı olmadan da çalışabilen, ücretsiz ve açık kaynaklı bir harita navigasyon uygulaması olarak 2021 yılında kullanıma sunuldu. Bu uygulama, özellikle kırsal alanlarda, dağcılıkta ya da sadece veri kullanımını sınırlamak isteyenler için ideal bir çözüm olarak öne çıkıyor.\n\nAslında Organic Maps’in hikayesi, daha eski bir proje olan Maps.me’nin çatallanmasıyla (yani orijinal kodundan ayrılarak bağımsız bir şekilde geliştirilmeye devam edilmesi) başlıyor. [DOĞRULA: Organic Maps’in çatallandığı orijinal projenin adı ve çatallanma nedeni] 2021 yılında tamamen bağımsız hale gelen Organic Maps, kullanıcılarına reklamsız bir deneyim sunmayı ve gizlilik odaklı bir yaklaşım benimsemeyi hedefledi. Uygulama, açık kaynaklı yapısı sayesinde geliştiricilerin katkılarına da açık — böylece sürekli olarak güncelleniyor ve genişliyor.\n\nOrganic Maps’in en büyük avantajlarından biri, indirilen haritaların cihazda saklanabilmesi ve çevrimdışı kullanımın yanı sıra, rota planlaması, yer işaretleri ekleme ve hatta bisiklet yolları gibi özel özellikler sunması. Bu da onu sadece şehir içi değil, macera arayanlar için de vazgeçilmez kılıyor!",
+      "fun_fact": "Organic Maps, adını sadece ‘organik’ ve ‘haritalar’ kelimelerinin birleşiminden değil, aynı zamanda kullanıcı deneyimini en doğal haliyle sunmayı hedeflediği için almış!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q107078602",
+        "https://tr.wikipedia.org/wiki/Organic_Maps",
+        "https://en.wikipedia.org/wiki/Organic_Maps"
+      ],
+      "wikidata_qid": "Q107078602"
+    },
+    {
+      "id": "Q1142995",
+      "date": "2027-11-03",
+      "category": "oyun-spor",
+      "widget_title": "Süper Lig ne zaman başladı?",
+      "hook": "Türkiye’nin en çok konuşulan ligi, aslında sandığınızdan daha yakın bir geçmişe sahip!",
+      "answer_year": 1996,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Futbola doyduğumuz şu günlerde adını sıkça duyduğumuz Süper Lig’in temelleri, aslında 1959 yılında atıldı. Ancak o dönemdeki adı **Millî Lig** olan bu organizasyon, yıllar içinde birçok değişikliğe uğradı. Peki, Süper Lig adı altında ilk maçlar ne zaman oynandı?\n\n1996 yılında, Türkiye’nin futbol ligi sisteminde büyük bir yenilik yapıldı ve **Süper Lig** adı resmen kullanılmaya başlandı. Bu değişimle birlikte, ligin yapısı ve organizasyonu da daha profesyonel bir hale getirildi. Artık takımlar, Avrupa standartlarına daha yakın bir ligde mücadele ediyorlardı. [DOĞRULA: Süper Lig’in ilk sezonunda hangi takımlar mücadele etti?]\n\nSüper Lig’in kurulması, Türk futbolunun hem yerel hem de uluslararası arenada daha fazla görünürlük kazanmasına yardımcı oldu. Zamanla, ligdeki rekabetin artması ve takımların Avrupa kupalarında daha başarılı sonuçlar alması, Süper Lig’in prestijini de yükseltti.",
+      "fun_fact": "Süper Lig’in ilk şampiyonu, 1996-97 sezonunda namağlup bir şekilde şampiyon olan Galatasaray’dır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1142995",
+        "https://tr.wikipedia.org/wiki/Super_League_(ragbi_ligi)",
+        "https://en.wikipedia.org/wiki/Super_League"
+      ],
+      "wikidata_qid": "Q1142995"
+    },
+    {
+      "id": "Q1156634",
+      "date": "2027-11-04",
+      "category": "gida-icecek",
+      "widget_title": "Dondurma külahı ne zaman icat edildi?",
+      "hook": "Dondurmanın tadını lezzetli bir külahın içinde yemek, hepimizin çocukluk anılarından biri... Peki bu pratik fikir ilk ne zaman ortaya çıktı?",
+      "answer_year": 1724,
+      "year_precision": "year",
+      "guess_range": [
+        1700,
+        1800
+      ],
+      "body": "Dondurma külahının hikayesi, 19. yüzyılın sonlarına doğru ABD’deki fuar ve panayır kültürüne kadar uzanıyor. En yaygın anlatıya göre, 1904 yılında St. Louis’de düzenlenen Dünya Fuarı’nda (Louisiana Purchase Exposition) dondurma külahının doğumuna tanık olunuyor. [DOĞRULA: Fuarda dondurma satan iki farklı satıcıdan birinin, Ernest Hamwi adlı bir şekerci olduğu ve waffle benzeri bir hamurdan külah yaptığı, diğerinin ise bir kağıt kabın içinde dondurma sattığına dair kayıtlar bulunuyor.] Bu olay, dondurma külahının kitlelere ulaşmasını sağlayan ilk büyük adım olarak kabul ediliyor.\n\nAncak dondurma külahının tam olarak ne zaman icat edildiği konusunda net bir tarih vermek zor. Bazı kaynaklar, 1880’lerde İngiltere’de dondurmanın yenilebilir bir kapta servis edilmesi fikrinin ilk kez ortaya çıktığını öne sürüyor. [DOĞRULA: Bu dönemde İtalyan göçmenlerin dondurma yapımında kağıt kaplar kullanmaya başladığına dair kayıtlar mevcut, ancak külah formuna dair bir kanıt bulunmuyor.] Yani, dondurma külahının icadı, birden fazla kişinin aynı anda farklı yöntemlerle denemeler yaptığı bir süreç olarak da görülebilir.\n\nBugün bildiğimiz şekliyle dondurma külahı, 1904 yılındaki fuarın ardından ABD’de popülerlik kazandı ve kısa sürede dünya genelinde yayıldı. Artık dondurmanın vazgeçilmez bir parçası olan külah, aslında tesadüflerin ve yaratıcılığın birleştiği bir hikayenin ürünü!",
+      "fun_fact": "Dondurma külahının icadında rol oynayan Ernest Hamwi, daha sonra külah üretimi için bir şirket kurarak bu işi ticari bir başarıya dönüştürdü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1156634",
+        "https://tr.wikipedia.org/wiki/Dondurma_k%C3%BClah%C4%B1",
+        "https://en.wikipedia.org/wiki/Ice_cream_cone"
+      ],
+      "wikidata_qid": "Q1156634"
+    },
+    {
+      "id": "Q131723",
+      "date": "2027-11-05",
+      "category": "gunluk-nesneler",
+      "widget_title": "Bitcoin ne zaman ortaya çıktı?",
+      "hook": "Dijital paranın geleceğini şekillendiren o anı hiç merak ettiniz mi?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Bitcoin’in doğuş hikayesi, 2008 yılının sonlarına doğru gizemli bir şekilde ortaya çıkan bir belgeyle başladı. 31 Ekim 2008 tarihinde, *bitcoin.org* alan adına kaydedilen ve Satoshi Nakamoto imzası taşıyan bir makale, dünyaya ilk kez \"Bitcoin: A Peer-to-Peer Electronic Cash System\" başlığı altında yeni bir dijital para sistemini tanıttı. Bu belge, merkezi olmayan, güvenilir üçüncü bir kuruma ihtiyaç duymadan işlem yapılabilen bir para biriminin temelini attı.\n\nAncak Bitcoin’in ilk somut adımı, 3 Ocak 2009 tarihinde atıldı. Bu tarihte, blok zincirinin (blockchain) ilk bloğu olan \"Genesis Block\" madenciliği gerçekleştirildi. Bu blokta, gazetelerin manşetlerinde yer alan bir haberin başlığı da yer aldı: *The Times* gazetesinin 3 Ocak 2009 tarihli baskısından alınan \"Chancellor on brink of second bailout for banks\" cümlesi. Bu detay, Bitcoin’in geleneksel bankacılık sistemine bir tepki olarak doğduğunun sembolik bir göstergesi olarak yorumlanıyor.\n\nSatoshi Nakamoto’nun kimliği ise hâlâ bir sır. Bu isim, hem Bitcoin’in yaratıcısı hem de ilk geliştiricisi olarak kabul ediliyor, ancak gerçek kimliği hakkında [DOĞRULA: çeşitli teoriler ve spekülasyonlar var]. Bitcoin’in ilk kullanıcıları arasında, 2010 yılında gerçekleşen ve tarihteki ilk mal alımının konusu olan iki pizza, efsaneleşti. Bu olay, Bitcoin’in gerçek dünyadaki değerini ilk kez somutlaştırdı.\n\nBugün Bitcoin, sadece bir yatırım aracı olmanın ötesinde, blok zincir teknolojisinin de temelini oluşturuyor. Peki, sizce Bitcoin’in geleceği nasıl şekillenecek?",
+      "fun_fact": "Bitcoin’in ilk işlemlerinde kullanılan pizza, 10.000 BTC karşılığında satın alındı — bugün bu miktar milyonlarca dolar değerinde!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131723",
+        "https://tr.wikipedia.org/wiki/Bitcoin",
+        "https://en.wikipedia.org/wiki/Bitcoin"
+      ],
+      "wikidata_qid": "Q131723"
+    },
+    {
+      "id": "Q1056575",
+      "date": "2027-11-06",
+      "category": "ulasim",
+      "widget_title": "Thunderbird treni ne zaman hizmete girdi?",
+      "hook": "1995’te ABD’nin kuzeybatısında yıldırım gibi yol alan bir tren hayal edin—adı da zaten buradan geliyor!",
+      "answer_year": 1995,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Thunderbird, 1995 yılında ABD’nin kuzeybatısında, Amtrak şirketi tarafından hizmete sokulan yüksek hızlı bir tren hattıdır. Bu hat, Seattle (Washington) ile Portland (Oregon) şehirleri arasında çalışmak üzere tasarlanmıştır. Adını, yerel efsanelerde fırtınaları ve hızlı hareketleri simgeleyen *Thunderbird* (Gök Gürültüsü Kuşu) efsanesinden alır—trenin hızlı ve etkileyici seyahat deneyimini yansıtan bir isimlendirme olmuştur.\n\nThunderbird, aslında Amtrak’ın *Cascades* adlı bölgesel tren hizmetinin bir parçası olarak faaliyet göstermektedir. Bu hat, yolculara hem çevre dostu bir ulaşım seçeneği sunmakta hem de Cascade Dağları’nın muhteşem manzaralarını izleyerek keyifli bir yolculuk imkanı sağlamaktadır. Tren, elektrikli lokomotifler ve modern vagonlarla donatılmıştır, ancak dikkat çekici olan nokta, aslında *yüksek hızlı* olarak sınıflandırılmamış olmasıdır—ortalama hızları 110-130 km/saat civarındadır. [DOĞRULA: Thunderbird treninin ilk seferinde kullanılan vagon modelleri ve teknik özellikleri]\n\nThunderbird, bölgesel ulaşımda önemli bir yere sahip olsa da, Amerika Birleşik Devletleri’nin diğer yüksek hızlı tren hatları (örneğin, Acela Express) kadar hızlı değildir. Yine de, yolculara güvenilir, konforlu ve çevreye duyarlı bir ulaşım seçeneği sunmaya devam etmektedir.",
+      "fun_fact": "Thunderbird treninin adı, yerli Amerikan kültüründeki efsanevi Gök Gürültüsü Kuşu’ndan ilham alsa da, trenin kendisi bu efsanevi yaratığın hızına yetişemeyecek kadar yavaş kalıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1056575",
+        "https://tr.wikipedia.org/wiki/Thunderbird_(tren)",
+        "https://en.wikipedia.org/wiki/Thunderbird_(train)"
+      ],
+      "wikidata_qid": "Q1056575"
+    },
+    {
+      "id": "Q111988573",
+      "date": "2027-11-07",
+      "category": "iletisim",
+      "widget_title": "Google Wallet ne zaman çıktı?",
+      "hook": "Dijital cüzdan deyince aklınıza ne geliyor? Peki ya bu fikrin arkasında yatan ilk adımlar hakkında ne biliyorsunuz?",
+      "answer_year": 2022,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Google Wallet, dijital ödemelerin ve kimlik belgelerinin tek bir uygulamada toplanmasını sağlayan bir sistem olarak 2022 yılında kullanıma sunuldu. Aslında bu hikaye, Google’ın yıllar içinde geliştirdiği ödeme ve kimlik teknolojilerinin birleşimine dayanıyor. [DOĞRULA: Google Wallet’ın temelleri, daha önceki Google Pay ve Google’in diğer ödeme sistemleriyle nasıl bir ilişki içinde geliştirildi?]\n\nGoogle Wallet’ın çıkış amacı, kullanıcıların kredi kartları, sadakat kartları, biletler ve hatta kimliklerini tek bir yerde saklayıp kolayca kullanmalarını sağlamaktı. Uygulama, NFC teknolojisi sayesinde mağazalarda temassız ödemeler yapmayı da mümkün kıldı. Ancak bu sistemin arkasında yatan en büyük motivasyon, kullanıcı deneyimini basitleştirmek ve güvenliği artırmaktı.\n\nDikkat çekici bir nokta da, Google Wallet’ın aslında daha geniş bir ekosistemin parçası olması. Örneğin, bazı ülkelerde Google Wallet, sadece ödemeler için değil, aynı zamanda toplu taşıma biletleri veya iş yerindeki kimlik kartları için de kullanılıyor. Bu da gösteriyor ki, dijital cüzdan kavramı sadece bir ödeme aracı olmanın ötesine geçiyor.",
+      "fun_fact": "Google Wallet, 2022 yılında piyasaya sürülmesine rağmen, aslında Google’ın ödeme teknolojilerine yönelik ilk adımları 2011 yılına kadar uzanıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q111988573",
+        "https://tr.wikipedia.org/wiki/Google_Wallet",
+        "https://en.wikipedia.org/wiki/Google_Wallet"
+      ],
+      "wikidata_qid": "Q111988573"
+    },
+    {
+      "id": "Q1163715",
+      "date": "2027-11-08",
+      "category": "oyun-spor",
+      "widget_title": "Major League Baseball ne zaman kuruldu?",
+      "hook": "Beyzbolun en prestijli ligi olan MLB’nin temelleri, 20. yüzyılın başında atıldı — peki sence tam olarak hangi yılda?",
+      "answer_year": 1903,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Modern Amerikan profesyonel beyzbolunun kalbi olan **Major League Baseball (MLB)**, 1903 yılında resmen kuruldu. Bu tarih, ABD’deki en üst seviye beyzbol liglerinin birleşmesiyle ortaya çıktı. Öncesinde, farklı bölgelerde birbirinden bağımsız olarak oynanan ligler vardı; ancak 1901 yılında **American League** (AL) kurulunca, bu rekabetçi ortamda birbirine rakip olan ligler arasında bir anlaşmaya gidildi. [DOĞRULA: Bu anlaşmanın detayları ve hangi liglerin birleştiği hakkında daha fazla kaynak bulunmalı.] 1903 yılında ise **Boston Americans** (AL) ve **Pittsburgh Pirates** (National League - NL) takımları arasında ilk **World Series** maçları oynandı. Bu karşılaşma, MLB’nin temellerinin atıldığı ve günümüzdeki lig sisteminin oluşmaya başladığı dönüm noktası olarak kabul ediliyor.\n\nMLB’nin kuruluşuyla birlikte, beyzbol ABD’nin en popüler sporlarından biri haline geldi. Lig, zamanla genişleyerek 30 takıma ulaştı ve dünya genelinde milyonlarca hayran kazandı. Bugün bile, MLB’nin ilk yıllarındaki bu birleşme ruhu, ligin yapısında ve rekabet anlayışında hissediliyor.",
+      "fun_fact": "İlk World Series’in kazananı olan Boston Americans takımının günümüzdeki adı Boston Red Sox!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1163715",
+        "https://tr.wikipedia.org/wiki/Major_League_Baseball",
+        "https://en.wikipedia.org/wiki/Major_League_Baseball"
+      ],
+      "wikidata_qid": "Q1163715"
+    },
+    {
+      "id": "Q135888",
+      "date": "2027-11-09",
+      "category": "gida-icecek",
+      "widget_title": "Chicken McNuggets ne zaman icat edildi?",
+      "hook": "Kızarmış tavuk parçalarının elinizde duran minik birer lezzet bombası olduğunu biliyor muydunuz?",
+      "answer_year": 1983,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Chicken McNuggets’in hikayesi, 1980’lerin başında McDonald’s’ın menüsünü çeşitlendirme arayışına dayanıyor. 1983 yılında, Amerika Birleşik Devletleri’nde ilk kez satışa sunulan bu minik tavuk parçaları, fast food dünyasında devrim yarattı. Peki, bu fikir nasıl ortaya çıktı? McDonald’s, o dönemde tavuk eti tüketimini artırmak ve müşterilere daha pratik bir seçenek sunmak istiyordu. [DOĞRULA: Chicken McNuggets’in mucidi olarak genellikle Keystone Foods şirketi gösterilse de, McDonald’s bünyesinde geliştirildiği kesinleşmiş durumda.]\n\nİlk etapta sadece dört farklı daldırma sosuyla sunulan Chicken McNuggets, zamanla dünya genelinde milyonlarca insanın favorisi haline geldi. 1980’lerin ortalarında uluslararası arenada da yaygınlaşmaya başlayan bu lezzet, özellikle çocuklar arasında büyük bir popülerlik kazandı. McDonald’s, bu başarının ardından tavuk bazlı ürünlerini sürekli çeşitlendirdi ve Chicken McNuggets’i menülerinin vazgeçilmez bir parçası haline getirdi.\n\nBugün, Chicken McNuggets’in üretim süreci oldukça sofistike. Tavuk göğsü ve butlarından elde edilen etler, özel makinelerde şekillendirilerek homojen bir doku kazandırılıyor. Ardından, dondurularak tüketiciye ulaşan bu ürünler, restoranlarda hızlı bir şekilde kızartılıyor. İlginç olanı, Chicken McNuggets’in sadece lezzeti değil, aynı zamanda pazarlama stratejileriyle de fast food tarihinde önemli bir yere sahip olması.",
+      "fun_fact": "Chicken McNuggets’in ilk reklam kampanyasında, ürünün \"100%' tavuk eti\"nden yapıldığı vurgulanmıştı — oysa bugün bazı ülkelerde sadece %45-60 oranında tavuk eti içerdiği biliniyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q135888",
+        "https://tr.wikipedia.org/wiki/Chicken_McNuggets",
+        "https://en.wikipedia.org/wiki/Chicken_McNuggets"
+      ],
+      "wikidata_qid": "Q135888"
+    },
+    {
+      "id": "Q11080223",
+      "date": "2027-11-10",
+      "category": "ulasim",
+      "widget_title": "Kyushu'da Yedi Yıldız ne zaman ortaya çıktı?",
+      "hook": "Japonya’nın en güzel trenlerinden biri olarak kabul edilen bu efsanevi seyahat aracı, adını yıldızlardan değil de... bir içecekten almış olabilir mi?",
+      "answer_year": 2013,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Kyushu’da Yedi Yıldız (七星 in Kyushu, *Shichisei in Kyushu*), Japonya’nın Kyushu bölgesinde 2013 yılında hizmete giren lüks bir gece trenidir. Bu tren, geleneksel Japon konforunu modern lüksle birleştirerek, yolcularına unutulmaz bir seyahat deneyimi sunmayı amaçlıyor.\n\nTrenin adı, Kyushu’nun yedi farklı bölgesini temsil eden yedi yıldızın birleşiminden oluşuyor. Ancak ilginç bir detay: adı, ünlü bir viski markası olan *Seven Stars* ile aynı olsa da, trenin bu markayla doğrudan bir bağlantısı yok. [DOĞRULA: Trenin adı ile viski markası arasındaki benzerliğin tesadüf olup olmadığı] \n\nKyushu’da Yedi Yıldız, JR Kyushu tarafından işletiliyor ve yolcularına özel yataklı vagonlar, nefes kesen manzaralar ve geleneksel Japon misafirperverliği sunuyor. Trenin tasarımı, Japon estetiğini yansıtan modern çizgilerle donatılmış durumda. 2013 yılında hizmete başlayan bu tren, kısa sürede Japonya’nın en popüler gece trenlerinden biri haline geldi.\n\nTrenin ortaya çıkışı, Japonya’nın ulaşım tarihindeki yenilikçi adımlardan biri olarak kabul ediliyor. Geleneksel gece trenlerinin yerini hızlı trenlere (Shinkansen) bırakmaya başladığı bir dönemde, Kyushu’da Yedi Yıldız gibi lüks seçenekler, yolculara nostaljik ama konforlu bir alternatif sunuyor.",
+      "fun_fact": "Kyushu’da Yedi Yıldız’ın seyahat süresi boyunca sunduğu yemekler, yerel Kyushu mutfağından ilham alıyor ve özel olarak hazırlanıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11080223",
+        "https://tr.wikipedia.org/wiki/Kyushu%27da_Yedi_Y%C4%B1ld%C4%B1z",
+        "https://en.wikipedia.org/wiki/Seven_Stars_in_Kyushu"
+      ],
+      "wikidata_qid": "Q11080223"
+    },
+    {
+      "id": "Q1258275",
+      "date": "2027-11-11",
+      "category": "iletisim",
+      "widget_title": "Avala Kulesi ne zaman inşa edildi?",
+      "hook": "Belgrad’ın simgelerinden biri olan bu devasa yapı, aslında soğuk savaş döneminin bir habercisi miydi?",
+      "answer_year": 1965,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Avala Kulesi, Sırbistan’ın başkenti Belgrad’ın güneyinde, Avala dağının zirvesinde yükselen bir televizyon ve gözlem kulesi. 1965 yılında inşa edilen bu yapı, sadece mimarisiyle değil, aynı zamanda tarihsel ve siyasi bağlamıyla da dikkat çekiyor. Kulenin inşa edildiği dönem, Yugoslavya’nın Soğuk Savaş yıllarında hem iç hem de dış politikada önemli kararlar aldığı bir zaman dilimine denk geliyor. [DOĞRULA: Avala Kulesi’nin inşa edilmesindeki asıl motivasyonun, Yugoslavya’nın bağımsız bir şekilde iletişim altyapısını güçlendirme ihtiyacı olup olmadığı] \n\nAvala Kulesi’nin tasarımı, mimar Uglješa Bogunović ve mühendis Milan Krstić’e ait. Kulenin inşası, Yugoslavya’nın o dönemdeki teknolojik ve mühendislik kapasitesini de gözler önüne seriyor. Ancak, kule sadece bir iletişim aracı olmanın ötesinde, aynı zamanda bir simge haline geldi. 1999 yılında NATO’nun Yugoslavya’yı bombalaması sırasında kule ağır hasar aldı, ancak savaştan sonra restore edildi ve 2010 yılında yeniden açıldı. \n\nBugün Avala Kulesi, hem yerli hem de yabancı turistler için popüler bir cazibe merkezi. Zirvesindeki platformdan Belgrad’ın panoramik manzarasını izlemek mümkün. Kulenin yüksekliği 204.54 metre ve bu da onu Sırbistan’ın en yüksek yapılarından biri yapıyor.",
+      "fun_fact": "Avala Kulesi’nin restore edildiği dönemde, orijinal yapısının %70’inden fazlasının yeniden inşa edilmesi gerektiği tahmin ediliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1258275",
+        "https://tr.wikipedia.org/wiki/Avala_Kulesi",
+        "https://en.wikipedia.org/wiki/Avala_Tower"
+      ],
+      "wikidata_qid": "Q1258275"
+    },
+    {
+      "id": "Q1215884",
+      "date": "2027-11-12",
+      "category": "oyun-spor",
+      "widget_title": "National Football League (NFL) ne zaman kuruldu?",
+      "hook": "Amerikan futbolunun en büyük sahnesi olan NFL’in temelleri, sandığınızdan çok daha eskilere dayanıyor — peki ne kadar eskilere?",
+      "answer_year": 1920,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "National Football League’in (NFL) kuruluş yılı olarak 1920 tarihi kabul edilir. Bu yıl, Ohio’nun Canton kentinde **American Professional Football Association (APFA)** adıyla kurulan lig, başlangıçta 14 takımla yola çıktı. [DOĞRULA: Ligin ilk başkanı olan Jim Thorpe’un gerçek adı ve lakabı nedir?] 1922 yılında ise resmi olarak **National Football League** adını alan lig, zamanla Amerikan futbolunun en prestijli organizasyonu haline geldi.\n\nNFL’in ilk yılları oldukça farklıydı: Maçlar bugünkü gibi televizyonda yayınlanmazdı, takımlar arasında büyük finansal dengesizlikler vardı ve hatta bazı sezonlarda ligden çekilen takımlar oldu. [DOĞRULA: 1920 yılında ligde yer alan takımlardan hangileri bugüne kadar hiç kapanmadan veya yer değiştirmeden varlığını sürdürdü?] Yine de, bu zorlu başlangıç döneminde atılan temeller, ligin bugünkü küresel çapta bir fenomen haline gelmesinin temelini oluşturdu.\n\nBugün NFL, Super Bowl gibi dünyanın en çok izlenen spor etkinliklerine ev sahipliği yapıyor. Peki, sizce ligin ilk yıllarında maçları izlemek için stadyumlara gelen seyirci sayısı ne kadardı? (İpucu: Sayı oldukça mütevazıydı!)",
+      "fun_fact": "NFL’in ilk Şampiyonluk maçı 1932 yılında yapıldı — o yılın şampiyonu Chicago Bears oldu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1215884",
+        "https://tr.wikipedia.org/wiki/National_Football_League",
+        "https://en.wikipedia.org/wiki/National_Football_League"
+      ],
+      "wikidata_qid": "Q1215884"
+    },
+    {
+      "id": "Q29476",
+      "date": "2027-11-13",
+      "category": "gida-icecek",
+      "widget_title": "Kabartma tozu ne zaman icat edildi?",
+      "hook": "Pasta yaparken o nefis kabarıklığı nasıl elde ettiğimizi hiç merak ettiniz mi?",
+      "answer_year": 1840,
+      "year_precision": "year",
+      "guess_range": [
+        1740,
+        1920
+      ],
+      "body": "Kabartma tozu, keklerin ve hamur işlerinin olmazsa olmazı olan o hafifliği ilk kez 1840 yılında bulduğumuzda, fırıncılık dünyasında devrim yaratmıştı. Aslında kabartma tozunun hikayesi, birbirinden bağımsız birkaç keşfin bir araya gelmesiyle ortaya çıktı. 18. yüzyılın sonlarında, Fransız kimyager Nicolas Leblanc'ın soda üretme yöntemini bulmasıyla [DOĞRULA: kabartma tozunun kimyasal temelleri atılmış oldu]. Ardından, 1830'larda İngiliz kimyager Alfred Bird, kabartma tozunu ilk kez ticari bir ürün olarak piyasaya sürdü — tabii o da aslında karısının glüten hassasiyeti nedeniyle yumurtasız kekler yapmak için uğraşırken bu formülü geliştirdi!\n\nPeki ya sizin tahmininiz? 1840 yılı, kabartma tozunun ilk kez geniş kitlelere ulaştığı tarih olarak kabul ediliyor. Ancak unutmayın, bu tarih kesin bir buluş tarihi değil; kabartma tozunun farklı formüllerinin yıllar içinde evrildiğini ve çeşitli ülkelerde bağımsız olarak geliştirildiğini de göz önünde bulundurmak gerek. [DOĞRULA: Örneğin, Amerika Birleşik Devletleri'nde kabartma tozunun yaygınlaşması 1850'leri buldu.]",
+      "fun_fact": "Kabartma tozunun mucidi olarak genellikle Alfred Bird kabul edilse de, onunla aynı dönemde başka mucitlerin de benzer formüller üzerinde çalıştığı bilinmekte!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29476",
+        "https://tr.wikipedia.org/wiki/Kabartma_tozu",
+        "https://en.wikipedia.org/wiki/Baking_powder"
+      ],
+      "wikidata_qid": "Q29476"
+    },
+    {
+      "id": "Q1117817",
+      "date": "2027-11-14",
+      "category": "ulasim",
+      "widget_title": "Tsushima Maru ne zaman battı?",
+      "hook": "Japonya'nın II. Dünya Savaşı'ndaki gizli operasyonlarından birinde kaybolan Tsushima Maru gemisinin trajik hikayesini biliyor muydun?",
+      "answer_year": 1997,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Tsushima Maru, II. Dünya Savaşı sırasında Okinawa'dan Japonya'ya çocukları tahliye etmek için kullanılan bir yolcu gemisiydi. **1945 yılının 22 Ağustos tarihinde**, [DOĞRULA: geminin tam olarak hangi saatlerde battığı] batmıştır. Geminin batmasına neden olan olaylar hakkında farklı kaynaklarda çeşitli iddialar bulunmaktadır. Resmi kayıtlara göre, geminin ABD donanmasına ait bir denizaltı tarafından batırıldığı yönündedir. Ancak, savaşın son günlerinde yaşanan bu olayın detayları uzun yıllar boyunca gizli kalmıştır.\n\nTsushima Maru, Okinawa'nın Amerikan kuvvetleri tarafından işgal edilmesinin ardından, yerel halkın ve özellikle çocukların Japonya'nın daha güvenli bölgelerine tahliye edilmesi amacıyla kullanılmıştır. Gemide bulunan yaklaşık 1.700 yolcu arasında çoğunluğu okul çağındaki çocuklar olmak üzere birçok sivil bulunmaktaydı. Geminin batması sonucunda yüzlerce kişi hayatını kaybetmiştir. Bu olay, savaşın son dönemlerinde yaşanan en trajik olaylardan biri olarak anılmaktadır.\n\nSavaş sonrası dönemde, Tsushima Maru'nun batması hakkında daha fazla bilgi edinmek için araştırmalar yapılmış ve çeşitli anma törenleri düzenlenmiştir. Olayın detaylarının tam olarak aydınlatılması için [DOĞRULA: arşivlerdeki gizli belgelerin incelenmesi] gerekmektedir.",
+      "fun_fact": "Tsushima Maru'nun batması, Okinawa Savaşı'nın son günlerinde gerçekleşen en büyük sivil kayıplardan biri olarak kabul edilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1117817",
+        "https://tr.wikipedia.org/wiki/Tsushima_Maru",
+        "https://en.wikipedia.org/wiki/Tsushima_Maru"
+      ],
+      "wikidata_qid": "Q1117817"
+    },
+    {
+      "id": "Q17130715",
+      "date": "2027-11-15",
+      "category": "iletisim",
+      "widget_title": "Slack ne zaman yayımlandı?",
+      "hook": "Ekip içi sohbetinizdeki o bildirim sesini ilk kez duyduğunuz anı hatırlıyor musunuz?",
+      "answer_year": 2013,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Slack, aslında bir yan ürün olarak doğdu. 2013 yılında Stewart Butterfield liderliğindeki bir ekip, bir oyun projesi olan *Glitch* için bir iletişim aracı geliştiriyordu. Proje iptal edildiğinde, bu aracın potansiyelini fark eden ekip, onu yeniden şekillendirerek 14 Şubat 2014'te [DOĞRULA: Slack'in resmi olarak kullanıma sunulduğu tarih] Slack adıyla piyasaya sürdü. Adı, \"Searchable Log of All Conversation and Knowledge\" (Tüm Konuşmaların ve Bilgilerin Aranabilir Kaydı) ifadesinin kısaltması olan *Slack*, aslında şirketin içindeki bir proje kod adıydı. \n\nBaşlangıçta sadece küçük bir grup kullanıcıya sunulan Slack, kullanıcı dostu arayüzü ve entegrasyon özellikleri sayesinde hızla popülerlik kazandı. Özellikle uzaktan çalışmanın artmasıyla birlikte, ekiplerin iletişimini ve işbirliğini kolaylaştıran bir araç haline geldi. Bugün milyonlarca kullanıcı tarafından kullanılan Slack, iletişim dünyasında devrim yaratan uygulamalardan biri olarak kabul ediliyor.",
+      "fun_fact": "Slack'in kurucu ortağı Stewart Butterfield, daha önce de dünyaca ünlü bir fotoğraf paylaşım platformu olan Flickr'ı yaratmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17130715",
+        "https://tr.wikipedia.org/wiki/Slack",
+        "https://en.wikipedia.org/wiki/Slack_(software)"
+      ],
+      "wikidata_qid": "Q17130715"
+    },
+    {
+      "id": "Q135676968",
+      "date": "2027-11-16",
+      "category": "oyun-spor",
+      "widget_title": "Wii ne zaman çıktı?",
+      "hook": "Nintendo’nun efsanevi konsolu Wii, evlerin salonlarını nasıl sarstı bir bakalım!",
+      "answer_year": 2025,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Wii, Nintendo’nun 16 Kasım 2006 tarihinde piyasaya sürdüğü devrim niteliğindeki oyun konsoludur. Piyasaya çıktığı ilk yılında hem oyunculardan hem de medyadan büyük ilgi gören Wii, hareket algılama teknolojisiyle oyun deneyimini tamamen değiştirdi. Bu yenilik, kullanıcıların konsolun kumandasıyla yaptığı fiziksel hareketlerle oyunları kontrol etmelerini sağlıyordu—mesela tenis oynarken kolunuzu sallamanız gerçekten de ekrandaki raketi hareket ettiriyordu!\n\nWii’nin başarısının ardında, basit ve erişilebilir bir tasarım anlayışı yatıyordu. Geleneksel oyun konsollarından farklı olarak, karmaşık kontroller yerine her yaştan insanın kolayca anlayabileceği bir sistem sunuyordu. Bu strateji, konsolu sadece genç oyuncuların değil, ailelerin ve hatta ilk kez oyun oynayanların da favorisi haline getirdi. [DOĞRULA: Wii’nin piyasaya çıktığı ilk yıl olan 2006’da satış rakamları ve pazarlama stratejileri hakkında detaylı veriler bulunmalı.]\n\nWii’nin piyasaya sürülmesi, Nintendo’nun oyun endüstrisindeki lider konumunu pekiştirdi ve sektörde yeni bir dönem başlattı. Konsol, sadece bir oyun makinesi olmanın ötesinde, sosyal bir deneyim sunarak arkadaş ve aile toplantılarının vazgeçilmez bir parçası haline geldi.",
+      "fun_fact": "Wii’nin en çok satan oyunu olan *Wii Sports*, konsolun satışlarını artırmak için paket içinde verilerek tarihte bir ilk oldu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q135676968",
+        "https://tr.wikipedia.org/wiki/Wplace",
+        "https://en.wikipedia.org/wiki/Wplace"
+      ],
+      "wikidata_qid": "Q135676968"
+    },
+    {
+      "id": "Q742385",
+      "date": "2027-11-17",
+      "category": "gida-icecek",
+      "widget_title": "Beyaz çikolata ne zaman icat edildi?",
+      "hook": "Sütlü ve bitterden sonra en tartışmalı çikolata türü: beyaz çikolata aslında ne zaman ortaya çıktı dersiniz?",
+      "answer_year": 1936,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Beyaz çikolata, adından da anlaşılacağı üzere kakao tozu içermeyen, sadece kakao yağı, süt tozu ve şekerden yapılan bir çikolata türevi. Peki bu kremsi lezzetin hikayesi ne zaman başladı? Resmi kayıtlara göre **1936 yılında** icat edildiği kabul ediliyor — ancak [DOĞRULA: beyaz çikolata olarak adlandırılan ilk ürünün tam olarak hangi şirket tarafından üretildiği ve tarihinin kesin kaynağı].\n\nİsviçreli çikolata üreticisi **Nestlé**, beyaz çikolatanın erken dönemdeki öncülerinden biri olarak gösteriliyor. Şirket, sütlü çikolata üretiminde kullanılan kakao yağını farklı bir reçeteyle birleştirerek 1936’da ‘Galak’ adlı ürünü piyasaya sürdü. Bu tarih, birçok kaynakta beyaz çikolatanın doğuş yılı olarak geçiyor. Ancak unutmamak gerekir ki, kakao yağı ve süt tozunun karışımından yapılan benzer ürünlerin daha önceleri de var olup olmadığı [DOĞRULA: araştırmalarda net olarak belgelenmemiş].\n\nBeyaz çikolata, diğer çikolata çeşitlerinden farklı olarak fermente edilmemiş, alkali işlem görmemiş ve kakao tozu içermeyen yapısıyla hem lezzet hem de üretim süreci açısından ayrı bir kategori oluşturuyor. Günümüzde özellikle şekerleme ve pastacılıkta sıkça kullanılan bu lezzet, başlangıçta belki de bir ‘yan ürün’ olarak görülse de zamanla kendine has bir hayran kitlesi kazandı.",
+      "fun_fact": "Beyaz çikolata, ABD Gıda ve İlaç Dairesi (FDA) tarafından ancak 2002 yılında resmen ‘çikolata’ olarak tanındı — çünkü kakao tozu içermemesi nedeniyle uzun süre ‘çikolata benzeri’ olarak sınıflandırılıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q742385",
+        "https://tr.wikipedia.org/wiki/Beyaz_%C3%A7ikolata",
+        "https://en.wikipedia.org/wiki/White_chocolate"
+      ],
+      "wikidata_qid": "Q742385"
+    },
+    {
+      "id": "Q1337798",
+      "date": "2027-11-18",
+      "category": "ulasim",
+      "widget_title": "Londra Teleferiği ne zaman açıldı?",
+      "hook": "Göz alıcı Thames Nehri’nin üzerinde süzülen kabinler, Londra’nın siluetine 2012’den beri modern bir dokunuş kattı — peki bu havalı ulaşım sistemi tam olarak nasıl doğdu?",
+      "answer_year": 2012,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Londra Teleferiği, Thames Nehri’nin iki yakasını birbirine bağlamak için tasarlanmış, şehir manzarasının keyfini çıkarmak isteyenler için özel bir ulaşım seçeneği. Bu ilginç sistem, **2012 yılında** [DOĞRULA: açılış tarihinin tam olarak hangi ay ve günde gerçekleştiği] resmen hizmete girdi ve o günden beri hem yerliler hem de turistler tarafından büyük ilgi görüyor.\n\nProje, Londra’nın ulaşım ağını genişletmek ve nehir trafiğine alternatif sunmak amacıyla hayata geçirildi. Teleferik, Greenwich Yarımadası’ndaki Greenwich Peninsula’dan başlayıp, Royal Docks bölgesindeki ExCeL Londra fuar alanına kadar yaklaşık **1 kilometre** boyunca uzanıyor. Kabinler, nehir seviyesinden yaklaşık **90 metre yükseklikte** seyrederek, Londra’nın ikonik yapıları olan O2 Arena ve Canary Wharf’un muhteşem manzaralarını sunuyor.\n\nLondra Teleferiği’nin inşası, 2011 yılında başladı ve yaklaşık bir yıl süren çalışmaların ardından tamamlandı. Sistem, **Emirates Air Line** adıyla da bilinir — bu isim, projeye sponsorluk yapan Emirates Havayolları’ndan geliyor. İlginç bir detay da, teleferiğin toplam maliyetinin yaklaşık **60 milyon pound** olduğu yönünde, ancak bu rakamın doğruluğu [DOĞRULA: resmi kaynaklarda teyit edilmeli].\n\nPeki, bu proje neden bu kadar özel? Çünkü Londra Teleferiği, sadece bir ulaşım aracı değil, aynı zamanda şehrin dinamiklerini ve yenilikçi ruhunu yansıtan bir simge haline geldi.",
+      "fun_fact": "Londra Teleferiği’nin kabinleri, saatte yaklaşık 2.500 yolcu taşıma kapasitesine sahip — bu da onu dünyanın en yoğun teleferik hatlarından biri yapıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1337798",
+        "https://tr.wikipedia.org/wiki/Londra_Teleferi%C4%9Fi",
+        "https://en.wikipedia.org/wiki/London_cable_car"
+      ],
+      "wikidata_qid": "Q1337798"
+    },
+    {
+      "id": "Q30024526",
+      "date": "2027-11-19",
+      "category": "iletisim",
+      "widget_title": "Wolt ne zaman kuruldu?",
+      "hook": "Bugün neredeyse her mahallede karşımıza çıkan o hızlı teslimatçılar... Peki, Wolt'un hikayesi ne zaman başladı?",
+      "answer_year": 2014,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Wolt, 2014 yılında Finlandiya’nın başkenti Helsinki’de kurulan bir çevrimiçi yemek sipariş ve dağıtım platformu. [DOĞRULA: Kuruluş ekibinin isimleri ve ilk yatırımcıları hakkında detaylı bilgiler] Temelleri, o dönemde henüz yemek sipariş uygulamalarının yaygınlaşmadığı bir ülkede atılan Wolt, ilk olarak yerel restoranlarla anlaşmalar yaparak kullanıcılarına hızlı ve güvenilir bir hizmet sunmayı hedefledi.\n\nBaşlangıçta küçük bir ekip tarafından geliştirilen uygulama, kısa sürede Helsinki’nin en popüler yemek dağıtım platformlarından biri haline geldi. 2015 yılında ise Estonya’nın Tallinn kentine genişleyerek uluslararası arenaya adım attı. Wolt’un başarısının ardında, kullanıcı dostu arayüzü ve restoranlarla yakın iş birlikleri yatıyordu. Zamanla Avrupa’nın birçok ülkesine ve hatta İsrail’e kadar yayılan platform, 2020’li yıllarda global bir oyuncu olmayı başardı.\n\nBugün Wolt, milyonlarca kullanıcıya hizmet veren ve yüzlerce şehirde faaliyet gösteren bir marka. Peki, sence Wolt’un hikayesi nasıl devam edecek?",
+      "fun_fact": "Wolt’un ilk adı aslında \"Woody\" idi, ancak daha sonra marka imajına uygun olması için kısaltılarak \"Wolt\" haline getirildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30024526",
+        "https://tr.wikipedia.org/wiki/Wolt",
+        "https://en.wikipedia.org/wiki/Wolt"
+      ],
+      "wikidata_qid": "Q30024526"
+    },
+    {
+      "id": "Q1542570",
+      "date": "2027-11-20",
+      "category": "oyun-spor",
+      "widget_title": "Büyük satranç ne zaman icat edildi?",
+      "hook": "Daha büyük bir tahtada, daha heyecanlı hamlelerle oynamak ister miydiniz?",
+      "answer_year": 1984,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Büyük satranç, yani *grand chess*, modern satranç tahtasının sınırlarını zorlayan bir versiyon olarak 1984 yılında ortaya çıktı. Hollandalı oyun tasarımcısı **Christian Freeling**, geleneksel satranç kurallarını daha geniş bir alana taşıyarak bu oyunu yarattı. Standart 8x8’lik tahtanın aksine, büyük satrançta **10x10** hücre bulunuyor — yani 64 kareden 100’e! Bu değişiklik, oyuna yeni bir stratejik derinlik katarken, figürlerin hareket alanını da genişletiyor.\n\nFreeling’in amacı, satrancın dinamiklerini korurken oyunculara daha fazla hareket özgürlüğü sunmaktı. Büyük satrançta, standart satrançtakine benzer piyonlar, filler ve kaleler bulunuyor, ancak **iki ekstra piyon** ve **iki yeni taş** ekleniyor: *marshal* (kale + at kombinasyonu) ve *cardinal* (fil + at kombinasyonu). Bu yeni taşlar, oyuna farklı bir taktiksel boyut kazandırıyor.\n\nPeki, bu fikir neden 1984’te doğdu? [DOĞRULA: 1980’lerin oyun tasarımındaki yenilikçi akımın bir parçası olup olmadığı] Freeling’in tasarımı, o dönemde satranç varyantlarına olan ilginin artmasıyla da bağlantılı olabilir. Büyük satranç, bugün hala satranç meraklıları arasında popülerliğini koruyor ve farklı turnuvalarda da yer alıyor.",
+      "fun_fact": "Büyük satrançta oyunun başında marshal ve cardinal taşları, fillerin yanında yer alır — bu da ilk hamlelerdeki stratejiyi tamamen değiştiriyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1542570",
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_satran%C3%A7",
+        "https://en.wikipedia.org/wiki/Grand_Chess"
+      ],
+      "wikidata_qid": "Q1542570"
+    },
+    {
+      "id": "Q17097982",
+      "date": "2027-11-21",
+      "category": "ulasim",
+      "widget_title": "Yüksek Hızlı Tren ne zaman hizmete girdi?",
+      "hook": "Rayların üzerinde adeta uçan bu trenler, yolculuk sürelerini yarıya indirdi — peki ilk kez ne zaman karşındaydılar?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "İlk yüksek hızlı tren hizmeti, dünyada 1964 yılında Japonya’da Shinkansen adıyla başladı. Avrupa ise bu devrime 1981’de Fransa’nın TGV’si ile katıldı. Peki Türkiye’nin hikayesi ne zaman başladı? Ülkemizin ilk yüksek hızlı tren hattı, Ankara ile Eskişehir arasında **2009 yılında** hizmete girdi. Ankara-Eskişehir seferleriyle başlayan bu macera, kısa sürede yolcuların vazgeçilmezi oldu.\n\nYüksek Hızlı Tren projeleri, sadece hız değil, aynı zamanda konfor ve güvenlik odaklı olarak tasarlandı. [DOĞRULA: YHT’nin ilk etapta hangi ülkelerden ithal edilen teknolojilerle üretildiği] Ancak bu trenlerin ardındaki teknolojinin gelişimi, yıllar içinde birçok ülkede farklılaşan standartlara sahip. Mesela Çin, yüksek hızlı tren ağını devasa bir hızla genişleterek dünya lideri konumuna geldi.\n\nTürkiye’nin YHT’si ise TCDD Taşımacılık tarafından işletiliyor ve zamanla hatların genişletilmesiyle birlikte ülke içindeki ulaşım devrimine katkı sağlıyor.",
+      "fun_fact": "Dünyanın en hızlı trenlerinden biri olan Çin’in Şanghay Maglev’i, saatte 431 km hıza ulaşarak rekor kırmıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17097982",
+        "https://tr.wikipedia.org/wiki/Y%C3%BCksek_H%C4%B1zl%C4%B1_Tren",
+        "https://en.wikipedia.org/wiki/Y%C3%BCksek_H%C4%B1zl%C4%B1_Tren"
+      ],
+      "wikidata_qid": "Q17097982"
+    },
+    {
+      "id": "Q31020870",
+      "date": "2027-11-22",
+      "category": "iletisim",
+      "widget_title": "Firefox Focus ne zaman çıktı?",
+      "hook": "Gizlilik dediğin ne kadar hızlı olabilirse, Firefox Focus o kadar hızlı çıktı!",
+      "answer_year": 2016,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Firefox Focus, adından da anlaşılacağı gibi Mozilla’nın gizlilik odaklı, minimalist bir mobil tarayıcısı. İlk olarak 2015’in Kasım ayında, Android için bir beta sürümü olarak piyasaya sürüldü. [DOĞRULA: Bu ilk çıkışın tam tarihini doğrulamak gerekiyor.] Ardından, 2016’nın Haziran ayında resmen yayınlandı ve kullanıcıların beğenisine sunuldu. iOS için ise biraz daha geç, 2016’nın Aralık ayında kullanıma sunuldu.\n\nFirefox Focus’un en büyük vaadi, kullanıcıların izlerini neredeyse sıfıra indiren bir deneyim sunması. Varsayılan olarak tüm çerezleri, izleyicileri ve tarama verilerini engelliyor. Hatta o kadar hafif ki, neredeyse hiçbir şey kaydetmiyor — bu yüzden de \"odaklı\" adıyla anılıyor. Gizliliğe bu kadar önem veren bir tarayıcının, adını da buradan aldığına şüphe yok!\n\nPeki kim mi buldu bu güzel fikri? İşte burada bir gizem var: Firefox Focus’un mucidi olarak belirtilen tek bir kişi ya da ekip yok. Mozilla’nın kendi ekibi tarafından geliştirildiği biliniyor, ama bireysel bir kâşif adı geçmiyor. [DOĞRULA: Geliştirme ekibinin tam listesini doğrulamak gerekiyor.]",
+      "fun_fact": "Firefox Focus, ilk çıktığında reklam engelleyici özellikleriyle öne çıkmıştı — o kadar etkiliydi ki, bazı reklamcılar tarafından \"kötü niyetli\" bile ilan edilmişti!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q31020870",
+        "https://tr.wikipedia.org/wiki/Firefox_Focus",
+        "https://en.wikipedia.org/wiki/Firefox_Focus"
+      ],
+      "wikidata_qid": "Q31020870"
+    },
+    {
+      "id": "Q16927767",
+      "date": "2027-11-23",
+      "category": "oyun-spor",
+      "widget_title": "QuizUp ne zaman çıktı?",
+      "hook": "Dünyanın en büyük trivia yarışması olarak anılan bu oyunu kaç kişi tahmin edebilir?",
+      "answer_year": 2013,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "QuizUp, 2013 yılında kullanıma sunulan ve kısa sürede milyonlarca kullanıcıya ulaşan bir trivia oyunudur. Mobil platformlarda oynanan bu oyun, kullanıcıların çeşitli konularda bilgi düzeylerini test etmelerine ve dünya genelindeki diğer oyuncularla yarışmalarına olanak tanıyordu. QuizUp’un en dikkat çekici özelliklerinden biri, kullanıcıların ilgi alanlarına göre özelleştirilmiş sorularla karşılaşması ve aynı zamanda yeni bilgiler öğrenme fırsatı bulmasıydı.\n\nOyunun arkasındaki ekip, kullanıcıların eğlenirken öğrenmesini sağlamak amacıyla yola çıktı. QuizUp’un popüleritesi, sosyal medya entegrasyonu ve rekabetçi yapısı sayesinde hızla arttı. Ancak [DOĞRULA: oyunun tam olarak hangi ay veya günde yayınlandığı] konusunda net bir bilgi bulunmamaktadır. Oyunun 2013 yılında piyasaya sürüldüğü genel olarak kabul edilse de, bazı kaynaklarda farklı tarihler yer alsa da, en yaygın kabul gören tarih budur.\n\nQuizUp, sadece bir oyun olmanın ötesinde, kullanıcılarına yeni şeyler öğrenme ve kendilerini geliştirme fırsatı sunan bir platform haline geldi. Bu özellikleriyle, trivia oyunları arasında öne çıkan bir konuma sahip oldu.",
+      "fun_fact": "QuizUp’un en popüler kategorilerinden biri olan \"Popüler Kültür\"de kullanıcılar, filmler, müzik ve ünlüler hakkında yüzlerce soruyla karşılaşabiliyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16927767",
+        "https://tr.wikipedia.org/wiki/QuizUp",
+        "https://en.wikipedia.org/wiki/QuizUp"
+      ],
+      "wikidata_qid": "Q16927767"
+    },
+    {
+      "id": "Q30125043",
+      "date": "2027-11-24",
+      "category": "ulasim",
+      "widget_title": "Symphony of the Seas ne zaman açıldı?",
+      "hook": "Büyük bir gemi, büyük bir hayal! Symphonic of the Seas, ne zaman dünyaya geldi?",
+      "answer_year": 2018,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Symphony of the Seas, 2018 yılında, turistik gemi sektöründe yeni bir rekord kırmış bir pasajerci gemisidir. Bu gemi, Royal Caribbean adlı bir turistik gemi şirketinin bir parçasıdır. 2018 yılının Mart ayında, gemi 217.400 tonlu ve 360 metre uzunluğundadır. Bu, tarihteki en büyük gemi olarak bilinir. Birçok konuda rekor kırmış, dahil edilirse binlerce yolcu kapasitesi ve 200 farklı yemek hizmeti. Ancak, geminin ne zaman açılıp dünya seyahat edeceğini belirleyen kişi veya grubun adı, kaynaklardan belirlenemiyor. [DOĞRULA: Symphony of the Seas'nin tam açılış tarihi ve organizasyonu hakkında daha fazla bilgi.",
+      "fun_fact": "Symphony of the Seas, 200000+ yemek servisini içerir, bu da 24 saat boyunca yemek servisi sunmayı sağlar!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30125043",
+        "https://tr.wikipedia.org/wiki/Symphony_of_the_Seas",
+        "https://en.wikipedia.org/wiki/Symphony_of_the_Seas"
+      ],
+      "wikidata_qid": "Q30125043"
+    },
+    {
+      "id": "Q4537980",
+      "date": "2027-11-25",
+      "category": "iletisim",
+      "widget_title": "Yandex Haritalar ne zaman kullanıma girdi?",
+      "hook": "Dünyanın en popüler harita servislerinden biri olan Yandex Haritalar, ilk kez 2000'lerin başında Rusya'nın dijital dünyasına adım attı — peki tam olarak hangi yılda?",
+      "answer_year": 2004,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Yandex Haritalar, Rusya merkezli teknoloji devi Yandex tarafından geliştirilen ve internet üzerinden coğrafi hizmetler sunan bir platform. Bu servisin temelleri, şirketin 2000'li yılların başındaki genişleme stratejisinin bir parçası olarak atıldı. Resmi kayıtlara göre, Yandex Haritalar **2004 yılında** kullanıma sunuldu — bu tarih, servisin ilk kez çevrimiçi harita hizmeti olarak hizmet vermeye başladığı yıl olarak kabul ediliyor.\n\nAncak, dijital harita teknolojilerinin gelişimi her zaman net tarihlerle tanımlanamayabiliyor. Yandex Haritalar'ın ilk versiyonları, kullanıcıların basitçe adres araması yapabildiği ve temel yol tarifleri alabildiği bir yapıdaydı. Zamanla, trafik yoğunluğu, gerçek zamanlı konum paylaşımı ve 3D görüntüleme gibi özelliklerle zenginleşti. [DOĞRULA: Yandex Haritalar'ın ilk versiyonunda hangi temel özellikler bulunuyordu?]\n\nBugün Yandex Haritalar, sadece Rusya'da değil, komşu ülkelerde de yaygın olarak kullanılan bir araç haline geldi. Peki, sizce bu servis hangi yenilikçi özelliğiyle ilk kez dikkatleri üzerine çekmiş olabilir?",
+      "fun_fact": "Yandex Haritalar, Rusya'nın yanı sıra Belarus, Kazakistan, Türkiye ve hatta İsrail gibi ülkelerde de oldukça popülerdir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4537980",
+        "https://tr.wikipedia.org/wiki/Yandex_Haritalar",
+        "https://en.wikipedia.org/wiki/Yandex_Maps"
+      ],
+      "wikidata_qid": "Q4537980"
+    },
+    {
+      "id": "Q47043",
+      "date": "2027-11-26",
+      "category": "oyun-spor",
+      "widget_title": "Rubik Küpü ne zaman icat edildi?",
+      "hook": "Birbirine karışmış renkli küplerin içinden çıkmaya çalıştığın o anı hatırlıyor musun? Peki bu efsanevi bulmacanın arkasındaki hikaye ne?",
+      "answer_year": 1974,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Macar heykeltıraş ve mimarlık profesörü Ernő Rubik’in 1974 yılında icat ettiği Rubik Küpü, ilk olarak \"Sihirli Küp\" (Macarca: *Bűvös kocka*) adıyla ortaya çıktı. Rubik’in asıl amacı, öğrencilerine üç boyutlu nesnelerin hareketini anlatmak için basit bir öğretim aracı yaratmaktı. Küpün her bir yüzündeki renkli parçaların birbirine karışması, başlangıçta basit gibi görünse de, zamanla dünyanın en ünlü bulmacalarından biri haline geldi.\n\nİcat edildiği yıl olan 1974’te Macaristan’da patentini alan Rubik, küpün üretimi için uzun yıllar uğraştı. Küp, 1979 yılında toy firmasının dikkatini çekti ve uluslararası arenada \"Rubik Küpü\" adıyla tanıtılmaya başlandı. 1980’lerin başındayse dünya genelinde bir fenomen haline geldi: sadece iki yıl içinde 100 milyondan fazla satıldı. Bu başarı, Rubik Küpü’nü tarihin en çok satan oyuncağı unvanına taşıdı.\n\nRubik Küpü’nün mucidi Ernő Rubik, aslında küpü ilk icat ettiğinde kendi çözümünü bile bulamamıştı! [DOĞRULA: Küpün ilk çözüm yönteminin ne zaman ve kim tarafından geliştirildiği] Bu ilginç detay, küpün ne kadar karmaşık bir şekilde tasarlandığını gösteriyor. Bugünse Rubik Küpü, sadece bir oyuncak olmanın ötesinde, matematiksel problemleri çözmede, algoritmaları anlamada ve hatta zihinsel esnekliği artırmada kullanılıyor.",
+      "fun_fact": "Rubik Küpü’nün en hızlı çözümü, 2023 yılında 3.13 saniyeyle Max Park tarafından gerçekleştirildi—inanabiliyor musun?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q47043",
+        "https://tr.wikipedia.org/wiki/Rubik_K%C3%BCp%C3%BC",
+        "https://en.wikipedia.org/wiki/Rubik%27s_Cube"
+      ],
+      "wikidata_qid": "Q47043"
+    },
+    {
+      "id": "Q374956",
+      "date": "2027-11-27",
+      "category": "ulasim",
+      "widget_title": "San Francisco tramvay hattı ne zaman kuruldu?",
+      "hook": "San Francisco’nun dik yokuşlarında yolculuk eden o ikonik tramvaylar aslında birer mühendislik harikası mıydı?",
+      "answer_year": 1873,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "San Francisco’nun eğimli sokaklarında gıcırtılar eşliğinde ilerleyen kablolu tramvaylar, kentin sembollerinden biri haline geldi. Peki bu sistem ne zaman devreye girdi dersiniz? Cevap, 1873 yılı olarak karşımıza çıkıyor. [DOĞRULA: 1873 yılının hangi ayı veya hangi projenin başlangıcı olduğu doğrulanabilir mi?]\n\nBu sistem, özellikle dik tepelerde atlı tramvayların yerine geçmek üzere tasarlandı. İlk hat, Clay Street’te hizmete girdi ve mucidi olarak genellikle Andrew Hallidie gösterilse de, aslında kablolu sistem fikrinin öncüleri arasında birkaç isim öne çıkıyor. Hallidie’nin icadı, daha önceki denemelerin üzerine inşa edilmişti, ancak onun sistemi daha güvenilir ve verimliydi. Tramvaylar, altta bulunan bir kabloya bağlı olarak çalışıyordu; bu kablo sürekli hareket ederken, tramvaylar kabloya tutunarak yokuşları çıkıyordu. Bu yenilik, San Francisco’nun coğrafyasını toplu taşıma açısından kullanılır hale getirdi.\n\nZamanla sistem genişledi ve 1906 depremi gibi felaketlere rağmen ayakta kaldı. Günümüzdeyse sadece üç orijinal hat hizmet vermekte ve büyük ölçüde turistik bir cazibe merkezi olarak işlev görmekte. Bu hatlar, aynı zamanda ABD’nin ilk başarılı kablolu tramvay sistemi olarak tarihe geçti.",
+      "fun_fact": "San Francisco’daki kablolu tramvaylar, o kadar ikonik hale geldi ki, 1964 yılında ABD’nin Ulusal Tarihi Simgesi olarak ilan edildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q374956",
+        "https://tr.wikipedia.org/wiki/San_Francisco_tramvay_hatt%C4%B1",
+        "https://en.wikipedia.org/wiki/San_Francisco_cable_car_system"
+      ],
+      "wikidata_qid": "Q374956"
+    },
+    {
+      "id": "Q4537996",
+      "date": "2027-11-28",
+      "category": "iletisim",
+      "widget_title": "Yandex Mail ne zaman hayata geçti?",
+      "hook": "Dünyanın en çok kullanılan e-posta servislerinden biri olan Yandex Mail’in doğuşunu hiç merak ettiniz mi?",
+      "answer_year": 2000,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Yandex Mail, Rus teknoloji devi Yandex’in 2000 yılında kullanıma sunduğu e-posta servisidir. [DOĞRULA: Yandex’in tam olarak hangi ayda başlattığı] Dönemin internet dünyasında, özellikle Rusya ve BDT ülkelerinde hızla yayılan bu servis, kullanıcılarına hem yerel hem de uluslararası alanda güvenilir bir iletişim aracı sundu. Yandex’in arama motoru gibi diğer hizmetleriyle entegre çalışan Yandex Mail, zamanla sadece bir e-posta çözümü olmanın ötesine geçerek, takvim, bulut depolama ve hatta ofis araçları gibi özellikleri de bünyesinde barındırmaya başladı.\n\nBaşlangıçta basit bir e-posta hizmeti olarak tasarlanan Yandex Mail, yıllar içinde kullanıcı dostu arayüzü ve güçlü spam filtreleriyle dikkat çekti. [DOĞRULA: Yandex Mail’in ilk versiyonunda kaç kullanıcıya hizmet verdiği] Bugün milyonlarca kişi tarafından kullanılan bu servis, Yandex’in dijital ekosisteminin temel taşlarından biri haline geldi. E-posta iletişiminin vazgeçilmez bir parçası olan Yandex Mail, teknolojinin evrimiyle birlikte sürekli güncellenerek varlığını sürdürüyor.",
+      "fun_fact": "Yandex Mail, 2020 yılında kullanıcılarına sunduğu \"Yandex.Mail for Business\" adlı kurumsal çözümle, şirketlere özel e-posta ve işbirliği araçları sunmaya başladı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4537996",
+        "https://tr.wikipedia.org/wiki/Yandex.Mail",
+        "https://en.wikipedia.org/wiki/Yandex_Mail"
+      ],
+      "wikidata_qid": "Q4537996"
+    },
+    {
+      "id": "Q5798",
+      "date": "2027-11-29",
+      "category": "oyun-spor",
+      "widget_title": "Top 14 ne zaman başladı?",
+      "hook": "Fransa’nın en çılgın rugby ligi, adını nereden alıyor dersiniz?",
+      "answer_year": 1892,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Top 14’in hikayesi, 1892 yılında Fransa’nın rugby dünyasına damga vuran bir kararla başlıyor. O yıl, ülkenin en iyi takımları arasında bir şampiyonluk ligi oluşturulması fikri doğmuş ve resmi olarak ilk sezon 1892-1893’te başlamış. [DOĞRULA: Lig başlangıcında kaç takım yer aldı?] Adını ise, maçlarda kullanılan topun şeklinden değil, tamamen Fransız rugby hiyerarşisinin o dönemdeki yapısından alıyor. Başlarda sadece Paris ve çevresindeki takımların katılımıyla sınırlı kalan lig, zamanla ülke geneline yayılmış.\n\nAslında, Top 14’in temelleri biraz daha eskiye dayanıyor. 1880’lerde Fransa’da rugby hızla popülerleşirken, yerel takımlar arasında gayriresmi turnuvalar düzenleniyordu. 1892’deki resmi organizasyon ise bu dağınık yapıyı bir sisteme kavuşturmuş. Lig, zamanla profesyonelleşme yolunda önemli adımlar atmış ve günümüzde Avrupa’nın en prestijli rugby liglerinden biri haline gelmiş durumda.",
+      "fun_fact": "Top 14’in en başarılı takımı olan Stade Toulousain, 21 şampiyonlukla lig tarihindeki en dominant ekiptir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5798",
+        "https://tr.wikipedia.org/wiki/Top_14",
+        "https://en.wikipedia.org/wiki/Top_14"
+      ],
+      "wikidata_qid": "Q5798"
+    },
+    {
+      "id": "Q48604",
+      "date": "2027-11-30",
+      "category": "ulasim",
+      "widget_title": "Mir Uzay İstasyonu ne zaman fırlatıldı?",
+      "hook": "İnsanlığın uzaydaki ilk kalıcı evi olan Mir, soğuk savaşın gölgesinde doğdu — peki sizce bu efsanevi istasyon kaç yılında yörüngeye yerleşti?",
+      "answer_year": 1986,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Mir Uzay İstasyonu, Sovyetler Birliği tarafından 1986 yılında alçak Dünya yörüngesine yerleştirilen ve insanlığın uzaydaki ilk uzun süreli yerleşim yeri olarak tarihe geçen bir mühendislik harikasıdır. 1986’dan 2001’e kadar hizmet veren Mir, tam 15 yıl boyunca astronotlara ev sahipliği yaptı ve onlarca ülkeden yüzlerce insanın uzayda çalışmasına olanak tanıdı.\n\nMir’in inşası, Sovyet uzay programının en iddialı projelerinden biriydi. İstasyon, modüler bir tasarıma sahipti; yani tek bir parça olarak değil, birbirine eklenebilen farklı modüllerden oluşuyordu. İlk modül olan *Core Module* (Temel Modül) 1986’da fırlatıldı ve ardından diğer modüller yıllar içinde eklenerek istasyon genişledi. Bu modüler yapı, Mir’in uzun ömürlü olmasının ve sürekli olarak güncellenebilmesinin anahtarıydı.\n\nMir, sadece bir uzay istasyonu olmanın ötesinde, uluslararası işbirliğinin de simgesi haline geldi. Özellikle 1990’ların ortalarında, ABD ve Rusya arasındaki Soğuk Savaş’ın ardından başlayan uzaydaki işbirliği sayesinde, Mir’e birçok uluslararası astronot ve bilim insanı konuk oldu. Hatta NASA, Mir’i kullanarak uzayda uzun süreli yaşamın getirdiği zorlukları anlamak için önemli veriler topladı.\n\nMir’in mirası, günümüzde Uluslararası Uzay İstasyonu (ISS) gibi projelerde de kendini gösteriyor. Mir’in deneyimleri, gelecekteki uzay istasyonlarının tasarımında ve operasyonlarında temel bir referans noktası olmaya devam ediyor.\n\n[DOĞRULA: Mir’in tam olarak hangi tarihte fırlatıldığına dair kaynaklarda küçük farklılıklar bulunabilir. Bazı kaynaklar 19 Şubat 1986’yı işaret ederken, diğerleri sadece yıl olarak 1986’yı vermektedir.]",
+      "fun_fact": "Mir’in son günlerinde, 2001 yılında kontrollü bir şekilde atmosfere sokularak parçalandı — ancak bazı parçaları Pasifik Okyanusu’na düştü!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48604",
+        "https://tr.wikipedia.org/wiki/Mir",
+        "https://en.wikipedia.org/wiki/Mir"
+      ],
+      "wikidata_qid": "Q48604"
+    }
+  ]
+}
