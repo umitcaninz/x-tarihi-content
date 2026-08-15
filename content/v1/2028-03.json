@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "month": "2028-03",
+  "items": [
+    {
+      "id": "Q1770710",
+      "date": "2028-03-01",
+      "category": "yazilim-internet",
+      "widget_title": "TripAdvisor ne zaman kuruldu?",
+      "hook": "Seyahat planlarınızı yaparken sıkça başvurduğunuz o ünlü uygulamayı hiç merak ettiniz mi?",
+      "answer_year": 2000,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "TripAdvisor, dünya çapında milyonlarca kullanıcının seyahat deneyimlerini paylaştığı, otel ve restoranları değerlendirdiği devasa bir platform. Peki, bu devasa seyahat rehberi ne zaman doğdu? Resmi kayıtlara göre **2000 yılında** hayata geçirildi. [DOĞRULA: Bu tarih, platformun ilk kez kullanıma sunulduğu yıl mı yoksa resmi olarak kurulduğu tarih mi?] O yıllarda internetin hızla yaygınlaşmasıyla birlikte, seyahat planlarında güvenilir bilgiye ulaşma ihtiyacı da artmıştı. TripAdvisor’un kurucuları, kullanıcıların deneyimlerini bir araya getirerek daha şeffaf bir seyahat dünyası yaratmayı hedefledi. İlk başlarda sadece bir seyahat forumu olarak başlayan proje, zamanla genişleyerek bugünkü haline ulaştı. Bugün milyonlarca otel ve restoran değerlendirmesiyle, seyahat edenlerin en güvenilir kaynaklarından biri haline geldi. İlginç olan, şirketin merkezi ABD’nin Massachusetts eyaletinde bulunuyor ve halka açık bir şirket olarak faaliyet gösteriyor.",
+      "fun_fact": "TripAdvisor’un logosundaki şirin maymun figürü aslında şirketin ilk yıllarında kullanılan bir sembolden ilham alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1770710",
+        "https://tr.wikipedia.org/wiki/Tripadvisor",
+        "https://en.wikipedia.org/wiki/Tripadvisor"
+      ],
+      "wikidata_qid": "Q1770710"
+    },
+    {
+      "id": "Q2045936",
+      "date": "2028-03-02",
+      "category": "yazilim-internet",
+      "widget_title": "So.cl sosyal ağı ne zaman kuruldu?",
+      "hook": "İnternetin en gizemli projelerinden biri olan so.cl, birdenbire ortaya çıktı ve ardından sessizce kayboldu — peki sence hangi yılda doğdu?",
+      "answer_year": 2011,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "So.cl, Microsoft Research tarafından geliştirilen ve 2011 yılında hayata geçirilen bir sosyal ağ platformuydu. Temel amacı, kullanıcıların ilgi alanlarına göre içerik keşfetmelerini ve paylaşmalarını sağlamaktı. Özellikle görsel odaklı bir yapıya sahipti: kullanıcılar resimler, videolar ve diğer medya türlerini keşfedip bunları \"so.cl\" adı verilen koleksiyonlarda bir araya getirebiliyordu.\n\nProje, Microsoft’un araştırma laboratuvarlarından çıkıp halka açıldığında, ilginç bir şekilde akademik bir ortamda daha fazla ilgi gördü. Özellikle üniversite öğrencileri arasında popüler olan so.cl, \"ders projeleri\" için bir araştırma aracı olarak da kullanıldı. Ancak, diğer sosyal ağların aksine so.cl, geniş kitlelere ulaşamadı ve 2014 yılında kapatıldı.\n\nSo.cl’in kapanmasının ardından Microsoft, bu projenin deneyimlerini başka alanlarda kullanmaya devam etti. Platformun ardındaki teknolojilerden bazıları, daha sonra Microsoft’un diğer ürünlerinde yer aldı. So.cl’in hikayesi, büyük teknoloji şirketlerinin bile sosyal medya dünyasında kalıcı olmak için ne kadar zorlandığının bir örneği olarak hafızalarda kaldı.\n\n[DOĞRULA: So.cl’in kapatılma tarihi ve Microsoft’un bu projeyi neden sonlandırdığına dair resmi bir açıklama var mı?]",
+      "fun_fact": "So.cl, kullanıcıların içerikleri \"so.cl\" koleksiyonlarında toplamasına izin veren ilk platformlardan biriydi — bugünlerde neredeyse her sosyal medya uygulamasında benzer bir özellik var!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2045936",
+        "https://tr.wikipedia.org/wiki/So.cl",
+        "https://en.wikipedia.org/wiki/So.cl"
+      ],
+      "wikidata_qid": "Q2045936"
+    },
+    {
+      "id": "Q2118736",
+      "date": "2028-03-03",
+      "category": "yazilim-internet",
+      "widget_title": "MSN Groups ne zaman kuruldu?",
+      "hook": "Eski internetin gizli kalmış bir köşesinde, gruplar halinde sohbet etmek için kullanılan bir platformun hikayesini biliyor musun?",
+      "answer_year": 1995,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "MSN Groups, Microsoft’un 1995 yılında hayata geçirdiği, kullanıcıların ilgi alanlarına göre çevrimiçi topluluklar oluşturabildiği bir platformdu. O dönemde internetin henüz emekleme döneminde olduğu düşünülürse, bu tür toplulukların insanların bir araya gelmesini sağlayan önemli bir araç olduğunu söylemek mümkün. MSN Groups, forum benzeri yapısıyla, tartışma başlıkları açma, dosya paylaşma ve hatta basit web sayfaları oluşturma imkanı sunuyordu.\n\nAncak, MSN Groups’un hikayesi sadece başarıdan ibaret değil. Zamanla yerini daha modern topluluk platformlarına bıraktı ve 2000’lerin ortalarında yavaş yavaş kullanımdan kalkmaya başladı. Bugün artık aktif olarak hizmet vermiyor olsa da, eski internet kullanıcılarının hafızalarında özel bir yeri var.\n\n[DOĞRULA: MSN Groups’un tam olarak hangi ayda yayına girdiği ve ilk kullanıcı sayısı hakkında detaylı bilgiler bulunmamaktadır.]\n\nMSN Groups’un yerini alan modern platformlara rağmen, onun internetin topluluk odaklı gelişimindeki rolü yadsınamaz.",
+      "fun_fact": "MSN Groups’un kapatılmasının ardından birçok kullanıcı, gruplarındaki arşivlere erişebilmek için özel çabalar sarf etti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2118736",
+        "https://tr.wikipedia.org/wiki/MSN_Gruplar%C4%B1",
+        "https://en.wikipedia.org/wiki/MSN_Groups"
+      ],
+      "wikidata_qid": "Q2118736"
+    }
+  ]
+}
