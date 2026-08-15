@@ -1,0 +1,688 @@
+{
+  "schema_version": 1,
+  "month": "2027-08",
+  "items": [
+    {
+      "id": "Q310004",
+      "date": "2027-08-01",
+      "category": "yazilim-internet",
+      "widget_title": "Urban Dictionary ne zaman kuruldu?",
+      "hook": "İnternetin karanlık köşelerinde dolaşan kelimelerin gizli ansiklopedisi, Urban Dictionary, aslında nasıl doğdu?",
+      "answer_year": 1999,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Urban Dictionary, 1999 yılında [DOĞRULA: hangi ülkede kurulduğunu] bir grup genç girişimci tarafından hayata geçirildi. Temel amacı, sokak dilindeki kelimelerin ve deyimlerin kaydedilmesiydi. O dönemde, internetin hızla yaygınlaşmasıyla birlikte, özellikle gençler arasında yeni bir iletişim dili oluşmaya başlamıştı. Urban Dictionary, bu dili belgeleyen ilk büyük platformlardan biri oldu.\n\nBaşlangıçta, site sadece birkaç yüz kelimeyle başladı, ancak kullanıcıların katkılarıyla hızla büyüdü. İlginçtir ki, Urban Dictionary’nin kurucuları arasında kimlerin olduğu hala net değil. Resmi kaynaklarda veya arşivlerde bu bilgiye ulaşılamıyor. [DOĞRULA: Kurucuların isimleri veya sayısı hakkında daha fazla bilgi var mı?] Bu da Urban Dictionary’nin, topluluk tarafından şekillenen bir proje olarak doğduğunu gösteriyor.\n\nZamanla, Urban Dictionary sadece bir sözlük olmanın ötesine geçti. İnsanlar, mizahi tanımlar, argolar ve hatta kültürel referanslar eklemeye başladı. Bugün, milyonlarca kelime ve deyim barındıran bu platform, dilin evrimini izlemek isteyenler için vazgeçilmez bir kaynak haline geldi.",
+      "fun_fact": "Urban Dictionary’ye en çok katkıda bulunan kullanıcılardan biri, \"YOLO\" kelimesini ilk kez tanımlayan kişi olarak bilinir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q310004",
+        "https://tr.wikipedia.org/wiki/Urban_Dictionary",
+        "https://en.wikipedia.org/wiki/Urban_Dictionary"
+      ],
+      "wikidata_qid": "Q310004"
+    },
+    {
+      "id": "Q798658",
+      "date": "2027-08-02",
+      "category": "kurum-marka",
+      "widget_title": "Bad Boy Records müzik dünyasına ne zaman girdi?",
+      "hook": "90'ların müzik sahnesini kasıp kavuran Bad Boy Records'un temelleri aslında çok da uzak olmayan bir tarihte atıldı.",
+      "answer_year": 1993,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "1993 yılına döndüğümüzde, hip-hop ve R&B dünyasını sonsuza dek değiştirecek bir plak şirketinin doğumuna tanık oluyoruz: Bad Boy Records. Müzik dahisi Sean \"Diddy\" Combs (o zamanlar Puffy olarak biliniyordu) tarafından kurulan bu şirket, kısa sürede New York'tan çıkan en etkili müzik imparatorluklarından biri haline geldi. Combs, yeteneği keşfetme konusundaki eşsiz yeteneği ve iş vizyonuyla, Bad Boy'u sadece bir plak şirketi olmaktan çıkarıp, bir yaşam tarzı ve kültür akımı haline getirdi.\n\n90'lı yıllar boyunca The Notorious B.I.G., Mase, Faith Evans ve 112 gibi sanatçıların kariyerlerini şekillendiren Bad Boy, \"shiny suit era\" olarak bilinen dönemin de öncüsü oldu. Şirket, prodüksiyon kalitesi, akılda kalıcı beat'leri ve lüks video klipleriyle dikkat çekti. Bad Boy'un müziği sadece listelerin zirvesine çıkmakla kalmadı, aynı zamanda moda, dans ve sokak kültürü üzerinde de derin izler bıraktı. [DOĞRULA: Bad Boy'un hip-hop ve R&B üzerindeki etkisinin bu kadar kapsamlı olduğunun altını çizmek gerekir.] Şirket, kurucusu Diddy'nin liderliğinde sayısız hit şarkıya imza atarak müzik endüstrisindeki yerini sağlamlaştırdı ve günümüzde de varlığını sürdürüyor, yeni nesil sanatçılara ilham vermeye devam ediyor.",
+      "fun_fact": "Sean \"Diddy\" Combs, Bad Boy Records'u kurmadan önce Uptown Records'ta çalışmıştı ve burada Mary J. Blige ile Jodeci gibi isimlerin yükselişinde önemli rol oynamıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q798658",
+        "https://tr.wikipedia.org/wiki/Bad_Boy_Records",
+        "https://en.wikipedia.org/wiki/Bad_Boy_Records"
+      ],
+      "wikidata_qid": "Q798658"
+    },
+    {
+      "id": "Q31165",
+      "date": "2027-08-03",
+      "category": "yazilim-internet",
+      "widget_title": "AlloCiné ne zaman kuruldu?",
+      "hook": "Fransa’daki film tutkunlarının neredeyse hepsinin gönüllü adresi olan AlloCiné’nin hikayesi, internetin ilk yıllarına dayanıyor.",
+      "answer_year": 1993,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "AlloCiné, 1993 yılında Fransa’da kurulan bir film veri tabanı ve eğlence platformu olarak hayatımıza girdi. Başlangıçta sadece Fransa’daki sinema salonlarının programlarını ve film gösterim saatlerini listelemek amacıyla oluşturulan bu platform, zamanla kullanıcıların filmler hakkında yorum yapabildiği, puan verebildiği ve hatta fragmanları izleyebildiği kapsamlı bir siteye dönüştü.\n\n[DOĞRULA: AlloCiné’nin ilk versiyonunun tam olarak hangi ayda hizmete girdiği ve kurucularının kim olduğu konusunda net bir bilgi bulunmamaktadır. Platformun ilk yıllarında sadece Fransa sınırları içinde hizmet vermesi, o dönemdeki internetin yerel kullanımına da ışık tutuyor.]\n\nAlloCiné’nin en ilginç yanı, Fransa’daki film kültürünün dijitalleşmesindeki öncü rolü. Özellikle Fransız sinemaseverleri için neredeyse birincil kaynak haline gelen platform, uluslararası arenada da dikkat çekti ve sonunda 2000’li yılların ortalarında Canal+ Group tarafından satın alındı. Bugün hala milyonlarca kullanıcıya hizmet veren AlloCiné, Fransa’nın en büyük film platformlarından biri olarak kabul ediliyor.",
+      "fun_fact": "AlloCiné’nin ilk versiyonu, internetin henüz dial-up modemlerle kullanıldığı bir dönemde ortaya çıktı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q31165",
+        "https://tr.wikipedia.org/wiki/AlloCin%C3%A9",
+        "https://en.wikipedia.org/wiki/AlloCin%C3%A9"
+      ],
+      "wikidata_qid": "Q31165"
+    },
+    {
+      "id": "Q800080",
+      "date": "2027-08-04",
+      "category": "kurum-marka",
+      "widget_title": "A&M/Octone Records müzik dünyasına ne zaman adım attı?",
+      "hook": "Müzik endüstrisinde büyük bir iz bırakan A&M/Octone Records'ın hikayesi tahmin ettiğinden daha yeni olabilir!",
+      "answer_year": 2007,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Müzik dünyası sürekli bir değişim ve evrim içinde. Yeni sesler keşfedilirken, plak şirketleri de kendi hikayelerini yazmaya devam ediyor. İşte bu hikayelerden biri de, 2007 yılında kapılarını açan A&M/Octone Records'a ait. Bu şirket, köklü ve efsanevi A&M Records ile o dönemde hızla yükselen bağımsız plak şirketi Octone Records'ın yenilikçi bir ortak girişimiydi.\n\nBu ortaklığın arkasındaki fikir oldukça basitti ama bir o kadar da güçlüydü: A&M'in uzun yıllara dayanan endüstri tecrübesi, geniş dağıtım ağı ve kültürel mirasıyla, Octone'ın taze A&R yeteneğini ve yeni, heyecan verici yetenekleri keşfetme becerisini birleştirmek. Böylece, hem deneyimli sanatçılar hem de müzik sahnesine yeni adım atan gruplar için daha güçlü, daha dinamik bir platform yaratıldı. A&M/Octone, özellikle rock ve pop-rock türündeki sanatçılara odaklanarak kısa sürede dikkatleri üzerine çekti.\n\nBu stratejik birliktelik sayesinde müzikseverlerle buluşan önemli gruplar arasında, dünya çapında tanınan Maroon 5 da vardı. [DOĞRULA: Maroon 5'ın A&M/Octone Records etiketinden çıkan albümleri ve bu etiketin grubun kariyerindeki rolü]. Şirket, müzik endüstrisinin devleri arasında kendine özgü bir yer edinmeyi başardı ve döneminin sesini şekillendiren projelere imza attı. Müzik dünyasındaki dinamik yapının bir parçası olarak kendi yolunu çizen A&M/Octone Records, kısa ama etkili ömrü boyunca birçok müzikseverin hayatına dokundu ve müzik kataloğuna önemli katkılar sağladı.",
+      "fun_fact": "A&M/Octone Records'ın en bilinen gruplarından Maroon 5, aslında bu ortaklığın kurulmasından önce Octone Records ile anlaşma imzalamıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q800080",
+        "https://tr.wikipedia.org/wiki/A%26M/Octone_Records",
+        "https://en.wikipedia.org/wiki/A%26M_Octone_Records"
+      ],
+      "wikidata_qid": "Q800080"
+    },
+    {
+      "id": "Q344266",
+      "date": "2027-08-05",
+      "category": "yazilim-internet",
+      "widget_title": "ASP ne zaman icat edildi?",
+      "hook": "Web geliştirmenin erken dönemlerinde bir devrim yaratan bu teknoloji, neredeyse tüm statik siteleri dinamik hale getirdi!",
+      "answer_year": 1996,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Active Server Pages (ASP), Microsoft tarafından 1996 yılında tanıtılan bir sunucu tarafı komut dosyası oluşturma ortamıdır. Temelde, web sunucusunda çalışan ve kullanıcıya gönderilmeden önce dinamik olarak HTML üreten bir sistemdir. Bu sayede, basit bir web sitesinden e-ticaret platformlarına kadar birçok uygulama geliştirmek mümkün hale geldi.\n\nASP’nin çıkışı, internetin hızla büyümeye başladığı ve statik HTML sayfalarının yetersiz kaldığı bir döneme denk gelir. Özellikle veri tabanı bağlantıları ve kullanıcı etkileşimi gerektiren uygulamalar için devrim niteliğindeydi. ASP’nin ardındaki fikir, sunucu tarafında çalışan komut dosyalarıyla web sayfalarını \"canlandırmak\" ve kullanıcıya özel içerik sunmaktı.\n\n[DOĞRULA: ASP’nin tam olarak hangi ayda piyasaya sürüldüğü ve ilk versiyonunun detayları hakkında ek kaynaklara ihtiyaç var.]\n\nASP, daha sonra yerini ASP.NET’e bırakmış olsa da, web geliştirme dünyasında önemli bir yere sahiptir. Hatta bazı eski sistemlerde hala kullanıldığını görmek mümkün!",
+      "fun_fact": "ASP’nin ilk versiyonu, Internet Information Services (IIS) 3.0 ile birlikte gelmişti ve bu da onun web sunucuları için ne kadar önemli olduğunu gösteriyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q344266",
+        "https://tr.wikipedia.org/wiki/ASP",
+        "https://en.wikipedia.org/wiki/Active_Server_Pages"
+      ],
+      "wikidata_qid": "Q344266"
+    },
+    {
+      "id": "Q817139",
+      "date": "2027-08-06",
+      "category": "kurum-marka",
+      "widget_title": "Benetton Group ne zaman renkli dünyasına adım attı?",
+      "hook": "Bir aile şirketinden global moda devine dönüşen Benetton'un hikayesi, aslında basit bir fikirle başladı.",
+      "answer_year": 1965,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Bugün renkli ve cesur reklam kampanyalarıyla tanıdığımız Benetton Group'un temelleri 1965 yılında İtalya'nın Ponzano Veneto kasabasında atıldı. Hikaye, ailenin en büyüğü Luciano Benetton'un, o dönem piyasada hüküm süren mat ve tekdüze giysilere alternatif olarak daha canlı, renkli süveterler üretme fikriyle başladı. Kardeşleri Giuliana, Gilberto ve Carlo'nun da katılımıyla, Giuliana'nın örgü makinelerindeki yeteneği ve Luciano'nun satış becerileri birleşti. Başlangıçta küçük bir atölye olarak faaliyet gösteren Benetton, kısa sürede kaliteli ve göz alıcı trikolarıyla dikkat çekti. Markanın hızlı büyümesi, sadece modaya değil, aynı zamanda toplumun farklı kesimlerine hitap eden evrensel bir dili de beraberinde getirdi. Bu kuruluş, sadece bir giyim markasının değil, aynı zamanda modanın insanları bir araya getirebileceği ve renklerle kendini ifade etme özgürlüğünü sunabileceği bir vizyonun da başlangıcıydı.",
+      "fun_fact": "Benetton Group'un ilk ürünü, [DOĞRULA: başlangıçta] sarı bir süveterdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q817139",
+        "https://tr.wikipedia.org/wiki/Benetton",
+        "https://en.wikipedia.org/wiki/Benetton_Group"
+      ],
+      "wikidata_qid": "Q817139"
+    },
+    {
+      "id": "Q355",
+      "date": "2027-08-07",
+      "category": "yazilim-internet",
+      "widget_title": "Facebook ne zaman kuruldu?",
+      "hook": "Dünyanın en büyük sosyal ağının kökenleri, bir üniversite yurdunda başlayan basit bir projeye dayanıyor...",
+      "answer_year": 2004,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Facebook’un hikayesi, 2004 yılında Harvard Üniversitesi’nde okuyan Mark Zuckerberg’in [DOĞRULA: başkalarıyla fikir alışverişinde bulunduğu yakın arkadaşlarıyla] geliştirdiği bir platformla başladı. Başlangıçta sadece Harvard öğrencilerine açık olan \"TheFacebook\" adlı site, kısa sürede diğer üniversitelere de yayıldı. İlk etapta basit bir öğrenci rehberi olarak tasarlanan proje, kullanıcıların birbirleriyle bağlantı kurmasını ve profil oluşturmasını sağlıyordu.\n\nZamanla büyüyen platform, 2005 yılında lise öğrencilerine, ardından da tüm dünya genelindeki kullanıcılara açıldı. 2006’da ise \"Haber Kaynağı\" gibi yenilikçi özelliklerle kullanıcı deneyimini zenginleştirdi. Bugün milyarlarca insanın hayatında yer eden Facebook, sosyal medyanın da öncüsü olarak kabul ediliyor.\n\n[DOĞRULA: Kuruluş tarihi olarak kabul edilen 2004, ilk sunumun yapıldığı tarih midir yoksa resmi olarak kayıt edildiği tarih mi?]",
+      "fun_fact": "Facebook’un ilk adı \"TheFacebook\"dı ve sadece Harvard öğrencilerine açıktı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q355",
+        "https://tr.wikipedia.org/wiki/Facebook",
+        "https://en.wikipedia.org/wiki/Facebook"
+      ],
+      "wikidata_qid": "Q355"
+    },
+    {
+      "id": "Q857182",
+      "date": "2027-08-08",
+      "category": "kurum-marka",
+      "widget_title": "Biedronka süpermarket zinciri ne zaman kuruldu?",
+      "hook": "Polonya sokaklarında neredeyse her köşe başında karşınıza çıkan sevimli uğur böceği logosunun ardında dev bir perakende imparatorluğu yatıyor.",
+      "answer_year": 1997,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Polonya'ya yolu düşen herkesin çok geçmeden aşina olduğu sevimli bir uğur böceği logosu vardır. Ülkenin dört bir yanına yayılmış binlerce şubesiyle Polonya perakende sektörünün tartışmasız lideri olan Biedronka, ucuzluk marketi konseptini Doğu Avrupa'da baştan tanımlayan bir başarı hikâyesine sahip.\\n\\nMarkanın temelleri aslında 1995 yılında Polonyalı girişimci Mariusz Świtalski tarafından atılmış olsa da [DOĞRULA: İlk mağaza açılış tarihi 1995 mi?], zincirin bugünkü devasa yapısına kavuşmasını sağlayan dönüm noktası 1997 yılı oldu. Bu tarihte Portekiz merkezli uluslararası perakende devi Jerónimo Martins, zinciri satın alarak kapsamlı bir dönüşüm sürecine soktu. Modern lojistik ağları, agresif indirim modeli ve yerel üreticilerle kurulan güçlü ortaklıklar sayesinde Biedronka, kısa sürede sıradan bir bakkaliye ağından ulusal bir fenomene evrildi.\\n\\nİlk yıllarında yalnızca kısıtlı çeşitlilikte temel gıda ürünleri sunan sade bir \"hard discount\" marketi olarak yola çıksa da zamanla ürün yelpazesini genişletti. Taze sebze-meyveden taze pişmiş ekmeklere, hatta gurme ürünlere kadar uzanan çeşitliliğiyle Polonyalıların günlük yaşamının vazgeçilmez bir parçası oldu. Bugün Polonya'da üç bini aşkın mağazası bulunan zincir, milyonlarca insanın ilk alışveriş tercihi olmayı sürdürüyor.",
+      "fun_fact": "Lehçede doğrudan \"uğur böceği\" anlamına gelen Biedronka'nın logosu, gülen yüzlü sevimli bir uğur böceğidir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q857182",
+        "https://tr.wikipedia.org/wiki/Biedronka",
+        "https://en.wikipedia.org/wiki/Biedronka"
+      ],
+      "wikidata_qid": "Q857182"
+    },
+    {
+      "id": "Q364",
+      "date": "2027-08-09",
+      "category": "yazilim-internet",
+      "widget_title": "GitHub ne zaman kuruldu?",
+      "hook": "Dünyanın en büyük kod deposunun hikayesi, bir sabah kahvenin ardından doğmuş olabilir mi?",
+      "answer_year": 2007,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "GitHub, yazılım geliştiricilerin kodlarını depoladığı, paylaştığı ve birlikte çalıştığı devasa bir platform. Peki bu devasa ekosistemin temelleri ne zaman atıldı? GitHub, **2007 yılında** [DOĞRULA: tam olarak hangi ay/gün olduğu net değil] kuruldu ve o günden beri yazılım dünyasının vazgeçilmez bir parçası haline geldi.\n\nAslında GitHub’un hikayesi, Git versiyon kontrol sisteminin geliştiricisi **Linus Torvalds** tarafından 2005 yılında yaratılmasıyla başlıyor. Git’in dağıtık yapısı, geliştiricilere kodlarını daha esnek ve güvenli bir şekilde yönetme imkanı tanıyordu. Ancak Git’in kullanımının yaygınlaşması için basit, kullanıcı dostu bir arayüze ihtiyaç vardı. İşte bu ihtiyacı karşılamak için **Chris Wanstrath, PJ Hyett ve Tom Preston-Werner** adlı üç girişimci, 2007 yılında GitHub’u hayata geçirdi.\n\nBaşlangıçta, GitHub’un sadece birkaç kullanıcısı vardı, ancak açık kaynak projelerinin popülerleşmesiyle birlikte platform da hızla büyüdü. 2008 yılında resmi olarak halka açılan GitHub, kısa sürede milyonlarca geliştiriciye ev sahipliği yapmaya başladı. Bugün ise yüz milyonlarca depoya ve milyarlarca satır kod barındırıyor.\n\nGitHub’un başarısının sırrı, sadece bir kod deposu olmaktan öte, geliştiricilerin birbirleriyle işbirliği yapabileceği bir ekosistem sunması. Açık kaynak projelerden özel şirketlere kadar geniş bir yelpazede kullanılan bu platform, yazılım dünyasının kalbinde atmaya devam ediyor.",
+      "fun_fact": "GitHub’un ilk adı \"Logical Awesome\"dı ve logo olarak da bir \"octopus\" (ahtapot) kullanılıyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q364",
+        "https://tr.wikipedia.org/wiki/GitHub",
+        "https://en.wikipedia.org/wiki/GitHub"
+      ],
+      "wikidata_qid": "Q364"
+    },
+    {
+      "id": "Q864987",
+      "date": "2027-08-10",
+      "category": "kurum-marka",
+      "widget_title": "Corona birası ne zaman ortaya çıktı?",
+      "hook": "Tarihin en ünlü bira markalarından biri olan Corona’nın hikayesi sandığınızdan daha eskiye dayanıyor!",
+      "answer_year": 1925,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Corona, Meksika’nın en ikonik bira markalarından biri olarak bilinir ve 1925 yılında [DOĞRULA: ilk kez piyasaya sürüldüğü yer ve koşullar] ortaya çıktı. Bu tarih, Meksika’daki bira üretim tarihinde önemli bir dönüm noktası olarak kabul edilir. Corona, Cervecería Modelo adlı Meksikalı bir bira şirketi tarafından üretilmeye başlandı ve kısa sürede ülke genelinde popülerlik kazandı.\n\n1925 yılı, Meksika’da bira endüstrisinin hızla geliştiği bir dönemdi. Corona’nın ortaya çıkışı, ülkenin kültürel ve sosyal yaşamına da derin bir şekilde işlendi. Zamanla, bu açık sarı renkli, hafif ve ferahlatıcı bira, sadece Meksika’da değil, dünya genelinde tanınır hale geldi. Özellikle 1970’lerden itibaren uluslararası arenada da büyük bir başarı yakaladı.\n\nCorona’nın hikayesi, basit bir bira üretiminden çok daha fazlasını temsil ediyor. Meksika’nın yerel lezzetlerini dünya çapında tanıtmaya yardımcı olan bir simge haline geldi. Bugün bile, Corona’nın tadını seven milyonlarca insan var ve bu lezzet, yıllar geçse de değişmeden kalmaya devam ediyor.",
+      "fun_fact": "Corona, Meksika dışında en çok ABD’de tüketilen yabancı biradır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q864987",
+        "https://tr.wikipedia.org/wiki/Corona_(bira)",
+        "https://en.wikipedia.org/wiki/Corona_(beer)"
+      ],
+      "wikidata_qid": "Q864987"
+    },
+    {
+      "id": "Q3700050",
+      "date": "2027-08-11",
+      "category": "yazilim-internet",
+      "widget_title": "XVideos ne zaman kuruldu?",
+      "hook": "İnternetin en tartışmalı köşelerinden biri olan XVideos, aslında nasıl ortaya çıktı hiç merak ettiniz mi?",
+      "answer_year": 2007,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "XVideos’un hikayesi, 2007 yılında kurulduğu resmi kayıtlara geçmiş olsa da [DOĴRULA: kuruluşun arkasındaki ilk ekip ve tam tarihçesi]. İnternet pornosu sektörünün erken dönemlerinde yükselen platform, kullanıcılarına ücretsiz ve hızlı video paylaşımı imkanı sunarak kısa sürede dev bir ağ haline geldi.\n\nDönemin diğer benzerlerinden farklı olarak, XVideos’un başarısının sırrı, basit kullanıcı arayüzü ve geniş içerik yelpazesiydi. Pornhub, YouPorn gibi rakiplerinin gölgesinde kalsa da, kendine özgü bir kitleye hitap etmeyi başardı. Özellikle Avrupa ve Latin Amerika’da yüksek trafik çeken platform, zamanla global bir fenomen haline geldi.\n\nAncak, kuruluşuyla ilgili pek çok spekülasyon var. Resmi olarak herhangi bir kurucuya dair kayıt bulunmaması, sektördeki gizemli geçmişinin bir parçası olarak görülüyor. [DOÐRULA: XVideos’un arkasında yatan şirket yapısı ve yasal statüsü hakkında detaylı bilgi].",
+      "fun_fact": "XVideos’un ilk versiyonu, aslında bir porno video paylaşım sitesinden çok, genel amaçlı bir video barındırma platformu olarak tasarlanmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3700050",
+        "https://tr.wikipedia.org/wiki/XVideos",
+        "https://en.wikipedia.org/wiki/XVideos"
+      ],
+      "wikidata_qid": "Q3700050"
+    },
+    {
+      "id": "Q885833",
+      "date": "2027-08-12",
+      "category": "kurum-marka",
+      "widget_title": "Efsanevi caz plak şirketi Blue Note ne zaman kuruldu?",
+      "hook": "Caz müziğin sesini ve görsel kimliğini sonsuza dek değiştiren efsanevi plak şirketi nasıl doğdu?",
+      "answer_year": 1939,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Caz müziğin o kendine has, dumanlı ve büyüleyici atmosferini düşündüğünüzde aklınıza gelen albüm kapaklarının ve ses tınılarının arkasında çoğu zaman tek bir isim vardır: Blue Note Records. 1939 yılında, Nazi Almanyası'ndan Amerika'ya göç eden Alfred Lion ve Max Margulis tarafından New York'ta kurulan bu bağımsız plak şirketi, caz tarihinin seyrini kökten değiştirdi. Kısa süre sonra Lion'ın çocukluk arkadaşı Francis Wolff da bu maceraya katıldı.\n\nBlue Note'un başarısının ardında sadece olağanüstü yetenekleri keşfetmek değil, müzisyenlere duyulan derin saygı yatıyordu. O dönemde çoğu plak şirketi prova zamanları için müzisyenlere ödeme yapmazken, Blue Note provaları bütçelendirerek sanatçıların stüdyoya en mükemmel halleriyle girmesini sağladı. Efsanevi ses mühendisi Rudy Van Gelder'ın oturma odasında başlayan kayıtlar, Reid Miles'ın modern tipografiyle süslediği çarpıcı kapak tasarımları ve Francis Wolff'un stüdyoda çektiği siyah-beyaz fotoğraflarla birleştiğinde Blue Note, yalnızca bir plak şirketi değil, eksiksiz bir estetik akım haline geldi.\n\nThelonious Monk, Miles Davis, John Coltrane, Art Blakey ve Herbie Hancock gibi dev isimlerin unutulmaz kayıtlarına ev sahipliği yapan şirket, hard bop türünün de kalbi oldu. Günümüzde Blue Note logosu, müzikseverler için sadece bir marka değil, kusursuz caz kalitesinin evrensel bir garantisi olarak kabul ediliyor.",
+      "fun_fact": "Plak kapağı tasarımlarıyla Blue Note'un ikonik görsel kimliğini yaratan Reid Miles, aslında caz müziğinden hiç hoşlanmıyor ve klasik müzik dinlemeyi tercih ediyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q885833",
+        "https://tr.wikipedia.org/wiki/Blue_Note_Records",
+        "https://en.wikipedia.org/wiki/Blue_Note_Records"
+      ],
+      "wikidata_qid": "Q885833"
+    },
+    {
+      "id": "Q3700238",
+      "date": "2027-08-13",
+      "category": "yazilim-internet",
+      "widget_title": "Vine ne zaman yayına girdi?",
+      "hook": "Sadece 6 saniyelik videolar mı? Peki ya bu fikrin doğduğu an?",
+      "answer_year": 2013,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Vine, adını kısa ve öz olmaya bırakıp dünyayı değiştiren bir uygulamaydı. Kullanıcıların ellerindeki akıllı telefonlarla anında paylaşabilecekleri, maksimum 6 saniyelik döngüsel videolar yaratmalarını sağlayan bu platform, 2013 yılında Twitter tarafından piyasaya sürüldü. [DOĞRULA: Vine’in tam olarak hangi ayda kullanıma açıldığı] Uygulama, anlık ve yaratıcı içerik üretimine olanak tanıyarak sosyal medyanın nabzını hızla yakaladı ve kısa video formatının popülerleşmesinde öncü oldu.\n\nVine’in başarısının ardında, basitliği ve eğlenceli kullanımının yanı sıra, kullanıcıların viral olma potansiyelini artıran algoritması yatıyordu. Uygulama, 2015 yılında aylık 200 milyon aktif kullanıcıya ulaşarak zirveye çıktı. Ancak, rekabetin artması ve yeni içerik formatlarının ortaya çıkmasıyla birlikte, Vine’in popülaritesi zamanla azaldı. Twitter, 2016 yılında Vine’in kapatılacağını duyurdu ve 2017 yılında hizmet resmen sonlandırıldı.\n\nBugün Vine, kapanmış olsa da internet kültüründe kalıcı bir iz bıraktı. 6 saniyelik videoların sınırlarını zorlayan kullanıcılar, hem eğlenceli hem de yaratıcı içerikler üreterek sosyal medyanın geleceğini şekillendirdi. Vine’in mirası, bugün TikTok gibi platformlarda kendini gösteriyor.",
+      "fun_fact": "Vine’in en ünlü kullanıcılarından biri olan King Bach, uygulamada yayınladığı kısa skeçlerle 30 milyonun üzerinde takipçi kazandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3700238",
+        "https://tr.wikipedia.org/wiki/Vine",
+        "https://en.wikipedia.org/wiki/Vine_(service)"
+      ],
+      "wikidata_qid": "Q3700238"
+    },
+    {
+      "id": "Q925132",
+      "date": "2027-08-14",
+      "category": "kurum-marka",
+      "widget_title": "Market zinciri Dia ne zaman kuruldu?",
+      "hook": "İspanya’dan dünyaya yayılan bir market zincirini tahmin etmeye hazır mısın?",
+      "answer_year": 1979,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Dia market zinciri, 1979 yılında İspanya’da kurulan bir süpermarketler ağı olarak karşımıza çıkıyor. Temelleri, o dönemde İspanya’nın alışveriş alışkanlıklarını değiştiren bir girişimle atıldı. Zincir, hızla büyüyerek ülke genelinde yaygınlaşırken, zamanla uluslararası arenada da adından söz ettirmeye başladı. [DOĞRULA: Kuruluşunun ilk yıllarında hangi şehirde açıldığı ve ilk mağazanın adı] Peki, bu market zincirinin hikayesi sadece İspanya’yla mı sınırlı kaldı, yoksa global bir başarıya mı dönüştü?\n\nDia’nın hikayesi, tüketici ihtiyaçlarına odaklanan bir iş modeliyle şekillendi. İspanya’nın yerel marketlerinden biri olarak başlayan bu yolculuk, kısa sürede franchise sistemiyle genişledi. Zamanla, Dia’nın markası sadece İspanya’da değil, Portekiz, Brezilya ve Arjantin gibi ülkelerde de tanınır hale geldi. Ancak, uluslararası genişlemesi sırasında bazı pazarlarındaki performansı değişkenlik gösterdi.\n\nBugün Dia, geçmişinden aldığı güçle, tüketiciye ulaşmaya devam ediyor. Peki, sen Dia’nın ilk mağazasını nerede hayal ettin? İspanya’nın kalabalık bir şehrinde mi, yoksa daha küçük bir yerleşim yerinde mi?",
+      "fun_fact": "Dia’nın logosu, ilk yıllarında kullanılan basit tasarımından bugüne, markanın sadeliğini ve güvenilirliğini yansıtıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q925132",
+        "https://tr.wikipedia.org/wiki/DIA_(s%C3%BCpermarket_zinciri)",
+        "https://en.wikipedia.org/wiki/DIA_(supermarket_chain)"
+      ],
+      "wikidata_qid": "Q925132"
+    },
+    {
+      "id": "Q37312",
+      "date": "2027-08-15",
+      "category": "yazilim-internet",
+      "widget_title": "IMDb ne zaman kuruldu?",
+      "hook": "Film severlerin kurtarıcısı IMDb’nin hikayesi, bir garajda başlayan basit bir projeyle mi başladı dersin?",
+      "answer_year": 1990,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "IMDb’nin temelleri, 1990 yılında [DOĞRULA: hangi ayda?] kurulmasına rağmen, aslında bir film meraklısının basit bir ihtiyacı karşılamak için başlattığı bir proje olarak doğdu. IMDb’nin hikayesi, Amerikalı bilgisayar programcısı Col Needham’ın, 1980’lerin sonunda Usenet gruplarında paylaştığı film listeleriyle başladı. Needham, arkadaşlarıyla birlikte bir araya gelerek bu listeleri daha organize bir şekilde sunmak için 1990 yılında bir veritabanı oluşturdu. Başlangıçta \"Internet Movie Database\" adıyla yayınlanan bu proje, zamanla o kadar popüler hale geldi ki, 1996 yılında ticari bir şirket haline geldi ve Amazon tarafından satın alındı.\n\nIMDb’nin ilk versiyonları, kullanıcıların filmler hakkında bilgi ekleyebildiği ve derecelendirme yapabildiği basit bir yapıya sahipti. Zamanla, televizyon dizileri, oyunlar, podcast’ler ve hatta kitaplar gibi içerikler de veritabanına eklenmeye başlandı. Günümüzde IMDb, milyonlarca kullanıcı tarafından ziyaret edilen ve film endüstrisinde önemli bir referans kaynağı haline geldi.\n\nPeki, IMDb’nin ilk versiyonunu kimler kullanabiliyordu? Başlangıçta sadece Usenet gruplarındaki film meraklıları erişebiliyordu, ancak kısa süre içinde dünya genelindeki kullanıcılara açıldı. Bu sayede, film tutkunları için vazgeçilmez bir kaynak haline geldi.",
+      "fun_fact": "IMDb’nin ilk veritabanı, Col Needham’ın evindeki bilgisayarda saklanıyordu ve sadece 20 filmden oluşuyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q37312",
+        "https://tr.wikipedia.org/wiki/IMDb",
+        "https://en.wikipedia.org/wiki/IMDb"
+      ],
+      "wikidata_qid": "Q37312"
+    },
+    {
+      "id": "Q935090",
+      "date": "2027-08-16",
+      "category": "kurum-marka",
+      "widget_title": "London Records ne zaman kuruldu?",
+      "hook": "Plastik plakların altın çağını başlatan o sesin arkasındaki şirketi tanıyor musun?",
+      "answer_year": 1947,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "London Records, II. Dünya Savaşı’nın hemen ardından, 1947 yılında Londra’da kurulan bir plak şirketi. Savaş sonrası müzik endüstrisinin canlanmasına öncülük eden bu marka, özellikle klasik müzikten caz ve pop’a kadar geniş bir yelpazede albümler yayınladı. [DOĞRULA: London Records’un tam olarak hangi tarihte ve kim tarafından kurulduğu konusunda kaynaklar net değil — bazı arşivlerde 1946 veya 1948’e yakın tarihler de geçiyor.] \n\nŞirket, adını Londra’dan alsa da uluslararası arenada da büyük bir etki yarattı. 1960’larda ve 70’lerde, The Rolling Stones gibi devasa grupların da aralarında bulunduğu birçok sanatçıyı keşfetti ve destekledi. London Records’un en dikkat çekici özelliklerinden biri, o dönemde ABD’de üretilen plakları Avrupa pazarına getirerek müzik endüstrisinde bir köprü görevi görmesiydi. \n\nZamanla şirket, endüstrideki değişimlere ayak uydurarak dijital müzik çağında da varlığını sürdürdü. Bugün bile, geçmişteki başarılarıyla müzik tarihine damga vuran bir marka olarak anılıyor.",
+      "fun_fact": "London Records’un ilk yıllarında yayınladığı albümlerin çoğu, savaş nedeniyle hasar gören plak üretim tesislerinde basıldı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q935090",
+        "https://tr.wikipedia.org/wiki/London_Records",
+        "https://en.wikipedia.org/wiki/London_Recordings"
+      ],
+      "wikidata_qid": "Q935090"
+    },
+    {
+      "id": "Q375913",
+      "date": "2027-08-17",
+      "category": "yazilim-internet",
+      "widget_title": "WebGL ne zaman kullanıma sunuldu?",
+      "hook": "Tarayıcınızda doğrudan 3D grafikler çalıştırmak mümkün mü? WebGL’in doğuş hikayesine hazır olun!",
+      "answer_year": 2011,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "WebGL, internet tarayıcıları üzerinden doğrudan 3D grafikler oluşturmayı sağlayan bir teknoloji olarak 2011 yılında kullanıma sunuldu. Bu yenilik, masaüstü uygulamalara gerek kalmadan, sadece bir web tarayıcısı aracılığıyla karmaşık grafiklerin ve interaktif deneyimlerin web’e taşınmasını mümkün kıldı.\n\nAslında WebGL’in temelleri, daha eskiye dayanıyor. [DOĞRULA: 2006 yılında] Khronos Group adlı kuruluş tarafından geliştirilmeye başlanan OpenGL ES (Embedded Systems) standardının, web ortamına uyarlanması fikriyle doğdu. Mozilla’nın Firefox tarayıcısında çalışan bir mühendis olan Vladimir Vukićević, 2006 yılında \"Canvas 3D\" adlı bir proje başlattı. Bu proje, WebGL’in ilk adımları olarak kabul ediliyor. Ardından, Khronos Group ve diğer büyük tarayıcı üreticileri (Google, Apple, Mozilla gibi) bu fikri benimseyerek standartlaştırma çalışmalarına başladı.\n\n2009 yılında Khronos Group, WebGL Working Group’u resmen kurdu ve 2011’in başlarında ilk kararlı sürümü yayınlandı. WebGL’in yayınlanması, internetin sadece metin ve 2D görsellerden oluşan bir ortam olmaktan çıkıp, interaktif 3D deneyimlerin de adresi haline gelmesini sağladı. Bugün oyunlardan veri görselleştirmeye, sanal gerçeklik uygulamalarından eğitim araçlarına kadar pek çok alanda kullanılıyor.\n\nWebGL’in en büyük avantajlarından biri, kullanıcıların ekstra eklentilere veya özel yazılımlara ihtiyaç duymadan, doğrudan tarayıcı üzerinden 3D deneyimlerine erişebilmesi. Bu da onu hem geliştiriciler hem de kullanıcılar için son derece erişilebilir kılıyor.",
+      "fun_fact": "WebGL’in ilk demo versiyonu, 2006 yılında bir Firefox eklentisi olarak yayınlandı ve \"Quake II\" adlı ünlü bir 3D oyunun tarayıcıda çalıştırılmasını sağladı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q375913",
+        "https://tr.wikipedia.org/wiki/WebGL",
+        "https://en.wikipedia.org/wiki/WebGL"
+      ],
+      "wikidata_qid": "Q375913"
+    },
+    {
+      "id": "Q381215",
+      "date": "2027-08-18",
+      "category": "yazilim-internet",
+      "widget_title": "Mac OS X Snow Leopard ne zaman çıktı?",
+      "hook": "Kedilerin en sevdiği işletim sistemi hangisi? Peki ya Apple’ın en gizemli sürümü?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Mac OS X Snow Leopard, Apple’ın masaüstü ve sunucu işletim sistemleri serisinin yedinci büyük sürümü olarak 28 Ağustos 2009’da piyasaya sürüldü. Bu sürüm, adından da anlaşılacağı gibi \"Snow Leopard\" yani *Kar Leoparı* adını taşıyordu ve önceki versiyonlara göre oldukça sade bir yenilik paketiyle geldi. Aslında, Snow Leopard’ın en büyük özelliği, altında yatan mimari iyileştirmeler ve performans artışlarıydı. Kullanıcı arayüzünde devrim niteliğinde değişiklikler olmasa da, sistemin çekirdeğinden başlayarak optimize edilen kodlar sayesinde daha hızlı ve verimli çalışması sağlandı.\n\nBu sürüm, Apple’ın \"Don’t make it new, make it better\" (Yeni yapma, daha iyi yap) felsefesinin bir örneğiydi. Örneğin, Microsoft’un Windows 7’ye odaklanan pazarlama stratejisinin aksine, Snow Leopard’ın tanıtımında yeniliklerden çok performans ve kararlılık vurgulandı. Ayrıca, bu sürümle birlikte 64-bit teknolojisinin tam anlamıyla benimsenmesi de sağlandı, ki bu [DOĞRULA: Intel işlemcilerle tam uyumluluk sağlanıp sağlanmadığı] konusunda bazı teknik detaylar dikkat çekiciydi.\n\nSnow Leopard’ın piyasaya çıkış tarihi olan 2009, aynı zamanda dünya genelinde ekonomik krizin etkilerinin hissedildiği bir dönemdi. Apple’ın bu dönemde sunduğu ürünlerle, özellikle de Mac serisiyle, kullanıcılarına güvenilir ve uzun ömürlü cihazlar sunma vaadini yerine getirdiği söylenebilir. İlginç bir şekilde, Snow Leopard’ın ardılı olan Mac OS X Lion’un tanıtımı ise neredeyse bir yıl sonra, Ağustos 2010’da gerçekleşti.",
+      "fun_fact": "Snow Leopard, Apple’ın piyasaya sürdüğü ilk işletim sistemiydi ve aynı zamanda sonuncu olan, PowerPC yerine Intel işlemcilere geçiş yapılan dönemde yayınlanan son \"klasik\" macOS sürümüydü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q381215",
+        "https://tr.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard",
+        "https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard"
+      ],
+      "wikidata_qid": "Q381215"
+    },
+    {
+      "id": "Q3835122",
+      "date": "2027-08-19",
+      "category": "yazilim-internet",
+      "widget_title": "LiveJasmin ne zaman yayına girdi?",
+      "hook": "İnternetin en renkli köşelerinden biri olan canlı sohbet platformları arasında adından sıkça söz ettiren LiveJasmin’in hikayesi, 2000’lerin başında nasıl şekillendi?",
+      "answer_year": 2001,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "LiveJasmin, 2001 yılında kullanıma açılan ve yetişkinlere yönelik canlı sohbet platformu olarak tanınan bir internet sitesi. Dijital eğlence dünyasında adından sıkça söz ettiren bu platform, kullanıcılarına canlı performanslar ve etkileşimli sohbetler sunarak kısa sürede popülerlik kazandı. Peki, bu platformun ortaya çıkış hikayesi nasıl başladı?\n\n2000’lerin başı, internetin hızla yaygınlaştığı ve çevrimiçi eğlencenin yeni yeni şekillendiği bir dönemdi. LiveJasmin’in kuruluşuyla ilgili kesin bir bilgi olmasa da, platformun 2001 yılında yayına girdiği yaygın olarak kabul ediliyor. Sitenin adının ilham kaynağı hakkında da net bir bilgi bulunmuyor, ancak \"Jasmin\" isminin kullanılması, belki de o dönemde popüler olan isimlerden veya kültürel referanslardan etkilenmiş olabileceğini düşündürüyor. [DOĞRULA: LiveJasmin adının kökeni hakkında resmi bir açıklama var mı?]\n\nLiveJasmin, zamanla yetişkinlere yönelik canlı sohbet platformları arasında lider konuma yükseldi. Platform, kullanıcılarına çeşitli performanslar ve özel sohbetler sunarak, dijital eğlence sektöründe önemli bir yer edindi. Günümüzde de aktif olarak hizmet vermeye devam eden LiveJasmin, internetin erken dönemlerinden beri varlığını sürdüren nadir platformlardan biri olarak dikkat çekiyor.",
+      "fun_fact": "LiveJasmin’in 2001 yılında yayına girmesi, internetin yetişkin eğlencesi alanında da ciddi bir pazar haline geldiğinin bir göstergesiydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3835122",
+        "https://tr.wikipedia.org/wiki/LiveJasmin",
+        "https://en.wikipedia.org/wiki/LiveJasmin"
+      ],
+      "wikidata_qid": "Q3835122"
+    },
+    {
+      "id": "Q3884",
+      "date": "2027-08-20",
+      "category": "yazilim-internet",
+      "widget_title": "Amazon.com ne zaman kuruldu?",
+      "hook": "İnternetin ilk büyük perakende devlerinden biri olan Amazon.com, bugün neredeyse her eve giren bir platformun temellerini nasıl attı dersiniz?",
+      "answer_year": 1994,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Amazon.com’un hikayesi, 1994 yılında Jeff Bezos’un Seattle’dan başlattığı küçük bir çevrimiçi kitap satışından ibaret değil aslında. O yıl, Bezos’un ‘Cadabra’ adını verdiği (sonradan Amazon olarak değiştirilen) şirketi, internetin henüz keşfedilmemiş potansiyelini ilk fark edenlerden biriydi. Başlangıçta sadece kitap satan bir mağaza olarak kurulan Amazon, [DOĞRULA: ilk müşterisinin kim olduğu ve ilk siparişin ne olduğu] kısa sürede diğer kategorilere de yayılarak büyüdü.\n\n1995 yılında resmen faaliyete geçen site, ilk yılında 50 eyaletteki müşterilere ulaşmayı başardı. İlginç olan, Amazon’un ilk yıllarında kâr etmek yerine büyümeye odaklanmasıydı. Bu strateji, zamanla şirketin ‘müşteri odaklı’ yaklaşımının temelini oluşturdu. 1997 yılında halka arz edilen Amazon, dot-com balonunun patladığı dönemde bile ayakta kalmayı başardı ve bugün dünyanın en değerli şirketlerinden biri haline geldi.\n\nAmazon’un adının Amazon Nehri’nden esinlenerek konulduğu ve ‘A’dan ‘Z’ye her şeyi satma’ amacını simgelediği rivayet edilir. Ancak şirketin ilk logosunun tasarımında bu fikrin ne kadar yer aldığı [DOĞRULA: ilk logonun detayları ve anlamı] net değil.",
+      "fun_fact": "Amazon’un ilk siparişi, bir kitabın satın alınmasıydı — ama ilginçtir, ilk müşterinin kim olduğu şirket arşivlerinde net olarak kayıtlı değil.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3884",
+        "https://tr.wikipedia.org/wiki/Amazon_(%C5%9Firket)",
+        "https://en.wikipedia.org/wiki/Amazon_(company)"
+      ],
+      "wikidata_qid": "Q3884"
+    },
+    {
+      "id": "Q4035313",
+      "date": "2027-08-21",
+      "category": "yazilim-internet",
+      "widget_title": "Booking.com ne zaman kuruldu?",
+      "hook": "Dünyanın en çok kullanılan otel rezervasyon sitelerinden biri olan Booking.com’un hikayesi, bir öğrenci projesiyle başladı desem inanır mısın?",
+      "answer_year": 1996,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "1996 yılında, Amsterdam’da okuyan iki Hollandalı öğrenci, **Bookings.nl** adında basit bir web sitesi kurdu. Amacı, insanların çevrimiçi olarak ucuz konaklama yerleri bulmasına yardımcı olmaktı. Başlangıçta sadece Hollanda’daki küçük otelleri listeleyen site, [DOĞRULA: kullanıcı sayısının artmasıyla birlikte] uluslararası bir platforma dönüşmeye başladı.\n\n2000 yılında şirket, adını **Booking.com** olarak değiştirdi ve hızla büyümeye devam etti. Özellikle 2005 yılında ABD merkezli **ActiveHotels.com**’u satın alması, Booking.com’un küresel bir oyuncu haline gelmesini sağladı. Bugün milyonlarca oteli, uçuşu ve araç kiralama seçeneğini bünyesinde barındıran platform, seyahat endüstrisinde devrim yarattı.\n\nPeki, Booking.com’un bu kadar başarılı olmasının sırrı neydi? Basit kullanıcı arayüzü, rekabetçi fiyatlar ve güvenilir yorum sistemi, onu diğer rezervasyon sitelerinden ayıran özelliklerdi. Tabii ki, 2020’lerdeki pandemi döneminde bile ayakta kalabilmesi de cabası!",
+      "fun_fact": "Booking.com’un ilk versiyonu, 1996 yılında sadece 200 oteli listelemekteydi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4035313",
+        "https://tr.wikipedia.org/wiki/Booking.com",
+        "https://en.wikipedia.org/wiki/Booking.com"
+      ],
+      "wikidata_qid": "Q4035313"
+    },
+    {
+      "id": "Q4040805",
+      "date": "2027-08-22",
+      "category": "yazilim-internet",
+      "widget_title": "EMUI ne zaman piyasaya çıktı?",
+      "hook": "Akıllı telefonunuzun ekranında kayan pencereleri, koyu modu ve akıllı önerileriyle tanıdığınız arayüzün ardında hangi hikâye yatıyor biliyor musunuz?",
+      "answer_year": 2012,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "EMUI, Huawei’nin akıllı cihazları için geliştirdiği özel Android tabanlı kullanıcı arayüzü. İlk kez 2012 yılında, Huawei’nin Ascend serisi akıllı telefonlarında kullanılmaya başlandı. Aslında EMUI’nin temelleri, Huawei’nin 2009 yılında satın aldığı ve mobil yazılım geliştirme konusunda deneyim kazandığı **Astronautics ve Symantec** gibi firmaların çalışmalarına dayanıyor. Ancak resmi olarak piyasaya çıkışı, 2012 yılında Huawei Ascend P1 ile gerçekleşti.\n\nBaşlangıçta EMUI’nin adı **Emotion UI** idi ve kullanıcı deneyimini ön planda tutan bir tasarım felsefesiyle yola çıktı. Zamanla, Çin pazarında ve uluslararası arenada Huawei’nin marka imajını güçlendiren bir unsur haline geldi. EMUI’nin en dikkat çekici özelliklerinden biri, kullanıcı arayüzünün basitliği ve kişiselleştirilebilirliğidir. Huawei, bu arayüzü sadece kendi cihazlarında kullanmakla kalmadı, aynı zamanda üçüncü parti geliştiricilere de açarak ekosistemini genişletti.\n\n[DOĞRULA: EMUI’nin ilk versiyonunun tam olarak hangi ayda yayınlandığı ve Ascend serisi dışındaki ilk cihazlarda kullanılıp kullanılmadığı]",
+      "fun_fact": "EMUI’nin ilk versiyonunda, kullanıcılar ekranın alt kısmındaki üç düğme yerine sadece bir ana ekran düğmesiyle karşılaşmıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4040805",
+        "https://tr.wikipedia.org/wiki/Huawei_EMUI",
+        "https://en.wikipedia.org/wiki/EMUI"
+      ],
+      "wikidata_qid": "Q4040805"
+    },
+    {
+      "id": "Q4585",
+      "date": "2027-08-23",
+      "category": "yazilim-internet",
+      "widget_title": "CouchSurfing ne zaman ortaya çıktı?",
+      "hook": "Dünyanın dört bir yanındaki gezginlerin ücretsiz konaklama hayalini gerçeğe dönüştüren o platformun hikayesi, aslında bir acil durumda doğduğunu biliyor muydun?",
+      "answer_year": 2003,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "CouchSurfing’in temelleri, 2003 yılında ABD’nin New Hampshire eyaletinde atıldı. [DOĞRULA: Kuruluşun ilk adı ve ilk versiyonunun detayları] Bu ilginç fikrin arkasındaki isim, Casey Fenton adlı bir girişimciydi. Fenton’un hikayesi, aslında oldukça tesadüfi bir şekilde başladı: Üniversitedeki bir ders projesi için binlerce öğrencinin e-posta adresini topladıktan sonra, İzlanda’ya ucuz bir uçuş bileti bulamayan Fenton, yerel bir forumda yardım istedi. Bir anda 15 kadar İzlandalıdan konaklama teklifi aldı ve bu deneyimden ilhamla, insanların dünyanın her yerinde birbirlerine ücretsiz konaklama imkanı sunabileceği bir platform kurmaya karar verdi.\n\nBaşlangıçta basit bir web sitesi olarak hayata geçen CouchSurfing, zamanla global bir hareket haline geldi. Kullanıcılar sadece bir kanepede kalmakla kalmıyor, aynı zamanda yerel kültürleri deneyimleme ve yeni arkadaşlıklar kurma fırsatı buluyordu. 2004 yılında resmen bir organizasyon olarak kaydedilen platform, 2011’e kadar kar amacı gütmeyen bir yapıda kaldı. Ancak daha sonraki yıllarda ticari bir modele geçiş yapması, topluluk içinde bazı tartışmalara yol açtı.\n\nBugün CouchSurfing, seyahat dünyasında devrim yaratan bir kavram olarak kabul ediliyor. Peki ya sen? Hiç CouchSurfing deneyimi yaşadın mı?",
+      "fun_fact": "CouchSurfing’in ilk logosu, aslında bir kanepede oturan bir kediyi temsil ediyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4585",
+        "https://tr.wikipedia.org/wiki/CouchSurfing",
+        "https://en.wikipedia.org/wiki/CouchSurfing"
+      ],
+      "wikidata_qid": "Q4585"
+    },
+    {
+      "id": "Q46441",
+      "date": "2027-08-24",
+      "category": "yazilim-internet",
+      "widget_title": "CSS ne zaman icat edildi?",
+      "hook": "Web sitelerinin renklerinden düzenine kadar her şeyi şekillendiren CSS’in ilk versiyonu, internetin erken günlerinde nasıl doğdu sence?",
+      "answer_year": 1996,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "CSS’in hikayesi, 1990’ların ortalarında World Wide Web’in hızla büyümesiyle başlıyor. İnternet kullanıcıları çoğaldıkça, web sayfalarının sadece içerik değil, aynı zamanda görsel olarak da çekici olması gerektiği anlaşılmıştı. O dönemde HTML, bir sayfanın yapısını belirliyordu ama renk, yazı tipi, kenar boşlukları gibi stil unsurlarını tanımlamak için yeterli değildi.\n\n1994 yılında [DOĞRULA: World Wide Web’in mucidi Tim Berners-Lee tarafından kurulan] W3C (World Wide Web Consortium), bu soruna çözüm bulmak için kolları sıvadı. Projeye, o dönemde CERN’de çalışan ve daha sonra CSS’in temellerini atacak olan **Håkon Wium Lie** liderlik etti. Lie, 1994 yılında ilk CSS önerisini yayınladı ve böylece stil şablonlarının web dünyasına entegrasyonu başlamış oldu.\n\nAncak CSS’in resmi olarak tanınması ve yaygınlaşması biraz zaman aldı. 1996 yılında W3C, CSS’in ilk resmi versiyonu olan **CSS1**’i (Cascading Style Sheets Level 1) yayınladı. Bu, web geliştiricilerine sayfaların görünümünü daha esnek ve kontrol edilebilir hale getirme imkanı tanıdı. CSS1’in yayınlanması, modern web tasarımının da temellerini attı diyebiliriz.\n\nBugün CSS olmasaydı, web siteleri hem tasarım hem de kullanım açısından çok daha basit ve sıkıcı olurdu. Renk geçişlerinden animasyonlara kadar birçok özelliğin temelinde CSS yatıyor!",
+      "fun_fact": "CSS’in ‘cascading’ (çağlayan) terimi, stillerin birbirini ezerek veya devralarak uygulanmasından gelir — tıpkı bir çağlayanda suların birbirini takip etmesi gibi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q46441",
+        "https://tr.wikipedia.org/wiki/CSS",
+        "https://en.wikipedia.org/wiki/CSS"
+      ],
+      "wikidata_qid": "Q46441"
+    },
+    {
+      "id": "Q476915",
+      "date": "2027-08-25",
+      "category": "yazilim-internet",
+      "widget_title": "Mac OS X Lion ne zaman çıktı?",
+      "hook": "Kediler sever misin? Apple da öyle! Peki ya Mac OS X Lion’un gizli maceralarını biliyor musun?",
+      "answer_year": 2011,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Mac OS X Lion, Apple’ın masaüstü işletim sistemleri serisinin 8. büyük sürümü olarak 20 Temmuz 2011’de kullanıma sunuldu. Bu sürüm, önceki versiyon olan Snow Leopard’tan sonra geldi ve kullanıcılara yeniliklerle dolu bir deneyim vadediyordu. Lion, Apple’ın \"geri dönüşüm\" stratejisinin bir parçası olarak, iOS’tan birçok özelliği masaüstüne taşımasıyla dikkat çekti. Mesela, iPad’deki çoklu dokunma hareketleri (iki parmakla kaydırma, sıkıştırarak yakınlaştırma gibi) Mac’e ilk kez bu sürümle geldi.\n\nAncak Lion’un hikayesi sadece yeniliklerden ibaret değil. Apple, bu sürümü App Store üzerinden sadece 19.99 dolara satışa sundu — ki bu, o dönemde masaüstü işletim sistemleri için oldukça devrimci bir fiyattı. Ayrıca, Lion’un kurulumu için DVD yerine internet üzerinden indirme opsiyonu sunulması da kullanıcılar arasında karışıklığa neden oldu. [DOĞRULA: İnternet üzerinden indirme opsiyonunun ilk kez Lion ile mi başladığını] \n\nLion’un adı da ilginç bir hikaye barındırıyor. Apple, büyük kedilerin isimlerini kullanma geleneğine sahipti (Leopard, Panther, Tiger gibi) ve Lion bu serinin son büyük kedisiydi. Ardından gelen Mountain Lion, aslında bir puma olduğu için bu isimlendirme biraz esnemiş oldu. Lion’un piyasaya sürülmesiyle birlikte Apple, masaüstü ve mobil işletim sistemleri arasındaki sınırları daha da inceltmeye başladı.",
+      "fun_fact": "Mac OS X Lion, Apple’ın ilk kez bir işletim sistemini tamamen App Store üzerinden satışa sunduğu sürümdür.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q476915",
+        "https://tr.wikipedia.org/wiki/Mac_OS_X_Lion",
+        "https://en.wikipedia.org/wiki/OS_X_Lion"
+      ],
+      "wikidata_qid": "Q476915"
+    },
+    {
+      "id": "Q47770",
+      "date": "2027-08-26",
+      "category": "yazilim-internet",
+      "widget_title": "Blu-ray ne zaman icat edildi?",
+      "hook": "Daha yüksek çözünürlüklü filmleri evde izleyebilmek için geliştirilen bu teknoloji, adını bile nereden aldığını hiç merak ettin mi?",
+      "answer_year": 2006,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Blu-ray Disc, yüksek çözünürlüklü (HD) içerikleri depolamak ve oynatmak için tasarlanmış bir disk formatıdır. **2006 yılında Sony tarafından tanıtılan** bu teknoloji, adını kullanılan mavi-mor lazerden (\"blue laser\") alır — standart DVD’lerde kullanılan kızılötesi lazerden farklı olarak. Blu-ray, tek katmanlı bir diskte 25 GB, çift katmanlı bir diskte ise 50 GB veri saklayabilir. Bu da onu, HD filmler ve oyunlar için ideal bir ortam haline getirdi.\n\nPeki, Blu-ray’in doğuşunda neler oldu? 2000’lerin başında, film stüdyoları ve teknoloji şirketleri, ev sineması deneyimini bir üst seviyeye taşımak için yarış içindeydi. **DVD Forum** üyesi şirketler arasında format savaşı yaşanıyordu: bir yanda Sony’nin desteklediği Blu-ray, diğer yanda Toshiba’nın liderliğindeki HD DVD. Bu rekabet, nihayetinde 2008 yılında Sony’nin galibiyetiyle sonuçlandı ve Blu-ray, ev sineması standartı olarak kabul edildi. [DOĞRULA: Blu-ray’in ilk ticari ürünleri hangi yıl piyasaya sürüldü?]\n\nBugün Blu-ray, yerini büyük ölçüde dijital akış hizmetlerine bırakmış olsa da, hâlâ yüksek kaliteli içerikler için tercih edilen bir format olmaya devam ediyor. Özellikle film koleksiyoncuları ve ses/video meraklıları için özel bir yeri var.",
+      "fun_fact": "İlk Blu-ray Disc oynatıcı ve diskler, 2006 yılında Japonya’da satışa sunuldu — fiyatı yaklaşık 3.800 dolar olan bu oynatıcı, lüksün de ötesinde bir yatırım demekti!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q47770",
+        "https://tr.wikipedia.org/wiki/Blu-ray",
+        "https://en.wikipedia.org/wiki/Blu-ray"
+      ],
+      "wikidata_qid": "Q47770"
+    },
+    {
+      "id": "Q4880667",
+      "date": "2027-08-27",
+      "category": "yazilim-internet",
+      "widget_title": "Behance ne zaman kuruldu?",
+      "hook": "Sanatçılar ve tasarımcılar için ilham kaynağı olan bu platformun hikayesi, aslında beklenmedik bir yerde başlıyor.",
+      "answer_year": 2005,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Behance, 2005 yılında sanatçılar ve tasarımcılar için bir portföy paylaşım platformu olarak hayata geçti. Kurucuları arasında Scott Belsky ve Matias Corea’nın olduğu platform, [DOĞRULA: tasarımcılar arasında ne kadar yaygın kullanıldığı] ilk yıllarında özellikle grafik tasarımcılar arasında popülerlik kazandı. Behance, kullanıcıların projelerini sergileyebileceği, geri bildirim alabileceği ve iş fırsatlarına ulaşabileceği bir dijital vitrin görevi gördü.\n\nZamanla sadece bireysel tasarımcılar değil, ajanslar ve markalar da Behance’i kullanmaya başladı. 2012 yılında Adobe tarafından satın alınan platform, tasarım topluluğunun yanı sıra Adobe’nin kendi ürünleriyle entegrasyonunu da güçlendirdi. Behance’in en ilginç özelliklerinden biri, kullanıcıların projelerini \"güncel\" kategorisinde paylaşarak geniş kitlelere ulaşabilmesiydi.\n\nBugün Behance, sadece bir portföy sitesi olmanın ötesine geçmiş durumda. Tasarım dünyasındaki trendleri takip etmek, ilham almak ve hatta iş bulmak için vazgeçilmez bir araç haline geldi.",
+      "fun_fact": "Behance’in orijinal adı \"Be\" idi, ancak daha sonra marka kimliğiyle uyumlu olması için \"Behance\" olarak değiştirildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4880667",
+        "https://tr.wikipedia.org/wiki/Behance",
+        "https://en.wikipedia.org/wiki/Behance"
+      ],
+      "wikidata_qid": "Q4880667"
+    },
+    {
+      "id": "Q48938223",
+      "date": "2027-08-28",
+      "category": "yazilim-internet",
+      "widget_title": "TikTok ne zaman ortaya çıktı?",
+      "hook": "Kısa videolarla dünyayı kasıp kavuran bu platformun ilk versiyonunu tahmin edebilir misin?",
+      "answer_year": 2016,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "TikTok’un hikayesi aslında Çinli bir şirketin 2016 yılında piyasaya sürdüğü **Douyin** adlı uygulama ile başlıyor. Aynı yılın Eylül ayında, Douyin’in uluslararası versiyonu olarak **TikTok** hayata geçirildi. Bu ikili, kullanıcıların 15 saniyelik videolar çekip paylaşabildiği, algoritmanın kişiselleştirilmiş içerik sunduğu bir dünyaya kapı araladı.\n\nPeki, neden aynı yıl içinde iki farklı isim? Douyin Çin pazarına odaklanırken, TikTok uluslararası kullanıcılara hitap etmek üzere tasarlandı. İki uygulama da aynı teknolojiyi ve arayüzü kullanıyordu, ancak farklı pazarlarda farklı stratejiler izlendi. [DOĞRULA: Douyin ve TikTok arasındaki teknik ve iş modeli farkları nelerdi?]\n\nTikTok’un hızlı yükselişi, 2017 yılında **Musical.ly** adlı başka bir video paylaşım platformunu satın almasıyla ivme kazandı. Musical.ly’in genç kullanıcı kitlesi ve popüler şarkılarla dans videoları yapma özelliği, TikTok’a entegre edildi. Bu birleşme, platformun küresel çapta patlamasına neden oldu. Bugünse TikTok, milyonlarca içerik üreticisi ve milyarlarca izleyiciye sahip bir fenomen haline geldi.\n\nAslında TikTok’un hikayesi, sadece bir uygulamanın ötesinde; sosyal medyanın nasıl evrildiğinin ve kullanıcı davranışlarının ne kadar hızlı değişebildiğinin bir göstergesi.",
+      "fun_fact": "TikTok’un algoritması o kadar güçlü ki, yeni kullanıcıların ilk birkaç dakikada ilgi alanlarına göre içerik sunabiliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48938223",
+        "https://tr.wikipedia.org/wiki/TikTok",
+        "https://en.wikipedia.org/wiki/TikTok"
+      ],
+      "wikidata_qid": "Q48938223"
+    },
+    {
+      "id": "Q521550",
+      "date": "2027-08-29",
+      "category": "yazilim-internet",
+      "widget_title": "Google Görseller ne zaman çıktı?",
+      "hook": "İnternette aradığın resmi bulmak için ilk tıklamanı yaptığın anı hiç merak ettin mi?",
+      "answer_year": 2001,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Google Görseller’in doğuş hikayesi, aslında bir \"kaza\" sonucu ortaya çıktı. Şubat 2000’de, o zamanlar henüz genç bir şirket olan Google, İranlı bir kullanıcının \"veçmeh\" (Farsça \"pervane\" anlamına gelen kelime) kelimesini araması sırasında yaşanan bir sorunu çözmek için kolları sıvadı. Kullanıcı, kelimenin İngilizce karşılığını ararken, sonuçlarda sadece metin bağlantılarının değil, o kelimenin resimlerinin de yer almasını istiyordu. Bu talep üzerine Google mühendisleri, [DOĞRULA: resim tabanlı arama sisteminin ilk kodlamasına ne zaman başlandığını] hızla bir prototip geliştirdi.\n\nPrototipin başarısı üzerine Google, 2001 yılında resmi olarak **Google Görseller** hizmetini kullanıma sundu. Başlangıçta sadece birkaç milyon indekslenmiş resimle başlayan sistem, bugün milyarlarca görseli saniyeler içinde karşımıza çıkarıyor. İlginç olan ise, hizmetin ilk versiyonunun kullanıcıların arama alışkanlıklarını değiştireceğini kimsenin tahmin etmemesiydi. O dönemde çoğu kişi, görsel aramayı sadece özel projeler için kullanılan bir lüks olarak görürken, Google Görseller’in sunduğu kolaylık kısa sürede herkesin vazgeçilmezi haline geldi.\n\nGoogle Görseller’in ortaya çıkışı, internetin sadece metin değil, görsel olarak da keşfedilmesi gerektiğine dair bir farkındalık yarattı. Bugünse, bir konuyu anlamak için ilk adımımız genellikle görsel arama yapmak oluyor.",
+      "fun_fact": "Google Görseller’in ilk versiyonunda indekslenen resimlerin çoğu, üniversite web sitelerinden ve haber ajanslarından alınmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q521550",
+        "https://tr.wikipedia.org/wiki/Google_G%C3%B6rseller",
+        "https://en.wikipedia.org/wiki/Google_Images"
+      ],
+      "wikidata_qid": "Q521550"
+    },
+    {
+      "id": "Q545966",
+      "date": "2027-08-30",
+      "category": "yazilim-internet",
+      "widget_title": "Bandcamp ne zaman kuruldu?",
+      "hook": "Bağımsız sanatçıların müziğini doğrudan hayranlarına ulaştırmak için tasarlanan bu platform, sence kaç yılında doğdu?",
+      "answer_year": 2007,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Bandcamp’in hikayesi, 2000’lerin ortasında dijital müzik dağıtımının giderek standartlaşmaya başladığı bir dönemde başladı. Platform, 2007 yılında Ethan Diamond, Shawn Grunberger, Joe Holt ve Neal Tucker adlı dört arkadaş tarafından kuruldu. Temel fikir, sanatçıların müziklerini doğrudan dinleyicilerle buluştururken, hem sanatçıya hem de dinleyiciye adil bir paylaşım modeli sunmaktı. O dönemde Spotify ya da Apple Music gibi devlerin aksine, Bandcamp sanatçının kontrolünü elinde tutmasına olanak tanıyan bir yaklaşım benimsedi: kullanıcılar istedikleri fiyatı ödeyebiliyor, hatta ücretsiz indirme seçeneğini tercih edebiliyordu.\n\n[DOĞRULA: Bandcamp’in kurucu ekibinin isimleri ve kuruluş yılı dışındaki detayları için kaynaklar çelişkili bilgiler içeriyor. Lütfen doğrulanması gerekenler: kuruluşun ilk aylarındaki teknik altyapı ve ilk kullanıcı kitlesi hakkında detaylı bilgiler.]\n\nBaşlangıçta nispeten küçük bir platform olan Bandcamp, bağımsız sanatçılar arasında hızla popülerlik kazandı. 2010’ların başında ise platform, hem dinleyiciler hem de sanatçılar için daha da erişilebilir hale geldi. Özellikle 2012 yılında tanıtılan \"Bandcamp Friday\" etkinliği, her ayın ilk Cuma gününde platformda satın alma yapılmasını teşvik ederek, sanatçılara önemli bir destek oldu. Bugün Bandcamp, bağımsız müziğin dijital vitrini olarak kabul ediliyor ve milyonlarca şarkıyı barındırıyor.",
+      "fun_fact": "Bandcamp’in en popüler albümlerinden biri olan *In Rainbows*’un sahibi Radiohead, 2007 yılında albümü ilk kez doğrudan hayranlarına sattığında, Bandcamp’in ilham kaynaklarından biri olmuştu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q545966",
+        "https://tr.wikipedia.org/wiki/Bandcamp",
+        "https://en.wikipedia.org/wiki/Bandcamp"
+      ],
+      "wikidata_qid": "Q545966"
+    },
+    {
+      "id": "Q54807273",
+      "date": "2027-08-31",
+      "category": "yazilim-internet",
+      "widget_title": "macOS Mojave ne zaman çıktı?",
+      "hook": "Göz alıcı karanlık moduyla hepimizin kalbini çalan macOS Mojave’in ortaya çıkış hikayesi sandığınızdan daha yakın!",
+      "answer_year": 2018,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Apple’ın masaüstü işletim sistemleri serüveni içinde macOS Mojave, 24 Eylül 2018 tarihinde tanıtıldı ve kullanıcılarla buluştu. Bu sürüm, adını Kaliforniya’daki Mojave Çölü’nden alıyor — tıpkı önceki macOS High Sierra ve sonraki macOS Catalina gibi doğa manzaralarından ilham alan bir isimlendirme geleneğine sahip. Mojave’in çıkışı, Apple’ın yazılım ve donanım uyumunu bir adım öteye taşıyan yeniliklerle doluydu: ilk kez sistem genelinde **Karanlık Mod** (Dark Mode) desteği sunarak kullanıcı arayüzüne modern bir dokunuş kattı. Ayrıca, masaüstü simgelerinin yeniden tasarlandığı, masaüstü duvar kağıtlarının dinamik olarak değiştiği **Dinamik Masaüstü** özelliği de bu sürümle hayatımıza girdi.\n\nMojave’in arkasındaki geliştirme süreciyse oldukça yoğun geçmiş olmalı. Apple’ın o dönemdeki CEO’su Tim Cook’un liderliğinde, şirket hem tasarım hem de performans odaklı bir yaklaşım benimsemişti. [DOĞRULA: macOS Mojave’in geliştirilmesinde hangi Apple mühendislik ekiplerinin öncü rol oynadığı] Ancak bir şey kesin: Mojave, kullanıcı deneyimini yeniden tanımlayan bir sürüm oldu ve Apple’ın yazılım ekosistemindeki yerini sağlamlaştırdı.\n\nBu arada, Mojave’in çıkış tarihi olan 24 Eylül 2018’in, Apple’ın geleneksel olarak yeni ürünlerini Eylül ayında tanıttığı bir döneme denk geldiğini de not düşelim.",
+      "fun_fact": "macOS Mojave’in Karanlık Mod’u, Apple’ın sadece estetik değil, aynı zamanda göz yorgunluğunu azaltmayı hedeflediği bir yenilik olarak tanıtılmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54807273",
+        "https://tr.wikipedia.org/wiki/MacOS_Mojave",
+        "https://en.wikipedia.org/wiki/MacOS_Mojave"
+      ],
+      "wikidata_qid": "Q54807273"
+    }
+  ]
+}

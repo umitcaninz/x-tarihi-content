@@ -1,0 +1,688 @@
+{
+  "schema_version": 1,
+  "month": "2027-07",
+  "items": [
+    {
+      "id": "Q2192",
+      "date": "2027-07-01",
+      "category": "yazilim-internet",
+      "widget_title": "GIF ne zaman icat edildi?",
+      "hook": "Dünyanın en ünlü 3 harfli dosya formatlarından biri olan GIF’in hikayesi, aslında birden fazla mucizevi tesadüfün ürünü!",
+      "answer_year": 1987,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "GIF (Graphics Interchange Format), 1987 yılında CompuServe adlı erken dönem internet servis sağlayıcısı tarafından geliştirildi. Bu format, kullanıcıların düşük bant genişliğine sahip modemler üzerinden bile hızlıca resim paylaşabilmesini sağlamak amacıyla tasarlandı. İlk GIF dosyaları, sadece 256 renkten oluşabiliyordu ve bu da dosya boyutunu küçültmeyi kolaylaştırıyordu.\n\nAncak GIF’in hikayesi burada bitmiyor! Aslında GIF’in icadı, CompuServe mühendislerinden Steve Wilhite’in liderliğindeki bir ekip tarafından gerçekleştirildi. Wilhite, daha sonra bu başarıyla Webby Ödülleri’nde \"Yaşam Boyu Başarı Ödülü\" kazandı — hatta kabul konuşmasında ünlü \"GIF’i jif gibi telaffuz edin\" espriyiyle gündeme damgasını vurdu. [DOĞRULA: GIF’in telaffuzu hakkında yaygın bir tartışma olup olmadığı]\n\nGIF’in en ilginç özelliklerinden biri olan animasyon desteği, ilk versiyonda yer almasa da, 1989 yılında yapılan bir güncellemeyle eklendi. Bu sayede GIF’ler, statik resimlerin ötesine geçerek internet kültürünün ayrılmaz bir parçası haline geldi.\n\nBugün GIF’ler, sosyal medyada duygularımızı ifade etmenin yanı sıra, popüler kültürün de bir parçası olmuş durumda. Hatta Oxford İngilizce Sözlüğü, 2012 yılında \"GIF\" kelimesini resmen tanıyarak, bu formatın dilimize ne kadar yer ettiğini gösterdi.",
+      "fun_fact": "GIF’in animasyon özelliği ilk versiyonda yoktu, ancak 1989’daki güncellemeyle hayatımıza girdi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2192",
+        "https://tr.wikipedia.org/wiki/Graphics_Interchange_Format",
+        "https://en.wikipedia.org/wiki/GIF"
+      ],
+      "wikidata_qid": "Q2192"
+    },
+    {
+      "id": "Q487494",
+      "date": "2027-07-02",
+      "category": "kurum-marka",
+      "widget_title": "Dev market zinciri Tesco'nun kuruluşu hangi yıla dayanıyor?",
+      "hook": "İngiltere'nin devasa süpermarket zinciri Tesco, bir pazar tezgahında doğan bir hayaldi.",
+      "answer_year": 1919,
+      "year_precision": "year",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Bugün hayatımızın vazgeçilmez bir parçası olan dev süpermarket zincirlerinin hikayesi çoğu zaman mütevazı başlangıçlara dayanır. Tesco'nun hikayesi de tam olarak böyle. Her şey 1919 yılında, kurucusu Jack Cohen'in Londra'nın East End bölgesindeki Hackney'de bir pazar tezgahından artan askeri erzakları satmasıyla başladı. Cohen, azimle çalışarak işini büyüttü ve yavaş yavaş kendi markalı ürünlerini piyasaya sürmeye başladı.\n\nPeki, \"Tesco\" adı nereden geliyor? Bu isim, Jack Cohen'in ilk çay tedarikçisi olan T.E. Stockwell'in baş harfleri \"TE\" ile kendi soyadı Cohen'in ilk üç harfinin \"SCO\" birleşiminden oluşur. Bu iki kelime bir araya gelerek \"Tesco\" adını oluşturdu. İlk mağaza ise [DOĞRULA: İlk Tesco mağazası 1929'da Burnt Oak, Edgware'de mi açıldı?] yıllar sonra kapılarını açarak pazar tezgahı konseptinden modern perakendeciliğe doğru atılan büyük bir adımı temsil etti. Tesco, zamanla İngiltere'nin en büyük, dünyanın ise önde gelen perakende devlerinden biri haline gelerek milyonlarca insanın alışveriş deneyimini şekillendirdi. Kim bilebilirdi ki, bir pazar tezgahından yola çıkan bu serüven, küresel bir imparatorluğa dönüşecekti!",
+      "fun_fact": "Jack Cohen, Tesco'yu kurduğunda sadece 21 yaşındaydı ve ilk sermayesi 30 sterlindi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q487494",
+        "https://tr.wikipedia.org/wiki/Tesco",
+        "https://en.wikipedia.org/wiki/Tesco"
+      ],
+      "wikidata_qid": "Q487494"
+    },
+    {
+      "id": "Q718",
+      "date": "2027-07-03",
+      "category": "oyun-spor",
+      "widget_title": "Satranç ne zaman icat edildi?",
+      "hook": "Dünyanın en eski ve en stratejik oyunlarından biri olan satrancın kökenleri, tam olarak nereye dayanıyor dersiniz?",
+      "answer_year": 601,
+      "year_precision": "year",
+      "guess_range": [
+        500,
+        680
+      ],
+      "body": "Satrancın hikayesi, 6. yüzyıla kadar uzanıyor. İlk olarak **Kuzeybatı Hindistan’da** (günümüzdeki Pakistan ve Afganistan sınırları civarında) ortaya çıktığı düşünülüyor. O dönemde **Chaturanga** adıyla oynanan bu oyun, dört farklı askeri birliği temsil eden taşlarla (piyade, süvari, fil ve savaş arabası) oynanıyordu. [DOĞRULA: Chaturanga’nın tam olarak hangi yıl icat edildiği ve ilk oynandığı yerin kesin coğrafi konumu].\n\n7. yüzyılda Persler tarafından **Shatranj** adıyla benimsenen oyun, İslam dünyasına yayıldı ve burada kuralları biraz değiştirildi. Satranç, 9. yüzyılda İspanya ve İtalya üzerinden Avrupa’ya ulaştı. Avrupa’da taşların hareketleri ve oyunun kuralları yeniden şekillendirildi; örneğin vezirin gücü artırıldı ve filler (modern fil taşları) bugünkü formunu aldı. [DOĞRULA: Avrupa’ya ulaşma tarihinin kesin olarak hangi yüzyılda gerçekleştiği].\n\nGünümüzdeki standart satranç kurallarına yakın hali ise 15. yüzyılın ortalarında İspanya ve İtalya’da şekillenmeye başladı. Uluslararası turnuvaların düzenlenmesi ve modern turnuva kurallarının oluşması ise 19. yüzyılda gerçekleşti. Satranç, hem bir strateji oyunu hem de kültürel bir simge olarak yüzyıllar boyunca evrim geçirdi.",
+      "fun_fact": "Satrançta en uzun süren yasal hamle dizisi, 1989 yılında bir turnuvada tam 269 hamle sürmüş!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q718",
+        "https://tr.wikipedia.org/wiki/Satran%C3%A7",
+        "https://en.wikipedia.org/wiki/Chess"
+      ],
+      "wikidata_qid": "Q718"
+    },
+    {
+      "id": "Q22663",
+      "date": "2027-07-04",
+      "category": "yazilim-internet",
+      "widget_title": "The Pirate Bay ne zaman kuruldu?",
+      "hook": "İnternetin en ünlü -ve tartışmalı- sitesi The Pirate Bay’in hikayesi, dosya paylaşımının sınırlarını zorladı.",
+      "answer_year": 2003,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "The Pirate Bay, 2003 yılında İsveç’te kurulan bir torrent ve magnet bağlantı sağlayıcısı olarak dijital dünyaya damga vurdu. [DOĞRULA: Kurucularının kim olduğu kesin olarak bilinmiyor] ama projenin arkasındaki ilk isimler arasında Gottfrid Svartholm, Fredrik Neij ve Peter Sunde’in olduğu yaygın şekilde kabul ediliyor. Site, kullanıcıların her türlü dijital içeriği (filmlerden yazılımlara kadar) hızlı ve kolayca paylaşmasına olanak tanıyarak, hem eğlence endüstrisini hem de yasal düzenlemeleri altüst etti.\n\nThe Pirate Bay’in yükselişi, sadece teknoloji meraklılarını değil, aynı zamanda hukukçuları ve sanatçıları da harekete geçirdi. Site, telif hakkı ihlalleri nedeniyle defalarca dava edildi, sunucuları kapatıldı ve kurucuları hapse mahkum edildi. Buna rağmen, The Pirate Bay’in kısıtlamalara rağmen hayatta kalması ve hatta popülerliğini artırması, dijital özgürlük ve sansür karşıtı hareketlerin sembolü haline gelmesini sağladı.\n\nBugün bile The Pirate Bay, torrent dünyasının en bilinen adreslerinden biri olmaya devam ediyor. Peki, sizce bu siteyi hayatta tutan şey neydi: teknolojik bir devrim mi, yoksa yasal boşlukların bir sonucu muydu?",
+      "fun_fact": "The Pirate Bay’in ilk versiyonu, 2003 yılında İsveç’in Uppsala kentinde bir öğrenci odasında doğdu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22663",
+        "https://tr.wikipedia.org/wiki/The_Pirate_Bay",
+        "https://en.wikipedia.org/wiki/The_Pirate_Bay"
+      ],
+      "wikidata_qid": "Q22663"
+    },
+    {
+      "id": "Q4923294",
+      "date": "2027-07-05",
+      "category": "kurum-marka",
+      "widget_title": "Tayland'ın eğlence devi GMM Grammy ne zaman ortaya çıktı?",
+      "hook": "Tayland'ın müzik ve eğlence sahnesini baştan aşağı değiştiren bu dev şirket, yolculuğuna ne zaman başladı dersiniz?",
+      "answer_year": 1983,
+      "year_precision": "day",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Tayland'ın eğlence dünyasında adını altın harflerle yazdıran GMM Grammy'nin hikayesi, tam 1983 yılında başladı. Bu yıl, Güneydoğu Asya'nın en büyük medya ve eğlence konglomeratlarından birinin temellerinin atıldığı özel bir tarihti. Başlangıçta [DOĞRULA: şirketin ana odak noktası müzik miydi?] bilinmese de, GMM Grammy kısa sürede Tayland müzik endüstrisinin kalbi haline geldi. Sadece albüm çıkarmakla kalmayıp, sanatçıların kariyerlerini şekillendirdi ve Tayland pop müziğinin (T-Pop) dünyaya açılmasında büyük rol oynadı. Yıllar geçtikçe GMM Grammy, müzikle sınırlı kalmayıp kanatlarını sinema, televizyon yapımcılığı, radyo, dergi yayıncılığı ve konser organizasyonlarına kadar genişletti. Tayland'ın kültürel ihracatında önemli bir oyuncu haline gelen şirket, yerel yetenekleri uluslararası arenaya taşıdı ve ülkenin eğlence sektörüne yön verdi. Günümüzde bile GMM Grammy, bünyesinde barındırdığı birçok alt şirket ve markayla Tayland eğlence endüstrisinin nabzını tutmaya devam ediyor. Özellikle genç nesiller arasında büyük bir etkiye sahip olan yapımları ve sanatçılarıyla, 1983'ten bu yana eğlence dünyasında bir efsane olmaya devam ediyor. Bu şirket, sadece bir iş kuruluşu değil, aynı zamanda Tayland kültürünün ve sanatının önemli bir parçası haline geldi.",
+      "fun_fact": "GMM Grammy'nin adı, dünyanın en prestijli müzik ödüllerinden biri olan Grammy Ödülleri'ne olan hayranlıktan mı geliyor dersiniz? [DOĞRULA: Adının kökeni Grammy Ödülleri ile ilişkili mi?]",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4923294",
+        "https://tr.wikipedia.org/wiki/GMM_Grammy",
+        "https://en.wikipedia.org/wiki/GMM_Grammy"
+      ],
+      "wikidata_qid": "Q4923294"
+    },
+    {
+      "id": "Q726492",
+      "date": "2027-07-06",
+      "category": "oyun-spor",
+      "widget_title": "Avrupa Kadınlar Basketbol Şampiyonası ne zaman başladı?",
+      "hook": "Basketbolda kadınların sahaya çıktığı ilk büyük turnuva hangisiydi biliyor musun?",
+      "answer_year": 1938,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Avrupa Kadınlar Basketbol Şampiyonası’nın temelleri, basketbolun henüz yeni yeni yayılmaya başladığı 1930’ların ortalarına dayanıyor. İlk resmi turnuva ise 1938 yılında İtalya’nın Roma kentinde gerçekleştirildi. Bu tarih, kadın basketbolunun uluslararası arenada kendine yer bulduğu ilk adımlardan biri olarak kabul ediliyor. [DOĞRULA: Turnuvanın ilk şampiyonu hangi ülke olmuştur?]\n\nO dönemde basketbol, erkeklerin domine ettiği bir spor olarak görülse de, kadınlar da bu oyuna ilgi göstermeye başlamıştı. FIBA Avrupa’nın kurucu üyeleri arasında yer alan ülkeler, kadın basketbolunun gelişimini desteklemek amacıyla bu turnuvayı organize etti. Başlangıçta her dört yılda bir düzenlenmesi planlanan turnuva, 1950 yılından itibaren iki yılda bir yapılmaya başlandı ve bu format günümüzde de devam ediyor.\n\n1938 yılında sadece beş ülkenin katıldığı turnuvada İtalya, ev sahibi olarak şampiyonluğa ulaştı. Bu başarı, kadın basketbolunun Avrupa’daki geleceğine dair umutları artırdı ve sporun daha geniş kitlelere ulaşmasına katkı sağladı.",
+      "fun_fact": "1938 yılında yapılan ilk turnuvada sadece İtalya, Fransa, Litvanya, Polonya ve İsviçre yer aldı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q726492",
+        "https://tr.wikipedia.org/wiki/Avrupa_Kad%C4%B1nlar_Basketbol_%C5%9Eampiyonas%C4%B1",
+        "https://en.wikipedia.org/wiki/EuroBasket_Women"
+      ],
+      "wikidata_qid": "Q726492"
+    },
+    {
+      "id": "Q2299611",
+      "date": "2027-07-07",
+      "category": "yazilim-internet",
+      "widget_title": "Yelp ne zaman kuruldu?",
+      "hook": "Restoran önerilerinden yerel berberlere kadar her şeyi bulabileceğiniz Yelp’in hikayesi, bir çöpçatanlık projesinden doğduğunu biliyor muydun?",
+      "answer_year": 2004,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Yelp, 2004 yılında kullanıma açılan ve yerel işletmelerin keşfedilmesini kolaylaştıran bir platform olarak hayatımıza girdi. Aslında Yelp’in temelleri, 2004 yılından birkaç yıl önce atılmıştı. Şirketin kurucuları arasında yer alan Jeremy Stoppelman ve Russel Simmons, [DOĞRULA: ilk versiyonun geliştirilme sürecini] 2004’ün başlarında tamamladılar. Başlangıçta, Yelp’in sadece San Francisco’daki yerel restoranları listelemesi planlanmıştı, ancak kısa sürede diğer şehirler ve farklı işletme türlerine de yayılmaya başladı.\n\nİlk yıllarında Yelp, kullanıcıların yerel işletmelere dair yorumlar ve puanlamalar yapabildiği bir platform olarak öne çıktı. Bu özellik, o dönemde oldukça yenilikçiydi ve kullanıcıların birbirlerine güvenilir önerilerde bulunmasını sağladı. Zamanla Yelp, sadece restoranlarla sınırlı kalmayıp kuaförlerden spor salonlarına, hatta diş hekimlerine kadar geniş bir yelpazede hizmet vermeye başladı.\n\nYelp’in başarısının ardında, kullanıcıların gerçek deneyimlerine dayalı içerikleri ön planda tutması yatıyor. Platform, işletmelerin reklam vermesine de olanak tanıyarak sürdürülebilir bir iş modeli oluşturdu. Günümüzde Yelp, dünya genelinde milyonlarca kullanıcıya sahip ve yerel işletmelerin dijital vitrini haline geldi.",
+      "fun_fact": "Yelp’in ilk versiyonu, aslında bir çöpçatanlık sitesi olan \"Moverly\" adıyla geliştirilmeye başlandı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2299611",
+        "https://tr.wikipedia.org/wiki/Yelp",
+        "https://en.wikipedia.org/wiki/Yelp"
+      ],
+      "wikidata_qid": "Q2299611"
+    },
+    {
+      "id": "Q522618",
+      "date": "2027-07-08",
+      "category": "kurum-marka",
+      "widget_title": "Priority Records'ın bir devri ne zaman kapandı?",
+      "hook": "Hip-hop dünyasının en ikonik plak şirketlerinden biri, müzik tarihine adını altın harflerle yazdırırken, bir döneminin kapanışını da yaşadı.",
+      "answer_year": 2006,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Müzik dünyası, dönem dönem öyle şirketlere ev sahipliği yapar ki, onların adı adeta bir müzik türünün kendisiyle özdeşleşir. Priority Records da özellikle hip-hop ve gangsta rap sahnesinde böyle bir efsaneydi. [DOĞRULA: Bryan Turner, Mark Cerami ve Steve Drath tarafından 1985 yılında kurulan Priority Records], Los Angeles'tan yükselen bağımsız bir ruhla müzik endüstrisine meydan okudu. Efsanevi N.W.A., Ice Cube, Master P ve Snoop Dogg gibi isimlerin ilk adımlarını attığı bu plak şirketi, batı yakası hip-hop'ının yükselişinde kilit rol oynadı. Priority, sadece ticari başarı peşinde koşmakla kalmadı, aynı zamanda o dönemde ana akım müzik şirketlerinin göz ardı ettiği, sokaklardan gelen isyankar ve otantik sesi ana sahneye taşıdı. Gangsta rap'in altın çağına damgasını vuran bu etiket, müzik yayınlamanın ötesinde, bir kültürü ve yaşam tarzını da temsil etti. Ancak her başarılı hikayenin bir dönüm noktası vardır ve bazıları için bu, bir sona işaret eder. İşte Priority Records için de bu önemli tarih 2006 yılıydı. Bu tarihte [DOĞRULA: plak şirketinin faaliyetleri farklı bir yapı altında devam etmek üzere son buldu ve bağımsız bir entity olarak varlığı sona erdi.] Bu kapanış, bir devrin sonu olsa da, Priority Records'ın ardında bıraktığı miras, modern hip-hop'ın temel taşlarından biri olmaya devam etti. Şirket, müzik tarihinde cesur duruşu ve risk alma ruhuyla hatırlanır.",
+      "fun_fact": "Priority Records'ın dağıtım anlaşmaları sayesinde Dr. Dre'nin Death Row Records ve Master P'nin No Limit Records gibi diğer önemli hip-hop etiketleri de geniş kitlelere ulaşabildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q522618",
+        "https://tr.wikipedia.org/wiki/Priority_Records",
+        "https://en.wikipedia.org/wiki/Priority_Records"
+      ],
+      "wikidata_qid": "Q522618"
+    },
+    {
+      "id": "Q752138",
+      "date": "2027-07-09",
+      "category": "oyun-spor",
+      "widget_title": "New York Maratonu ne zaman başladı?",
+      "hook": "Dünyanın en ünlü koşularından biri olan New York Maratonu’nun ilk adımları sandığınızdan çok daha yakın bir tarihte atıldı!",
+      "answer_year": 1970,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "New York Maratonu, aslında 1970 yılında sadece 127 koşucunun katılımıyla oldukça mütevazı bir başlangıç yaptı. O yıl, yerel bir atletizm derneği tarafından organize edilen yarış, Central Park’ta yapılan 24,5 km’lik bir parkurda gerçekleşti. İlginç olan, bu ilk yarışın adı bile \"Maraton\" değildi — sadece \"Yürüyüş ve Koşu\" etkinliği olarak anılıyordu. [DOĞRULA: İlk yarışın tam adı ve organizatörü hakkında daha detaylı bilgi bulunmamaktadır.]\n\n1976 yılında ise maratonun kaderini değiştiren bir karar alındı: parkur tüm New York’un beş ilçesini kapsayacak şekilde genişletildi. Bu değişiklik, yarışa hem ulusal hem de uluslararası arenada büyük bir prestij kazandırdı. Günümüzdeyse New York Maratonu, her yıl yaklaşık 50.000 katılımcıyla dünyanın en büyük maratonlarından biri haline geldi. İlginç bir detay da, yarışın ilk yıllarında katılımcıların çoğunluğunu yerel atletlerin oluşturmasıydı — uluslararası katılımın artmasıysa yıllar içinde gerçekleşti.",
+      "fun_fact": "New York Maratonu’nun ilk kazananı, 1970 yılında 1:43:00 sürede parkuru tamamlayan Gary Muhrcke oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q752138",
+        "https://tr.wikipedia.org/wiki/New_York_Maratonu",
+        "https://en.wikipedia.org/wiki/New_York_City_Marathon"
+      ],
+      "wikidata_qid": "Q752138"
+    },
+    {
+      "id": "Q242157",
+      "date": "2027-07-10",
+      "category": "yazilim-internet",
+      "widget_title": "Bada işletim sistemi ne zaman çıktı?",
+      "hook": "Akıllı telefonlar patlama yapmadan hemen önce, neredeyse hiç kimsenin hatırlamadığı bir işletim sistemi vardı: Bada.",
+      "answer_year": 2010,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Bada, Güney Koreli teknoloji devi Samsung tarafından geliştirilen ve 2010 yılında tanıtılan bir akıllı telefon işletim sistemidir. Dönemin en popüler sistemleri olan Android ve iOS’a karşı rekabet etmek amacıyla piyasaya sürülen Bada, Samsung’un kendi cihaz serilerinde kullanmak üzere tasarlanmıştı. Adını Korece'de 'okyanus' anlamına gelen '바다' (bada) kelimesinden alan bu sistem, kullanıcı dostu arayüzü ve dokunmatik deneyimine odaklanan özellikleriyle dikkat çekiyordu.\n\nAncak Bada’nın hikayesi, beklenmedik bir şekilde 2013 yılında sona erdi. Samsung, Android’e odaklanma kararı alarak Bada’yı geliştirmeyi durdurdu ve mevcut kullanıcılarını Tizen adlı yeni bir işletim sistemine geçiş yapmaya yönlendirdi. Bu karar, Bada’nın kısa ömürlü olmasına rağmen, Samsung’un mobil işletim sistemleri tarihindeki önemli bir deneyimi temsil etmesini sağladı.\n\nBada’nın piyasaya çıkış tarihi olan 2010 yılı, akıllı telefon devriminin hız kazandığı bir dönemdi. Android ve iOS’un hâkimiyeti giderek artarken, Bada gibi alternatiflerin rekabet şansı oldukça sınırlıydı. Yine de Samsung’un bu girişimi, şirketin mobil dünyadaki inovasyon çabalarının bir parçası olarak tarihe geçti.",
+      "fun_fact": "Bada’nın ilk akıllı telefonu olan Samsung Wave S8500, piyasaya çıktığında dokunmatik ekranı ve özel kullanıcı arayüzüyle teknoloji meraklılarının ilgisini çekmişti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q242157",
+        "https://tr.wikipedia.org/wiki/Bada_(i%C5%9Fletim_sistemi)",
+        "https://en.wikipedia.org/wiki/Bada_(operating_system)"
+      ],
+      "wikidata_qid": "Q242157"
+    },
+    {
+      "id": "Q524757",
+      "date": "2027-07-11",
+      "category": "kurum-marka",
+      "widget_title": "KFC, enfes tavuklarıyla mutfaklara ne zaman girdi?",
+      "hook": "Kentucky Fried Chicken denince aklına hemen o meşhur Albay Sanders ve parmak yalatan tavuklar geliyor değil mi?",
+      "answer_year": 1930,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Günümüzün en bilinen fast food zincirlerinden biri olan KFC'nin hikayesi, aslında basit bir yol kenarı lokantasında başlıyor. Yıl 1930'u gösterdiğinde, Harland Sanders adında azimli bir adam, Kentucky'deki Corbin kasabasında, yolculara yemek hizmeti vermeye başladı. Başlangıçta burası bir moteldi ve lokantası da motel müşterilerine hitap ediyordu. Bugün bildiğimiz KFC'nin temelleri, işte o küçük mutfakta atıldı. Albay Sanders, burada kendi özel baharat karışımıyla hazırladığı kızarmış tavukları sunmaya başladı ve kısa sürede ünü yayıldı. Tavukları o kadar sevildi ki, insanlar sırf onun tavuklarını yemek için kilometrelerce yol gelmeye başladı. 1930'lar boyunca, Sanders tarifini geliştirmeye ve tavuklarını daha hızlı ve lezzetli pişirme yöntemleri üzerinde çalışmaya devam etti. Basınçlı fritöz kullanımıyla pişirme süresini önemli ölçüde kısaltması, onun için bir dönüm noktası oldu. İşte bu yenilikçi ruh ve enfes tarif, bugünkü küresel markanın ilk kıvılcımını çaktı.",
+      "fun_fact": "Albay Sanders'ın 'Gizli Tarif'i tam 11 ot ve baharat içeriyor ve bu tarifin yazılı kopyası iki ayrı yerde, farklı şirketler tarafından saklanıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q524757",
+        "https://tr.wikipedia.org/wiki/KFC",
+        "https://en.wikipedia.org/wiki/KFC"
+      ],
+      "wikidata_qid": "Q524757"
+    },
+    {
+      "id": "Q826038",
+      "date": "2027-07-12",
+      "category": "oyun-spor",
+      "widget_title": "Boston Maratonu ne zaman başladı?",
+      "hook": "Dünyanın en eski annually düzenlenen maratonu olan bu yarış, sadece sporcuları değil, izleyicileri de büyüleyen bir hikayeye sahip!",
+      "answer_year": 1897,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Boston Maratonu, 1897 yılında ilk kez koşulduğunda sadece 15 katılımcıyla start aldı. İlginç olanı, bu yarışın kökeninin Antik Yunan’daki Olimpiyat Oyunları’na kadar uzanması. Modern maratonun doğuşu ise 1896 yılında Atina’da düzenlenen ilk modern Olimpiyat Oyunları’na dayanıyor. [DOĞRULA: Boston Maratonu’nun ilk şampiyonu kimdi?] Bu yarış, 19. yüzyılın sonlarında ABD’de sporun popülerleşmesiyle birlikte organize edildi ve kısa sürede geleneksel bir etkinliğe dönüştü.\n\nBaşlangıçta sadece yerel atletlere açık olan Boston Maratonu, zamanla uluslararası bir üne kavuştu. 1967 yılında ise kadınların katılımına izin verilmesi, yarış tarihinde bir dönüm noktası oldu. Bu karar, kadınların maratonda yer alması için uzun bir mücadelenin ardından geldi. Bugün ise dünya genelinden binlerce koşucu, bu prestijli yarışa katılmak için hazırlanıyor.",
+      "fun_fact": "Boston Maratonu, 1917 ve 1918 yıllarında I. Dünya Savaşı nedeniyle sadece askerler için kısa bir koşu olarak düzenlendi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q826038",
+        "https://tr.wikipedia.org/wiki/Boston_Maratonu",
+        "https://en.wikipedia.org/wiki/Boston_Marathon"
+      ],
+      "wikidata_qid": "Q826038"
+    },
+    {
+      "id": "Q27585",
+      "date": "2027-07-13",
+      "category": "yazilim-internet",
+      "widget_title": "AOL ne zaman kuruldu?",
+      "hook": "İnternetin ilk dönemlerinde milyonların kapısını çalan o 'çılgın' servisin hikayesi ne zaman başladı dersiniz?",
+      "answer_year": 1985,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "AOL’un temelleri aslında 1983 yılında, Control Video Corporation (CVC) adıyla atıldı. Şirket, o dönemde yeni yeni popülerleşmeye başlayan Atari 2600 konsolları için oyun indirme hizmeti sunmayı hedefliyordu. Ancak bu plan suya düştü ve şirket 1985 yılında tamamen farklı bir yol izlemeye karar verdi: çevirmeli ağ üzerinden internet erişimi ve çevrimiçi hizmetler sunmak.\n\nİşte bu noktada AOL (America Online) doğmuş oldu. İlk başlarda sadece ABD’de hizmet veren şirket, 1990’ların ortalarına gelindiğinde dünyanın en büyük çevrimiçi hizmet sağlayıcılarından biri haline geldi. O dönemde kullanıcıların karşısına çıkan o unutulmaz ‘You’ve Got Mail!’ (Postanız var!) sesi ve basit arayüzü, AOL’u dijital çağın simgelerinden biri yaptı.\n\nTabii AOL’un hikayesi sadece başarılarla dolu değil. 2000 yılında Time Warner ile birleşmesiyle büyük bir medya devi haline gelse de, bu birliktelik uzun vadede beklenen başarıyı getirmedi. Günümüzdeyse AOL, Verizon’un bir parçası olarak dijital reklamcılık ve içerik alanında faaliyet gösteriyor.\n\n[DOĞRULA: AOL’un ilk kuruluş amacı olan Atari 2600 hizmeti hakkında daha detaylı bilgi bulunabilir mi?]",
+      "fun_fact": "AOL’un ünlü ‘You’ve Got Mail!’ sesi, aslında 1989 yılında kaydedilmiş ve ilk kez 1993’te kullanılmış!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27585",
+        "https://tr.wikipedia.org/wiki/AOL",
+        "https://en.wikipedia.org/wiki/AOL"
+      ],
+      "wikidata_qid": "Q27585"
+    },
+    {
+      "id": "Q54860",
+      "date": "2027-07-14",
+      "category": "kurum-marka",
+      "widget_title": "Walt Disney Records ne zaman kuruldu?",
+      "hook": "Disney filmlerinin büyülü melodileri ve parklarının neşeli tınıları, bir zamanlar başka plak şirketlerinin elindeydi!",
+      "answer_year": 1956,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Walt Disney'in yaratıcılık ve hikaye anlatma dehası, her zaman müziğiyle bir bütün olmuştur. Ancak stüdyonun erken dönemlerinde, Mickey Mouse'un neşeli şarkılarından Pamuk Prenses'in unutulmaz baladlarına kadar pek çok melodi, farklı plak şirketleri aracılığıyla müzikseverlere ulaşıyordu. Walt Disney, bu durumun hem sanatsal kontrolü hem de ticari potansiyeli sınırladığını görüyordu. Özellikle Disneyland'in açılması ve televizyon yayınlarının yükselişiyle birlikte, kendi müziğini doğrudan yönetme ihtiyacı daha da belirginleşti.\n\nİşte tam da bu yüzden, 1956 yılında, Walt Disney Records'un temelleri atıldı! Başlangıçta 'Disneyland Records' adıyla kurulan bu plak şirketi, adını o dönemde yeni açılan ve büyük ilgi gören eğlence parkından alıyordu. Amaç sadece filmlerin ve televizyon şovlarının müziklerini değil, aynı zamanda hikaye albümlerini, çocuk şarkılarını ve park deneyimini tamamlayan diğer ses kayıtlarını da doğrudan Disney çatısı altında yayımlamaktı. Bu stratejik hamle, Disney'e kendi müzik katalogu üzerinde tam hakimiyet sağladı ve çok geçmeden sayısız altın ve platin plak kazandıracak bir müzik imparatorluğunun başlangıcı oldu. Yıllar içinde, plak şirketi evrilerek ve daha geniş bir kitleye hitap ederek 'Walt Disney Records' adını aldı. Bugüne dek, nesiller boyu dinleyicilere ulaşan klasikleşmiş ve modernleşmiş müziklere ev sahipliği yapmaya devam ediyor, Disney'in sihirli dünyasının vazgeçilmez bir parçası olmayı sürdürüyor.",
+      "fun_fact": "Walt Disney Records, 'Mary Poppins' ve 'Aslan Kral' gibi filmlerin ikonik müzikleriyle sayısız ödül kazandı ve müzik tarihine geçti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54860",
+        "https://tr.wikipedia.org/wiki/Walt_Disney_Records",
+        "https://en.wikipedia.org/wiki/Walt_Disney_Records"
+      ],
+      "wikidata_qid": "Q54860"
+    },
+    {
+      "id": "Q937315",
+      "date": "2027-07-15",
+      "category": "oyun-spor",
+      "widget_title": "Ur Kraliyet Oyunu ne zaman ortaya çıktı?",
+      "hook": "Antik Mezopotamya’nın en gizemli oyunu, mezarlarında tahta parçaları bulunan kraliyet mensuplarını bile yenebilir miydi?",
+      "answer_year": -2599,
+      "year_precision": "year",
+      "guess_range": [
+        -2700,
+        -2520
+      ],
+      "body": "Ur Kraliyet Oyunu, MÖ 3. binyılın başlarına, yani yaklaşık **MÖ 2600’lere** tarihlenen, Mezopotamya’nın en eski ve gizemli oyunlarından biri. [DOĞRULA: Oyunun kökeni tam olarak hangi şehre (Ur mu yoksa başka bir şehir mi?) dayandırılıyor?] Bu oyun, bugün Irak’ta bulunan Ur kraliyet mezarlarında keşfedilen tahta oyun tahtaları sayesinde gün yüzüne çıktı. Oyunun kuralları hâlâ tam olarak çözülmüş değil, ancak arkeologlar ve tarihçiler, oyun tahtasının üzerindeki semboller ve figürlerin ipuçlarını verdiğini düşünüyor.\n\nOyunun nasıl oynandığına dair en yaygın teorilerden biri, oyuncuların dörtgen bir tahta üzerinde taşları hareket ettirerek rakibin taşlarını ele geçirmeye çalıştıkları bir strateji oyunu olduğuna işaret ediyor. Tahtanın üzerindeki \"güvenli\" kareler ve \"tehlikeli\" kareler, oyunun şans unsurunu da içerdiğini gösteriyor. İlginç olan, oyun tahtasının kopyaları Mezopotamya’nın yanı sıra İran ve Suriye’de de bulunmuş—bu da oyunun ne kadar popüler olduğunu kanıtlıyor.\n\nUr Kraliyet Oyunu’nun sadece bir eğlence aracı olmadığı, aynı zamanda dini veya kaderle ilgili bir anlam taşıdığı da düşünülüyor. Oyunun mezarlarla ilişkisi, ölülerin ruhunu eğlendirmek ya da onları korumak için kullanıldığına dair spekülasyonlara yol açıyor. Ne dersin, sen bu oyunu oynar mıydın?",
+      "fun_fact": "Ur Kraliyet Oyunu’nun kuralları, British Museum’da sergilenen bir tablet sayesinde kısmen anlaşılmış durumda—ama hâlâ tam bir kılavuzu yok!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q937315",
+        "https://tr.wikipedia.org/wiki/Ur_Kraliyet_Oyunu",
+        "https://en.wikipedia.org/wiki/Royal_Game_of_Ur"
+      ],
+      "wikidata_qid": "Q937315"
+    },
+    {
+      "id": "Q277421",
+      "date": "2027-07-16",
+      "category": "yazilim-internet",
+      "widget_title": "9GAG ne zaman kuruldu?",
+      "hook": "İnternetteki en ünlü mizah sitelerinden biri olan 9GAG’in hikayesi, aslında bir grup gencin boş zamanlarında başlayan bir projeyle başladı.",
+      "answer_year": 2008,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "9GAG, 2008 yılında Hong Konglu bir grup genç tarafından kurulan, kullanıcıların kendi ürettikleri komik görselleri, videoları ve GIF’leri paylaşabildiği bir platform olarak hayatımıza girdi. Sitenin adı, internet hızından esinlenen \"9GAG\" (9 gigabit) olarak seçilmiş olsa da, aslında bu isimdeki esprinin kaynağı net değil. [DOĞRULA: 9GAG adının tam anlamı ve neden bu şekilde seçildiği] \n\nBaşlangıçta sadece birkaç arkadaş arasında popüler olan site, kısa sürede dünya çapında milyonlarca kullanıcıya ulaştı. 9GAG’in başarısının sırlarından biri, basit ve eğlenceli içeriğe odaklanmasıydı. Kullanıcıların ürettiği içerikler, sosyal medyada hızla yayıldı ve platform, internet kültürünün önemli bir parçası haline geldi. \n\nBugün 9GAG, milyonlarca aktif kullanıcısıyla sadece mizah değil, aynı zamanda internet fenomenlerinin de doğduğu bir yer olarak kabul ediliyor. Peki, sizce bu platformun en ünlü içeriği hangisiydi?",
+      "fun_fact": "9GAG’in en popüler memlerinden biri olan \"Loss\" (kayıp) resminin aslında bir yangın sırasında çekilen bir fotoğraf olduğu neredeyse hiç bilinmez.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q277421",
+        "https://tr.wikipedia.org/wiki/9GAG",
+        "https://en.wikipedia.org/wiki/9gag"
+      ],
+      "wikidata_qid": "Q277421"
+    },
+    {
+      "id": "Q625975",
+      "date": "2027-07-17",
+      "category": "kurum-marka",
+      "widget_title": "Güney Kore eğlence devi Kakao M ne zaman ortaya çıktı?",
+      "hook": "K-Pop ve Güney Kore eğlence dünyasının önemli oyuncularından Kakao M'in hikayesi oldukça yeni sayılır.",
+      "answer_year": 2018,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "K-Pop ve Güney Kore eğlence sektörünün nabzını tutan, birçok hit şarkının ve ünlü sanatçının arkasındaki isimlerden biri olan Kakao M, aslında kökleri daha eskiye dayanan bir şirket. Ancak bugünkü adını ve yapısını kazanması, tahmin ettiğiniz gibi, 2018 yılında gerçekleşti. Bu tarih, şirketin Güney Kore'nin dev teknoloji firması Kakao'nun tam kontrolüne geçişinin ve markalaşma sürecinin önemli bir dönüm noktasıydı.\n\nKakao M, aslında 1999 yılında Seoul Records adıyla kurulan, daha sonra LOEN Entertainment olarak yoluna devam eden köklü bir müzik şirketiydi. LOEN Entertainment, Melon gibi ülkenin en büyük müzik platformlarından birini işletmesi ve birçok K-Pop grubunun dağıtımcısı olmasıyla tanınıyordu. Kakao, bu güçlü yapıyı kendi ekosistemine dahil etme vizyonuyla hareket etti. [DOĞRULA: Kakao'nun LOEN Entertainment'ın çoğunluk hissesini ilk olarak ne zaman satın aldığı?] yılında şirketin çoğunluk hissesini satın alan Kakao, 2018'de ise LOEN Entertainment'ı tamamen bünyesine katarak adını Kakao M olarak değiştirdi.\n\nBu değişim, sadece bir isim değişikliğinden ibaret değildi. Kakao M, müzik yayıncılığı, sanatçı yönetimi, film ve dizi yapımcılığı gibi geniş bir yelpazede faaliyet gösteren entegre bir eğlence devine dönüştü. Pek çok ünlü ajansı ve yapım şirketini bünyesine katarak Güney Kore eğlence endüstrisindeki etkisini daha da artırdı. Bugün K-Pop'ın küresel başarısında Kakao M'in altyapısının ve dağıtım gücünün büyük payı olduğu söylenebilir.",
+      "fun_fact": "Kakao M, Güney Kore'nin en büyük dijital müzik servisi olan Melon'un da eski sahibi ve işleticisiydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q625975",
+        "https://tr.wikipedia.org/wiki/Kakao_M",
+        "https://en.wikipedia.org/wiki/Kakao_M"
+      ],
+      "wikidata_qid": "Q625975"
+    },
+    {
+      "id": "Q9448",
+      "date": "2027-07-18",
+      "category": "oyun-spor",
+      "widget_title": "Premier Lig ne zaman kuruldu?",
+      "hook": "İngiltere’nin en prestijli futbol ligi olan Premier Lig’in doğuşu, aslında bir devrimin hikayesi!",
+      "answer_year": 1992,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Premier Lig’in resmi olarak kuruluş yılı 1992 olarak kabul edilir. Peki, bu değişim neden oldu? İngiltere’nin en üst düzey futbol ligi olan **Football League First Division**, 1888 yılında kurulduğundan beri neredeyse hiç değişmeden devam ediyordu. Ancak 1980’lerin sonuna gelindiğinde, futbolun ticari potansiyeli ve televizyon yayın haklarının değeri iyice anlaşılmaya başladı. [DOĞRULA: Kulüplerin gelir dağılımındaki adaletsizlik ve televizyon haklarının yetersiz paylaşımı gibi konuların ne ölçüde etkili olduğu] \n\n1990 yılında, İngiltere’nin önde gelen kulüpleri (Manchester United, Liverpool, Arsenal vb.) **Football Association (FA)** ile birlikte çalışarak, liglerini daha modern ve kazançlı hale getirmek için bir plan yaptılar. Sonuç olarak, 20 Mayıs 1992 tarihinde **Premier League** resmen kuruldu. Bu yeni lig, televizyon yayın haklarının satışından elde edilen gelirlerin kulüpler arasında daha adil paylaşılmasını sağladı ve futbolun küresel pazardaki yerini güçlendirdi. İlk sezonunda 22 takımla başlayan Premier Lig, 1995’ten itibaren 20 takıma düşürüldü ve kısa sürede dünyanın en izlenen spor liglerinden biri haline geldi.",
+      "fun_fact": "Premier Lig’in ilk golünü 19 Ağustos 1992 tarihinde Sheffield United’ın orta saha oyuncusu Brian Deane, Manchester United’a karşı attı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9448",
+        "https://tr.wikipedia.org/wiki/Premier_League",
+        "https://en.wikipedia.org/wiki/Premier_League"
+      ],
+      "wikidata_qid": "Q9448"
+    },
+    {
+      "id": "Q28829422",
+      "date": "2027-07-19",
+      "category": "yazilim-internet",
+      "widget_title": "Samsung Experience ne zaman ortaya çıktı?",
+      "hook": "Akıllı telefonların vazgeçilmezi olan bu arayüz, milyonlarca kullanıcıya dokundu — peki ilk kez ne zaman karşımıza çıktı?",
+      "answer_year": 2017,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Samsung Experience, Güney Koreli teknoloji devi Samsung’un Android tabanlı cihazları için geliştirdiği özel kullanıcı arayüzüydü. Bu arayüz, Samsung’un cihazlarına kendine özgü bir dokunuş katarken, kullanıcı deneyimini de basitleştirmeyi hedefliyordu. Samsung Experience’in ortaya çıkışı, aslında şirketin Android’e olan uzun soluklu bağlılığının bir parçasıydı. [DOĞRULA: Samsung’un ilk özel arayüzü olan TouchWiz’in yerini ne zaman bıraktığı] 2017 yılında resmen tanıtılan bu arayüz, Samsung’un o dönemdeki amiral gemisi modelleri Galaxy S8 ve Galaxy S8+ ile birlikte kullanıcılarla buluştu.\n\nSamsung Experience, basit ve kullanıcı dostu bir tasarım anlayışıyla dikkat çekiyordu. Özellikle bildirim paneli, ayar menüsü ve çoklu görev yönetimi gibi alanlarda yapılan yenilikler, kullanıcıların günlük işlerini daha hızlı ve verimli hale getirmeyi amaçlıyordu. Bu arayüz, Samsung’un kendi ekosistemini güçlendirmek için attığı adımlardan biriydi ve zamanla Galaxy cihazlarının ayrılmaz bir parçası haline geldi.\n\nAncak Samsung Experience’in hikayesi, 2020 yılında yeni bir döneme girdi. Şirket, kullanıcı deneyimini daha da iyileştirmek amacıyla One UI adlı yeni bir arayüzü tanıttı ve Samsung Experience’in yerini aldı. Bu geçiş, Samsung’un tasarım felsefesindeki evrimin bir göstergesiydi.",
+      "fun_fact": "Samsung Experience’in yerini alan One UI, kullanıcıların tek elle kullanımını kolaylaştırmak için ekranın alt kısmında yer alan arayüz öğelerini yeniden konumlandırdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28829422",
+        "https://tr.wikipedia.org/wiki/Samsung_Experience",
+        "https://en.wikipedia.org/wiki/Samsung_Experience"
+      ],
+      "wikidata_qid": "Q28829422"
+    },
+    {
+      "id": "Q629269",
+      "date": "2027-07-20",
+      "category": "kurum-marka",
+      "widget_title": "Dev mağaza zinciri Macy's'in hikayesi ne zaman başladı?",
+      "hook": "Amerika'nın ikonik alışveriş merkezlerinden Macy's'in kökleri sizi şaşırtabilir!",
+      "answer_year": 1858,
+      "year_precision": "day",
+      "guess_range": [
+        1750,
+        1930
+      ],
+      "body": "Amerika'nın en köklü ve bilinen perakende devlerinden Macy's'in hikayesi, tam da 1858 yılında New York'ta başladı. O dönemde, [DOĞRULA: Rowland Hussey Macy adında bir vizyoner girişimci], kendi adını taşıyan ilk mağazasını Sixth Avenue üzerinde açtı. Bu ilk mağaza, geleneksel pazarlık kültüründen farklı olarak sabit fiyatlarla ürün satışı yapmasıyla dikkat çekiyordu. Özellikle kuru gıda ve ev eşyalarına odaklanan Macy's, kısa sürede müşteri sadakati kazanarak büyümeye başladı.\n\nYıllar içinde, Macy's sadece bir mağaza olmanın ötesine geçerek bir alışveriş deneyimi sunan bir ikon haline geldi. Özellikle 1902'de Herald Square'deki devasa amiral gemisi mağazasını açması, markanın New York silüetindeki yerini pekiştirdi. Bu mağaza, o dönem dünyanın en büyüklerinden biriydi ve lüks alışverişin simgesi haline geldi. Bugün bile milyonlarca insanı kendine çeken Macy's, Şükran Günü Geçit Töreni gibi etkinlikleriyle de Amerikan kültürünün ayrılmaz bir parçası olmaya devam ediyor. 160 yılı aşkın süredir ayakta kalmayı başaran Macy's, perakende sektörünün değişen yüzüne rağmen adaptasyon yeteneğiyle öne çıkıyor ve hala alışveriş tutkunlarının favorisi olmaya devam ediyor.",
+      "fun_fact": "Macy's'in ikonik kırmızı yıldız logosunun, kurucusu [DOĞRULA: Rowland Hussey Macy]'nin gençliğinde bir denizci olarak edindiği bir dövmeden ilham aldığına inanılır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q629269",
+        "https://tr.wikipedia.org/wiki/Macy%27s",
+        "https://en.wikipedia.org/wiki/Macy%27s"
+      ],
+      "wikidata_qid": "Q629269"
+    },
+    {
+      "id": "Q953491",
+      "date": "2027-07-21",
+      "category": "oyun-spor",
+      "widget_title": "Amiral battı oyunu ne zaman icat edildi?",
+      "hook": "Deniz savaşlarını masaüstüne taşıyan bu oyunun kökenleri aslında bir tesadüften mi doğdu?",
+      "answer_year": 1931,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Amiral battı, dünya genelinde milyonlarca insanın masa başında deniz savaşları yaptığı klasik bir tahmin oyunu. Peki, bu eğlenceli oyunun ilk ortaya çıkışı ne zaman gerçekleşti? Resmi kayıtlara göre, **1931 yılında** icat edildiği kabul ediliyor. Ancak oyunun hikayesi bundan çok daha eskiye, hatta 19. yüzyılın sonlarına kadar uzanıyor olabilir.\n\nOyunun modern versiyonunun ilk olarak **1931 yılında** ABD'de yayınlanan bir masa oyunu olarak ortaya çıktığı düşünülüyor. Oyunun mucidi bilinmemekle birlikte, adı geçen ilk ticari versiyonu **Conradino Battleship** adıyla **Milton Bradley Company** tarafından piyasaya sürüldü. Bu versiyon, oyuncuların gizli bir şekilde gemilerini yerleştirdiği ve rakibin gemilerini tahmin ederek batırmaya çalıştığı basit ama stratejik bir yapıya sahipti.\n\nAslında, Amiral battının ilham kaynağının daha eski bir oyun olan **\"Broadsides: The Game of Naval Strategy\"** (1901) olabileceği yönünde spekülasyonlar var. Bu oyun da benzer bir şekilde gemi yerleştirme ve tahmin mekaniğine sahipti. Ancak **1931 yılı**, oyunun modern ve tanıdık versiyonunun başlangıcı olarak kabul ediliyor. [DOĞRULA: Oyunun ilk olarak hangi ülkede ortaya çıktığı ve mucidinin kim olduğu hakkında güvenilir kaynaklarda net bir bilgi bulunmamaktadır.]\n\nBugün Amiral battı, hem çocuklar hem de yetişkinler için vazgeçilmez bir oyun haline geldi. Hem masa oyunları hem de dijital versiyonlarıyla dünya genelinde popülerliğini koruyor.",
+      "fun_fact": "Amiral battı, II. Dünya Savaşı sırasında askerler arasında da yaygın olarak oynanmış ve moral artırıcı bir aktivite olarak görülmüştür.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q953491",
+        "https://tr.wikipedia.org/wiki/Amiral_batt%C4%B1_(oyun)",
+        "https://en.wikipedia.org/wiki/Battleship_(game)"
+      ],
+      "wikidata_qid": "Q953491"
+    },
+    {
+      "id": "Q29223522",
+      "date": "2027-07-22",
+      "category": "yazilim-internet",
+      "widget_title": "Yandex.Zen ne zaman çıktı?",
+      "hook": "İçinde binlerce içerikle karşılaşabileceğin bir algoritma dünyasına hoş geldin: Peki, Yandex.Zen’in doğuşunu hiç merak ettin mi?",
+      "answer_year": 2015,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Yandex.Zen, 2015 yılında kullanıma sunulan ve kullanıcıların ilgi alanlarına göre özelleştirilmiş içerik akışı sunan bir platform olarak ortaya çıktı. Rus teknoloji devi Yandex’in bir ürünü olan Zen, başlangıçta ‘Yandex.Tümünü Oku’nun (Yandex.Toloka) bir parçası olarak geliştirildi. Amacı, kullanıcıların internette gezinirken karşılaştıkları içerikleri daha kişiselleştirilmiş ve keşfedilebilir hale getirmekti. Aslında, Zen’in arkasındaki fikir [DOĞRULA: algoritma ve yapay zeka kullanımının ne kadar erken benimsendiği] 2010’ların başında Yandex’in veri analizi ve kullanıcı davranışlarını anlama konusundaki yatırımlarına dayanıyordu.\n\nBaşlangıçta Rusya pazarına odaklanan Yandex.Zen, zamanla diğer ülkelerdeki kullanıcılara da açıldı. Platform, haberler, makaleler, videolar ve blog gönderilerini tek bir akışta birleştirerek, kullanıcıların ilgisini çekebilecek içerikleri ön plana çıkardı. Zen’in başarısının arkasında, Yandex’in güçlü arama motoru altyapısından ve kullanıcı verilerini analiz etme yeteneğinden yararlanması yatıyordu. Ancak, Zen’in tam olarak hangi ekip tarafından ve ne kadar sürede geliştirildiği hakkında kamuoyunda net bir bilgi bulunmuyor. Yandex’in resmi kaynakları da bu konuda detaylı bir açıklama yapmaktan kaçınıyor.",
+      "fun_fact": "Yandex.Zen’in algoritması, kullanıcıların sadece tıkladıkları içerikleri değil, aynı zamanda ne kadar süreyle okuduklarını da dikkate alarak kişiselleştirme yapıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29223522",
+        "https://tr.wikipedia.org/wiki/Yandex.Zen",
+        "https://en.wikipedia.org/wiki/Zen_(recommendation_system)"
+      ],
+      "wikidata_qid": "Q29223522"
+    },
+    {
+      "id": "Q639075",
+      "date": "2027-07-23",
+      "category": "kurum-marka",
+      "widget_title": "İtalya'nın dev market zinciri Conad ne zaman kuruldu?",
+      "hook": "İtalya'nın en büyük süpermarket zincirlerinden biri olan Conad'ın kökenleri, perakendecilerin ortak vizyonuyla atıldı.",
+      "answer_year": 1962,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "İtalya'nın en bilinen ve yaygın süpermarket zincirlerinden biri olan Conad'ın hikayesi, tek bir kişinin parlak fikrinden ziyade, ortak bir vizyonun ve iş birliğinin eseri. Yıl 1962'yi gösterdiğinde, İtalya genelindeki çeşitli bağımsız perakendeci kooperatifleri, pazardaki güçlerini artırmak ve büyük oyuncularla daha etkin rekabet edebilmek amacıyla bir araya gelme kararı aldı. Bu stratejik birleşme, \"Consorzio Nazionale Dettaglianti\" kelimelerinin kısaltması olan Conad'ı doğurdu.\n\nBu başlangıç, Conad'ın kuruluşundan itibaren benimsediği kooperatif modelinin sağlam temellerini attı. Conad, bağımsız perakendecilerin gücünü birleştirerek, onlara daha iyi satın alma gücü, ortak pazarlama stratejileri ve lojistik destek sağlayarak büyüdü. Bu sayede, küçük ve orta ölçekli yerel işletmelerin, modern perakende dünyasında ayakta kalmaları ve gelişmeleri mümkün oldu. İtalyan yaşam tarzının ve yerel lezzetlerin market raflarına taşınmasında önemli bir rol oynayan Conad, zamanla ülkenin dört bir yanına yayılarak adeta bir perakende devi haline geldi.\n\nGünümüzde Conad, sadece bir süpermarket zinciri olmanın ötesinde, İtalya ekonomisinin ve toplumsal yaşamının önemli bir aktörü konumunda. Yüzlerce mağazası ve geniş ürün yelpazesiyle her gün milyonlarca müşteriye hizmet veriyor. 1962'de atılan bu ortaklık tohumu, günümüzde modern bir perakende devine dönüşmüş durumda ve İtalyanların günlük alışveriş rutinlerinin ayrılmaz bir parçası haline geldi. Bu hikaye, iş birliğinin ve ortak hedeflere ulaşma arzusunun ne kadar güçlü olabileceğinin güzel bir örneği olarak karşımıza çıkıyor.",
+      "fun_fact": "Conad ismi, İtalyanca \"Consorzio Nazionale Dettaglianti\" (Ulusal Perakendeciler Konsorsiyumu) kelimelerinin kısaltmasından geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q639075",
+        "https://tr.wikipedia.org/wiki/Conad",
+        "https://en.wikipedia.org/wiki/Conad"
+      ],
+      "wikidata_qid": "Q639075"
+    },
+    {
+      "id": "Q29468697",
+      "date": "2027-07-24",
+      "category": "yazilim-internet",
+      "widget_title": "r/place ne zaman başladı?",
+      "hook": "İnternetin en ilginç toplu sanat projelerinden biri olan r/place, sizce kaç yılında başladı?",
+      "answer_year": 2017,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "2017 yılının ilkbaharında, Reddit’in karanlık bir köşesinde doğan bir fikir vardı: *İnsanları bir araya getirip, bir pixel sanat eseri yaratmalarını sağlamak.* Nisan ayının son günlerinde, r/place adıyla hayata geçen bu proje, aslında bir deneyden ibaretti. Reddit’in arka planında çalışan birkaç geliştirici, kullanıcıların bir pikselli bir tuvale birlikte çizim yapabileceği basit bir arayüz oluşturdu. İlk başta kimse bunun ne kadar büyüyeceğini tahmin etmemişti.\n\nProje, 1 Nisan 2017 tarihinde başlatıldı ve sadece birkaç saat içinde, kullanıcılar tuvalin her bir pixelini rekabet içinde doldurmaya başladı. Farklı topluluklar, bayraklar, karakterler ve hatta politik mesajlar çizerek, aslında internetin nasıl dağınık ama bir o kadar da yaratıcı bir ortam olduğunu gözler önüne serdi. r/place, sadece 72 saat içinde milyonlarca kullanıcının katılımıyla, Reddit tarihindeki en hızlı büyüyen topluluk projelerinden biri haline geldi.\n\nProjenin arkasındaki ekip, kullanıcıların yaratıcılığını ve rekabetini dengelemek için birkaç kez tuvali sıfırlamak zorunda kaldı. Her seferinde yeni kurallar ve sınırlamalar getirilse de, topluluklar her defasında daha organize bir şekilde geri döndü. r/place, sadece bir pixel sanat eseri olmanın ötesine geçti; internetin nasıl da kolektif bir zekâ ve işbirliğiyle şekillendiğinin bir kanıtı oldu.\n\nBugün, r/place artık sadece bir nostalji değil, aynı zamanda internet kültürünün önemli bir parçası. 2022 yılında yapılan ikinci versiyonu, ilkinden bile daha büyük bir ilgi gördü ve dünya haritasını pixel pixel yeniden çizdi.",
+      "fun_fact": "r/place’in ilk versiyonunda kullanıcılar, sadece 16 renk arasından seçim yapabiliyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29468697",
+        "https://tr.wikipedia.org/wiki/R/place",
+        "https://en.wikipedia.org/wiki/R/place"
+      ],
+      "wikidata_qid": "Q29468697"
+    },
+    {
+      "id": "Q691029",
+      "date": "2027-07-25",
+      "category": "kurum-marka",
+      "widget_title": "Pull&Bear ne zaman hayatımıza girdi?",
+      "hook": "Genç ve dinamik ruhların vazgeçilmezi Pull&Bear'ın hikayesi sizi şaşırtabilir!",
+      "answer_year": 1991,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Pull&Bear, gençlerin stilini yakalayan, rahat ve trend parçalarıyla bilinen küresel bir moda markasıdır. Peki, bu enerjik marka ne zaman kuruldu? Takvimler 1991 yılını gösterdiğinde, moda dünyasına genç ve rahat bir nefes getirme hedefiyle Pull&Bear kapılarını açtı.\n\nİspanyol Inditex grubunun bir parçası olan Pull&Bear, başlangıcından itibaren genç yetişkinlere hitap eden, sokak modası ve müzik trendlerinden ilham alan tasarımlarıyla öne çıktı. Marka, hızla büyüyerek [DOĞRULA: İlk mağazasının İspanya dışında açıldığı yıl ve ülke] gibi birçok farklı ülkede mağazalar açtı ve kısa sürede uluslararası bir fenomen haline geldi. Pull&Bear, sadece giyim değil, aynı zamanda aksesuarlar ve ayakkabılarla da gençlerin yaşam tarzını tamamlayan koleksiyonlar sunuyor. Markanın kimliği, \"rahatlık\", \"stil\" ve \"erişilebilirlik\" kelimeleriyle özetlenebilir. Globaldeki hızlı yayılışı, genç neslin moda algısını ve beklentilerini iyi anlamasına bağlıdır. Onlar için sadece bir kıyafet değil, bir yaşam tarzı sunmayı hedefliyor.\n\nBugün Pull&Bear, dünya genelindeki binlerce mağazası ve çevrimiçi platformu aracılığıyla milyonlarca genç moda tutkununa ulaşıyor. Markanın evrimi, değişen gençlik kültürüne ve trendlere sürekli uyum sağlama yeteneğiyle dikkat çekiyor.",
+      "fun_fact": "Pull&Bear'ın ismi, aslında İngilizce'de 'çek ve taşı' anlamına gelen iki kelimenin birleşimiyle oluşmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q691029",
+        "https://tr.wikipedia.org/wiki/Pull_and_Bear",
+        "https://en.wikipedia.org/wiki/Pull%26Bear"
+      ],
+      "wikidata_qid": "Q691029"
+    },
+    {
+      "id": "Q29760",
+      "date": "2027-07-26",
+      "category": "yazilim-internet",
+      "widget_title": "Cyworld ne zaman kuruldu?",
+      "hook": "İnternetin ilk 'sosyal medya' deneyimlerinden biri olan Cyworld, milyonları sanal dünyalarda buluşturdu — peki sizce bu dijital devrim ne zaman başladı?",
+      "answer_year": 1999,
+      "year_precision": "month",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Cyworld, Güney Kore merkezli bir sosyal medya platformu olarak 1999 yılında kullanıma açıldı. İlk başlarda sadece Güney Kore'de popüler olan bu platform, kullanıcılarına sanal avatarlar, dijital evler ve arkadaşlarıyla etkileşim kurma imkanı sunarak dijital çağın öncülerinden biri oldu. [DOĞRULA: Cyworld'un tam olarak hangi ayda yayına girdiği konusunda kaynaklar net değil, sadece yıl bazında doğrulama mevcut.] \n\n2000'li yılların başında, özellikle Güney Kore'de büyük bir kullanıcı kitlesine ulaşan Cyworld, daha sonra uluslararası arenada da adından söz ettirmeye başladı. Platformun en dikkat çekici özelliklerinden biri, kullanıcıların birbirlerine 'cy' adı verilen sanal para birimiyle dijital hediyeler gönderebilmesiydi. Bu yenilikçi yaklaşım, Cyworld'u sadece bir sosyal ağ olmanın ötesine taşıdı. \n\nAncak, Facebook ve diğer küresel sosyal medya devlerinin yükselişiyle birlikte Cyworld'un popülaritesi zamanla azaldı. Buna rağmen, Güney Kore'deki kültürel etkisi ve dijital dünyaya yaptığı katkılar hala hatırlanıyor.",
+      "fun_fact": "Cyworld'un sanal para birimi 'cy', gerçek dünya ekonomisinde bile alınıp satılabiliyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29760",
+        "https://tr.wikipedia.org/wiki/Cyworld",
+        "https://en.wikipedia.org/wiki/Cyworld"
+      ],
+      "wikidata_qid": "Q29760"
+    },
+    {
+      "id": "Q726251",
+      "date": "2027-07-27",
+      "category": "kurum-marka",
+      "widget_title": "Müzik Efsanesi Elektra Records Ne Zaman Kuruldu?",
+      "hook": "Müzik dünyasının mihenk taşlarından Elektra Records, ne zaman kuruldu dersin?",
+      "answer_year": 1950,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Elektra Records, müzik dünyasının efsanevi markalarından biri olarak 1950 yılında kuruldu. O dönemde müzik endüstrisi büyük bir değişim içindeyken, yeni bir ses ve vizyon arayışıyla ortaya çıkan Elektra, kısa sürede bağımsız ruhuyla dikkatleri üzerine çekti. Şirket, başlangıçta özellikle folk müziği alanında yetenekleri keşfetmeye odaklandı ve bu niş alanda önemli bir oyuncu haline geldi. Ana akımın dışında kalan, deneysel ve cesur müzisyenlere kapılarını açarak, dinleyicilere yepyeni sound'lar ve sanatsal ifadeler sundu.\n\nElektra, sadece ticari başarı peşinde koşmak yerine, müziğin sanatsal derinliğini ve çeşitliliğini ön planda tutan bir yaklaşımla hareket etti. Bu sayede birçok ikonik sanatçının ve grubun kariyerine yön verdi, onların seslerini geniş kitlelere ulaştırdı. Şirketin kataloğu, zamanla folk'tan rock'a, pop'tan [DOĞRULA: progresif rock'a ve new wave'e] uzanan geniş bir yelpazeyi kapsar hale geldi. Müzik tarihine sayısız unutulmaz albüm ve şarkı armağan eden Elektra Records, günümüzde de mirasını sürdüren, efsanevi bir kurum olarak anılıyor. Onun hikayesi, müziğin gücünü ve cesur bir vizyonun nasıl kalıcı bir etki yaratabileceğini gözler önüne seriyor.",
+      "fun_fact": "Birçok efsanevi grubun yuvası olmadan önce, Elektra Records özellikle folk müzik sahnesinde önemli bir yere sahipti ve bu alanda çığır açan albümlere imza attı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q726251",
+        "https://tr.wikipedia.org/wiki/Elektra_Records",
+        "https://en.wikipedia.org/wiki/Elektra_Records"
+      ],
+      "wikidata_qid": "Q726251"
+    },
+    {
+      "id": "Q3044717",
+      "date": "2027-07-28",
+      "category": "yazilim-internet",
+      "widget_title": "Yahoo! News ne zaman kuruldu?",
+      "hook": "İnternetin ilk haber portalı denebilecek bir platformun doğuş hikayesi, aslında bir tesadüfün eseri miydi?",
+      "answer_year": 1996,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Yahoo! News’in temelleri 1996 yılında atıldı ve internet çağının en erken haber platformlarından biri olarak tarihe geçti. O dönemde Yahoo! ekibi, kullanıcıların ilgisini çekecek içerikleri manuel olarak derlemenin yanı sıra, otomatik sistemlerle haberleri sınıflandırmanın yollarını arıyordu. [DOĞRULA: Bu sistemin arkasında hangi algoritma veya teknoloji kullanıldı?] Aslında Yahoo! News’in doğuşu, şirketin kurucularından Jerry Yang ve David Filo’nun, kullanıcılarına daha fazla değer sunmak için geliştirdikleri bir yan proje gibi başladı. Başlangıçta basit bir haber derlemesi olarak hizmet veren platform, zamanla algoritmik iyileştirmeler ve insan editörlerinin katkılarıyla büyüdü.\n\nYahoo! News’in 1996’da hayata geçmesi, internetin haber tüketimini kökten değiştiren bir adım oldu. O yıllarda çoğu insan hala gazete ve televizyon haberlerine bağımlıydı, ancak bu platform sayesinde kullanıcılar anında ve kişiselleştirilmiş haberlere ulaşabilir hale geldi. Tabii ki, o dönemdeki teknolojik sınırlamalar nedeniyle haberlerin doğruluğu ve çeşitliliği konusunda bazı tartışmalar da yaşanıyordu. Yine de, dijital haberleşmenin ilk dalgasında önemli bir rol oynadı.\n\nBugün düşündüğümüzde, 1996 gibi erken bir tarihte böyle bir platformun ortaya çıkması gerçekten etkileyici. İnternetin henüz emekleme döneminde olduğu bir zamanda, kullanıcıların ilgisini çekecek içerikleri bir araya getirmek hiç de kolay değildi.",
+      "fun_fact": "Yahoo! News’in ilk versiyonunda haberler sadece metin tabanlıydı ve görseller oldukça sınırlıydı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3044717",
+        "https://tr.wikipedia.org/wiki/Yahoo!_News",
+        "https://en.wikipedia.org/wiki/Yahoo_News"
+      ],
+      "wikidata_qid": "Q3044717"
+    },
+    {
+      "id": "Q732503",
+      "date": "2027-07-29",
+      "category": "kurum-marka",
+      "widget_title": "Sony Music Japan hangi yıl müzik piyasasına girdi?",
+      "hook": "Japon pop kültürünün şekillenmesinde büyük rol oynayan Sony Music Japan, sahneye ne zaman çıktı dersiniz?",
+      "answer_year": 1968,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Günümüzde dünyanın dört bir yanında yankılanan pek çok hit şarkının arkasındaki dev müzik şirketlerinden biri olan Sony Music, aslında oldukça katmanlı bir yapıya sahip. Japonya'daki kolu olan Sony Music Entertainment Japan'ın (SMEJ) hikayesi ise global ana şirketinden bağımsız bir yolculuğu anlatıyor.\n\nPeki, Japon müzik endüstrisine yön veren bu önemli kurum ne zaman kuruldu ve ülkenin müzik sahnesine nasıl girdi dersiniz? Takvimler 1968 yılını gösteriyordu. Tam da bu yıl, Sony Music Entertainment Japan'ın temelleri atıldı ve Japonya'nın müzik tarihine adını altın harflerle yazmaya başladığı dönem resmen başlamış oldu.\n\n1968'den bu yana geçen yıllarda SMEJ, Japon popüler kültürünün önemli bir parçası haline geldi. Küresel Sony Music Entertainment'tan ayrı bir varlık olarak faaliyet göstermesi, şirkete Japonya'nın benzersiz müzik pazarına çok daha derinlemesine odaklanma ve yerel yetenekleri keşfetme konusunda büyük bir esneklik sağladı. Bu bağımsız yapı sayesinde, J-Pop'tan rock'a, geleneksel Japon müziğinden anime ve oyun müziklerine kadar geniş bir yelpazede türlere ev sahipliği yaparak birçok sanatçının kariyerini şekillendirdi.\n\nSMEJ'in bu özel konumu, Japon müzik pazarının dinamiklerine hızla adapte olmasını ve küresel trendlerden ziyade yerel zevklere öncelik vermesini mümkün kıldı. Bu sayede, Japon müziğinin hem kendi sınırları içinde gelişmesine hem de dünya çapında tanınmasına önemli katkılarda bulundu. Gerçekten de, bir müzik devinin nasıl yerel bir tatla yoğrulduğunun en güzel örneklerinden biri!",
+      "fun_fact": "Fun fact: Sony Music Entertainment Japan, küresel ana şirketi Sony Music Entertainment'tan yönetimsel ve stratejik olarak bağımsız hareket eder; bu da ona Japonya pazarında eşsiz bir esneklik sağlar!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q732503",
+        "https://tr.wikipedia.org/wiki/Sony_Music_Entertainment_Japan",
+        "https://en.wikipedia.org/wiki/Sony_Music_Entertainment_Japan"
+      ],
+      "wikidata_qid": "Q732503"
+    },
+    {
+      "id": "Q30929357",
+      "date": "2027-07-30",
+      "category": "yazilim-internet",
+      "widget_title": "Radio Garden ne zaman ortaya çıktı?",
+      "hook": "Dünyanın dört bir yanındaki radyoları tek bir haritada dinlemenizi sağlayan o büyülü siteyi hiç kullandınız mı?",
+      "answer_year": 2016,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Radio Garden, 2016 yılında kullanıma açılan ve internet kullanıcılarını dünyanın farklı bölgelerindeki radyo istasyonlarına anında bağlayan yenilikçi bir platformdur. Proje, Hollanda merkezli bir girişim olan [DOĞRULA: *Stichting Radio Nederland Worldwide*] tarafından geliştirilmiştir. Temel fikir, kullanıcıların dünya haritası üzerinde gezinerek, seçtikleri bir konumdaki yerel radyoları dinleyebilmesine olanak tanımaktı.\n\nPlatform, ilk çıktığında hem teknoloji hem de medya dünyasında büyük ilgi gördü. Çünkü Radio Garden, sadece bir radyo dinleme aracı olmanın ötesinde, kültürel bir köprü görevi de görüyordu. Farklı ülkelerin müziklerini, haberlerini ve konuşma tarzlarını tek bir tıkla keşfetmek, kullanıcılara adeta dünyayı dolaşma hissi yaşatıyordu. [DOĞRULA: *Projenin arkasında yatan ekibin tam olarak kim olduğu veya geliştirme sürecinin detayları hakkında resmi kaynaklarda net bilgi bulunmamaktadır.*]\n\n2016 yılından bu yana Radio Garden, hem bireysel kullanıcılar hem de araştırmacılar tarafından ilgiyle takip edilmektedir. Özellikle dijital medya ve internetin küresel erişimini anlamak isteyenler için ilham verici bir örnek olmuştur.",
+      "fun_fact": "Radio Garden’in eğlenceli yanı, harita üzerinde rastgele bir noktaya tıkladığınızda karşınıza çıkan radyo istasyonunun dilini anlamasanız bile, müziğin evrensel diliyle anında bağ kurabilmeniz!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30929357",
+        "https://tr.wikipedia.org/wiki/Radio_Garden",
+        "https://en.wikipedia.org/wiki/Radio_Garden"
+      ],
+      "wikidata_qid": "Q30929357"
+    },
+    {
+      "id": "Q778673",
+      "date": "2027-07-31",
+      "category": "kurum-marka",
+      "widget_title": "Sub Pop Records ne zaman müziğe merhaba dedi?",
+      "hook": "Grunge müziğin kalbinin attığı, efsanevi Sub Pop Records'ın kuruluş hikayesini merak ediyor musunuz?",
+      "answer_year": 1986,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "1980'lerin ortalarına doğru, Seattle müzik sahnesi yavaş yavaş kaynamaya başlıyordu. Underground ruhun ve punk rock'ın enerjisinin mirasçısı olan yeni bir ses yükseliyordu: grunge. İşte tam da bu dönemde, 1986 yılında, bu sesin dünyaya duyurulmasında kilit rol oynayacak efsanevi bir plak şirketi kuruldu: Sub Pop Records.\n\nHer şey, Bruce Pavitt'in 1980'lerin başında fanzin olarak başlayan \"Subterranean Pop\" ile başladı. Pavitt, yeraltı müziğine olan tutkusunu bu fanzin aracılığıyla paylaşıyordu ve daha sonra bunu bağımsız bir kayıt şirketine dönüştürme fikri oluştu. Jonathan Poneman'ın da katılımıyla, ikili Sub Pop'ı resmi olarak kurarak [DOĞRULA: ilk adımlarını attılar/şirketi tescil ettiler].\n\nSub Pop, kısa sürede Seattle'ın ve daha geniş anlamda alternatif müziğin kalbi haline geldi. Nirvana, Soundgarden, Mudhoney gibi grupları keşfederek ve onlara destek vererek, grunge akımının uluslararası bir fenomen olmasında büyük pay sahibi oldu. Şirketin \"Seattle Sound\" olarak bilinen kendine özgü estetiği, sadece müzikleriyle değil, aynı zamanda kapak tasarımları ve genel duruşlarıyla da kendini belli ediyordu. Sub Pop, basitçe bir plak şirketi olmanın ötesine geçerek, bir dönemin ve bir müzik türünün simgesi haline geldi. Onlar, ticari kaygılardan çok sanatçıların özgünlüğünü ve müziğin ruhunu ön planda tutan bir yaklaşımla, bağımsız müziğin altın çağını yaşamasına yardımcı oldular.",
+      "fun_fact": "Sub Pop, Nirvana'nın ilk albümü Bleach'i yayımlayan plak şirketiydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q778673",
+        "https://tr.wikipedia.org/wiki/Sub_Pop",
+        "https://en.wikipedia.org/wiki/Sub_Pop"
+      ],
+      "wikidata_qid": "Q778673"
+    }
+  ]
+}

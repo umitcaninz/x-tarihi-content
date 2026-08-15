@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "month": "2027-09",
+  "items": [
+    {
+      "id": "Q549037",
+      "date": "2027-09-01",
+      "category": "yazilim-internet",
+      "widget_title": "Stack Overflow ne zaman kuruldu?",
+      "hook": "Programcıların kurtarıcısı olan bu site, kodlama dünyasında devrim yarattı — peki sizce hangi yılda doğdu?",
+      "answer_year": 2008,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Stack Overflow, yazılım geliştiricilerin en sık ziyaret ettiği platformlardan biri olarak, 2008 yılında hayata geçti. Proje, Joel Spolsky ve Jeff Atwood adlı iki yazılım uzmanının önderliğinde, sadece birkaç ay içinde popülerlik kazandı. Temel amacı, geliştiricilerin karşılaştıkları sorunlara hızlı ve güvenilir çözümler bulmalarını sağlamaktı. Site, kullanıcıların birbirlerine yardım ettiği, soru-cevap temelli bir yapıya sahip ve bu sayede zamanla devasa bir bilgi birikimine dönüştü.\n\n[DOĞRULA: Stack Overflow’un tam olarak hangi ayda kurulduğu] İlk yıllarında, site sadece İngilizce içerik sunarken, zamanla dünya genelindeki geliştiricilerin ihtiyaçlarını karşılamak için çok dilli bir yapıya kavuştu. Stack Overflow’un başarısının ardında, kullanıcıların kaliteli içerik üretmeye teşvik edilmesi ve doğru yanıtların ödüllendirilmesi gibi akıllıca tasarlanmış sistemler yatıyor. Günümüzdeyse, sadece bir soru-cevap platformu olmanın ötesine geçerek, geliştiricilerin kariyerlerini şekillendiren bir ekosisteme dönüştü.\n\nStack Overflow’un hikayesi, açık kaynak ve topluluk odaklı projelerin ne kadar güçlü olabileceğinin de bir kanıtı aslında.",
+      "fun_fact": "Stack Overflow’un mottosu olan \"Stack Overflow, geliştiricilerin en iyi arkadaşıdır\" cümlesi, siteye olan güvenin ne kadar büyük olduğunu gösteriyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q549037",
+        "https://tr.wikipedia.org/wiki/Stack_Overflow",
+        "https://en.wikipedia.org/wiki/Stack_Overflow"
+      ],
+      "wikidata_qid": "Q549037"
+    },
+    {
+      "id": "Q58166",
+      "date": "2027-09-02",
+      "category": "yazilim-internet",
+      "widget_title": "ICQ ne zaman icat edildi?",
+      "hook": "İnternetin ilk günlerinde 'çın çın' diye seslenen bir anı hatırlıyor musunuz?",
+      "answer_year": 1996,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "ICQ, 1996 yılında hayatımıza giren ve internetin erken dönemlerinde sohbetin yeni adresi olan bir anlık mesajlaşma servisiydi. İsmi bile eğlenceli: 'I Seek You' (Seni Arıyorum) kısaltması olan ICQ, kullanıcılarına çevrimiçi olduklarında birbirlerine anında ulaşma imkanı sunuyordu. O yıllarda sabit hat internet bağlantıları ve yavaş modemler varken, ICQ’nun basit arayüzü ve 'online' olma hissiyatı gençler arasında hızla popüler oldu.\n\nICQ’nun mucidi konusunda net bir bilgi yok, ancak arkasındaki şirket olan Mirabilis’in kurucuları arasında yer alan izrailli girişimciler Arik Vardi, Yair Goldfinger, Sefi Vigiser ve Amnon Amir’in önemli rol oynadığı düşünülüyor. Servis, 1996’nın Kasım ayında piyasaya sürüldü ve sadece birkaç yıl içinde milyonlarca kullanıcıya ulaştı. [DOĞRULA: ICQ’nun ilk versiyonunun tam olarak hangi ayda yayımlandığı]\n\nICQ’nun en ilginç yanlarından biri, kullanıcılarına atadıkları benzersiz numaralardı. Bu numaralar, 'ICQ numarası' olarak anıldı ve o dönemde bir nevi dijital kimlik gibi algılandı. Ayrıca, 'UIN' (Universal Internet Number) adı verilen bu sistem, kullanıcıların birbirlerini kolayca bulmasını sağlıyordu. ICQ, daha sonra AOL tarafından satın alındı ve yıllar içinde popülaritesini yavaş yavaş kaybetse de, internet tarihindeki yerini sağlamlaştırdı.",
+      "fun_fact": "ICQ’nun ilk reklamlarından birinde, 'ICQ: Artık yalnız değilsiniz' sloganı kullanılmıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58166",
+        "https://tr.wikipedia.org/wiki/ICQ",
+        "https://en.wikipedia.org/wiki/ICQ"
+      ],
+      "wikidata_qid": "Q58166"
+    },
+    {
+      "id": "Q609733",
+      "date": "2027-09-03",
+      "category": "yazilim-internet",
+      "widget_title": "Windows 9x ne zaman çıktı?",
+      "hook": "Kullandığın her bilgisayarda belki de farkında bile değilsin: Windows 9x, dijital dünyamızı sonsuza dek değiştirdi!",
+      "answer_year": 1995,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Windows 9x, Microsoft’un 21 Ağustos 1995 tarihinde piyasaya sürdüğü ve Windows 95 ile başlayan, ardından Windows 98 ve Windows ME ile devam eden bir işletim sistemi serisidir. Bu serinin en büyük özelliği, kullanıcı dostu arayüzü ve \"Başlat\" düğmesiyle tanınan ilk Windows sürümleri olmasıdır. Windows 95’in çıkışı, bilgisayar kullanımını milyonlarca insana erişilebilir hale getirdi ve [DOĞRULA: dijital devrimin fitilini ateşleyen olaylardan biri olup olmadığı] tartışma konusu olmuştur.\n\nWindows 9x serisi, o dönemde yaygın olan DOS tabanlı sistemlerin yerini alarak, grafik arayüzü ve çoklu görev özellikleriyle öne çıktı. Özellikle Windows 98, USB desteği ve daha stabil yapısıyla kullanıcıların beğenisini kazandı. Serinin son üyesi Windows ME (Millennium Edition) ise hem yenilikleri hem de bazı teknik sorunlarıyla hafızalarda yer etti.\n\nBu serinin ardında yatan hikaye, Microsoft’un kişisel bilgisayarların geleceğini şekillendirme vizyonunu yansıtıyor. Windows 9x, sadece bir yazılım değil, aynı zamanda bir kültürün de parçası oldu!",
+      "fun_fact": "Windows 95’in tanıtımında kullanılan \"Start\" düğmesi, o kadar ikonik hale geldi ki, Microsoft onu Windows 10’a kadar korudu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q609733",
+        "https://tr.wikipedia.org/wiki/Windows_9x",
+        "https://en.wikipedia.org/wiki/Windows_9x"
+      ],
+      "wikidata_qid": "Q609733"
+    },
+    {
+      "id": "Q611515",
+      "date": "2027-09-04",
+      "category": "yazilim-internet",
+      "widget_title": "TechRadar ne zaman yayına başladı?",
+      "hook": "İnternetin en popüler teknoloji haber kaynaklarından biri olan TechRadar, aslında sadece birkaç yıl içinde nasıl bu kadar büyük bir oyuncu haline geldi?",
+      "answer_year": 2008,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "TechRadar, 2008 yılında yayın hayatına başladı ve o günden beri teknoloji dünyasının nabzını tutuyor. İnternet üzerinden yayın yapan bu platform, özellikle incelemeler, haberler ve kılavuzlarla teknoloji meraklılarının vazgeçilmezi haline geldi. Kuruluşundan itibaren hızla büyüyen TechRadar, sadece birkaç yıl içinde global bir marka olmayı başardı.\n\nTechRadar’ın hikayesi, dijital medyanın yükselişiyle paralel ilerledi. [DOĞRULA: TechRadar’ın ilk kurulduğu dönemdeki ana odak noktaları nelerdi?] O yıllarda teknoloji haberleri genellikle basılı dergilerde yer alırken, TechRadar gibi dijital platformlar bu alanı tamamen değiştirdi. Kullanıcı dostu arayüzü ve güncel içerikleriyle kısa sürede geniş bir okuyucu kitlesi kazandı.\n\nBugün TechRadar, sadece haberler değil, aynı zamanda derinlemesine ürün incelemeleri ve karşılaştırmalarıyla da tanınıyor. Teknoloji dünyasındaki hızlı değişimlere ayak uydurarak, okuyucularına her zaman güvenilir ve güncel bilgiler sunmayı başarıyor.",
+      "fun_fact": "TechRadar’ın ilk yıllarında yayınladığı incelemelerin çoğu, okuyucuların gerçek kullanım deneyimlerine dayanıyordu—çünkü o dönemde birçok platformda reklam veren firmaların etkisi henüz bu kadar güçlü değildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q611515",
+        "https://tr.wikipedia.org/wiki/TechRadar",
+        "https://en.wikipedia.org/wiki/TechRadar"
+      ],
+      "wikidata_qid": "Q611515"
+    },
+    {
+      "id": "Q62059755",
+      "date": "2027-09-05",
+      "category": "yazilim-internet",
+      "widget_title": "Android 10 ne zaman çıktı?",
+      "hook": "Dünyanın en popüler mobil işletim sistemi olan Android’in 10. versiyonu, adını basitçe 'Android 10' olarak aldı — peki sizce ne zaman tanıtıldı?",
+      "answer_year": 2019,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Android’in 10. ana sürümü olan **Android 10**, Google tarafından 3 Eylül 2019 tarihinde resmi olarak tanıtıldı. Bu sürüm, Android’in önceki versiyonlarında olduğu gibi bir tatlının adını almak yerine, basitçe bir sayıyla adlandırılan ilk büyük güncelleme oldu. Karar, marka tutarlılığı ve küresel erişilebilirlik adına alındı — artık kullanıcılar hangi versiyonun daha yeni olduğunu anlamak için tatlı isimleri ezberlemek zorunda kalmayacaktı!\n\nAndroid 10’un tanıtımıyla birlikte, kullanıcı deneyimini iyileştirmeye yönelik birçok yenilik de beraberinde geldi. Karanlık mod, yerel ekran kaydı, gelişmiş gizlilik kontrolleri ve akıllı yanıt özellikleri gibi fonksiyonlar, bu sürümü diğerlerinden ayıran başlıca özelliklerdi. Ayrıca, Android’in artık sadece akıllı telefonlarla sınırlı kalmayıp, tabletlere, televizyonlara ve hatta otomobillere kadar geniş bir yelpazede kullanılabilmesi de bu sürümle birlikte daha da pekişti.\n\nPeki, Android 10’un geliştirilme süreci nasıl başladı? Google, bu sürümü geliştirirken açık kaynak topluluğunun geri bildirimlerini de dikkate aldı. [DOĞRULA: Geliştirme sürecinin ne kadar sürdüğü ve hangi ekiplerin yer aldığı] Bu sayede, hem teknik hem de kullanıcı odaklı iyileştirmeler bir arada ilerledi. Android 10’un piyasaya sürülmesiyle birlikte, Google’ın mobil işletim sistemindeki lider konumu bir kez daha pekişmiş oldu.",
+      "fun_fact": "Android 10’un tanıtımında kullanılan ilk logo, basit bir '10' rakamından oluşuyordu ve bu, marka tarihinde bir ilk olarak kaydedildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q62059755",
+        "https://tr.wikipedia.org/wiki/Android_10",
+        "https://en.wikipedia.org/wiki/Android_10"
+      ],
+      "wikidata_qid": "Q62059755"
+    },
+    {
+      "id": "Q63327",
+      "date": "2027-09-06",
+      "category": "yazilim-internet",
+      "widget_title": "Airbnb ne zaman kuruldu?",
+      "hook": "Evini yabancılara kiralamak hiç bu kadar popüler olacağını tahmin etmiş miydin?",
+      "answer_year": 2008,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Airbnb’nin hikayesi, 2007 yılında San Francisco’da başladı. O yıl, kurucular Brian Chesky ve Joe Gebbia, şehirdeki otel fiyatlarının yüksekliği nedeniyle evlerinde hava yastığı (airbed) koyarak misafir ağırlamaya karar verdiler. Bu basit fikir, \"Air Bed & Breakfast\" adıyla doğan bir platformun temelini attı. Resmi olarak kuruluş tarihi olarak kabul edilen **2008 yılında**, platformun adı kısaltılarak Airbnb haline geldi ve sadece hava yastığı kiralamaktan çok daha geniş bir hizmet ağına dönüştü.\n\nBaşlangıçta, Chesky ve Gebbia’ya teknoloji girişimcisi Nathan Blecharczyk de katıldı. İlk yatırımlarını dairede uyuyan misafirlerden elde ettikleri gelirle yaptılar — hatta ilk yatırımcıları, kurucuların tahıl gevreği kutularını tasarlamaları için para ödediler! Airbnb, 2008 yılında Demokrat Ulusal Kongre sırasında parti katılımcılarının evlerini kiralama fırsatı sunarak ilk büyük çıkışını yaptı. Bu dönemde platform, kullanıcıların güvenini kazanmak için fotoğraf kalitesini ve hizmet standartlarını yükseltmeye odaklandı.\n\nBugün milyonlarca konaklama seçeneği sunan Airbnb’nin hikayesi, bir evde hava yastığına sahip olmanın bile bir iş fikrine dönüşebileceğini gösteriyor. [DOĞRULA: Kuruluşun ilk yıllarında yaşanan yasal veya finansal zorluklar hakkında detaylı kaynak bulunuyor mu?]",
+      "fun_fact": "Airbnb’nin ilk ofisi, kurucuların yaşadığı dairenin bir odasıydı — ve ilk yatırımcıları, onların tahıl gevreği kutularını tasarlamaları için para ödediler!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63327",
+        "https://tr.wikipedia.org/wiki/Airbnb",
+        "https://en.wikipedia.org/wiki/Airbnb"
+      ],
+      "wikidata_qid": "Q63327"
+    },
+    {
+      "id": "Q64351129",
+      "date": "2027-09-07",
+      "category": "yazilim-internet",
+      "widget_title": "macOS Catalina ne zaman çıktı?",
+      "hook": "Apple’ın kedi isimli işletim sistemleri serisinin 16. üyesi olan Catalina, masaüstüne neler getirdi?",
+      "answer_year": 2019,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Apple’ın macOS serisinin 2019’daki büyük güncellemesi Catalina, 7 Haziran 2019’da WWDC konferansında tanıtıldı ve 7 Ekim 2019’da kullanıma sunuldu. Bu sürüm, 32 bit uygulamaları desteklemeyen ilk macOS olarak da hatırlanıyor — yani eski oyunlarınız ya da programlarınız çalışmayabilirdi! Catalina aynı zamanda iPad uygulamalarını Mac’e taşıyan ilk sistem oldu ve Apple Arcade’in de yolunu açtı. [DOĞRULA: \"İlk macOS\" ifadesi doğru mu?] Eski Mac kullanıcıları içinse, iTunes’un üç ayrı uygulamaya (Müzik, Podcast’ler, Apple TV) bölünmesi büyük bir değişiklikti.\n\nCatalina’nın adı, Meksika’nın Catalina Adası’ndan değil, Güney Kaliforniya açıklarındaki Santa Catalina Adası’ndan geliyor. Bu ada serinin önceki sürümleri Mojave ve Big Sur gibi coğrafi isimlendirme geleneğine devam ediyor. Sistem gereksinimleri arasında MacBook (2015 ve sonrası), MacBook Air (2012 ve sonrası) ve Mac mini (2014 ve sonrası) yer alıyordu — yani çok eski Mac’leriniz varsa Catalina’yı yükleyemezdiniz.",
+      "fun_fact": "Catalina, Apple’ın masaüstü işletim sistemlerine ilk kez Sidecar özelliğini getirdi — iPad’inizi ikinci bir ekran olarak kullanabiliyordunuz!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64351129",
+        "https://tr.wikipedia.org/wiki/MacOS_Catalina",
+        "https://en.wikipedia.org/wiki/MacOS_Catalina"
+      ],
+      "wikidata_qid": "Q64351129"
+    },
+    {
+      "id": "Q64852796",
+      "date": "2027-09-08",
+      "category": "yazilim-internet",
+      "widget_title": "Parler ne zaman kuruldu?",
+      "hook": "Sosyal medya deyince akla ilk gelen platformlar dışında bir seçenek duymaya hazır mısın?",
+      "answer_year": 2018,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Parler, 2018 yılında ABD’de kurulan ve özellikle \"söz özgürlüğü\" vurgusuyla dikkat çeken bir sosyal ağ platformu. Kuruluş hikayesi, geleneksel sosyal medya devlerine tepki olarak ortaya çıkmasıyla başlıyor. Platform, kullanıcılarına sansürsüz bir alan sunmayı hedeflediğini sık sık vurguluyor ve bu da onu özellikle belirli siyasi ve sosyal gruplar arasında popüler hale getirdi.\n\nAncak Parler’in ilk günlerinden itibaren bazı tartışmalarla da anıldığını belirtmek gerek. Kuruluşundan kısa bir süre sonra, platformun kullanıcı tabanının genişlemesiyle birlikte içerik moderasyonu konusunda eleştiriler de arttı. Özellikle nefret söylemi ve yasadışı içeriklerin yayılmasına yönelik endişeler, Parler’in App Store ve Google Play Store’dan geçici olarak kaldırılmasına yol açtı. Bu olaylar, platformun hem kullanıcı sayısında dalgalanmalara hem de medyada geniş yer bulmasına neden oldu.\n\nParler’in kuruluş yılı olarak 2018 kabul edilse de, [DOĞRULA: platformun ilk kodlama çalışmalarının ne zaman başladığı] ve ilk kullanıcıların ne zaman platforma katıldığına dair net bir tarih bulunmuyor. Bu da Parler’in hikayesinin sadece bir başlangıç tarihinden ibaret olmadığını, aynı zamanda toplumsal ve teknolojik gelişmelerin de bir parçası olduğunu gösteriyor.",
+      "fun_fact": "Parler’in adı Fransızca \"parler\" (konuşmak) kelimesinden geliyor ve bu da platformun temel felsefesini yansıtıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64852796",
+        "https://tr.wikipedia.org/wiki/Parler",
+        "https://en.wikipedia.org/wiki/Parler"
+      ],
+      "wikidata_qid": "Q64852796"
+    },
+    {
+      "id": "Q6824428",
+      "date": "2027-09-09",
+      "category": "yazilim-internet",
+      "widget_title": "MetroLyrics ne zaman yayımlandı?",
+      "hook": "İnternetin şarkı sözleriyle buluştuğu ilk adreslerden biri olan MetroLyrics’in doğuşunu biliyor musun?",
+      "answer_year": 2002,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "MetroLyrics, şarkı sözlerini çevrimiçi ortamda derleyen ve paylaşan ilk platformlardan biri olarak 2002 yılında kullanıma açıldı. O dönemde müzikseverler, albüm kitapçıklarındaki ya da nadiren yayınlanan şarkı sözlerine ulaşmakta zorlanıyordu. MetroLyrics’in ortaya çıkışı, bu boşluğu doldurarak herkesin istediği şarkının sözlerine kolayca erişebilmesini sağladı.\n\nBaşlangıçta bağımsız bir proje olarak başlayan site, zamanla müzikseverlerin yanı sıra sanatçılar ve araştırmacılar için de önemli bir kaynak haline geldi. [DOĞRULA: MetroLyrics’in kurucuları veya ilk geliştiricileri hakkında resmi bir kayıt bulunmamaktadır.] Platformun kullanıcı dostu arayüzü ve geniş arşivinin yanı sıra, şarkı sözlerinin telif haklarına saygılı yaklaşımı da dikkat çekti.\n\n2000’li yılların başında internetin yaygınlaşmasıyla birlikte, müzik ve teknolojinin kesiştiği noktalardan biri olan MetroLyrics, dijital dünyada müzik kültürünün şekillenmesine katkıda bulundu. Günümüzde kapanmış olsa da, benzeri platformlara ilham kaynağı olmayı sürdürüyor.",
+      "fun_fact": "MetroLyrics, 2000’lerin başında açıldığında, şarkı sözlerine ulaşmanın en popüler yolu albüm kitapçıklarıydı — hatta bazen şarkıyı defalarca dinleyip sözleri deşifre etmek gerekiyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6824428",
+        "https://tr.wikipedia.org/wiki/MetroLyrics",
+        "https://en.wikipedia.org/wiki/MetroLyrics"
+      ],
+      "wikidata_qid": "Q6824428"
+    },
+    {
+      "id": "Q707291",
+      "date": "2027-09-10",
+      "category": "yazilim-internet",
+      "widget_title": "PC World dergisi ne zaman yayın hayatına başladı?",
+      "hook": "Dijital çağın en eski dergilerinden biri olan PC World’un ilk sayısı, bilgisayarların evimize girmeye başladığı yıllarda çıktı. Peki, tam olarak hangi yılda?",
+      "answer_year": 1983,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "PC World, kişisel bilgisayarların (PC) yükselişe geçtiği 1980’lerin başında doğan bir dergi. 1983 yılında yayın hayatına adım attı ve teknoloji dünyasının nabzını tutmaya başladı. Dergi, o dönemde henüz masaüstü bilgisayarların ofislerden evlere yayılmaya başladığı bir dönemde, kullanıcılara rehberlik etmek için çıktı karşımıza.\n\nPC World’un ilk sayısı, bilgisayarların karmaşık birer makine olmaktan çıkıp, herkesin erişebileceği araçlar haline geldiği bir döneme denk geldi. [DOĞRULA: Derginin ilk sayısının içeriğinde hangi konuların öne çıktığı ve okuyucu kitlesinin kim olduğu hakkında detaylı bilgiler bulunabilir mi?] Dergi, yayın hayatına başladıktan sonra hızla popülerlik kazandı ve teknoloji yayıncılığı alanında bir referans haline geldi.\n\nBugün bile, PC World adı teknoloji dünyasında tanınan bir marka olarak varlığını sürdürüyor. Dergi, yıllar içinde baskı yayıncılıktan dijital platformlara doğru evrilse de, kökleri 1983 yılına dayanıyor.",
+      "fun_fact": "PC World’un ilk sayısı, 1983 yılında sadece 48 sayfa olarak yayınlandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q707291",
+        "https://tr.wikipedia.org/wiki/PC_World_(dergi)",
+        "https://en.wikipedia.org/wiki/PC_World"
+      ],
+      "wikidata_qid": "Q707291"
+    },
+    {
+      "id": "Q7664857",
+      "date": "2027-09-11",
+      "category": "yazilim-internet",
+      "widget_title": "Wattpad ne zaman çıktı?",
+      "hook": "Dünyanın en büyük dijital hikâye arşivine sahip platformun ilk versiyonu, cep telefonlarının henüz 'akıllı' olmadığı bir dönemde doğdu desem?",
+      "answer_year": 2006,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Wattpad’in hikâyesi, 2006 yılında Allen Lau ve Ivan Yuen adlı iki Kanadalı girişimcinin aklına basit bir soru takılmasıyla başladı: \"İnsanlar hikâyelerini her yerde, hatta hareket halindeyken bile okuyup paylaşabilse nasıl olur?\"\n\nO dönemde e-kitap okuyucuları yeni yeni yaygınlaşırken, akıllı telefonlar henüz hayatımızın merkezinde değildi. Lau ve Yuen, kullanıcıların metinleri çevrimdışı olarak da okuyabilmesini sağlayan bir platform fikriyle yola çıktı. İlk Wattpad uygulaması, Java tabanlı basit bir ara yüzden ibaretti ve kullanıcıların hikâyelerini metin mesajları gibi gönderip paylaşmasına olanak tanıyordu. [DOĞRULA: Uygulamanın ilk adı neydi?]\n\nZamanla platform, yazarlar ve okuyucular arasında küresel bir topluluğa dönüştü. 2007 yılında web versiyonu yayınlandı ve kullanıcılar artık hikâyelerini sadece mobil cihazlardan değil, bilgisayarlarından da paylaşabilir hale geldi. Bugün Wattpad, milyonlarca kullanıcıya sahip bir dijital kütüphane olarak, hem amatör hem de profesyonel yazarların ilham kaynağı olmaya devam ediyor.\n\nWattpad’in başarısının sırlarından biri, kullanıcı dostu arayüzü ve topluluk odaklı yapısıydı. Platform, yeni yeteneklerin keşfedilmesine de olanak sağladı; birçok ünlü yazarın kariyeri Wattpad’de yayınlanan hikâyelerle başladı.",
+      "fun_fact": "Wattpad’in en popüler hikâyelerinden biri olan \"After\", aslında 2014 yılında platformda yayınlandı ve daha sonra kitap serisi ve dizi olarak da uyarlanarak milyonlarca kişiye ulaştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7664857",
+        "https://tr.wikipedia.org/wiki/Wattpad",
+        "https://en.wikipedia.org/wiki/Wattpad"
+      ],
+      "wikidata_qid": "Q7664857"
+    },
+    {
+      "id": "Q769222",
+      "date": "2027-09-12",
+      "category": "yazilim-internet",
+      "widget_title": "Dailymotion ne zaman kuruldu?",
+      "hook": "İnternetin video dünyasına adım attığı yıllarda neler yaşandığını hiç merak ettiniz mi?",
+      "answer_year": 2005,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Dailymotion, 2005 yılında Fransa’da doğan bir video paylaşım platformu. Kuruluş hikayesi, iki Fransız girişimci olan Benjamin Bejbaum ve Olivier Poitrey’in bir proje olarak başlattığı bu platform, kısa sürede internet kullanıcılarının ilgisini çekti. Başlangıçta, kullanıcıların video yükleyip paylaşabileceği basit bir alan olarak hayata geçen Dailymotion, YouTube’un yükselişiyle birlikte adından daha sık söz edilir oldu.\n\nPlatformun ilk yıllarında, video barındırma teknolojileri henüz emekleme aşamasındaydı. Dailymotion’un sunduğu hızlı yükleme ve paylaşım imkanı, kullanıcılar için büyük bir kolaylık sağladı. Ancak [DOĞRULA: Dailymotion’un ilk yatırımcılarından veya erken dönem finansman kaynaklarından biri olan şirket/kişinin adı] gibi detaylar, platformun hikayesinde netlik kazanmamış noktalardan biri. Yine de, 2005’ten itibaren hızla büyüyen Dailymotion, Fransa’nın yanı sıra uluslararası alanda da popülerlik kazandı.\n\nBugün Dailymotion, farklı içerik türlerine ev sahipliği yapan bir platform olarak varlığını sürdürüyor. Peki, sizce bu platformun ilk yıllarında en çok hangi tür videolar ilgi görüyordu?",
+      "fun_fact": "Dailymotion, ilk yıllarında sadece 6 video ile hizmet vermeye başlamıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q769222",
+        "https://tr.wikipedia.org/wiki/Dailymotion",
+        "https://en.wikipedia.org/wiki/Dailymotion"
+      ],
+      "wikidata_qid": "Q769222"
+    },
+    {
+      "id": "Q788500",
+      "date": "2027-09-13",
+      "category": "yazilim-internet",
+      "widget_title": "Craigslist ne zaman kuruldu?",
+      "hook": "İnternetin en basit ama en etkili icatlarından biri olan bu platform, aslında bir e-posta listesinden doğdu desem inanır mısınız?",
+      "answer_year": 1995,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Craigslist’in hikayesi 1995 yılında, kurucusu Craig Newmark’un San Francisco’daki yerel etkinlikleri ve ilanları paylaşmak için basit bir e-posta listesine başlamasıyla başladı. Başlangıçta sadece arkadaşlarına gönderiyordu, ama kısa sürede ilgi gördü ve [DOĞRULA: listenin adı neydi?] genişlemeye başladı. 1996’da Newmark, listeleri web sitesine taşıyarak Craigslist’in temelini attı. O dönemde yerel gazetelerin ilanlarına alternatif olarak ortaya çıkan bu platform, kullanıcıların ücretsiz ilan vermesine olanak tanıyordu.\n\nCraigslist’in en ilginç yanı, neredeyse hiç reklam almaması ve basit bir tasarımla yoluna devam etmesi. 2000’li yıllarda büyümesini hızlandıran platform, özellikle ikinci el eşya satışı, iş ilanları ve etkinlik duyurularıyla ünlendi. Bugün dünyanın birçok ülkesinde hizmet veriyor, ama kökenleri hâlâ o küçük e-posta listesine dayanıyor.",
+      "fun_fact": "Craigslist’in ilk ilanı, Newmark’un kendisinin attığı bir teknoloji etkinliği duyurusuymuş!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q788500",
+        "https://tr.wikipedia.org/wiki/Craigslist",
+        "https://en.wikipedia.org/wiki/Craigslist"
+      ],
+      "wikidata_qid": "Q788500"
+    },
+    {
+      "id": "Q79531",
+      "date": "2027-09-14",
+      "category": "yazilim-internet",
+      "widget_title": "ChromeOS ne zaman çıktı?",
+      "hook": "Tarayıcı deyince akla ilk gelen isimlerden biri olan ChromeOS, aslında sıradan bir işletim sistemi değil — peki ilk kez ne zaman ortaya çıktı?",
+      "answer_year": 2011,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Google’ın masaüstüne getirdiği bu minimalist işletim sistemi, aslında ilk kez 2009 yılında duyuruldu. Ancak ilk ticari sürümü, 15 Haziran 2011 tarihinde piyasaya sürüldü. ChromeOS’un hikayesi, Google’ın web odaklı gelecek vizyonuyla doğrudan bağlantılı. Temelinde, kullanıcıların neredeyse tüm işlemlerini tarayıcı üzerinden gerçekleştirebileceği bir sistem yatıyor. Bu fikir, o dönemde oldukça devrimciydi çünkü geleneksel masaüstü işletim sistemlerine (Windows, macOS gibi) alışmış kullanıcılar için radikal bir değişim anlamına geliyordu.\n\nİlk olarak Google’ın kendi ürettiği Chromebook cihazlarında kullanılmaya başlanan ChromeOS, basitlik ve hız odaklıydı. Sistem, bulut bilişime dayalı olarak çalışıyor ve yerel depolama yerine Google Drive gibi hizmetlere güveniyordu. Başlangıçta birçok kişi tarafından \"sadece bir tarayıcı\" olarak görülse de, zamanla gelişen özellikleriyle (örneğin Linux uygulamalarını desteklemesi) daha geniş bir kullanıcı kitlesine hitap etmeye başladı.\n\nChromeOS’un çıkış hikayesinde ilginç bir detay da, Google’ın bu projeyi nasıl gizli tuttuğudur. Geliştirme süreci neredeyse tamamen kapalı kapılar ardında ilerledi ve ilk kez 2009 yılında resmi olarak duyurulduğunda bile birçok kişi şaşkınlık yaşadı. [DOĞRULA: Geliştirme sürecinin ne kadar gizli olduğu ve hangi ekiplerin yer aldığı]",
+      "fun_fact": "ChromeOS’un ilk sürümü, sadece 32 bit mimarileri destekliyordu — bugün ise neredeyse tüm modern Chromebook’lar 64 bit işlemcilerle geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q79531",
+        "https://tr.wikipedia.org/wiki/Chrome_OS",
+        "https://en.wikipedia.org/wiki/ChromeOS"
+      ],
+      "wikidata_qid": "Q79531"
+    },
+    {
+      "id": "Q799677",
+      "date": "2027-09-15",
+      "category": "yazilim-internet",
+      "widget_title": "Badoo ne zaman kuruldu?",
+      "hook": "Dünyanın en büyük flört uygulamalarından biri olan Badoo, aslında bir tesadüfün ürünü müydü?",
+      "answer_year": 2006,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Badoo, 2006 yılında kullanıma sunulan ve flört odaklı sosyal ağ hizmeti olarak tanınan bir platformdur. Kurucusu Andrey Andreev hakkında çok fazla bilgi olmasa da, onun liderliğindeki ekip tarafından geliştirildiği bilinmektedir. [DOĞRULA: Andrey Andreev’in daha önceki projeleri nelerdi?]\n\nBaşlangıçta Avrupa pazarına hitap eden Badoo, kısa sürede küresel bir fenomen haline geldi. Uygulama, kullanıcıların coğrafi konumlarına göre eşleşmeler bulmalarını sağlayan yenilikçi bir sistemle dikkat çekti. Bu sistem, o dönemdeki diğer flört sitelerinden farklı olarak, gerçek zamanlı etkileşime ve daha doğal bir tanışma sürecine olanak tanıyordu.\n\nBadoo’nun başarısının ardında, basit ve kullanıcı dostu arayüzüyle birlikte, geniş bir kullanıcı kitlesine hitap etmesi yatıyordu. Zamanla, uygulama sadece flört için değil, aynı zamanda yeni insanlarla tanışmak ve sosyal bağlantılar kurmak için de popüler bir platform haline geldi.\n\nBugün Badoo, dünya genelinde milyonlarca kullanıcıya sahip olsa da, gizlilik ve güvenlik konularında zaman zaman tartışmalara da konu olmaktadır. Yine de, dijital çağın flört anlayışını değiştiren uygulamalardan biri olarak tarihteki yerini almıştır.",
+      "fun_fact": "Badoo’nun sloganı olan \"Badoo? Date!“ (Badoo? Flört et!), uygulamanın amacını özetleyen eğlenceli bir yaklaşımdır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q799677",
+        "https://tr.wikipedia.org/wiki/Badoo",
+        "https://en.wikipedia.org/wiki/Badoo"
+      ],
+      "wikidata_qid": "Q799677"
+    },
+    {
+      "id": "Q806473",
+      "date": "2027-09-16",
+      "category": "yazilim-internet",
+      "widget_title": "Bang Bros ne zaman kuruldu?",
+      "hook": "İnternetin en tartışmalı köşelerinden biri olan Bang Bros’un hikayesi, sadece bir tarih kadar basit değil.",
+      "answer_year": 2004,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Bugün neredeyse herkesin bir şekilde karşılaştığı ya da en azından duyduğu Bang Bros, internetin erken dönemlerinde yükselen yetişkin içerik platformlarından biri. **2004 yılında** kurulan bu site, adını aldığı *bang* (patlama) efektiyle tanınan video formatlarıyla kısa sürede dikkat çekti. Peki, bu platformu diğerlerinden ayıran neydi?\n\nAslında Bang Bros’un hikayesi, 2000’lerin başında yetişkin içerik endüstrisinin dijitalleşme sürecine denk geliyor. O dönemde VHS’ten DVD’ye geçiş yaşanıyor, ancak internetin sunduğu erişim kolaylığı ve anında tüketim imkanı, sektörde devrim yaratıyordu. Bang Bros da bu dalganın üzerine kurulu olarak, kullanıcılarına hızlı ve etkileyici içerikler sunmayı hedefledi. [DOĞRULA: Sitenin kurucusu veya arkasındaki ekip hakkında resmi bir bilgi bulunmuyor.]\n\nAncak unutmamak gerekir ki, Bang Bros sadece bir içerik sağlayıcısı değil; aynı zamanda yetişkin endüstrisinin dijital pazarlama ve dağıtım stratejilerinde de bir dönüm noktası olarak görülüyor. Sitenin popülerleşmesiyle birlikte, benzer formatlarda içerik üreten birçok rakip de ortaya çıktı. Bugün hâlâ aktif olan Bang Bros, internetin ilk viral içerik platformlarından biri olarak dijital kültürün bir parçası haline geldi.",
+      "fun_fact": "Bang Bros’un en ünlü serilerinden biri olan *Ass Parade*, adını, sitedeki içeriklerin genellikle birbirini izleyen kısa ve yoğun bölümlerden oluşmasından alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q806473",
+        "https://tr.wikipedia.org/wiki/Bang_Bros",
+        "https://en.wikipedia.org/wiki/Bang_Bros"
+      ],
+      "wikidata_qid": "Q806473"
+    },
+    {
+      "id": "Q83370",
+      "date": "2027-09-17",
+      "category": "yazilim-internet",
+      "widget_title": "Windows 95 ne zaman çıktı?",
+      "hook": "Dünyayı değiştiren o mavi ekran, aslında bir devrimin başlangıcıydı!",
+      "answer_year": 1995,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Windows 95, 24 Ağustos 1995 tarihinde piyasaya sürüldü ve kişisel bilgisayar kullanımında devrim yaratan bir adım oldu. Microsoft’un dördüncü ana Windows sürümü olan bu yazılım, MS-DOS üzerinde çalışan son büyük Windows sürümü olarak tarihe geçti. Piyasaya çıktığı ilk beş gün içinde 1 milyon kopya satan Windows 95, kullanıcı dostu arayüzüyle milyonların kalbini kazandı.\n\nBu sürümün en büyük yeniliklerinden biri, başlat menüsü (Start Menu) ve görev çubuğunun (Taskbar) tanıtılmasıydı. Bu özellikler, günümüzde bile hemen hemen her işletim sisteminde standart olarak kullanılıyor. Ayrıca, Windows 95’in piyasaya sürülmesiyle birlikte \"Plug and Play\" (Tak ve Çalıştır) teknolojisi de yaygınlaşmaya başladı. Bu sayede kullanıcılar, yeni donanımları sisteme kolayca ekleyebiliyorlardı.\n\nWindows 95’in başarısının ardında, Microsoft’un pazarlama stratejisinin de büyük bir payı vardı. Şirket, ürünü tanıtmak için Rolling Stones’un \"Start Me Up\" şarkısını kullanarak geniş kitlelere ulaştı. [DOĞRULA: Bu şarkının kullanımı için resmi bir anlaşma olup olmadığı] \n\nWindows 95, sadece bir yazılım değil, aynı zamanda bir kültürel fenomen haline geldi. O dönemde birçok kişi, ilk kez bu işletim sistemiyle tanışmış ve dijital dünyaya adım atmıştı.",
+      "fun_fact": "Windows 95’in ilk versiyonunda, \"Blue Screen of Death\" (BSOD) olarak bilinen mavi ölüm ekranı, diğer Windows sürümlerine göre daha nadir görülüyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83370",
+        "https://tr.wikipedia.org/wiki/Windows_95",
+        "https://en.wikipedia.org/wiki/Windows_95"
+      ],
+      "wikidata_qid": "Q83370"
+    },
+    {
+      "id": "Q847564",
+      "date": "2027-09-18",
+      "category": "yazilim-internet",
+      "widget_title": "Ask.com ne zaman kuruldu?",
+      "hook": "İnternetin erken dönemlerinde doğan bir arama devi hakkında ne kadar şey biliyorsun?",
+      "answer_year": 1996,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Ask.com, 1996 yılında kurulan ve internetin ilk dönemlerinden beri var olan bir arama motoru olarak karşımıza çıkıyor. O yıllarda, arama motorları henüz emekleme dönemindeydi ve kullanıcılar bilgiye ulaşmak için farklı yöntemler deniyordu. Ask.com, adını \"Ask Jeeves\" olarak başladığı dönemden alıyordu — çünkü sitesi, kullanıcıların doğal dilde sorular sormasına izin veren nadir platformlardan biriydi. Örneğin, \"Nerede iyi bir pizza bulabilirim?\" gibi bir soruyu doğrudan sorabiliyordunuz ve size sonuçlar sunuluyordu.\n\nBu yenilikçi yaklaşım, özellikle 90'lı yılların ortalarında dikkat çekmişti. Zamanla teknoloji gelişip arama motorları daha da akıllı hale geldikçe, Ask Jeeves de adını kısaltarak sadece \"Ask.com\" olarak devam etti. [DOĞRULA: Kullanıcıların doğal dilde soru sorma özelliği ne kadar yaygın olarak kullanıldı?] Ancak şirket, arama motoru pazarındaki rekabetin artmasıyla birlikte zaman içinde farklı stratejiler geliştirmek zorunda kaldı. Bugünse daha çok soru-cevap odaklı bir platform olarak hizmet veriyor.\n\n1996 yılında kurulan bu platform, internetin evriminde önemli bir iz bıraktı ve birçok kullanıcı için ilk akla gelen arama motorlarından biri oldu.",
+      "fun_fact": "Ask.com'un ilk versiyonu, kullanıcıların sorularını \"Jeeves\" adlı bir uşağa sormuş gibi hissettiren bir tasarıma sahipti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q847564",
+        "https://tr.wikipedia.org/wiki/Ask.com",
+        "https://en.wikipedia.org/wiki/Ask.com"
+      ],
+      "wikidata_qid": "Q847564"
+    },
+    {
+      "id": "Q85684089",
+      "date": "2027-09-19",
+      "category": "yazilim-internet",
+      "widget_title": "Android 11 ne zaman çıktı?",
+      "hook": "Peki ya dünyanın en popüler mobil işletim sisteminin en yeni sürümünü tahmin edebilir misin?",
+      "answer_year": 2020,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Android 11, Google’ın mobil işletim sistemi serisinin 11. büyük güncellemesi olarak 2020 yılında kullanıma sunuldu. Bu sürüm, önceki versiyonlara göre daha akıllı, daha hızlı ve kullanıcı gizliliğine daha fazla önem veren özelliklerle dikkat çekti. Mesela, bildirimleri daha akıllıca yönetmek için \"Konuşmalar\" adlı yeni bir bölüm eklendi ya da cihazlar arasındaki veri paylaşımı kolaylaştırıldı.\n\nAncak Android’in tarihçesine baktığımızda, her ana sürümün arkasındaki kesin tarihleme bazen biraz bulanık olabiliyor. Özellikle ilk günlerde Google, farklı cihaz üreticileriyle olan iş birliklerinde bu tarihleri net olarak açıklamakta zorlanabiliyordu. Android 11’in de resmi olarak 2020 yılında yayınlandığı doğrulanmış olsa da, bazı alt sürümlerin veya özel cihaz uyarlamalarının farklı zamanlarda piyasaya çıktığı görülüyor.\n\n[DOĞRULA: Android 11’in farklı cihazlarda aynı anda mı yayınlandığı yoksa üreticilerin kendi takvimlerine göre mi dağıtıldığı]",
+      "fun_fact": "Android 11’in kod adı, geliştirme sürecinde \"R\" harfiyle başlayan bir tatlı isimle anılıyordu: Red Velvet Cake!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85684089",
+        "https://tr.wikipedia.org/wiki/Android_11",
+        "https://en.wikipedia.org/wiki/Android_11"
+      ],
+      "wikidata_qid": "Q85684089"
+    },
+    {
+      "id": "Q860654",
+      "date": "2027-09-20",
+      "category": "yazilim-internet",
+      "widget_title": "ML programlama dili ne zaman icat edildi?",
+      "hook": "Fonksiyonel programlama denince akla ilk gelen dillerden biri olan ML, aslında bir tesadüfün ürünü müydü?",
+      "answer_year": 1973,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "ML (Meta Language), 1973 yılında Robin Milner ve arkadaşları tarafından geliştirilen, fonksiyonel programlama dünyasının önde gelen dillerinden biri olarak kabul edilir. İlk olarak Edinburgh Üniversitesi'nde otomatik teorem ispatlama sistemleri için bir araç olarak tasarlanan ML, adını da buradan alır: \"Meta Language\" yani \"üst dil\".\n\nML’in en dikkat çekici özelliklerinden biri, tür çıkarımı (type inference) sistemidir. Bu sayede programcılar değişkenlerin türlerini açıkça belirtmek zorunda kalmadan kod yazabilirler. [DOĞRULA: Tür çıkarımının tam olarak hangi yıl veya versiyonda eklendiği] Bu yenilik, ML’i hem akademik hem de endüstriyel alanda popüler hale getirdi.\n\nML’in tarihçesi biraz bulanık çünkü ilk versiyonları hakkında çok fazla resmi kayıt bulunmuyor. Ancak 1980'lerin başında Standard ML (SML) adıyla anılan bir standart versiyon ortaya çıktı ve bu, dilin daha geniş kitlelere ulaşmasını sağladı. ML’in mirası, günümüzde de Haskell, OCaml ve F# gibi dillerde yaşamaya devam ediyor.\n\nPeki, ML’in icadı gerçekten bir planın parçası mıydı yoksa sadece bir yan ürün müydü? Bu sorunun yanıtı, belki de fonksiyonel programlamanın doğasında gizli...",
+      "fun_fact": "ML’in ilk versiyonu, aslında LCF (Logic for Computable Functions) adlı bir teorem ispatlama sisteminin bir parçası olarak doğmuş bir yardımcı diliydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q860654",
+        "https://tr.wikipedia.org/wiki/ML_(programlama_dili)",
+        "https://en.wikipedia.org/wiki/ML_(programming_language)"
+      ],
+      "wikidata_qid": "Q860654"
+    },
+    {
+      "id": "Q8811",
+      "date": "2027-09-21",
+      "category": "yazilim-internet",
+      "widget_title": "HTML ne zaman icat edildi?",
+      "hook": "Dünyanın en çok ziyaret edilen sayfalarının temelini oluşturan dilin hikayesi, ilk kez 1989’da yazıldı — peki bu fikir nasıl doğdu?",
+      "answer_year": 1989,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "HTML’in doğuş hikayesi, aslında internetin de doğuş hikayesinden farksız. 1989 yılında, CERN’de çalışan [DOĞRULA: Tim Berners-Lee] adlı bir bilgisayar bilimci, araştırmacıların birbirlerinin belgelerine kolayca erişebilmesini sağlayacak bir sistem geliştirmek istedi. Bu sistem, hem metinleri hem de diğer medya türlerini bir arada düzenleyebilen basit bir işaretleme diliyle mümkün olacaktı. Berners-Lee, bu dili **HyperText Markup Language** (HTML) olarak adlandırdı ve ilk versiyonunu 1991 yılında yayınladı.\n\nİlginç olan, HTML’in ilk hali bugünkü kadar karmaşık değildi. Aslında sadece birkaç temel etiketten oluşuyordu: başlıklar, paragraflar, bağlantılar ve listeler. Zamanla, web’in büyümesiyle birlikte HTML de gelişti ve standartları W3C (World Wide Web Consortium) tarafından belirlenmeye başlandı. Bugün kullandığımız HTML5’e kadar birçok evrim geçirdi.\n\nPeki, HTML’in icadıyla ilgili yaygın bir yanlış mı var? Evet! Birçok kişi HTML’in ilk kez 1990’larda ortaya çıktığını düşünse de, aslında temelleri 1989’da atıldı. Bu tarih, Berners-Lee’nin ilk önerisini CERN’e sunduğu yıl olarak kabul ediliyor.",
+      "fun_fact": "HTML’in ilk versiyonunda sadece 20’den az etiket bulunuyordu — bugünse yüzlerce!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8811",
+        "https://tr.wikipedia.org/wiki/HTML",
+        "https://en.wikipedia.org/wiki/HTML"
+      ],
+      "wikidata_qid": "Q8811"
+    },
+    {
+      "id": "Q92526",
+      "date": "2027-09-22",
+      "category": "yazilim-internet",
+      "widget_title": "Sina Weibo ne zaman yayına girdi?",
+      "hook": "Çin’in Twitter’ı olarak da bilinen Sina Weibo’nun doğuşunu hiç merak ettiniz mi?",
+      "answer_year": 2010,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Sina Weibo, Çin’in en popüler mikroblog platformlarından biri olarak 2010 yılında kullanıma açıldı. Bu tarih, platformun resmi olarak hayata geçtiği yıl olarak kayıtlara geçmiş durumda. Sina Weibo, kullanıcılarına 140 karakterlik mesajlar paylaşma imkanı sunarak, Çin’in dijital iletişim dünyasında devrim yaratmıştı.\n\nAslında mikroblogging fikri, Sina Weibo’dan çok önce dünyada ortaya çıkmıştı. Twitter gibi platformlar 2006 yılında kullanıma sunulmuştu, ancak Sina Weibo’nun Çin pazarındaki hızlı yükselişi, yerel ihtiyaçlara ve kültüre uygun bir şekilde şekillendi. Platform, sadece metin paylaşımının ötesinde, fotoğraf, video ve canlı yayın gibi özellikleri de bünyesine katarak genişledi.\n\n[DOĞRULA: Sina Weibo’nun ilk kullanıcı arayüzü ve teknik altyapısının detayları hakkında daha fazla kaynak bulunup bulunmadığı.]\n\nBugün Sina Weibo, Çin’in sosyal medya ekosisteminde önemli bir yere sahip ve milyonlarca kullanıcıya ev sahipliği yapıyor. Peki, sizce bu platformun başarısının ardındaki sır ne olabilir?",
+      "fun_fact": "Sina Weibo’nun simgesi olan '微博' (Weibo) kelimesi, Çincede 'mikroblog' anlamına geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q92526",
+        "https://tr.wikipedia.org/wiki/Sina_Weibo",
+        "https://en.wikipedia.org/wiki/Weibo"
+      ],
+      "wikidata_qid": "Q92526"
+    },
+    {
+      "id": "Q9366",
+      "date": "2027-09-23",
+      "category": "yazilim-internet",
+      "widget_title": "Google Arama ne zaman kullanıma girdi?",
+      "hook": "Dünyanın en çok kullanılan arama motorunun doğuş hikayesi, bir üniversite projesinden nasıl küresel devrim yarattı?",
+      "answer_year": 1997,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Google Arama’nın hikayesi, 1990’ların sonunda Stanford Üniversitesi’nde iki doktora öğrencisinin merakından doğdu. Larry Page ve Sergey Brin, internet sitelerini birbirine bağlayan bağlantıları sayarak sayfaların önemini ölçen **PageRank** adlı algoritmayı geliştirdi. Başlangıçta bu projeye **BackRub** adını verdiler — evet, tıpkı \"sırt kaslarını\" çalıştıran bir egzersiz gibi! [DOĞRULA: Projenin ilk adı olan \"BackRub\"un tam olarak ne zaman kullanılmaya başlandığı]\n\n1996 yılında Stanford’un sunucularında çalışmaya başlayan BackRub, o kadar çok kaynak tüketti ki, üniversite yetkilileri Page ve Brin’e projeyi durdurmaları için baskı yaptı. Bunun üzerine ikili, 1997 yılında **google.com** alan adını kaydettirdi ve projeyi **Google Search** olarak yeniden adlandırdı. İlk versiyonu, kullanıcıların arama sonuçlarını hızlı ve alakalı bir şekilde bulmasını sağlayan basit bir sayfa olarak karşımıza çıktı.\n\nPeki, neden \"Google\"? Adı, matematiksel bir terim olan \"googol\"dan (10 üzeri 100) esinlenerek seçildi — sonsuz sayıda bilgi anlamına geliyor. 1998 yılında ise Google, ilk ofisini Menlo Park’ta bir garajda açtı ve hikayesi hızla büyümeye başladı. Bugünse, günde milyarlarca arama yapılan bir teknoloji devi haline geldi!\n\nUnutmayın: Google Arama’nın resmi olarak kullanıma sunulduğu tarih **1997** olarak kabul ediliyor, ancak ilk versiyonunun geliştirilmesi birkaç yıl öncesine dayanıyor.",
+      "fun_fact": "Google Search’in ilk versiyonunda sadece 26 milyon web sayfası indekslenmişti — bugün bu sayı milyarlarla ölçülüyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9366",
+        "https://tr.wikipedia.org/wiki/Google_Arama",
+        "https://en.wikipedia.org/wiki/Google_Search"
+      ],
+      "wikidata_qid": "Q9366"
+    },
+    {
+      "id": "Q96583789",
+      "date": "2027-09-24",
+      "category": "yazilim-internet",
+      "widget_title": "macOS Big Sur ne zaman çıktı?",
+      "hook": "Apple’ın masaüstü işletim sistemlerine damga vuran o devrim niteliğindeki güncelleme... Peki, bu ikonik sürüm tam olarak ne zaman hayatımıza girdi?",
+      "answer_year": 2020,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "macOS Big Sur, Apple’ın masaüstü işletim sistemleri ailesinin 17. büyük sürümü olarak 2020 yılında kullanıcıların karşısına çıktı. Bu sürüm, sadece bir güncelleme olmanın ötesinde, Apple’ın hem tasarım hem de performans anlayışında önemli bir dönüm noktasıydı. Kullanıcı arayüzünde yapılan radikal değişikliklerle, yuvarlak köşeli pencerelerden saydamlık efektlerine kadar birçok yenilik ilk kez bu sürümde görüldü.\n\nBig Sur’un çıkış tarihi olarak 12 Kasım 2020 tarihi kabul edilse de, [DOĞRULA: bu tarih kullanıcılara ilk kez hangi cihazlarda sunulduğunu doğrulamak için] aslında Apple’ın resmi olarak yayınladığı ilk Mac’ler için yüklenebilir olduğu tarih olarak kayıtlara geçti. Bu sürüm, aynı zamanda Apple’ın kendi silikon çiplerine (M1) geçiş yaptığı ilk işletim sistemi olmasıyla da tarihe geçti. Yani, Big Sur sadece bir güncelleme değil, aynı zamanda Apple’ın geleceğine yön veren bir adım oldu.\n\nTasarım açısından bakıldığında, Big Sur’un arayüzündeki değişiklikler o kadar belirgindi ki, bazı kullanıcılar alışmakta zorluk çekti. Ancak zamanla, bu yenilikler Apple’ın imza tasarım dilinin bir parçası haline geldi. Sürümün adı olan \"Big Sur\", Kaliforniya’nın kıyı şeridindeki ünlü bir bölgeden geliyor ve Apple’ın doğaya olan hayranlığını yansıtıyor.",
+      "fun_fact": "Big Sur, Apple’ın M1 çiplerini destekleyen ilk işletim sistemi olarak, şirketin Intel’den kendi silikonuna geçiş sürecinde kritik bir rol oynadı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96583789",
+        "https://tr.wikipedia.org/wiki/MacOS_Big_Sur",
+        "https://en.wikipedia.org/wiki/MacOS_Big_Sur"
+      ],
+      "wikidata_qid": "Q96583789"
+    }
+  ]
+}

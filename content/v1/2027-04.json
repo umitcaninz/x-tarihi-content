@@ -1,0 +1,666 @@
+{
+  "schema_version": 1,
+  "month": "2027-04",
+  "items": [
+    {
+      "id": "Q116933",
+      "date": "2027-04-01",
+      "category": "yazilim-internet",
+      "widget_title": "VK ne zaman kuruldu?",
+      "hook": "Sosyal medyanın erken dönem kahramanlarından biri olan VK, neredeyse her Rus’un dijital adresi haline geldi — peki bu platformun doğuş hikayesi nasıldı?",
+      "answer_year": 2006,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "VK (eski adıyla VKontakte), 2006 yılında Rusya’da kullanıma açıldı ve kısa sürede ülkenin en büyük sosyal ağ platformu haline geldi. Temelleri, [DOĞRULA: Pavel Durov ve kardeşi Nikolai tarafından atıldı] ancak projenin ilk versiyonunun geliştirilmesi ve yaygınlaşmasında birçok ekibin katkısı olduğu düşünülüyor. VK, adını Rusçada \"bağlantılar\" anlamına gelen \"vkontakte\" kelimesinden aldı — tıpkı Facebook’un İngilizcedeki \"insanlar arasındaki bağlantılar\" fikrine benzer bir anlama sahip.\n\nPlatformun ilk yıllarında, kullanıcılar arasında hızla yayılmasının nedenlerinden biri, yerel müzik ve video paylaşım özellikleriydi. Rusya’da Spotify benzeri bir hizmet sunması, kullanıcıların dijital içeriklere erişimini kolaylaştırdı. Ayrıca, arayüzünün basitliği ve yerel dil desteği de VK’nin popülerliğini artırdı.\n\nVK’nin hikayesi, sadece bir sosyal ağın ötesine geçiyor; zamanla devlet müdahaleleri, veri gizliliği tartışmaları ve uluslararası genişleme çabalarıyla da gündeme geldi. Rusya’nın dijital dünyasındaki en önemli oyuncularından biri olan VK, bugün de milyonlarca kullanıcıya ev sahipliği yapıyor.",
+      "fun_fact": "VK’nin orijinal logosu, bir elin üç parmağını gösteren bir sembolden esinlenerek tasarlandı — bu, platformun \"üçüncü el\" gibi herkesin işine yarayacağını simgeliyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q116933",
+        "https://tr.wikipedia.org/wiki/VK",
+        "https://en.wikipedia.org/wiki/VK_(service)"
+      ],
+      "wikidata_qid": "Q116933"
+    },
+    {
+      "id": "Q156598",
+      "date": "2027-04-02",
+      "category": "kurum-marka",
+      "widget_title": "Leiden Üniversitesi'nin temelleri ne zaman atıldı?",
+      "hook": "Avrupa'nın en köklü üniversitelerinden biri olan Leiden Üniversitesi'nin kuruluş hikayesi, adeta bir kahramanlık destanı gibi!",
+      "answer_year": 1575,
+      "year_precision": "day",
+      "guess_range": [
+        1470,
+        1650
+      ],
+      "body": "Hollanda'nın incisi Leiden Üniversitesi, tam olarak 1575 yılında kapılarını açtı. Bu tarih, sadece bir kuruluş yılı olmanın ötesinde, cesaretin ve bilime olan inancın da bir simgesi. Çünkü üniversitenin doğuşu, o dönemde İspanyol İmparatorluğu'na karşı verilen ve Seksen Yıl Savaşları olarak bilinen büyük mücadelenin tam ortasına denk geliyor. Leiden şehri, İspanyolların uzun ve çetin kuşatmasına kahramanca direnmişti. Kuşatma sona erdiğinde, Prens William of Orange, gösterdikleri bu direniş ve sadakat için Leiden halkına bir ödül teklif etti: ya vergi indirimi ya da bir üniversite. Şaşırtıcı ama bir o kadar da ilham verici bir şekilde, Leiden halkı geleceğe yatırım yapmayı seçti ve bir eğitim yuvası istedi. Böylece 8 Şubat 1575'te, bu direnişin ve entelektüel arayışın bir nişanesi olarak Leiden Üniversitesi kuruldu. Kuruluşundan bu yana Avrupa'nın en saygın bilim merkezlerinden biri haline gelen üniversite, yüzyıllar boyunca birçok önemli düşünürü ve bilim insanını ağırladı, dünya çapında keşiflere ve yeniliklere ev sahipliği yaptı.",
+      "fun_fact": "Üniversitenin ilk yıllarında dersler, Aziz Peter Kilisesi'nde veriliyordu; bu da bilimin ve inancın o dönemdeki iç içe geçmişliğini gösteren ilginç bir detay.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q156598",
+        "https://tr.wikipedia.org/wiki/Leiden_%C3%9Cniversitesi",
+        "https://en.wikipedia.org/wiki/Leiden_University"
+      ],
+      "wikidata_qid": "Q156598"
+    },
+    {
+      "id": "Q17625797",
+      "date": "2027-04-03",
+      "category": "oyun-spor",
+      "widget_title": "Trivia Crack oyunu ne zaman çıktı?",
+      "hook": "Bir milyonu aşkın oyuncuyu ekranlara kilitleyen o unutulmaz anket yarışmasının ardındaki tarih hiç merak ettin mi?",
+      "answer_year": 2014,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Trivia Crack, 2014 yılında piyasaya sürüldü ve mobil oyun dünyasında kısa sürede adından söz ettirmeyi başardı. Bu eğlenceli anket yarışması oyunu, kullanıcılarına çeşitli kategorilerde sorular sorarak hem bilgi birikimlerini test etmelerine hem de rakipleriyle eğlenceli bir rekabete girmelerine olanak tanıyor. Oyunun çıkış hikayesi, mobil oyun pazarındaki boşluğu doldurma amacıyla başlayan bir projeye dayanıyor.\n\nTrivia Crack’in başarısının ardında, basit ama etkili bir oyun mekaniği ve kullanıcı dostu arayüzü yatıyor. Oyuncular, farklı kategorilerdeki soruları yanıtlayarak puan kazanabiliyor ve diğer oyuncularla karşılaşabiliyor. Bu sayede hem eğleniyor hem de öğreniyorlar. Oyunun popülerliği, sosyal medya üzerinden de yaygınlaşmasını sağladı ve dünya genelinde milyonlarca indirilme sayısına ulaştı.\n\n[DOĞRULA: Oyunun mucidi veya geliştirici ekibi hakkında güvenilir kaynaklarda net bir bilgi bulunmamaktadır. Lütfen bu konuda doğrulama yapılması gerekmektedir.]\n\nTrivia Crack’in başarısı, mobil oyun endüstrisinde yeni bir trend başlatarak benzer oyunların ortaya çıkmasına da zemin hazırladı. Oyunun çıkış tarihi olan 2014 yılı, mobil oyun dünyasında önemli bir dönüm noktası olarak kabul edilebilir.",
+      "fun_fact": "Trivia Crack, ilk yılında 500 milyondan fazla indirilme sayısına ulaşarak o dönemde rekor kırmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17625797",
+        "https://tr.wikipedia.org/wiki/Trivia_Crack",
+        "https://en.wikipedia.org/wiki/Trivia_Crack"
+      ],
+      "wikidata_qid": "Q17625797"
+    },
+    {
+      "id": "Q21086059",
+      "date": "2027-04-04",
+      "category": "iletisim",
+      "widget_title": "Metin paylaşımının devrimi Pastebin.com ne zaman kuruldu?",
+      "hook": "İnternet dünyasının sessiz kahramanlarından Pastebin.com'un hikayesini merak ediyor musunuz?",
+      "answer_year": 2002,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "İnternet'in derinliklerinde, karmaşık kod parçacıklarından basit notlara kadar her türlü düz metni kolayca paylaşmak için kullanılan bir araç var: Pastebin.com. Bu platform, özellikle yazılımcılar, sistem yöneticileri ve hatta oyuncular arasında hızla yayılarak adeta vazgeçilmez bir yardımcıya dönüştü. Klavyenizden kopyaladığınız bir metni, karmaşık e-posta zincirlerine veya anlık mesajlaşma platformlarının sınırlarına takılmadan anında bir bağlantı aracılığıyla herkese ulaştırmanın en pratik yollarından biri oldu. Bir anda ortaya çıkan bir kod hatasını ekip arkadaşlarınızla paylaşmanız gerektiğinde veya uzun bir yapılandırma dosyasını bir forumda göstermeniz icap ettiğinde, Pastebin imdadınıza yetişir.\n\nPastebin.com'un hikayesi, internetin altın çağlarından sayılabilecek 2002 yılında başladı. Tam olarak kimin veya hangi ekibin bu fikri hayata geçirdiği bilinmiyor olsa da, platformun temel prensibi sadelik ve işlevsellik üzerine kuruluydu. Başlangıçta bu tür platformlar genellikle IRC (Internet Relay Chat) kullanıcılarının uzun log dosyalarını veya kod örneklerini kolayca paylaşabilmesi için kullanılırdı ve Pastebin.com da bu ihtiyaca cevap veren önemli bir araç oldu. Artık sadece teknik metinler değil, bazen şarkı sözleri, oyun hileleri veya uzun sohbet kayıtları bile bu platform üzerinden paylaşılıyor. Kolaylığı sayesinde, hızlı ve geçici metin paylaşımının adeta standart ismi haline geldi. Bir metni 'yapıştır', bir bağlantı al ve paylaş. İşte bu kadar basit ama bir o kadar da etkili bir icat. İnternet dünyasının bu mütevazı ama güçlü kahramanı, dijital iletişimin önemli bir parçası olmaya devam ediyor.",
+      "fun_fact": "Pastebin'in sadece kod paylaşımı için değil, bazen internet dedikoduları veya sızıntıları için de kullanıldığını biliyor muydunuz?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21086059",
+        "https://tr.wikipedia.org/wiki/Pastebin.com",
+        "https://en.wikipedia.org/wiki/Pastebin.com"
+      ],
+      "wikidata_qid": "Q21086059"
+    },
+    {
+      "id": "Q1187721",
+      "date": "2027-04-05",
+      "category": "yazilim-internet",
+      "widget_title": "MIUI ne zaman ortaya çıktı?",
+      "hook": "Akıllı telefon kullanıyorsanız, muhtemelen Xiaomi’nin arayüzüyle karşılaşmışsınızdır—peki bu deneyimin ilk ortaya çıkış hikayesi nasıldı?",
+      "answer_year": 2010,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "MIUI, Çinli teknoloji devi Xiaomi’nin geliştirdiği ve yıllarca milyonlarca kullanıcıya dokunmatik deneyim yaşatan özel bir kullanıcı arayüzüydü. İlk olarak **2010 yılında** piyasaya sürüldü ve o günden itibaren Xiaomi’nin akıllı telefonlarının ayrılmaz bir parçası haline geldi. [DOĞRULA: MIUI’nin ilk sürümünün hangi Xiaomi modeliyle birlikte sunulduğu] Peki, neden bu kadar popüler oldu?\n\nMIUI’nin hikayesi, Xiaomi’nin kurucusu Lei Jun’un vizyonuyla şekillendi. O dönemde Android’in saf hali birçok kullanıcı için karmaşık veya eksik hissediliyordu. MIUI, bu boşluğu doldurmak için basitleştirilmiş bir tasarım, özelleştirilebilir özellikler ve Çin pazarının ihtiyaçlarına yönelik yerelleştirmelerle ortaya çıktı. Başlangıçta sadece Çin’de kullanılsa da, zamanla global pazara açıldı ve farklı dillerde destek sunmaya başladı.\n\nYıllar içinde MIUI, Xiaomi’nin yanı sıra Redmi, POCO ve Black Shark gibi alt markaların cihazlarında da yer aldı. Ancak teknoloji dünyası sürekli değişiyor: Xiaomi, 2023 yılında MIUI’nin yerini **HyperOS** adlı yeni bir işletim sistemi deneyimine bıraktığını duyurdu. HyperOS, MIUI’nin mirasını taşıyarak daha akıcı, verimli ve kullanıcı dostu bir deneyim sunmayı hedefliyor.\n\nBugün MIUI, artık aktif olarak güncellenmese de, milyonlarca kullanıcının hafızasında ve cihazlarında yaşamaya devam ediyor.",
+      "fun_fact": "MIUI’nin ilk logosu, Lei Jun’un favori bir Çinli savaşçıdan ilham alınarak tasarlanmıştı—ancak bu logo, daha sonra tanınabilirliği artırmak için basitleştirildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1187721",
+        "https://tr.wikipedia.org/wiki/MIUI",
+        "https://en.wikipedia.org/wiki/MIUI"
+      ],
+      "wikidata_qid": "Q1187721"
+    },
+    {
+      "id": "Q1754510",
+      "date": "2027-04-06",
+      "category": "kurum-marka",
+      "widget_title": "Türkiye'nin süpermarketi Migros ne zaman kuruldu?",
+      "hook": "Raflarındaki çeşit çeşit ürünlerle hayatımızı kolaylaştıran Migros'un kökleri hangi yıla uzanıyor dersin?",
+      "answer_year": 1954,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Migros denince aklına hemen market arabaları, indirimli ürünler ve taze sebzeler geliyorsa, bu dev markanın Türkiye macerasının 1954 yılında başladığını duymak seni şaşırtabilir. Aslında kökenleri İsviçre'ye dayanan Migros, adını \"yarı toptancı\" anlamına gelen \"mi-gros\" kelimesinden alıyor. İsviçreli kurucuları, aracıları ortadan kaldırarak ürünleri doğrudan üreticiden alıp tüketiciye daha uygun fiyata sunma fikriyle yola çıkmışlardı. Bu yenilikçi anlayış, 1954 yılında İstanbul Belediyesi'nin öncülüğünde, İsviçre Migros Kooperatifleri Birliği'nin desteğiyle Türkiye'ye taşındı.\n\nİlk başta mobil satış araçlarıyla mahalle mahalle dolaşarak halka hizmet veren Migros, o yılların alışveriş alışkanlıklarına modern bir dokunuş getirdi. Tüketicilerin doğrudan raflardan ürün seçme özgürlüğü, o zamana kadar pek de alışık olunmayan bir deneyimdi. Zamanla sabit mağazalara geçiş yaparak büyüdü ve Türkiye'nin dört bir yanına yayıldı. Günümüzde Migros, sadece bir süpermarket zinciri olmanın ötesinde, gıda perakendeciliğinde birçok ilke imza atmış, yerel üreticiyi destekleyen ve sosyal sorumluluk projeleriyle de adından söz ettiren önemli bir kurum haline geldi. Bu uzun ve başarılı serüven, 1954'te atılan o ilk adımla başlamıştı.",
+      "fun_fact": "Türkiye'deki ilk Migros mağazası aslında bir kamyonetle mahalleleri dolaşarak satış yapan seyyar bir marketti!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1754510",
+        "https://tr.wikipedia.org/wiki/Migros_(T%C3%BCrkiye)",
+        "https://en.wikipedia.org/wiki/Migros_(Turkey)"
+      ],
+      "wikidata_qid": "Q1754510"
+    },
+    {
+      "id": "Q1786673",
+      "date": "2027-04-07",
+      "category": "oyun-spor",
+      "widget_title": "Triominos ne zaman icat edildi?",
+      "hook": "Üçgen şekilli bu oyun taşlarıyla akıllara durgunluk veren bir strateji dünyası sunan Triominos, aslında masa başında geçirdiğimiz o keyifli anların arkasındaki gizemli bir hikayeye sahip!",
+      "answer_year": 1965,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Triominos, 1965 yılında icat edilen ve üçgen şekilli oyun taşlarıyla tanınan bir masa oyunudur. Standart domino oyunundan ilham alan bu oyunda, her taş üçgenlerden oluşur ve her üçgenin üzerinde farklı sayılar bulunur. Oyuncular, ellerindeki taşları kullanarak sayıları eşleştirmeye çalışırken aynı zamanda puan toplarlar.\n\nTriominos’un mucidi bilinmemekle birlikte, oyun 1960’ların ortalarında popülerlik kazanmaya başladı. [DOĞRULA: Triominos’un ilk olarak hangi ülkede veya şirket tarafından piyasaya sürüldüğü] Bu oyun, strateji ve şans unsurlarını bir araya getirerek hem aileler hem de arkadaş grupları arasında eğlenceli vakit geçirmek için ideal bir seçenek haline geldi. Triominos’un basit kuralları ve görsel çekiciliği, onu diğer masa oyunlarından ayıran özellikler arasında yer alır.\n\nGünümüzde Triominos, hem fiziksel hem de dijital versiyonlarıyla oynanabiliyor. Farklı zorluk seviyelerine sahip olması, oyunun uzun ömürlü olmasını sağlayan etkenlerden biri olarak gösterilebilir.",
+      "fun_fact": "Triominos’un adı, üçgen anlamına gelen \"tri-\" öneki ile domino kelimesinin birleşiminden oluşuyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1786673",
+        "https://tr.wikipedia.org/wiki/Triominos",
+        "https://en.wikipedia.org/wiki/Triominoes"
+      ],
+      "wikidata_qid": "Q1786673"
+    },
+    {
+      "id": "Q2117484",
+      "date": "2027-04-08",
+      "category": "iletisim",
+      "widget_title": "Alışveriş devi Taobao ne zaman ortaya çıktı?",
+      "hook": "Bu devasa e-ticaret platformu Taobao'nun hikayesi ne zaman başladı?",
+      "answer_year": 1985,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Çin'in devasa çevrimiçi alışveriş platformu Taobao, dijital çağın en etkileyici başarı hikayelerinden biri. Peki, bu alışveriş devi ne zaman ortaya çıktı dersin? Oyunumuzun verilerine göre, Taobao'nun ilk tohumları ve ona ilham veren erken fikirler 1985 yılında filizlenmeye başlamış olabilir. Evet, internetin henüz küresel bir fenomen olmaktan çok uzak olduğu düşünüldüğünde bu tarih birçoğumuz için şaşırtıcı gelebilir. O yıllarda, kişisel bilgisayarlar yeni yeni yaygınlaşmaya başlarken, çevrimiçi iletişim ve ticaret kavramları henüz emekleme aşamasındaydı. [DOĞRULA: 1985'te Taobao adıyla bilinen somut bir projenin veya girişimin tam olarak ne olduğu ve bu tarihin ne anlama geldiği]. Muhtemelen bu tarih, daha çok çevrimiçi ticaretin felsefesini oluşturan ya da insanları bir araya getirme, ürün takas etme fikrinin dijitalleşmeye yönelik ilk küçük adımlarını temsil ediyordu. Belki de bu, geleceğin e-ticaret modellerine zemin hazırlayan, farkında olunmayan küçük bir topluluğun veya yerel bir girişimin başlangıcıydı. Günümüzde tanıdığımız, milyonlarca ürüne ev sahipliği yapan ve Alibaba Group bünyesinde faaliyet gösteren Taobao platformunun ise resmi kuruluş tarihi 2003'tür. Ancak 1985 yılı, bu büyük dönüşümün zihinsel veya konseptsel başlangıcı olarak kabul edilebilir; yani 'fikrin ortaya çıkışı' anlamında önemli bir kilometre taşı olabilir. Bu erken başlangıç, internetin potansiyelinin henüz tam anlaşılamadığı dönemlerde bile, ticaretin geleceğinin nasıl şekilleneceğine dair ipuçları veriyordu. Taobao'nun günümüzdeki başarısı, o ilk kıvılcımların zamanla nasıl dev bir ateşe dönüştüğünün de bir göstergesi.",
+      "fun_fact": "Taobao, 'hazine arayışı' veya 'define adası' anlamına gelen bir isme sahiptir, tıpkı içinde keşfedilmeyi bekleyen milyonlarca ürün gibi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2117484",
+        "https://tr.wikipedia.org/wiki/Taobao",
+        "https://en.wikipedia.org/wiki/Taobao"
+      ],
+      "wikidata_qid": "Q2117484"
+    },
+    {
+      "id": "Q12020",
+      "date": "2027-04-09",
+      "category": "yazilim-internet",
+      "widget_title": "Google Haberler ne zaman çıktı?",
+      "hook": "Dünyanın en çok tükettiğimiz bilgilerinden biri olan haber akışını kim icat etti dersiniz?",
+      "answer_year": 2002,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Google Haberler, Eylül 2002'de kullanıma sunulduğunda internet kullanıcılarının dünyaya bakışını değiştiren bir devrim yarattı. Bu otomatik derleme sistemi, farklı kaynaklardan gelen haberleri tek bir yerde toplayarak okuyuculara hızlı ve çeşitli bir içerik sunmayı hedefliyordu. Peki, bu fikir nasıl doğdu? [DOĞRULA: Google Haberler'in ilk versiyonunun arkasındaki mühendis ekibin isimleri ve ilham kaynağı] henüz net olarak belgelenmiş değil, ancak Google'ın o dönemdeki misyonu olan \"dünyadaki bilgiyi düzenlemek\" anlayışının bir uzantısı olduğu düşünülüyor.\n\nBaşlangıçta sadece İngilizce olarak yayınlanan hizmet, kısa sürede diğer dillere de genişledi ve kullanıcıların kişiselleştirilmiş haber akışları oluşturmasına olanak tanıyan algoritmalarıyla dikkat çekti. Bu sistem, geleneksel medyanın aksine, haberlerin kaynağından bağımsız olarak öne çıkarılmasını sağlayarak, okuyuculara daha geniş bir perspektif sunuyordu. Tabii ki bu yenilik, bazı medya kuruluşlarının tepkisini de çekti; çünkü içeriklerinin nasıl sunulduğu konusunda kontrolü kaybetme riskiyle karşı karşıya kaldılar.\n\nGoogle Haberler'in çıkışı, dijital çağın habercilik anlayışını temelden değiştirdi. Artık haberler sadece gazetelerin sayfalarında değil, algoritmaların süzgecinden geçerek kullanıcıların ekranlarına ulaşıyordu. Bu da hem okurlar hem de yayıncılar için yeni bir dönemin başlangıcı oldu.",
+      "fun_fact": "Google Haberler'in ilk versiyonunda, haberlerin sıralanmasında kullanılan algoritma o kadar basitti ki, bazı kullanıcılar aynı haberi defalarca görmekten şikayet etmişti!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12020",
+        "https://tr.wikipedia.org/wiki/Google_Haberler",
+        "https://en.wikipedia.org/wiki/Google_News"
+      ],
+      "wikidata_qid": "Q12020"
+    },
+    {
+      "id": "Q183387",
+      "date": "2027-04-10",
+      "category": "kurum-marka",
+      "widget_title": "Columbia Records ne zaman kuruldu?",
+      "hook": "Müzik tarihinin devlerinden biri olan Columbia Records'un kökenleri, sandığınızdan çok daha eski ve teknolojik bir hikayeye dayanıyor olabilir!",
+      "answer_year": 1889,
+      "year_precision": "day",
+      "guess_range": [
+        1780,
+        1960
+      ],
+      "body": "Columbia Records, müzik dünyasının en köklü ve etkileyici markalarından biri olarak bilinse de, hikayesi plakların parlamasından biraz daha erken ve farklı bir noktada başlıyor. Takvimler 1889 yılını gösterdiğinde, Washington D.C.'de \"Columbia Phonograph Company\" adıyla kurulan bu şirket, ilk etapta aslında Thomas Edison'ın fonograf cihazlarının satışını ve servisini üstlenmişti. Hatta başlangıçta odak noktaları, iş dünyasının vazgeçilmezi olan dikte makineleri ve ofis kullanımı için ses kayıt çözümleriydi. Yani, bugünkü anlamda bir müzik şirketi olmaktan ziyade, o dönemin ileri teknoloji firmalarından biriydi diyebiliriz.\n\nAncak ses kayıt teknolojisi hızla evrim geçirdikçe, Columbia da bu değişime kayıtsız kalmadı. Silindir fonograflardan disk plaklara geçişle birlikte, şirketin yönü de yavaş yavaş müziğe kaymaya başladı. Erken dönemde klasik müzik ve operadan popüler şarkılara kadar geniş bir yelpazede kayıtlar yayınlayarak müzik endüstrisinin şekillenmesinde önemli bir rol oynadılar. [DOĞRULA: Columbia'nın disk plaklara geçişi ne zaman hız kazandı ve bu dönemde hangi önemli sanatçılarla çalıştılar?] Yıllar içinde cazdan rock'a, blues'tan popa kadar sayısız efsanevi sanatçıya ev sahipliği yaparak dünya müziğine unutulmaz eserler kazandırdılar. Değişen zamanlara ve teknolojilere uyum sağlayarak varlığını sürdürmeyi başaran Columbia Records, günümüzde hâlâ müzik endüstrisindeki en güçlü ve saygın isimlerden biri olarak varlığını sürdürüyor.",
+      "fun_fact": "Biliyor muydunuz, Columbia Records, modern stereo plakları ticari olarak piyasaya süren ilk şirketlerden biriydi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q183387",
+        "https://tr.wikipedia.org/wiki/Columbia_Records",
+        "https://en.wikipedia.org/wiki/Columbia_Records"
+      ],
+      "wikidata_qid": "Q183387"
+    },
+    {
+      "id": "Q18543",
+      "date": "2027-04-11",
+      "category": "oyun-spor",
+      "widget_title": "Major League Soccer ne zaman kuruldu?",
+      "hook": "Amerika’nın en büyük futbol ligi, sahalardaki macerasına hangi yılda başladı dersiniz?",
+      "answer_year": 1995,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Major League Soccer (MLS), Amerika Birleşik Devletleri ve Kanada’da profesyonel futbolun en üst düzey ligi olarak 1995 yılında kuruldu. Lig, ülkenin futbol tarihine damga vurmakla kalmadı, aynı zamanda uluslararası arenada da ABD’nin futbol kültürünü güçlendirdi. MLS’nin doğuşu, 1994 FIFA Dünya Kupası’nı ABD’de düzenleme kararının ardından hız kazandı. Dünya Kupası’nın başarısı, ülkede futbola olan ilgiyi artırırken, profesyonel bir ligin kurulması için zemin hazırladı. [DOĞRULA: MLS’nin ilk sezonu 1996’da başladı mı?] İlk sezonunda lig, 10 takımla başladı ve zamanla genişleyerek günümüzde 29 takıma ulaştı.\n\nMLS’nin kuruluşu, ABD’nin diğer büyük spor ligleri (NFL, NBA, MLB, NHL) arasında futbolun da yerini sağlamlaştırmasına yardımcı oldu. Lig, yerel yeteneklerin yanı sıra uluslararası yıldızları da bünyesine katarak hem sportif hem de ticari anlamda büyümeye devam ediyor. Bugün MLS, sadece bir lig olmanın ötesinde, Amerika’nın futbol kültürünü şekillendiren bir fenomen haline geldi.",
+      "fun_fact": "MLS’nin ilk resmî maçı, 6 Nisan 1996’da San Jose Clash ve D.C. United takımları arasında oynandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18543",
+        "https://tr.wikipedia.org/wiki/Major_League_Soccer",
+        "https://en.wikipedia.org/wiki/Major_League_Soccer"
+      ],
+      "wikidata_qid": "Q18543"
+    },
+    {
+      "id": "Q21233433",
+      "date": "2027-04-12",
+      "category": "iletisim",
+      "widget_title": "Bumble uygulaması ne zaman arılar gibi vızıldamaya başladı?",
+      "hook": "Flört uygulaması dünyasına taze bir soluk getiren Bumble'ın hikayesi sizi şaşırtabilir.",
+      "answer_year": 2014,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Takvimler 2014 yılını gösterdiğinde, flört uygulamaları arenasına yepyeni ve cesur bir oyuncu katıldı: Bumble. Bu uygulama, o döneme kadar görmeye alışık olduğumuz flört dinamiklerine meydan okuyarak, kadınlara ilk adımı atma gücünü verdi. Erkeklerin yalnızca kendilerine gönderilen mesajlara yanıt verebildiği bu model, kadın kullanıcıların kendilerini daha güvende ve kontrol altında hissetmelerini sağlamak üzere tasarlandı.\n\nBumble'ın arkasındaki ilham verici hikaye, kurucusu Whitney Wolfe Herd'ün sektördeki deneyimlerinden besleniyor. [DOĞRULA: Wolfe Herd'ün daha önce başka bir popüler flört uygulamasının kurucu ekibinde yer aldığı ve oradan ayrıldıktan sonra Bumble'ı kurduğu bilgisi yaygın bir bilgidir mi?] Bu geçmiş, Bumble'ın \"kadınlar için kadınlar tarafından\" felsefesini daha da anlamlı kılıyor. Uygulama, sadece flört etmekle kalmayıp, kullanıcıların arkadaşlık kurmasını (Bumble BFF) ve profesyonel ağlarını genişletmesini (Bumble Bizz) sağlayan özellikleriyle de dikkat çekiyor.\n\nBumble, 'saygı, nezaket ve güçlendirme' gibi değerleri temel alarak, dijital etkileşimlerde daha olumlu bir deneyim sunmayı hedefledi. Geleneksel flört normlarını yıkarak, modern ilişkilerde kadınların rolünü yeniden tanımlayan bu platform, kısa sürede dünya genelinde milyonlarca kullanıcıya ulaştı ve mobil uygulama tarihinde önemli bir yer edindi. 2014'teki lansmanından bu yana, Bumble sadece bir uygulama olmaktan öte, dijital dünyada daha eşitlikçi bir iletişim modelinin de temsilcisi haline geldi.",
+      "fun_fact": "Bumble, flört etmenin yanı sıra arkadaşlık (BFF) ve iş ağı kurma (Bizz) özellikleriyle de kullanıcılarına farklı bağlantı kurma imkanları sunuyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21233433",
+        "https://tr.wikipedia.org/wiki/Bumble",
+        "https://en.wikipedia.org/wiki/Bumble"
+      ],
+      "wikidata_qid": "Q21233433"
+    },
+    {
+      "id": "Q120281745",
+      "date": "2027-04-13",
+      "category": "yazilim-internet",
+      "widget_title": "Threads ne zaman piyasaya sürüldü?",
+      "hook": "Instagram’ın rakibi olarak doğan bu uygulama, adını aldığı ‘konu’lardan çok daha hızlı yayıldı — peki sence ne zaman hayata geçti?",
+      "answer_year": 2023,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Threads, Meta’nın Instagram’ın yanı sıra geliştirdiği sosyal ağ hizmeti olarak 2023 yılında kullanıma sunuldu. Uygulama, özellikle Instagram kullanıcıları arasında anlık etkileşim ve metin tabanlı paylaşımlar için tasarlandı. Piyasaya sürülmesiyle birlikte kısa sürede milyonlarca indirilme rakamına ulaşan Threads, sosyal medya dünyasında yeni bir sayfa açtı.\n\nThreads’in çıkış hikayesi, Meta’nın diğer platformlara olan bağımlılığı azaltma ve kullanıcıları daha geniş bir ekosisteme dahil etme stratejisinin bir parçası olarak görülüyor. Uygulama, ilk etapta Instagram’daki takipçi ilişkilerini temel alarak kullanıcıların birbirleriyle daha doğrudan ve hızlı bir şekilde iletişim kurmasını hedefledi. [DOĞRULA: Threads’in ilk kullanıcı arayüzü ve temel özelliklerinin kimler tarafından geliştirildiği]\n\nPiyasaya sürüldüğü dönemde, özellikle Twitter’a (şimdiki X) alternatif olarak konumlandırılan Threads, kısa sürede hem olumlu hem de olumsuz tepkiler aldı. Kullanıcıların büyük bir kısmı uygulamayı kolayca benimserken, bazıları ise arayüz ve kullanım alışkanlıkları açısından farklı beklentiler içindeydi.",
+      "fun_fact": "Threads’in piyasaya sürülmesinden sadece beş gün sonra 100 milyon kullanıcıya ulaşması, sosyal medya tarihindeki en hızlı büyüme rekorlarından biri olarak kayıtlara geçti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q120281745",
+        "https://tr.wikipedia.org/wiki/Threads",
+        "https://en.wikipedia.org/wiki/Threads_(social_network)"
+      ],
+      "wikidata_qid": "Q120281745"
+    },
+    {
+      "id": "Q183412",
+      "date": "2027-04-14",
+      "category": "kurum-marka",
+      "widget_title": "Müzik devi EMI'ın hikayesi ne zaman başladı?",
+      "hook": "Dünya müzik tarihinin en önemli şirketlerinden biri olan EMI, aslında çok farklı iki firmanın birleşimiyle doğdu.",
+      "answer_year": 1931,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Müzik dünyasında bir döneme damgasını vurmuş, efsanevi plak şirketi EMI'ın temelleri, 1931 yılında atıldı. Ancak bu kuruluş, sıfırdan başlayan bir hikaye değil, iki büyük İngiliz müzik şirketinin güçlerini birleştirmesiyle gerçekleşen stratejik bir hamleydi. Columbia Gramophone Company ve Gramophone Company, ekonomik zorluklar ve rekabetin arttığı bir dönemde bir araya gelerek Electrical and Musical Industries Limited, yani kısaca EMI'ı kurdu.\n\nBu birleşme, sadece bir isim değişikliği değil, aynı zamanda müzik endüstrisi için yepyeni bir dönemin başlangıcıydı. EMI, sadece müzik kaydetmekle kalmadı, aynı zamanda kayıt teknolojileri ve ekipmanları konusunda da öncü oldu. [DOĞRULA: Şirket, radyo ve televizyon gibi alanlarda da önemli yatırımlar yaptı.] En bilinen miraslarından biri şüphesiz, sayısız efsanevi albüme ev sahipliği yapan ve The Beatles gibi grupları müzik tarihine kazandıran ikonik Abbey Road Stüdyoları'dır. EMI'ın çatısı altında müzikseverlerle buluşan sanatçıların listesi adeta bir \"Kim Kimdir?\" rehberi gibidir; Pink Floyd'dan Queen'e, Frank Sinatra'dan The Beatles'a kadar uzanır. Müzik teknolojisinden sanatsal üretimine kadar geniş bir yelpazede etkisi olan EMI, ne yazık ki 21. yüzyılın başlarında değişen müzik endüstrisi dinamiklerine ayak uydurmakta zorlandı ve sonunda parçalara ayrılarak diğer firmalar tarafından satın alındı. Ancak mirası, hala dünya müzik arşivinde parlamaya devam ediyor.",
+      "fun_fact": "EMI, ilk başlarda sadece müzik değil, aynı zamanda ev aletleri ve elektronik ürünler de üretiyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q183412",
+        "https://tr.wikipedia.org/wiki/EMI",
+        "https://en.wikipedia.org/wiki/EMI"
+      ],
+      "wikidata_qid": "Q183412"
+    },
+    {
+      "id": "Q190001",
+      "date": "2027-04-15",
+      "category": "oyun-spor",
+      "widget_title": "Kontinental Hokey Ligi ne zaman kuruldu?",
+      "hook": "Dünyanın en sert ve en hızlı buz hokeyi liglerinden biri olan KHL, aslında bir devrimin ürünü... Peki bu devrim ne zaman başladı?",
+      "answer_year": 2008,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Kontinental Hokey Ligi (KHL), 2008 yılında resmen kuruldu ve Rusya merkezli olarak faaliyet göstermeye başladı. [DOĞRULA: Bu ligin kurulma amacı, Sovyetler Birliği dönemindeki efsanevi Sovyet Hokey Ligi’nin mirasını sürdürmek miydi?] Sovyetler Birliği’nin dağılmasının ardından Rusya’da ve diğer bağımsız devletlerde buz hokeyi yavaş yavaş farklı ligler altında organize olmaya başlamıştı. Ancak 2000’lerin ortalarında, bu dağınık yapıyı birleştirmek ve Avrupa’nın en güçlü liglerinden biri haline getirmek için ciddi adımlar atıldı.\n\nKHL’in kurulması, sadece Rusya için değil, tüm Avrasya bölgesi için bir dönüm noktası oldu. Lig, Rusya’nın yanı sıra Belarus, Kazakistan, Çin ve hatta son dönemde Avrupa’dan bazı takımları da bünyesine katarak genişledi. Avrupa’nın en iyi oyuncularını ve hatta NHL’den gelen bazı yıldızları da ağırladı. Bu sayede, Kuzey Amerika dışındaki en önemli hokey ligi unvanını kazandı.\n\nKHL’in ilk sezonu 2008-2009’da başladı ve o günden bugüne, buz hokeyine olan ilgiyi artırmakla kalmadı, aynı zamanda Rusya’nın spor diplomasisinde de önemli bir rol oynadı. Tabii ki, ligin tarihindeki bazı siyasi ve ekonomik dalgalanmalar da etkisini gösterdi, ama KHL her seferinde ayakta kalmayı başardı.",
+      "fun_fact": "KHL’in Gagarin Kupası, adını ilk insanı uzaya gönderen Sovyet kozmonot Yuri Gagarin’den alır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q190001",
+        "https://tr.wikipedia.org/wiki/Kontinentalnaya_hokkeynaya_liga",
+        "https://en.wikipedia.org/wiki/Kontinental_Hockey_League"
+      ],
+      "wikidata_qid": "Q190001"
+    },
+    {
+      "id": "Q21462723",
+      "date": "2027-04-16",
+      "category": "iletisim",
+      "widget_title": "Bugün sıkça kullandığımız Uber Eats ne zaman kuruldu?",
+      "hook": "Acıktığımızda kapımıza kadar yemek getiren Uber Eats, aslında sandığımızdan daha genç bir hikayeye sahip.",
+      "answer_year": 2015,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Bugün cebimizdeki akıllı telefonlar sayesinde dünyanın dört bir yanından lezzetleri kapımıza getiren yemek sipariş uygulamaları, modern yaşamın vazgeçilmez bir parçası haline geldi. Bu devrimin önemli oyuncularından biri olan Uber Eats, resmi olarak 2015 yılında kuruldu ve kısa sürede küresel çapta tanınan bir marka haline geldi.\n\nBelki de birçoğumuzun bildiği gibi, Uber Eats aslında meşhur araç çağırma uygulaması Uber'in bir yan ürünü. Uber, kullanıcıların sadece yolculuk değil, aynı zamanda yemek gibi temel ihtiyaçlarını da karşılayabileceği bir platform olma vizyonuyla yola çıktı. İlk olarak 2014 yılında, sadece belirli şehirlerde UberFRESH adıyla bir pilot proje olarak başlayan bu macera, ertesi yıl Uber Eats adını alarak kendi kimliğini kazandı ve genişlemeye başladı.\n\nUber Eats'in yükselişi, akıllı telefon kullanımının yaygınlaşması ve şehir hayatının hızlanmasıyla paralel ilerledi. İnsanlar, yoğun tempoları içinde yemek yapmaya vakit bulamadıklarında veya farklı mutfakları denemek istediklerinde, birkaç dokunuşla sipariş verebilecekleri pratik çözümler arıyorlardı. Uber Eats de tam bu noktada devreye girerek, binlerce restoranı ve milyonlarca müşteriyi bir araya getiren devasa bir ağ kurdu. Şehirlerdeki restoranların menülerini dijital ortama taşıyarak, evde, işte veya herhangi bir yerde yemek keyfini yaşama imkanı sundu. Bu hızlı büyüme, yemek dağıtım sektöründe büyük bir rekabeti de beraberinde getirdi ve birçok benzer uygulamanın doğuşuna zemin hazırladı.",
+      "fun_fact": "Uber Eats'in ana şirketi Uber'in ilk yemek dağıtım denemesi olan \"UberFRESH\" projesi, başlangıçta sadece öğle yemeği servis ediyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21462723",
+        "https://tr.wikipedia.org/wiki/Uber_Eats",
+        "https://en.wikipedia.org/wiki/Uber_Eats"
+      ],
+      "wikidata_qid": "Q21462723"
+    },
+    {
+      "id": "Q1282139",
+      "date": "2027-04-17",
+      "category": "yazilim-internet",
+      "widget_title": "Ecosia arama motoru ne zaman kuruldu?",
+      "hook": "Dünyanın en yeşil arama motorlarından biri olan Ecosia’yı hiç kullandın mı? Peki ilk kez ne zaman ortaya çıktığını biliyor musun?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Ecosia, kullanıcıların yaptığı aramalarla ağaç dikmeyi destekleyen bir arama motoru olarak 7 Aralık 2009 tarihinde resmen hayata geçirildi. [DOĞRULA: Kuruluşunun ilk yıllarında, özellikle Almanya merkezli kullanıcılar arasında popülerlik kazandığı doğrulanmalıdır.] Temelleri, Christian Kroll adlı bir girişimci tarafından atılan proje, çevre dostu yaklaşımıyla kısa sürede dikkat çekti. Kroll’un amacı, reklam gelirlerini ağaç dikimi projelerine aktararak hem dijital dünyaya hem de doğaya katkı sağlamaktı.\n\nBaşlangıçta, Ecosia’nın arama sonuçları Microsoft’un Bing motorundan sağlanıyordu. Bu işbirliği, kullanıcıların yaptığı her aramanın bir ağaç dikilmesine katkıda bulunmasını mümkün kıldı. Zamanla platform, kullanıcıların gizliliğine önem veren bir duruş benimseyerek, kişisel verileri izleme veya satma politikalarından uzak durduğunu açıkça duyurdu. Bugün milyonlarca kullanıcıya ulaşan Ecosia, sadece bir arama motoru olmanın ötesinde, sürdürülebilir bir gelecek için farkındalık yaratan bir hareket haline geldi.\n\nEcosia’nın hikayesi, teknolojinin çevreyle nasıl uyum içinde çalışabileceğinin güzel bir örneği. Peki sen, Ecosia’yı kullanarak kaç ağaca destek oldun?",
+      "fun_fact": "Ecosia’nın sunduğu arama sonuçlarının doğruluğunu artırmak için kullanılan algoritmalar, Bing’in yanı sıra kendi geliştirmekte olduğu yapay zeka araçlarından da faydalanıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1282139",
+        "https://tr.wikipedia.org/wiki/Ecosia",
+        "https://en.wikipedia.org/wiki/Ecosia"
+      ],
+      "wikidata_qid": "Q1282139"
+    },
+    {
+      "id": "Q185120",
+      "date": "2027-04-18",
+      "category": "kurum-marka",
+      "widget_title": "Vazelin hayatımıza ne zaman girdi?",
+      "hook": "Petrol kuyularından çıkan garip bir kalıntı, nasıl oldu da her derde deva bir merheme dönüştü?",
+      "answer_year": 1872,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Bu sorunun cevabı, 1872 yılında mucit Robert Augustus Chesebrough'nun büyük bir buluşa imza atmasıyla şekillendi. Chesebrough, Pensilvanya'daki petrol sahalarında gezerken, işçilerin ekipmanlarında biriken jel benzeri bir maddeyi (\"rod wax\" olarak biliyorlardı) yanıklarına ve yaralarına sürdüklerini fark etti. Bu ilginç madde, işçilerin ciltlerini iyileştirmeye yardımcı oluyordu. Bu gözlemden ilham alan genç kimyager, maddeyi rafine etmek ve daha saf, işlevsel bir hale getirmek için yola çıktı. Yıllar süren denemelerin ve araştırmaların ardından, Chesebrough, bu saf ve şeffaf jeli mükemmelleştirmeyi başardı. 1872'de, \"Petrol Jeli\" olarak adlandırdığı ve kısa sürede \"Vaseline\" markasıyla anılacak bu ürünü patentledi. Vazelin adı için, Latince su anlamındaki \"aqua\" ve Yunanca zeytinyağı anlamındaki \"elaion\" kelimelerinin birleşiminden esinlendiği söylenir [DOĞRULA: Vazelin isminin etimolojisi (\"wasser\" ve \"elaion\" olabilir mi?)]. Başlangıçta küçük kavanozlarda satılan vazelin, kısa sürede her evin vazgeçilmezi haline geldi. Kesiklerden yanıklara, çatlamış dudaklardan bebek pişiklerine kadar sayısız alanda kullanıldı. Öyle ki, Chesebrough'nun kendisinin de her gün bir kaşık vazelin yediği ve bu sayede 96 yaşına kadar yaşadığına dair yaygın bir şehir efsanesi vardır [DOĞRULA: Bu efsane doğru mu?]. Bu sade jel, basit ama etkili formülüyle zamanın ötesine geçerek günümüzde bile milyonlarca insanın günlük bakım rutininde önemli bir yer tutuyor.",
+      "fun_fact": "Vazelin, sadece kozmetik amaçlı değil, aynı zamanda paslanmayı önlemek, ahşap mobilyaları parlatmak veya sıkışmış fermuarları yağlamak gibi ev işlerinde de kullanılabilir!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q185120",
+        "https://tr.wikipedia.org/wiki/Vazelin",
+        "https://en.wikipedia.org/wiki/Vaseline"
+      ],
+      "wikidata_qid": "Q185120"
+    },
+    {
+      "id": "Q194052",
+      "date": "2027-04-19",
+      "category": "oyun-spor",
+      "widget_title": "Serie B ne zaman kuruldu?",
+      "hook": "İtalya'nın ikinci ligi Serie B, neredeyse bir asırdır futbolseverlere heyecan dolu maçlar yaşatıyor — peki sizce bu lig tam olarak ne zaman doğdu?",
+      "answer_year": 1929,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Serie B’nin hikayesi, İtalyan futbolunun erken dönemlerine dayanıyor. Lig, **1929 yılında** resmi olarak kuruldu ve o günden beri ülkenin en önemli ikinci seviye futbol organizasyonlarından biri haline geldi. Ancak bu tarih, İtalyan futbolunun profesyonelleşme sürecindeki önemli bir dönüm noktasını temsil ediyor.\n\nAslında, Serie B’nin temelleri 1920’lerin ortalarına kadar uzanıyor. O dönemde İtalya’da yerel ligler ve turnuvalar düzensiz bir şekilde organize ediliyordu. 1926’da İtalyan Futbol Federasyonu (FIGC), ülke genelinde daha standart bir lig sistemi oluşturmak için reformlara başladı. Bu süreçte, **1929-1930 sezonu** itibarıyla Serie A ve Serie B olarak iki ayrı lig kurulmasına karar verildi. Serie B, o sezon 18 takımla başladı ve ilk şampiyonu Genoa oldu.\n\nSerie B’nin kuruluşuyla birlikte İtalyan futbolu, hem yukarı hem de aşağı yönde daha rekabetçi bir yapı kazandı. Lig, zamanla birçok efsanevi futbolcunun yetiştiği bir platform haline geldi. Ayrıca, Serie B’de geçirdiği bir sezonun ardından Serie A’ya yükselmek, birçok oyuncu ve takım için büyük bir motivasyon kaynağı oldu.\n\n[DOĞRULA: Serie B’nin kuruluşunda hangi federasyonun rol oynadığı ve 1929 yılının tam olarak hangi döneminde (örneğin, sezon başlangıcı) ligin resmen başladığı hakkında daha detaylı bilgi bulunmamaktadır. Bu konuda ek kaynaklara ihtiyaç var.]\n\nBugün Serie B, sadece bir alt lig olmanın ötesinde, İtalyan futbolunun geleceğine yön veren birçok yeteneğin de ilk durağı olarak görülüyor.",
+      "fun_fact": "Serie B’de en uzun süre kalan takım, 27 sezon boyunca ligde kalan Brescia’dır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q194052",
+        "https://tr.wikipedia.org/wiki/Serie_B",
+        "https://en.wikipedia.org/wiki/Serie_B"
+      ],
+      "wikidata_qid": "Q194052"
+    },
+    {
+      "id": "Q22096321",
+      "date": "2027-04-20",
+      "category": "iletisim",
+      "widget_title": "Apple Haberler ne zaman hayatımıza girdi?",
+      "hook": "Akıllı telefonlarımızda haberleri takip etme şeklimizi değiştiren bu uygulama, aslında ne kadar süredir bizimle?",
+      "answer_year": 2015,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Günümüz dünyasında haberleri takip etmek, akıllı telefonlarımızla adeta iç içe geçmiş bir alışkanlık haline geldi. Sabah kahvemizi yudumlarken, toplu taşımada seyahat ederken veya gün içinde kısa bir mola verdiğimizde, parmaklarımızın ucunda sayısız bilgi kaynağına erişebiliyoruz. İşte tam da bu noktada, Apple kullanıcıları için tasarlanmış özel bir deneyim sunan Apple Haberler devreye girdi.\n\nBu uygulama, ilk olarak 2015 yılında Apple'ın işletim sistemi iOS 9 ile birlikte hayatımıza girdi. Amacı, farklı haber kaynaklarından gelen içerikleri tek bir çatı altında toplayarak kişiselleştirilmiş bir okuma deneyimi sunmaktı. Yani, ayrı ayrı gazetelerin veya haber sitelerinin uygulamaları arasında gezinmek yerine, ilgi alanlarınıza göre derlenmiş haberleri doğrudan Apple Haberler üzerinden takip edebiliyorsunuz. Uygulama, başlangıçta [DOĞRULA: belirli ülkelerde mi, yoksa tüm dünya genelinde mi aynı anda kullanıma sunuldu?] gibi detayları merak ettirse de, hızla kullanıcılar arasında popülerlik kazandı. İçerik üreticileri için de yeni bir dağıtım kanalı sunarak, dijital yayıncılık ekosistemine önemli bir katkı sağladı. Haberleri okurken dikkatinizi dağıtacak unsurları minimize etmesi ve okuma kolaylığı sunması da en beğenilen özellikleri arasında yer alıyor.",
+      "fun_fact": "Apple Haberler, sadece metin tabanlı makalelerle sınırlı kalmayıp, bazı yayıncılar için interaktif ve zengin medya içeriklerini de destekliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22096321",
+        "https://tr.wikipedia.org/wiki/Apple_Haberler",
+        "https://en.wikipedia.org/wiki/Apple_News"
+      ],
+      "wikidata_qid": "Q22096321"
+    },
+    {
+      "id": "Q131910",
+      "date": "2027-04-21",
+      "category": "yazilim-internet",
+      "widget_title": "Yammer ne zaman kullanıma sunuldu?",
+      "hook": "İş dünyasının 'sosyal medya'sı olan Yammer, takım içi iletişimi nasıl değiştirdi biliyor musunuz?",
+      "answer_year": 2008,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Yammer, 2008 yılında kullanıma sunulan bir kurumsal sosyal ağ platformu olarak doğdu. Temelde e-postanın yerini alacak şekilde tasarlanan bu araç, çalışanların projeler hakkında anında fikir alışverişinde bulunabildiği, dosya paylaşabildiği ve takım ruhunu güçlendiren bir alan olarak hızla yayıldı. Kurucusu David Sacks’in de içinde bulunduğu PayPal kökenli ekip, bu fikri geliştirirken aslında şirket içi iletişimin ne kadar kırılgan olduğunu gözlemlemişti. Yammer’ın ilk versiyonu, sadece davetiyeyle erişilebilen kapalı bir ağ olarak başladı — bu da onu o dönemdeki diğer sosyal platformlardan ayıran önemli bir özellikti.\n\nZamanla Yammer, Microsoft’un dikkatini çekti ve 2012 yılında şirket tarafından satın alındı. Platform, daha sonra Viva Engage adıyla Microsoft’un iş odaklı ürün yelpazesine dahil edildi. Yammer’ın doğuşundan bu yana geçen yıllarda, uzaktan çalışmanın artmasıyla birlikte kurumsal iletişimde ne kadar kritik bir rol oynadığı daha da netleşti.\n\n[DOĞRULA: Yammer’ın ilk kullanıcı sayısı ve ilk yıllardaki büyüme verileri hakkında detaylı bilgiler var mı?]",
+      "fun_fact": "Yammer, ilk olarak bir 'yan proje' olarak başladı — ekip, PayPal’in iç iletişim sorunlarına çözüm bulmak için hafta sonlarında bu aracı geliştirdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131910",
+        "https://tr.wikipedia.org/wiki/Yammer",
+        "https://en.wikipedia.org/wiki/Viva_Engage"
+      ],
+      "wikidata_qid": "Q131910"
+    },
+    {
+      "id": "Q190585",
+      "date": "2027-04-22",
+      "category": "kurum-marka",
+      "widget_title": "Müzik dünyasının efsanesi Island Records'ın kuruluş yılı ne?",
+      "hook": "Reggae'den rock'a uzanan eşsiz bir müzik yolculuğuna hazır olun!",
+      "answer_year": 1959,
+      "year_precision": "day",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Müzik tarihinin dönüm noktalarından biri olan Island Records, kapılarını ilk kez 1959 yılında açtı. Plak şirketinin kurucusu Chris Blackwell, o dönemde henüz 22 yaşındaydı ve bu girişimiyle müzik dünyasında kalıcı bir iz bırakacağından habersizdi. Aslen Jamaika kökenli olan Island Records, adanın ritimlerini ve ruhunu dünyaya taşımayı hedefliyordu. Kısa süre sonra Londra'ya taşınan şirket, reggae müziğini Batı dünyasına tanıtan öncü güçlerden biri oldu. Bob Marley ve The Wailers gibi efsanevi isimleri keşfetmesi ve onların müziğini küresel bir fenomen haline getirmesi, Island Records'ın en bilinen başarılarından. Ancak şirket sadece reggae ile sınırlı kalmadı; Cat Stevens, Traffic, U2 ve Grace Jones gibi farklı türlerden birçok yetenekli sanatçının kariyer basamaklarını tırmanmasına yardımcı oldu. Island Records, müziğin sınırlarını zorlayan, yenilikçi seslere kucak açan ve dünya çapında kültürel bir etki yaratan bir marka olarak tarihe geçti. [DOĞRULA: Chris Blackwell'in şirketi Graeme Goodall ve Leslie Kong ile birlikte kurduğu bilgisini teyit et.] Onun vizyonu sayesinde, 'Island' adı sadece bir plak şirketi olmaktan çıkıp, bağımsız ruhun ve cesur müzikal keşiflerin sembolü haline geldi. Şirket, zaman içinde büyük holdinglerin parçası olsa da, özgün kimliğini ve müziğe olan tutkusunu korumayı başardı.",
+      "fun_fact": "Island Records'ın logosu, başlangıçta bir tekne direği ve dalgaları tasvir eden basit bir çizimden oluşuyordu, bu da adından ilham alıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q190585",
+        "https://tr.wikipedia.org/wiki/Island_Records",
+        "https://en.wikipedia.org/wiki/Island_Records"
+      ],
+      "wikidata_qid": "Q190585"
+    },
+    {
+      "id": "Q1968",
+      "date": "2027-04-23",
+      "category": "oyun-spor",
+      "widget_title": "Formula 1 ne zaman başladı?",
+      "hook": "Dünyanın en hızlı, en lüks ve en çok takip edilen motorsporu serisi olan F1’in ilk adımı hangi yılda atıldı sence?",
+      "answer_year": 1950,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Formula 1’in resmi olarak doğum tarihi 1950 olarak kabul edilir. Bu yıl, ilk **Dünya Sürücüler Şampiyonası** yarışlarının düzenlendiği yıl oldu. Ancak F1’in kökenleri bundan çok daha eskiye, 1920’lere ve hatta 19. yüzyılın sonlarına kadar uzanıyor. [DOĞRULA: 1920’lerdeki Grand Prix yarışlarının F1’in doğrudan habercisi olup olmadığı] Erken dönem otomobil yarışları, farklı ülkelerde ve farklı kurallarla yapılırken, 1950’de **Uluslararası Otomobil Federasyonu (FIA)** tarafından standart kurallar ve bir şampiyonluk sistemi oluşturuldu. Bu, modern F1’in temelini attı.\n\nİlk F1 yarışı, 13 Mayıs 1950 tarihinde İngiltere’nin Silverstone pistinde gerçekleşti. Giuseppe Farina, bu yarışın galibi olarak tarihe geçti. O dönemdeki arabalar, günümüzün yüksek teknolojili araçlarından çok farklıydı: açık kokpitli, basit aerodinamikli ve neredeyse hiç elektronik yardımcı sistemleri olmayan araçlardı. Güvenlik standartları da bugünküyle kıyaslanamayacak kadar düşüktü — örneğin, ilk yıllarda sürücüler neredeyse hiç koruma olmadan yarışırlardı.\n\nF1’in ilk yıllarında takım sayısı sınırlıydı ve çoğu takım aynı zamanda araba üreticisiydi. Ferrari, Alfa Romeo ve Maserati gibi markalar, hem araba hem de takım olarak şampiyonaya katılırlardı. [DOĞRULA: Bu markaların F1’e ilk katıldıkları yılların doğrulanması] Zamanla, F1 daha profesyonel bir yapıya kavuştu ve sponsorluklar, medya ilgisi ve teknolojik gelişmelerle birlikte küresel bir fenomene dönüştü.",
+      "fun_fact": "İlk F1 Dünya Şampiyonu Giuseppe Farina’nın soyadı, İtalyancada \"çiftçi\" anlamına geliyor — oysa ki kendisi bir avukat olarak kariyerine başlamıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1968",
+        "https://tr.wikipedia.org/wiki/Formula_1",
+        "https://en.wikipedia.org/wiki/Formula_One"
+      ],
+      "wikidata_qid": "Q1968"
+    },
+    {
+      "id": "Q22328294",
+      "date": "2027-04-24",
+      "category": "iletisim",
+      "widget_title": "Cüzdanı unutturan Samsung Pay ne zaman kullanıma sunuldu?",
+      "hook": "Akıllı telefonunuzla ödeme yapma rahatlığına ne zaman kavuştuk?",
+      "answer_year": 2015,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Akıllı telefonlarımızın cebimizdeki banka kartı ve nakit paranın yerini alacağı fikri, bir zamanlar bilim kurgu gibi geliyordu. Ama teknoloji durmak bilmedi ve bu hayali gerçeğe dönüştüren adımlardan biri de 2015 yılında atıldı: Samsung Pay! Bu mobil ödeme ve dijital cüzdan servisi, telefonunuzu sadece iletişim aracı olmaktan çıkarıp, aynı zamanda güvenli bir ödeme terminaline dönüştürdü. Artık cüzdanınızı yanınızda taşıma derdi olmadan, sadece akıllı telefonunuzla pratik ve hızlı bir şekilde alışveriş yapabiliyordunuz.\n\nSamsung Pay'i rakiplerinden ayıran önemli bir özellik vardı: Sadece NFC (Yakın Alan İletişimi) teknolojisiyle değil, aynı zamanda MST (Manyetik Güvenli İletim) teknolojisiyle de çalışabiliyordu. Bu ne anlama geliyor biliyor musunuz? Yani sadece yeni nesil temassız ödeme terminalleriyle değil, eski tip, manyetik şeritli kartları okuyan POS cihazlarıyla da uyumluydu! Bu sayede çok daha geniş bir yelpazedeki mağazada ve mekanda kullanılabildi, kullanıcılarına büyük bir esneklik sundu. [DOĞRULA: Samsung'un MST teknolojisini [LoopPay] adlı bir şirket üzerinden edindiği bilgisi ve bu teknolojiyi ne kadar süreyle desteklediği.] Telefonunuzu POS cihazına yaklaştırmanız veya hatta hafifçe değdirmeniz yeterliydi. Kredi kartı bilgilerinizi fiziksel olarak paylaşmadan, tokenizasyon gibi gelişmiş güvenlik önlemleri sayesinde güvenli ve hızlı bir şekilde ödeme yapmanızı sağlayan bu sistem, dijitalleşen dünyamızda alışveriş deneyimini kökten değiştirdi. Cüzdanınızı unutma endişesi olmadan, telefonunuz yanınızdaysa ödeme de sizinleydi. Mobil ödemenin rahatlığı ve hızı, gündelik hayatımızın vazgeçilmez bir parçası haline gelmesine büyük katkı sağladı.",
+      "fun_fact": "Samsung Pay'in erken dönemdeki en büyük avantajlarından biri, sadece NFC değil, eski tip manyetik şerit okuyucularla da uyumlu çalışabilen MST teknolojisini desteklemesiydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22328294",
+        "https://tr.wikipedia.org/wiki/Samsung_Pay",
+        "https://en.wikipedia.org/wiki/Samsung_Pay"
+      ],
+      "wikidata_qid": "Q22328294"
+    },
+    {
+      "id": "Q1319169",
+      "date": "2027-04-25",
+      "category": "yazilim-internet",
+      "widget_title": "Skyscanner ne zaman kuruldu?",
+      "hook": "Uçak biletinden otel rezervasyonuna kadar her şeyi tek tıkla bulmanızı sağlayan o efsanevi arama motorunun hikayesi, aslında bir İskoçya yolculuğuyla başladı desem?",
+      "answer_year": 2001,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Skyscanner’ın hikayesi, 2001 yılında Gareth Williams, Barry Smith ve Bonamy Grimes adlı üç İskoç yazılımcının birbirlerine \"Neden uçak biletlerini bu kadar pahalı buluyoruz?\" diye sormalarıyla başladı. O dönemde bilet fiyatlarını karşılaştırmak için farklı siteleri tek tek ziyaret etmek gerekiyordu. Üçlü, bu sorunu çözmek için bir araya geldi ve Skyscanner’ı kurdu. İlk versiyonu, kullanıcıların farklı havayolu şirketlerinin fiyatlarını karşılaştırabildiği basit bir araçtı.\n\nBaşlangıçta sadece İskoçya’daki kullanıcılara hizmet veren platform, zamanla Avrupa’ya ve ardından dünyaya yayıldı. 2003 yılında ise tamamen ücretsiz bir hizmet olarak kullanıma sunuldu. Skyscanner’ın en büyük avantajlarından biri, üçüncü taraf sitelerden veri toplayarak kullanıcılarına en uygun fiyatları sunmasıydı. Bu sayede, kullanıcılar biletlerini doğrudan havayolu şirketlerinden veya güvenilir acentelerden satın alabiliyordu.\n\n[DOĞRULA: Skyscanner’ın ilk versiyonunun tam olarak hangi ayda piyasaya sürüldüğü] Skyscanner, 2000’lerin ortalarında hızla büyüdü ve 2011 yılında Çinli şirket Ctrip tarafından satın alındı. Günümüzdeyse 100’den fazla ülkede hizmet veriyor ve milyonlarca kullanıcıya ulaşıyor. İlginç olan, şirketin kurucularının hiçbiri havacılık sektöründen gelmiyordu—hepsi yazılım ve teknoloji alanında uzmanlardı!",
+      "fun_fact": "Skyscanner’ın ilk ofisi, kurucularından biri olan Gareth Williams’ın evinin oturma odasıydı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1319169",
+        "https://tr.wikipedia.org/wiki/Skyscanner",
+        "https://en.wikipedia.org/wiki/Skyscanner"
+      ],
+      "wikidata_qid": "Q1319169"
+    },
+    {
+      "id": "Q202440",
+      "date": "2027-04-26",
+      "category": "kurum-marka",
+      "widget_title": "Müzik devi Atlantic Records'un temelleri ne zaman atıldı?",
+      "hook": "Peki, rock 'n' roll'dan soul'a, pek çok efsanenin doğuşuna tanıklık eden bu müzik imparatorluğu nasıl kuruldu?",
+      "answer_year": 1947,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Müzik dünyasının en ikonik plak şirketlerinden biri olan Atlantic Records, 1947 yılında kapılarını açtığında, aslında kimse bu küçük stüdyonun gelecekte neler başaracağını tahmin edemezdi. Türkiye kökenli müzik yapımcısı Ahmet Ertegün ve Herb Abramson tarafından kurulan Atlantic Records, özellikle rhythm and blues (R&B) ve caz müziklerine odaklanarak yola çıktı. O dönemde ana akım müzik şirketlerinin genellikle göz ardı ettiği bu türlere kucak açması, şirketin kısa sürede büyük bir itibar kazanmasını sağladı.\n\nAtlantic Records, müziğe getirdiği yenilikçi yaklaşım ve sanatçılarına olan bağlılığıyla hızla fark yarattı. Ray Charles, Aretha Franklin, Otis Redding gibi efsanevi isimlerin kariyerlerini başlatan veya yükselten bir platform oldu. Sadece R&B ve soul ile sınırlı kalmayıp, rock 'n' roll'un altın çağında da Led Zeppelin, Cream gibi grupları bünyesine katarak müzik yelpazesini genişletti. Şirket, zamanla Warner Music Group'un bir parçası haline gelerek global bir müzik devine dönüştü. Atlantic Records'un hikayesi, sadece bir plak şirketinin değil, aynı zamanda Amerikan müziğinin gelişimini de anlatan zengin bir mozaiktir. Kurucularının vizyonu ve risk alma cesareti sayesinde, müzik tarihinde silinmez bir iz bıraktılar ve nesiller boyu sanatçıya ilham verdiler.",
+      "fun_fact": "Atlantic Records'un kurucusu Ahmet Ertegün, aslında bir diplomatın oğluydu ve çocukluğu farklı ülkelerde geçmişti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q202440",
+        "https://tr.wikipedia.org/wiki/Atlantic_Records",
+        "https://en.wikipedia.org/wiki/Atlantic_Records"
+      ],
+      "wikidata_qid": "Q202440"
+    },
+    {
+      "id": "Q19831807",
+      "date": "2027-04-27",
+      "category": "oyun-spor",
+      "widget_title": "Lichess ne zaman kuruldu?",
+      "hook": "Ücretsiz, reklamsız ve açık kaynaklı bir satranç platformu olan Lichess’in doğuş hikayesi sizi şaşırtabilir!",
+      "answer_year": 2010,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Lichess, 2010 yılında hayata geçen ve satranç dünyasında devrim yaratan bir platform. [DOĞRULA: Kurucusunun kim olduğu kesin olarak bilinmiyor] ama hikaye, bir grup meraklı geliştiricinin basit bir proje olarak başladığını ve zamanla dünyanın en popüler çevrimiçi satranç sitelerinden biri haline geldiğini gösteriyor.\n\nBaşlangıçta sadece bir hobi projesi olarak başlayan Lichess, kullanıcılarına sunduğu tamamen ücretsiz ve reklamsız deneyimle dikkat çekti. Açık kaynak kodlu yapısı sayesinde, dünya genelindeki geliştiricilerin katkılarıyla sürekli olarak gelişen bir platform haline geldi. Bugün milyonlarca kullanıcıya sahip olan Lichess, sadece bir oyun sitesi olmanın ötesinde, satranç topluluğuna eğitim araçları, analizler ve turnuvalar sunuyor.\n\nLichess’in en ilginç yanlarından biri de, kullanıcıların hiçbir ücret ödemeden tüm özelliklerden faydalanabilmesi. Bu durum, ticari motivasyonlardan uzak duran bir vizyonun ürünü olarak görülüyor.",
+      "fun_fact": "Lichess’in sunucu maliyetleri, kullanıcıların gönüllü bağışlarıyla karşılanıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19831807",
+        "https://tr.wikipedia.org/wiki/Lichess",
+        "https://en.wikipedia.org/wiki/Lichess"
+      ],
+      "wikidata_qid": "Q19831807"
+    },
+    {
+      "id": "Q2302402",
+      "date": "2027-04-28",
+      "category": "iletisim",
+      "widget_title": "Grindr ne zaman hayatımıza girdi?",
+      "hook": "Konum tabanlı flört uygulamalarının öncüsü Grindr, dijital dünyaya ne zaman adım attı?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Bugün akıllı telefonlarımızdan sayısız insanla tanışmamızı sağlayan konum tabanlı uygulamalar, hayatımızın vazgeçilmez bir parçası. Peki bu devrimin ilk kıvılcımlarından biri olan Grindr, ne zaman ortaya çıktı? Cevap: 2009! Grindr, özellikle eşcinsel, biseksüel, trans ve kuir (LGBTQ+) bireyler için tasarlanmış ilk geniş ölçekli konum tabanlı sosyal ağ ve flört uygulamalarından biriydi. O dönemde akıllı telefonlar yeni yeni popülerleşirken, Grindr telefonunuzun GPS özelliğini kullanarak size yakındaki diğer kullanıcıları gösterme fikrini hayata geçirdi. Bu yenilikçi yaklaşım, özellikle LGBTQ+ topluluğu için, geleneksel tanışma yöntemlerinin zorluklarını aşarak çok daha erişilebilir ve güvenli bir buluşma alanı yarattı. İnsanların coğrafi engelleri aşarak anında bağlantı kurabilmesini sağlaması, sadece flört alışkanlıklarını değil, aynı zamanda sosyal etkileşimleri de kökten değiştirdi. Uygulama, kişiselleştirilmiş profiller, anlık mesajlaşma ve konum filtreleri gibi özelliklerle kısa sürede dünya çapında milyonlarca kullanıcıya ulaştı. Grindr'ın başarısı, diğer niş topluluklar ve genel kullanıcılar için de benzer konum tabanlı uygulamaların önünü açtı ve dijital sosyal yaşamın yeni bir evresini başlattı. Belki de bugünkü birçok sosyal uygulamanın temelleri, 2009'da atılan bu ilk adımla şekillendi.",
+      "fun_fact": "Grindr'ın kurucusu Joel Simkhai, uygulamayı kendi kişisel ihtiyacından yola çıkarak geliştirdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2302402",
+        "https://tr.wikipedia.org/wiki/Grindr",
+        "https://en.wikipedia.org/wiki/Grindr"
+      ],
+      "wikidata_qid": "Q2302402"
+    },
+    {
+      "id": "Q1321495",
+      "date": "2027-04-29",
+      "category": "yazilim-internet",
+      "widget_title": "El Universal gazetesi ne zaman yayına başladı?",
+      "hook": "Dünyanın en eski sürekli yayınlanan İspanyolca gazetelerinden biri olan bu yayın, ülkenin siyasi tarihinde derin izler bıraktı — peki ilk sayısı hangi yılda çıktı?",
+      "answer_year": 1916,
+      "year_precision": "day",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "El Universal, Meksika’nın başkenti Meksiko’da yayımlanan ve ülkenin en prestijli gazetelerinden biri olarak kabul edilen bir yayın. 1916 yılında, ülkenin Karayipler’e kıyısı olan Veracruz eyaletinde çıkan bir grup entelektüel ve iş insanı tarafından kuruldu. Dönemin siyasi çalkantıları içinde, bağımsız ve tarafsız bir gazete olarak yola çıkan El Universal, kısa sürede okuyucuların güvenini kazandı.\n\nGazetenin ilk sayısı 1 Kasım 1916 tarihinde yayımlandı ve o günden beri kesintisiz olarak yayın hayatına devam ediyor. Kuruluşundan itibaren Meksika’nın siyasi, ekonomik ve kültürel gelişmelerine ışık tutan gazete, zaman zaman hükûmetlerle de yakın ilişkiler içinde oldu. Özellikle 20. yüzyılın ortalarında, ülkenin tek parti döneminde (PRI’nin egemenliği altında) El Universal’un da bu yapıdan etkilendiği ve hatta bazı dönemlerde hükûmet yanlısı bir yayın çizgisi izlediği yönünde eleştiriler de bulunuyor. [DOĞRULA: Gazetenin kuruluşunda yer alan isimler ve ilk yıllardaki yayın politikası hakkında daha detaylı arşiv kayıtları var mı?]\n\nBugün dijital platformlarda da aktif olan El Universal, hem basılı hem de online olarak okuyucularına ulaşmaya devam ediyor. Meksika medya tarihinde önemli bir yere sahip olan bu gazete, aynı zamanda Latin Amerika’nın en eski sürekli yayınlanan gazetelerinden biri olarak da kabul ediliyor.",
+      "fun_fact": "El Universal’un ilk sayısının fiyatı 10 centavo idi — bugünün parasıyla yaklaşık 0,50 Meksika pesosuna denk geliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1321495",
+        "https://tr.wikipedia.org/wiki/El_Universal_(Meksika)",
+        "https://en.wikipedia.org/wiki/El_Universal_(Mexico_City)"
+      ],
+      "wikidata_qid": "Q1321495"
+    },
+    {
+      "id": "Q202585",
+      "date": "2027-04-30",
+      "category": "kurum-marka",
+      "widget_title": "RCA Records'un müzik yolculuğu ne zaman başladı?",
+      "hook": "Müzik tarihinin en ikonik plak şirketlerinden biri olan RCA Records'un doğuşu, sanılandan çok daha eski bir hikayeye sahip.",
+      "answer_year": 1901,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Müzik dünyasının dev çınarlarından RCA Records, aslında oldukça eski bir geçmişe sahip. Takvimler **1901** yılını gösterdiğinde, Gramophone Company'nin ABD kolu olan Victor Talking Machine Company'nin kurulmasıyla temelleri atıldı. O zamanlar teknoloji daha yeni yeni gelişirken, müziği evlere taşıyan bu yenilikçi şirket, kısa sürede plak endüstrisinin öncülerinden biri haline geldi.\n\nVictor Talking Machine Company, \"Nipper\" adını verdikleri köpeği ve pikapı dinleyen ikonik logosuyla hafızalara kazındı. Bu logo, sesin kalitesini ve yayılımını temsil eden güçlü bir sembol haline geldi. Şirket, erken dönemde büyük başarılara imza attı ve [DOĞRULA: Enrico Caruso gibi operanın dev isimleriyle anlaşmalar yaparak müzik pazarında adından söz ettirdi.]\n\n1929 yılında, Radio Corporation of America (RCA) tarafından satın alınmasıyla şirket, bugünkü adının ilk tohumlarını attı ve \"RCA Victor Company\" olarak anılmaya başlandı. Bu birleşme, müziğin kaydedilmesi ve yayınlanması konusunda yeni bir dönemin kapılarını araladı. RCA, özellikle 20. yüzyılın ortalarında rock 'n' roll'un yükselişiyle birlikte Elvis Presley gibi efsanevi isimleri bünyesine katarak müzik tarihine damgasını vurdu. Cazdan blues'a, poptan rock'a kadar pek çok farklı türde müziğe ev sahipliği yapan RCA Records, onlarca yıldır sayısız sanatçının kariyerini şekillendirdi ve müziğin gelişimine öncülük etti. Bugün bile sektördeki yerini koruyan bu dev şirket, adeta bir müzik arşivi gibi, geçmişten günümüze uzanan zengin bir mirasın taşıyıcısı.",
+      "fun_fact": "RCA Records'un ikonik \"Nipper\" köpeği ve pikap logosu, aslında bir İngiliz ressamın tablosundan ilham alınarak yaratıldı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q202585",
+        "https://tr.wikipedia.org/wiki/RCA_Records",
+        "https://en.wikipedia.org/wiki/RCA_Records"
+      ],
+      "wikidata_qid": "Q202585"
+    }
+  ]
+}

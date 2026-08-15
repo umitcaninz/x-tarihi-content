@@ -1,0 +1,688 @@
+{
+  "schema_version": 1,
+  "month": "2027-05",
+  "items": [
+    {
+      "id": "Q1366936",
+      "date": "2027-05-01",
+      "category": "yazilim-internet",
+      "widget_title": "PlayStation Portable sistemi ne zaman çıktı?",
+      "hook": "Taşınabilir oyun konsollarının kralı olarak anılan PSP, ilk çıkışında nasıl bir devrim yaratmıştı?",
+      "answer_year": 2004,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "PlayStation Portable sistemi, yani kısaca PSP, Sony’nin elde taşınabilir oyun deneyimini yeniden tanımladığı bir cihaz olarak 2004 yılında kullanıcıların karşısına çıktı. Bu tarih, sadece bir yıl sonra piyasaya sürülecek Nintendo DS’in gölgesinde kalmış olsa da, PSP’nin oyun dünyasına kattığı yenilikler hafife alınamaz.\n\nPSP, o dönemde hem oyun konsolu hem de medya oynatıcı olarak çığır açtı. Büyük ekranı, güçlü grafikleri ve hatta web tarayıcısıyla [DOĞRULA: hangi özelliklerin hangi versiyonlarda eklendiği] gerçek bir cep bilgisayarı gibi çalışıyordu. Özellikle oyun geliştiricileri için sunduğu olanaklar, PSP’yi sadece bir eğlence aracından öteye taşıdı. PlayStation markasının gücünü taşınabilirliğe uyarlayan Sony, rakip konsollardan farklı olarak daha geniş bir oyun kütüphanesi sunmayı başardı.\n\nTabii ki, PSP’nin hikayesi sadece başarısından ibaret değil. Zamanla yazılım güncellemeleriyle desteklenen sistem, kullanıcılarına yeni özellikler eklerken, bazı sınırlamaları da beraberinde getirdi. Örneğin, orijinal PSP modelinin pil ömrü ve depolama kapasitesi, kullanıcıları sık sık şarj etmeye ya da hafıza kartı değiştirmeye zorluyordu. Yine de, tüm bu zorluklara rağmen PSP, oyun endüstrisinde kalıcı bir iz bıraktı ve sonraki nesil taşınabilir konsollara ilham verdi.",
+      "fun_fact": "PSP’nin ilk modeli, piyasaya çıktığında sadece siyah renkte üretilmişti; renkli modeller ise daha sonraki yıllarda hayranların talebi üzerine piyasaya sürüldü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1366936",
+        "https://tr.wikipedia.org/wiki/PlayStation_Portable_sistem_yaz%C4%B1l%C4%B1m%C4%B1",
+        "https://en.wikipedia.org/wiki/PlayStation_Portable_system_software"
+      ],
+      "wikidata_qid": "Q1366936"
+    },
+    {
+      "id": "Q202243",
+      "date": "2027-05-02",
+      "category": "oyun-spor",
+      "widget_title": "Allsvenskan ne zaman kuruldu?",
+      "hook": "İsveç'in en prestijli futbol ligi olan Allsvenskan, aslında bir tesadüfün sonucu muydu?",
+      "answer_year": 1924,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Allsvenskan, İsveç'in en üst düzey futbol ligi olarak 1924 yılında resmiyet kazandı. Ancak bu ligin doğuşu, aslında ülkenin futbol tarihine damga vuran bir dizi gelişmenin sonucuydu. 19. yüzyılın sonlarına doğru İsveç'e futbolu tanıtan İngilizler, yerel halk arasında hızla popülerlik kazandı. [DOĞRULA: 1870'lerde mi, 1880'lerde mi?] İlk resmi futbol kulüpleri Stockholm ve Göteborg gibi büyük şehirlerde kuruldu ve 1904 yılında İsveç Futbol Federasyonu'nun (SvFF) kurulmasıyla birlikte lig fikri de şekillenmeye başladı.\n\n1920'lerin başında, İsveç futbolunda bölgesel ligler yaygınlaşmıştı, ancak ülke genelinde bir şampiyon belirlemek için tek bir ligin oluşturulması gerekiyordu. 1924 yılında, 12 takımın katılımıyla Allsvenskan resmi olarak kuruldu. İlk sezonunda GAIS, IFK Göteborg ve Örgryte IS gibi günümüzde de tanınan takımlar yer aldı. Lig, başlangıçta amatör bir yapıdaydı, ancak 1930'larda profesyonelleşme süreci başladı ve İsveç futbolunun gelişiminde önemli bir rol oynadı.\n\nAllsvenskan, sadece bir lig olmanın ötesinde, İsveç'in futbol kültürünün şekillenmesinde de etkili oldu. Bugün bile, ligin tarihi ve gelenekleri, İsveç futbolunun kimliğini yansıtıyor.",
+      "fun_fact": "Allsvenskan'ın ilk şampiyonu GAIS takımının kaptanı, aynı zamanda ligin ilk gol kralıydı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q202243",
+        "https://tr.wikipedia.org/wiki/Allsvenskan",
+        "https://en.wikipedia.org/wiki/Allsvenskan"
+      ],
+      "wikidata_qid": "Q202243"
+    },
+    {
+      "id": "Q203059",
+      "date": "2027-05-03",
+      "category": "kurum-marka",
+      "widget_title": "Virgin Records ne zaman müzik dünyasına adım attı?",
+      "hook": "Plak şirketinden imparatorluğa uzanan Virgin Records'ın kuruluş hikayesi, beklentilerin ötesinde bir başlangıca sahip!",
+      "answer_year": 1972,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Virgin Records, müzik dünyasının en cesur ve yenilikçi markalarından biri olarak tanınır. Peki, bu ikonik plak şirketi macerasına tam olarak ne zaman atıldı? Takvimler 1972 yılını gösterirken, Richard Branson ve arkadaşları, o dönemde henüz çok genç ve iş dünyasında \"bakir\" sayılan bir grup olarak bu yola çıktı.\n\nHer şey bir dergi projesi ve posta siparişiyle başladı. Branson, 'Student' adlı bir dergi çıkarıyor ve posta yoluyla indirimli plaklar satıyordu. Bu küçük girişim, kısa sürede öyle bir ilgi gördü ki, Londra'da [DOĞRULA: ilk Virgin plak dükkanının Londra'daki adresi tam olarak neresiydi?] ilk Virgin plak dükkanını açtılar. İşte bu mağaza, Virgin Records'ın temellerinin atıldığı yer oldu.\n\n1972'de resmi olarak bir plak şirketi kurmaya karar verdiklerinde, amaçları ana akım müziğin dışındaki yeteneklere bir platform sunmaktı. İlk büyük başarıları, 1973 yılında çıkan Mike Oldfield'ın enstrümantal şaheseri \"Tubular Bells\" ile geldi. Bu albüm, sadece şirketi ekonomik olarak sağlam bir zemine oturtmakla kalmadı, aynı zamanda Virgin Records'ın cesur, deneysel ve vizyoner imajını pekiştirdi. O günden bu yana, Virgin birçok efsanevi sanatçıyı bünyesinde barındırarak müzik tarihine adını altın harflerle yazdırdı.",
+      "fun_fact": "Virgin Records'ın ilk stüdyosu, Oxfordshire'daki bir çiftlik evinde kurulmuştu ve Mike Oldfield \"Tubular Bells\" albümünü orada kaydetti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q203059",
+        "https://tr.wikipedia.org/wiki/Virgin_Records",
+        "https://en.wikipedia.org/wiki/Virgin_Records"
+      ],
+      "wikidata_qid": "Q203059"
+    },
+    {
+      "id": "Q24090749",
+      "date": "2027-05-04",
+      "category": "iletisim",
+      "widget_title": "Google Duo görüntülü konuşma hayatımıza ne zaman girdi?",
+      "hook": "Cep telefonlarımızla yaptığımız görüntülü görüşmelerin hikayesinde Google Duo'nun yeri neresi dersiniz?",
+      "answer_year": 2016,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Video görüşmeleri artık hayatımızın vazgeçilmez bir parçası haline geldi, değil mi? Aileden uzaktaki sevdiklerimizle hasret gidermekten, hızlı iş toplantılarına kadar pek çok alanda kullanıyoruz. Google da bu ihtiyaca yönelik kendi çözümünü, Google Duo'yu, **2016 yılında** kullanıcılara sundu.\n\nDuo, sade ve kolay kullanımıyla öne çıkıyordu. Temel amacı, kullanıcıların hızla ve güvenilir bir şekilde birebir görüntülü görüşme yapabilmesini sağlamaktı. Başlangıçta özellikle basit arayüzü ve \"Knock Knock\" adını verdiği, aramayı cevaplamadan önce arayanın canlı videosunu görme özelliğiyle dikkat çekti. Bu özellik, kullanıcıların bir kısmı tarafından mahremiyet endişeleriyle anılsa da, şüphesiz farklı bir etkileşim sunuyordu.\n\nHem Android hem de iOS cihazlarda kullanılabilmesi, geniş bir kitleye ulaşmasına yardımcı oldu. Google, Duo'yu daha sonra mesajlaşma ve grup görüşmesi özellikleriyle de zenginleştirdi. Ancak zamanla Google'ın farklı iletişim uygulamaları arasındaki stratejisinde değişiklikler oldu. Sonunda Google Duo, Google Meet ile birleşerek tek bir platform altında toplandı. Bu birleşme, Google'ın tüm iletişim çözümlerini tek bir çatı altında birleştirme çabasının bir parçasıydı ve Duo'nun basit ve güvenilir görüntülü görüşme mirasını Meet'e taşıdı. Böylece Duo'nun adı sahneden çekilse de, ruhu Google'ın iletişim ekosisteminde yaşamaya devam etti.",
+      "fun_fact": "Google Duo'nun ikonik \"Knock Knock\" özelliği, aramayı cevaplamadan önce arayanın canlı videosunu görmenizi sağlıyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24090749",
+        "https://tr.wikipedia.org/wiki/Google_Duo",
+        "https://en.wikipedia.org/wiki/Google_Duo"
+      ],
+      "wikidata_qid": "Q24090749"
+    },
+    {
+      "id": "Q1406",
+      "date": "2027-05-05",
+      "category": "yazilim-internet",
+      "widget_title": "Microsoft Windows ne zaman çıktı?",
+      "hook": "Dünyanın en çok kullanılan işletim sisteminin doğuş hikayesi sandığınızdan çok daha eskilere dayanıyor!",
+      "answer_year": 1985,
+      "year_precision": "day",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Microsoft Windows’un ilk versiyonu olan Windows 1.0, 20 Kasım 1985 tarihinde piyasaya sürüldü. Aslında bu tarih, Windows’un *resmi* doğum günü olarak kabul edilse de, hikaye bundan çok daha önce başlıyor. Microsoft’un kurucu ortağı Bill Gates’in vizyonu, grafik arayüzlü bir işletim sistemi yaratmaktı — o dönemde neredeyse tüm bilgisayarlar, komut satırına dayalı sistemlerle çalışıyordu. Windows 1.0, kullanıcıların fareyle tıklayarak programları çalıştırmasına olanak tanıyan ilk adımlardan biriydi, ancak [DOĞRULA: bu özelliklerin ne kadar yaygın kullanıldığı] henüz tam olarak net değil.\n\nWindows 1.0’ın çıkışından önce, Microsoft’un 1983 yılında Windows’u duyurduğunu biliyoruz. Ancak geliştirme süreci oldukça sancılı geçti; ilk başta Windows, IBM’in yeni işletim sistemi OS/2’nin bir parçası olarak tasarlanıyordu. [DOĞRULA: IBM ile Microsoft arasındaki bu işbirliğinin ne kadar sürdüğü ve neden sonlandığı] konusunda farklı kaynaklar farklı bilgiler veriyor. Sonunda, Microsoft kendi yoluna devam etti ve Windows’u bağımsız bir ürün olarak geliştirmeye karar verdi. \n\nWindows 1.0, başlangıçta pek ilgi görmese de, sonraki versiyonlarla birlikte devrim niteliğinde bir değişim yaşandı. Özellikle Windows 3.0 (1990) ve ardından Windows 95 (1995) ile birlikte, masaüstü bilgisayarlar dünyasında yeni bir çağ başladı. Bugün milyarlarca cihazda kullanılan Windows’un temelleri, aslında 1985 yılında atılmış oldu.",
+      "fun_fact": "Windows 1.0’ın ilk versiyonunda *henüz* masaüstündeki klasik 'geri dönüşüm kutusu' simgesi yoktu — bu özellik ilk kez Windows 95 ile tanıtıldı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1406",
+        "https://tr.wikipedia.org/wiki/Microsoft_Windows",
+        "https://en.wikipedia.org/wiki/Microsoft_Windows"
+      ],
+      "wikidata_qid": "Q1406"
+    },
+    {
+      "id": "Q206984",
+      "date": "2027-05-06",
+      "category": "oyun-spor",
+      "widget_title": "Fed Kupası ne zaman başladı?",
+      "hook": "Tenis sahalarında kadınların sesini duyuran bir turnuva, ilk kez hangi yılda sahne aldı sizce?",
+      "answer_year": 1963,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Fed Kupası, kadın tenisçilerin uluslararası arenada bir araya geldiği en prestijli takım turnuvalarından biri. Bu heyecan verici yarışma, 1963 yılında ilk kez organize edildi. O dönemde kadın tenisçilerin daha fazla görünürlük kazanması için bir platform oluşturulması fikri, uluslararası tenis dünyasında yankı uyandırdı. İlk turnuva, Amerika Birleşik Devletleri’nin ev sahipliğinde dokuz ülkenin katılımıyla gerçekleşti. [DOĞRULA: İlk turnuvanın tam olarak hangi ülkeler tarafından organize edildiği ve katılımcı sayısının detayları].\n\nZamanla Fed Kupası, kadın tenisindeki gelişimin ve rekabetin simgesi haline geldi. Turnuva, başlangıçta \"Federation Cup\" olarak adlandırılırken, 2020 yılında Billie Jean King’in onuruna \"Billie Jean King Cup\" olarak yeniden adlandırıldı. Bu değişiklik, kadın tenisindeki eşitlik ve ilerleme adına atılmış önemli bir adım olarak tarihe geçti.\n\nBugün Fed Kupası, dünya genelinde milyonlarca izleyici tarafından takip edilen bir etkinlik haline geldi. Kadın tenisçilerin yeteneklerini sergilediği bu platform, aynı zamanda onların seslerini duyurmak için de kritik bir rol oynuyor.",
+      "fun_fact": "Fed Kupası’nun ilk şampiyonu Amerika Birleşik Devletleri oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q206984",
+        "https://tr.wikipedia.org/wiki/Billie_Jean_King_Kupas%C4%B1",
+        "https://en.wikipedia.org/wiki/Billie_Jean_King_Cup"
+      ],
+      "wikidata_qid": "Q206984"
+    },
+    {
+      "id": "Q20732498",
+      "date": "2027-05-07",
+      "category": "kurum-marka",
+      "widget_title": "Miniso mağazaları ne zaman açılmaya başladı?",
+      "hook": "Uzak Doğu'nun minimalist cazibesini uygun fiyatlarla buluşturan Miniso, ne zaman dünya sahnesine çıktı dersiniz?",
+      "answer_year": 2013,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Miniso, renkli ve pratik ürünleriyle kısa sürede pek çoğumuzun favorisi haline gelen o tanıdık mağazalar zinciri. Peki, bu minimalist alışveriş deneyimi hayatımıza ne zaman girdi? Cevap: 2013. Bu yıl, Miniso markasının temelleri atıldı. Miniso'nun kökenleri hakkında yaygın bir yanlış anlaşılma var: Birçok kişi onu Japon markası sanabilir. Oysa Miniso, Çin merkezli bir perakende zinciridir ve kurucusu Çinli girişimci Ye Guofu'dur. Marka, kuruluşunda Japon tasarımcı Miyake Junya'yı [DOĞRULA: Miyake Junya'nın Miniso'nun kuruluşundaki rolünü ve şirketteki pozisyonunu doğrula. Kurucu ortağı olarak mı geçiyor yoksa sadece bir tasarımcı mıydı?] yaratıcı ekibe dahil ederek Japon esintili minimalist tasarım felsefesini benimsedi. Hedefi, genç tüketicilere yönelik kaliteli, şık ve uygun fiyatlı ürünler sunmaktı. Ev eşyalarından kozmetiklere, kırtasiyeden dijital aksesuarlara kadar geniş bir yelpazede ürün gamı bulunur. 2013'ten bu yana hızla büyüyen Miniso, kısa sürede dünya genelinde binlerce mağazaya ulaşarak küresel bir fenomen haline geldi. Mağazaları genellikle parlak ışıkları, sade düzeni ve sürekli yenilenen ürünleriyle dikkat çeker. Her ziyaretinizde yeni ve ilgi çekici bir şeyler bulma hissi, Miniso'nun başarısının anahtarlarından biridir.",
+      "fun_fact": "Miniso'nun ürün gamı, sevimli lisanslı karakter ürünlerini (örneğin Marvel, We Bare Bears) de sıkça içerir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20732498",
+        "https://tr.wikipedia.org/wiki/Miniso",
+        "https://en.wikipedia.org/wiki/MINISO"
+      ],
+      "wikidata_qid": "Q20732498"
+    },
+    {
+      "id": "Q25377472",
+      "date": "2027-05-08",
+      "category": "iletisim",
+      "widget_title": "Samsung Health uygulaması hayatımıza ne zaman girdi?",
+      "hook": "Telefonlarımız artık sadece arama yapmak için değil, sağlığımızı takip etmek için de en büyük yardımcımız, değil mi?",
+      "answer_year": 2012,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Günümüzde akıllı telefonlarımız sadece iletişim kurduğumuz cihazlar olmaktan çok öteye geçti, adeta kişisel sağlık asistanlarımız oldular. Adımlarımızı saymaktan uyku düzenimizi izlemeye, hatta su tüketimimizi kaydetmeye kadar pek çok alanda bize destek oluyorlar. Bu dönüşümün önemli kilometre taşlarından biri de, Samsung'un sağlık ve formda kalma odaklı uygulaması Samsung Health'in piyasaya sürülmesiydi.\n\nTakvimler 2012 yılını gösterdiğinde, Samsung Health (o zamanki adıyla S Health [DOĞRULA: Uygulamanın ilk adı S Health miydi ve ne zaman değişti?]) akıllı telefon kullanıcılarının hayatına girdi. Başlangıçta adım takibi ve kalori hesaplama [DOĞRULA: ilk sürümde temel özellikler nelerdi?] gibi temel özelliklerle donatılmış olsa da, zamanla sürekli gelişim gösterdi. Uygulama, kullanıcılara günlük aktivitelerini, beslenme alışkanlıklarını ve hatta stres seviyelerini takip etme imkanı sunarak kendi sağlık verilerine daha hakim olmalarını sağladı.\n\nSamsung Health, sadece bir adım sayar olmaktan çıkarak, giderek daha kapsamlı bir sağlık platformuna dönüştü. Kalp atış hızı sensörleri, uyku izleyiciler ve egzersiz rehberleri gibi entegrasyonlarla kullanıcıların genel sağlık durumlarına dair detaylı bir bakış açısı sunmaya başladı. Artık sadece telefonunuzda yüklü bir uygulama değil, aynı zamanda Samsung'un giyilebilir teknolojileriyle (akıllı saatler, bileklikler) kusursuz bir uyum içinde çalışarak, size özel ve bütünsel bir sağlık deneyimi sunuyor. Kişiselleştirilmiş hedefler belirlemenize, ilerlemenizi görselleştirmenize ve hatta zaman zaman küçük hatırlatıcılarla motivasyonunuzu yüksek tutmanıza yardımcı olan Samsung Health, modern yaşamın vazgeçilmez sağlık yardımcılarından biri haline geldi.",
+      "fun_fact": "Samsung Health, sadece adımlarınızı saymakla kalmıyor, aynı zamanda dünya genelindeki milyonlarca kullanıcısıyla devasa bir sağlık topluluğu oluşturuyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25377472",
+        "https://tr.wikipedia.org/wiki/Samsung_Health",
+        "https://en.wikipedia.org/wiki/Samsung_Health"
+      ],
+      "wikidata_qid": "Q25377472"
+    },
+    {
+      "id": "Q1426432",
+      "date": "2027-05-09",
+      "category": "yazilim-internet",
+      "widget_title": "SlideShare ne zaman kuruldu?",
+      "hook": "PowerPoint sunumlarınızı dünyayla paylaşmak için kullanıyorsunuzdur—peki ya bu platformun kendisi ne kadar eski?",
+      "answer_year": 2006,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "SlideShare, 2006 yılında kullanıma açılan ve dünyanın en büyük sunum paylaşım platformlarından biri haline gelen bir dijital hazine. [DOĞRULA: SlideShare’ın kurucuları arasında Amit Ranjan, Jonah Brucker-Cohen ve Rashmi Sinha’nın olduğu doğrulanmış mı?] Platform, kullanıcıların PowerPoint, PDF ve OpenOffice gibi formatlardaki sunumlarını yüklemelerine, etiketlemelerine ve dünya genelindeki milyonlarca ziyaretçiyle paylaşmalarına olanak tanıyor.\n\nBaşlangıçta, SlideShare’ın amacı sunumları arşivlemek ve erişilebilir kılmaktı. Ancak kısa sürede sadece bir dosya paylaşım aracı olmaktan çıkıp, iş dünyası, eğitim ve hatta eğlence sektöründe de önemli bir bilgi kaynağına dönüştü. 2012 yılında LinkedIn tarafından satın alınan platform, kullanıcı tabanını daha da genişletti ve profesyonel ağlarda sunumların paylaşılmasını kolaylaştırdı.\n\nBugün SlideShare, milyonlarca sunuma ev sahipliği yapıyor ve her gün binlerce yeni içerik ekleniyor. İlginç olan ise, platformun arka planındaki hikayenin ve kurucularının kimliklerinin net olarak bilinmemesi—bu da dijital dünyanın erken dönemlerine dair gizemlerden biri olarak kalıyor.",
+      "fun_fact": "SlideShare, 2012 yılında LinkedIn tarafından yaklaşık 119 milyon dolara satın alındı—ki bu, platformun ne kadar değerli olduğunu gösteren bir detay!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1426432",
+        "https://tr.wikipedia.org/wiki/SlideShare",
+        "https://en.wikipedia.org/wiki/SlideShare"
+      ],
+      "wikidata_qid": "Q1426432"
+    },
+    {
+      "id": "Q207786",
+      "date": "2027-05-10",
+      "category": "oyun-spor",
+      "widget_title": "Tamagotchi ne zaman icat edildi?",
+      "hook": "Sanal evcil hayvanların atası sayılan bu minik cihaz, 90'lı yılların çocuklarını nasıl büyüledi?",
+      "answer_year": 1996,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Tamagotchi, 1996 yılında Japonya'da Bandai firması tarafından piyasaya sürülen ve dünya genelinde milyonlarca insanı ekran karşısında strese sokan o ünlü sanal evcil hayvan cihazıdır. Peki, bu oyuncak nasıl doğdu? Hikaye, Aki Maita liderliğindeki bir ekip tarafından geliştirilen ve aslında yetişkinlerin stresini azaltmayı hedefleyen bir projeyle başladı. Ancak [DOĞRULA: projenin hedef kitlesinin nasıl değiştiği] gençler arasında patlama yaptı ve 90'lı yılların en ikonik oyuncaklarından biri haline geldi.\n\nCihaz, basit bir dijital ekrana sahip olmasına rağmen, kullanıcıların bir canlıyı büyütme, besleme ve bakımını yapma sorumluluğunu hissetmesini sağlıyordu. Ölümcül derecede ihmal edildiğindeyse 'ölüm' ekranıyla karşılaşıyordunuz — ki bu da birçok çocuğun (ve hatta yetişkinlerin!) kalbini kırıyordu. Tamagotchi'nin başarısı, o dönemde teknolojinin eğlenceyle bu kadar iç içe geçebileceğini gösteren önemli bir örnek oldu.\n\nZamanla farklı versiyonları ve hatta sahte klonları piyasaya çıkan Tamagotchi, dijital evcil hayvan kavramını dünya çapında popülerleştirdi. Günümüzdeyse nostaljik bir oyuncak olarak hatırlanmanın yanı sıra, sanal bakım sorumluluğu oyunlarının da öncüsü olarak kabul ediliyor.",
+      "fun_fact": "İlk Tamagotchi modeli sadece 4,8 cm boyundaydı ve 3 butonla kontrol ediliyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q207786",
+        "https://tr.wikipedia.org/wiki/Tamagotchi",
+        "https://en.wikipedia.org/wiki/Tamagotchi"
+      ],
+      "wikidata_qid": "Q207786"
+    },
+    {
+      "id": "Q213710",
+      "date": "2027-05-11",
+      "category": "kurum-marka",
+      "widget_title": "The Beatles'ın efsanevi plak şirketi Apple Records ne zaman kuruldu?",
+      "hook": "Müzik dünyasının en ikonik gruplarından birinin, sanatsal özgürlük hayaliyle kurduğu bu şirketle tanışmaya hazır mısınız?",
+      "answer_year": 1968,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Apple Records, 1968 yılında The Beatles'ın müzik dünyasına kendi damgasını vurma ve sanatsal vizyonlarını tamamen özgürce gerçekleştirme arzusunun bir ürünü olarak doğdu. Grubun menajeri Brian Epstein'ın ölümünden sonra, kendi işlerini yönetme ihtiyacı hissetmeleri ve genç yeteneklere kapı açma hedefleri, bu ikonik plak şirketinin temelini attı. John Lennon, Paul McCartney, George Harrison ve Ringo Starr'ın ortak girişimi olan Apple Records, sadece bir müzik etiketi olmanın ötesinde, giyimden elektroniğe, film yapımından [DOĞRULA: diğer sanat dallarına?] kadar geniş bir yelpazede faaliyet göstermeyi amaçlayan bir kolektif girişimdi. Amaç, sanatçılara ticari kaygılar olmaksızın yaratıcı özgürlük sunmaktı. Ancak bu idealist yaklaşım, kısa sürede iş dünyasının çetin gerçekleriyle ve grubun kendi içindeki giderek artan gerginliklerle karşılaştı. Şirket, The Beatles'ın solo kariyerlerinin yanı sıra, Badfinger, James Taylor ve Mary Hopkin gibi isimlere de ev sahipliği yaptı [DOĞRULA: Bu isimlerin Apple Records ile ilişkilerini ve ilk dönem sanatçılar olup olmadıklarını teyit et]. Apple Records, The Beatles'ın müziğe yaklaşımını ve grup dinamiklerini yansıtan, hem başarıları hem de zorluklarıyla dolu, müzik tarihinin önemli bir parçası haline geldi. Özellikle o yeşil elma logosu, bugün bile bir dönemin ruhunu taşımaya devam ediyor.",
+      "fun_fact": "Apple Records'ın sembolü olan ikonik yeşil elma logosunun, dünyaca ünlü bir teknoloji markasıyla yıllar süren marka ihlali davalarına konu olduğunu biliyor muydunuz?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q213710",
+        "https://tr.wikipedia.org/wiki/Apple_Records",
+        "https://en.wikipedia.org/wiki/Apple_Records"
+      ],
+      "wikidata_qid": "Q213710"
+    },
+    {
+      "id": "Q75",
+      "date": "2027-05-12",
+      "category": "iletisim",
+      "widget_title": "Dünyayı birbirine bağlayan İnternet ne zaman doğdu?",
+      "hook": "Bugün hayatımızın ayrılmaz bir parçası olan İnternet'in hikayesi, aslında sandığımızdan çok daha köklü.",
+      "answer_year": 1969,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Bugün sabah uyandığınızda ilk baktığınız yer, akşam yemeği tarifi aradığınız platform veya dünyanın öbür ucundaki arkadaşınızla konuştuğunuz araç... Evet, İnternet'ten bahsediyoruz. Peki, tüm bu dijital evrenin temelleri ne zaman atıldı? Cevap: 1969. Ancak bu tarih, bugünkü 'İnternet'i doğrudan kapsayan bir 'buluş'tan ziyade, uzun ve karmaşık bir evrimin başlangıcıydı.\n\nHer şey, Soğuk Savaş döneminde Amerika Birleşik Devletleri Savunma Bakanlığı tarafından desteklenen İleri Araştırma Projeleri Ajansı (ARPA) ile başladı. Amaç, nükleer bir saldırı durumunda bile iletişimi sürdürebilecek, merkezi olmayan bir bilgisayar ağı oluşturmaktı. 1969 yılında, bu projenin ilk adımı olan ARPANET, dört üniversite bilgisayarını birbirine bağlayarak ilk 'mesaj'ı gönderdi. [DOĞRULA: İlk mesajın gönderildiği üniversiteler ve içeriği].\n\nAsıl büyük atılım ise 1970'li yılların ortalarında Vinton Cerf ve Robert Kahn gibi bilim insanlarının geliştirdiği TCP/IP protokolü sayesinde gerçekleşti. Bu protokoller, farklı ağların birbiriyle 'konuşmasını' sağlayan evrensel bir dil görevi gördü. Böylece ARPANET'in ötesinde, çok daha geniş bir ağlar ağı oluşturmanın yolu açıldı.\n\nYaygın bir yanılgı, İnternet'in World Wide Web ile aynı şey olduğu yönündedir. Oysa İnternet, bilgisayarları birbirine bağlayan fiziksel altyapı ve protokollere verilen isimdir. World Wide Web ise, İnternet üzerinde çalışan ve belge, resim, video gibi bilgilerin erişilebilir olduğu bir sistemdir; 1990'lı yılların başında Tim Berners-Lee tarafından geliştirilmiştir. Yani İnternet yolu, Web ise bu yolun üzerindeki bir uygulamadır diyebiliriz. 1969'da atılan bu ilk adımlar, günümüzün küresel köyünü mümkün kılan devrimin başlangıcıydı.",
+      "fun_fact": "İnternet üzerinden gönderilen ilk mesaj, 'LOGIN' kelimesiydi; ancak sistem sadece 'LO' harflerini iletebildikten sonra çöktü!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q75",
+        "https://tr.wikipedia.org/wiki/%C4%B0nternet",
+        "https://en.wikipedia.org/wiki/Internet"
+      ],
+      "wikidata_qid": "Q75"
+    },
+    {
+      "id": "Q14772",
+      "date": "2027-05-13",
+      "category": "yazilim-internet",
+      "widget_title": "Baidu ne zaman kuruldu?",
+      "hook": "Dünyanın en büyük arama motorlarından biri olan Baidu’nun hikayesi, Çin’in dijital devriminin de başlangıcı sayılır — peki sizce ne zaman doğdu?",
+      "answer_year": 2000,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Baidu, Çin’in yerli arama motoru olarak 2000 yılında [DOĞRULA: ay ve gün hassasiyeti] kuruldu. Kurucuları arasında yer alan Robin Li (Li Yanhong) ve Eric Xu (Xu Yong), Google’ın henüz Çin pazarında olmadığı bir dönemde, yerel kullanıcıların ihtiyaçlarına odaklanan bir arama motoru geliştirmeyi hedefledi. Baidu’nun adı, Çin edebiyatından esinlenen bir kelime oyunundan gelir: *Bai du* (百度), yüz kez yapılan bir aramanın sonunda ulaşılan bilgeliği simgeler — tıpkı ‘yüz adım atmak’ anlamına gelen bir Çin deyişi gibi.\n\nBaidu’nun yükselişi, Çin’in internet kullanımının patlama yaptığı yıllara denk geldi. 2000’lerin başında, yabancı arama motorlarının Çin pazarında sınırlı erişimi vardı ve yerel bir alternatif arayışı, Baidu’nun hızla büyümesine zemin hazırladı. Şirket, sadece arama motoru olarak kalmayıp, yapay zeka, bulut bilişim ve hatta otonom araç teknolojilerine de yatırım yaptı. Günümüzde Baidu, Çin’in ‘Google’ı’ olarak anılsa da, sansür ve devlet politikaları nedeniyle farklı bir yol izledi.\n\n[DOĞRULA: Baidu’nun ilk sunucuya bağlandığı tam tarih ve yer (ör. Pekin’deki ofis adresi) hakkında net kaynaklar bulunmamaktadır.]",
+      "fun_fact": "Baidu’nun logosundaki ayçının tasarımı, Çin mitolojisindeki ‘Ay Tavşanı’na bir selam duruyor — efsaneye göre bu tavşan, Ay’da oturur ve ölümsüzlük iksirini karıştırır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14772",
+        "https://tr.wikipedia.org/wiki/Baidu",
+        "https://en.wikipedia.org/wiki/Baidu"
+      ],
+      "wikidata_qid": "Q14772"
+    },
+    {
+      "id": "Q217016",
+      "date": "2027-05-14",
+      "category": "oyun-spor",
+      "widget_title": "Çekya'nın en üst düzey futbol ligi ne zaman kuruldu?",
+      "hook": "Çek futbolunun kalbindeki bu lig, adını bir efsaneden değil, bira kralından mı alıyor?",
+      "answer_year": 1993,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Çek Cumhuriyeti’nin en üst düzey futbol ligi olan **Gambrinus Liga**, 1993 yılında kuruldu. Bu lig, ülkenin bağımsızlığını kazanmasının ardından futbol yapısını yeniden şekillendiren önemli bir adım olarak görülüyor. 1993’e kadar Çekoslovakya’nın bir parçası olan Çekya, kendi ulusal ligini oluşturmak için bu tarihi belirledi.\n\nLigin adı olan *Gambrinus*, aslında bir bira markasının adıdır ve ligin sponsorluğunu uzun yıllar boyunca bu marka üstlendi. Ancak ligin adıyla ilgili ilginç bir efsane de dolaşıyor: Gambrinus’un, bira üretimi ve keyifle özdeşleştirilen mitolojik bir kral olduğu söylense de, ligin adının doğrudan bu efsaneden geldiğine dair resmi bir bilgi bulunmuyor. [DOĞRULA: Gambrinus adı ve ligin kuruluşu arasındaki bağlantının kökeni hakkında daha fazla kaynak gerekli.]\n\nGambrinus Liga, kurulduğu günden bu yana Çek futbolunun en prestijli müsabakası olarak kalmaya devam ediyor. Ligdeki takımlar arasında Sparta Praha ve Slavia Praha gibi tarihsel olarak güçlü ekipler de yer alıyor. 2015 yılında sponsorluk anlaşmasının sona ermesinin ardından ligin adı *Fortuna Liga* olarak değiştirildi, ancak halk arasında Gambrinus Liga adı hala yaygın olarak kullanılıyor.",
+      "fun_fact": "Gambrinus’un bira ile olan ilişkisi nedeniyle, ligdeki bazı maçlarda stadyumlarda bira satışı yapılması gelenek haline geldi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q217016",
+        "https://tr.wikipedia.org/wiki/1._liga",
+        "https://en.wikipedia.org/wiki/Czech_First_League"
+      ],
+      "wikidata_qid": "Q217016"
+    },
+    {
+      "id": "Q216364",
+      "date": "2027-05-15",
+      "category": "kurum-marka",
+      "widget_title": "Müzik devi Epic Records'un hikayesi ne zaman başladı?",
+      "hook": "Müzik dünyasının efsanevi plak şirketlerinden Epic Records'un yolculuğu ne zaman başladı dersiniz?",
+      "answer_year": 1953,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Müzik tarihine damga vurmuş, sayısız efsaneyi bünyesinde barındırmış Epic Records'un hikayesi 1953 yılında başladı. Aslında, başlangıçta Epic Records, daha geniş kitlelere ulaşmak isteyen Columbia Records'un [DOĞRULA: ana şirketi CBS'in bir bölümü olarak mı, yoksa bağımsız bir iştirak olarak mı kurulduğu?] yeni bir alt markasıydı. O yıllarda, özellikle caz ve klasik müzik gibi niş türlere odaklanarak müzik piyasasında kendine bir yer edinmeyi hedefliyordu.\n\nAncak zamanla, Epic Records'un müzik yelpazesi genişledi ve 60'lı yıllardan itibaren pop, rock, R&B gibi popüler türlere de ağırlık vermeye başladı. Bu stratejik değişim, şirketi müzik endüstrisinin önde gelen oyuncularından biri haline getirdi. Yıllar içinde Michael Jackson'dan [DOĞRULA: Michael Jackson'ın Epic'e katıldığı tarih] Pearl Jam'e, Celine Dion'dan Oasis'e kadar birçok süperstarın kariyerine ev sahipliği yaptı. Epic, sadece büyük isimleri değil, aynı zamanda yeni yetenekleri keşfetme ve dünya sahnesine çıkarma konusundaki yeteneğiyle de tanındı. Kuruluşundan bu yana geçen onlarca yılda, müziğin değişen trendlerine uyum sağlayarak varlığını sürdürmesi, onu sektörün en köklü ve saygın plak şirketlerinden biri yaptı. 1953'ten bugüne uzanan bu serüven, müziğin dinleyicilerle buluşmasında ne kadar önemli bir köprü görevi üstlendiğinin de kanıtı.",
+      "fun_fact": "Epic Records'un ilk yıllarında caz ve klasik müzik albümleri yayınlaması, bugünkü pop/rock kimliğinden oldukça farklı bir başlangıca işaret eder.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q216364",
+        "https://tr.wikipedia.org/wiki/Epic_Records",
+        "https://en.wikipedia.org/wiki/Epic_Records"
+      ],
+      "wikidata_qid": "Q216364"
+    },
+    {
+      "id": "Q85785022",
+      "date": "2027-05-16",
+      "category": "iletisim",
+      "widget_title": "Google Mesajlar hayatımıza ne zaman girdi?",
+      "hook": "Akıllı telefonlarımızda sıkça kullandığımız Google Mesajlar, iletişim alışkanlıklarımızı nasıl değiştirdi?",
+      "answer_year": 2014,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Akıllı telefonlarımızda günlük iletişimimizin vazgeçilmezi haline gelen Google Mesajlar, ilk olarak 2014 yılında hayatımıza girdi. Başlangıçta Android ekosistemine basit bir SMS ve MMS uygulaması olarak 'Messenger' adıyla sunulan bu servis, zamanla çok daha fazlası haline geldi. Daha sonra 'Android Mesajlar' olarak yeniden markalaşan uygulama, nihayetinde sadece 'Mesajlar' adını alarak yoluna devam etti.\n\nGoogle, bu uygulamayı sadece kısa mesaj göndermekten öteye taşımak için büyük çaba sarf etti. Özellikle RCS (Zengin İletişim Hizmetleri) entegrasyonu ile modern mesajlaşma uygulamalarının sunduğu birçok özelliği kullanıcılarına getirdi: okundu bilgisi, yazıyor göstergesi, yüksek çözünürlüklü fotoğraf ve video paylaşımı gibi. Bu sayede, internet tabanlı mesajlaşma uygulamalarına (WhatsApp, Telegram gibi) bir alternatif oluşturarak, operatör tabanlı SMS deneyimini zenginleştirdi.\n\nUygulama, web arayüzü sayesinde bilgisayarınızdan mesajlaşma imkanı sunmasıyla da dikkat çekti. Sürekli güncellemelerle yeni özellikler eklenmeye devam ediyor; örneğin, mesaj planlama, kategorize etme ve spam filtreleme gibi özellikler kullanıcı deneyimini daha da iyileştiriyor. Google Mesajlar, Android kullanıcıları için hem geleneksel SMS/MMS'i yönetme hem de modern, zengin özellikli bir iletişim kurma aracı olarak evrimini sürdürüyor.",
+      "fun_fact": "Google Mesajlar'ın kullandığı RCS (Zengin İletişim Hizmetleri) teknolojisi, SMS'in modern hali olarak kabul ediliyor ve eski SMS standardına kıyasla çok daha zengin özellikler sunuyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85785022",
+        "https://tr.wikipedia.org/wiki/Mesajlar_(Google)",
+        "https://en.wikipedia.org/wiki/Google_Messages"
+      ],
+      "wikidata_qid": "Q85785022"
+    },
+    {
+      "id": "Q151524",
+      "date": "2027-05-17",
+      "category": "yazilim-internet",
+      "widget_title": "Bing Haritalar Platformu ne zaman çıktı?",
+      "hook": "Dünyanın her köşesini parmaklarınızın ucuna getiren o hizmet, aslında ilk adımını 2000'lerin başında attı...",
+      "answer_year": 2005,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Bing Haritalar Platformu’nun temelleri, Microsoft’un 2005 yılında piyasaya sürdüğü **MSN Maps & Directions** hizmetine dayanıyor. Bu ilk versiyon, kullanıcıların basitçe adres araması yapmasına ve yol tarifleri almasına olanak tanıyordu. Ancak asıl büyük sıçrama, 2009 yılında **Bing Haritalar** adıyla yeniden tasarlanmasıyla gerçekleşti. [DOĞRULA: Bu geçişin ardındaki ekip ve ilham kaynağı hakkında detaylı bilgi var mı?] \n\nPlatform, zamanla sadece yol tariflerinden ibaret kalmayıp uydu görüntüleri, 3D haritalar, trafik bilgileri ve hatta sokak görünümü (Street View benzeri) özelliklerini de bünyesine kattı. Özellikle 2010’lu yıllarda, Google Haritalar’a karşı rekabet gücünü artırmak için ciddi yatırımlar yapıldı. Microsoft’un yapay zeka ve bulut teknolojilerindeki ilerlemeleriyle Bing Haritalar, günümüzde sadece bireysel kullanıcıların değil, şirketlerin de lojistik ve analiz ihtiyaçlarına yanıt veren bir altyapı haline geldi.\n\nBugün Bing Haritalar Platformu, dünya genelinde milyonlarca kullanıcı tarafından kullanılmakla kalmıyor, aynı zamanda geliştiricilere de açık bir API sunarak üçüncü parti uygulamaların entegrasyonunu destekliyor. Yani, sizin şehrinizin sokaklarını 3D olarak gezmenizi sağlayan o sistem, aslında 2005’te attığı minik bir adımla başladı!",
+      "fun_fact": "Bing Haritalar’ın sokak görünümü özelliği, Google’dan farklı olarak daha az kapsama alanına sahip olsa da, bazı bölgelerde daha yüksek çözünürlüklü görüntüler sunabiliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q151524",
+        "https://tr.wikipedia.org/wiki/Bing_Haritalar_Platformu",
+        "https://en.wikipedia.org/wiki/Bing_Maps_for_Enterprise"
+      ],
+      "wikidata_qid": "Q151524"
+    },
+    {
+      "id": "Q241538",
+      "date": "2027-05-18",
+      "category": "oyun-spor",
+      "widget_title": "Stratego oyunu ne zaman icat edildi?",
+      "hook": "Askerî strateji oyunlarının efsanevi ismi Stratego’nun kökenleri sandığınızdan çok daha eskilere dayanıyor!",
+      "answer_year": 1942,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Stratego, adını ilk kez 1942 yılında Jacques Johan Mogendorff tarafından ticari olarak piyasaya sürüldüğünde duyurdu. Ancak oyunun asıl hikayesi, 19. yüzyılın sonlarına kadar uzanıyor. Temelleri, 1880’lerde Hollanda’da oynanan ve ‘L’Attaque’ adlı Fransız strateji oyununa dayanıyor. Mogendorff, bu oyunu temel alarak Stratego’yu geliştirmiş ve II. Dünya Savaşı yıllarında popülerlik kazanmasını sağlamıştır.\n\nOyunun kuralları, iki oyuncu arasında gizli konumlandırılmış askerî birliklerin birbirinin kuvvetini tahmin ederek savaşmasını simgeler. Bu basit ama derin mekanik, Stratego’yu hem eğlenceli hem de stratejik bir oyun haline getirmiştir. [DOĞRULA: L’Attaque oyununun tam olarak hangi yılda icat edildiği ve Mogendorff’un bu oyunu ne kadar değiştirdiği].\n\nStratego, zamanla birçok ülkede farklı versiyonlarıyla oynanmaya başlandı ve askerî stratejiyi masa oyununa taşıyan en ikonik örneklerden biri oldu. Bugün bile orijinalinden esinlenen dijital ve fiziksel versiyonlarıyla karşımıza çıkmaya devam ediyor.",
+      "fun_fact": "Stratego, II. Dünya Savaşı sırasında askerler arasında o kadar popülerdi ki, savaşın bitiminden sonra da oyunun uluslararası arenada tanınmasını sağladı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q241538",
+        "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Taktik",
+        "https://en.wikipedia.org/wiki/Stratego"
+      ],
+      "wikidata_qid": "Q241538"
+    },
+    {
+      "id": "Q217599",
+      "date": "2027-05-19",
+      "category": "kurum-marka",
+      "widget_title": "Carrefour marketler zinciri hangi yıl kuruldu?",
+      "hook": "Global alışveriş devi Carrefour, perakendecilik serüvenine hangi yıl başladı?",
+      "answer_year": 1959,
+      "year_precision": "day",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Bugün dünyanın dört bir yanında devasa mağazalarıyla tanıdığımız Carrefour, perakendecilik dünyasında köklü bir dönüşümün başlangıcını 1959 yılında Fransa'da yaptı. Bu tarih, modern alışverişin ve özellikle hipermarket konseptinin temellerinin atıldığı bir dönemin miladı sayılır. Carrefour, Fransız bir hipermarket zinciri olarak bilinse de, şirketin kuruluşu 1959'a dayanır. Ancak, Carrefour'un adını tüm dünyaya duyuran ve tüketicilerin alışveriş alışkanlıklarını kökten değiştiren ilk büyük formatlı hipermarket konsepti, [DOĞRULA: Carrefour'un ilk hipermarketinin açıldığı kesin yıl] yılında kapılarını açtı. Bu öncü mağazalar, tek bir çatı altında hem gıda hem de gıda dışı ürünlerin geniş bir yelpazesini sunarak, o güne kadarki geleneksel market anlayışını yıktı. Tüketicilere inanılmaz bir ürün çeşitliliği ve kolaylık sağlayan Carrefour, bu yenilikçi yaklaşımıyla modern perakendeciliğin gelişimine yön verdi. Kısa sürede sadece Fransa'da değil, Avrupa'dan Asya'ya, Güney Amerika'dan Afrika'ya kadar dünyanın dört bir yanında büyüyerek küresel bir marka haline geldi. Milyonlarca müşteriye hizmet veren Carrefour, alışveriş merkezlerinin ve büyük mağazaların bugünkü halini almasında önemli bir rol oynadı ve sektördeki lider konumunu korumaya devam ediyor.",
+      "fun_fact": "Carrefour ismi, Fransızca'da 'kavşak' anlamına gelir ve ilk mağazalarından birinin bir kavşakta konumlanmasından esinlenerek verilmiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q217599",
+        "https://tr.wikipedia.org/wiki/Carrefour",
+        "https://en.wikipedia.org/wiki/Carrefour"
+      ],
+      "wikidata_qid": "Q217599"
+    },
+    {
+      "id": "Q942327",
+      "date": "2027-05-20",
+      "category": "iletisim",
+      "widget_title": "Waze ne zaman yollara düştü?",
+      "hook": "Trafiğe takılmadan, en kısa yoldan gitmenizi sağlayan bu akıllı yol arkadaşı ne zaman ortaya çıktı dersiniz?",
+      "answer_year": 2010,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Navigasyon uygulamaları, günlük hayatımızın ayrılmaz bir parçası haline gelmiş olsa da, Waze yollardaki deneyimimizi bambaşka bir seviyeye taşıdı. Sadece A noktasından B noktasına gitmenizi sağlamakla kalmayıp, diğer sürücülerin anlık bildirimleriyle trafik sıkışıklıklarını, yol çalışmalarını, hatta potansiyel tehlikeleri bile önceden haber veren bu akıllı yol arkadaşı, adeta yoldaki binlerce gözün tek bir uygulamada buluşmuş hali. Peki, bu topluluk odaklı navigasyon devi ne zaman hayatımıza girdi dersiniz?\n\nCevap, 2010 yılı. İşte o tarihte, Waze, klasik navigasyon sistemlerinden çok farklı bir felsefeyle ortaya çıktı. Temelinde, \"sürücüler birbirine yardım ederse herkesin yolculuğu daha iyi olur\" düşüncesi yatıyordu. Haritalardaki veriler, uygulamanın kullanıcıları tarafından, sürüş esnasında toplanan ve paylaşılan bilgilerle sürekli olarak güncelleniyor. Yolda bir kaza mı var? Bir Waze kullanıcısı anında sisteme bildirir. Hız denetimi mi var? O da anında haritada işaretlenir. Bu sayede her yolculuk, milyonlarca anlık bilgi akışıyla desteklenen dinamik bir deneyime dönüşüyor.\n\nWaze'in başlangıcı, [DOĞRULA: İsrail'de küçük bir proje olarak başladığı ve LinQ adıyla bilindiği bilgisi] bir grup vizyoner tarafından atıldı. Amaç, sadece harita göstermek değil, sürücülerin deneyimlerini paylaşarak anlık ve doğru bilgiye ulaşmasını sağlamaktı. Uygulama, GPS verilerini anonim olarak kullanarak trafik yoğunluğunu hesaplıyor ve bu verileri kullanıcılardan gelen raporlarla birleştirerek gerçek zamanlı bir trafik durumu haritası oluşturuyor. Bu yenilikçi ve katılımcı yaklaşım, Waze'i kısa sürede dünya genelinde popüler bir tercih haline getirdi.",
+      "fun_fact": "Waze kullanıcıları, harita üzerindeki yolları ve konumları düzenleyebilen \"harita editörleri\" olarak da gönüllü katkıda bulunabiliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q942327",
+        "https://tr.wikipedia.org/wiki/Waze",
+        "https://en.wikipedia.org/wiki/Waze"
+      ],
+      "wikidata_qid": "Q942327"
+    },
+    {
+      "id": "Q156376",
+      "date": "2027-05-21",
+      "category": "yazilim-internet",
+      "widget_title": "Vimeo ne zaman kuruldu?",
+      "hook": "İnternetin derinliklerinde saklı, kaliteli videoların adresi olan Vimeo’nun hikayesi, beklenenden çok daha eskilere dayanıyor!",
+      "answer_year": 2004,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Vimeo, 2004 yılında kurulan ve kullanıcılarına yüksek kaliteli video paylaşımı imkanı sunan bir platform olarak dijital dünyaya adım attı. Temelleri, daha çok tanınan bir video platformunun içinde atıldı aslında: Vimeo, InterActiveCorp (IAC) tarafından satın alınan ve geliştirilen bir proje olarak başladı. [DOĞRULA: Vimeo’nun ilk versiyonunun hangi ekip tarafından geliştirildiği ve ilk kullanıcı kitlesinin kimlerden oluştuğu] Bu dönemde, YouTube’un da yükselişe geçtiği yıllara denk gelen Vimeo, kullanıcılarına reklamsız ve daha profesyonel bir deneyim sunmayı hedefledi.\n\nPlatformun adı, \"video\" ve \"film\" kelimelerinin birleşiminden türetilmiş: \"Video\" + \"Me\" (ben). Bu da aslında Vimeo’nun, yaratıcıların kendi eserlerini özgün bir şekilde paylaşabileceği bir alan olma vizyonunu yansıtıyor. Başlangıçta, sadece birkaç kullanıcıyla başlayan platform, zamanla sanatçılar, film yapımcıları ve içerik üreticileri için vazgeçilmez bir durak haline geldi. 2007 yılında ise Vimeo, tamamen bağımsız bir hizmet olarak yoluna devam etmek üzere IAC’dan ayrıldı ve kendi kimliğini oluşturmaya başladı.\n\nBugün Vimeo, sadece bir video paylaşım platformu olmanın ötesine geçti. Ücretli aboneliklerle sunulan profesyonel araçlar, canlı yayın özellikleri ve hatta web sitesi oluşturma seçenekleriyle içerik üreticilerine çok yönlü bir ekosistem sunuyor. Peki, sizce Vimeo’nun en büyük başarısı neydi? Yüksek kalite mi, yoksa bağımsız yaratıcıları desteklemesi mi?",
+      "fun_fact": "Vimeo’nun ilk videosu, kurucu ortaklardan Jake Lodwick tarafından yüklenen ve sadece 10 saniye süren bir test videosuydu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q156376",
+        "https://tr.wikipedia.org/wiki/Vimeo",
+        "https://en.wikipedia.org/wiki/Vimeo"
+      ],
+      "wikidata_qid": "Q156376"
+    },
+    {
+      "id": "Q248534",
+      "date": "2027-05-22",
+      "category": "oyun-spor",
+      "widget_title": "Kanada futbolu ne zaman ortaya çıktı?",
+      "hook": "1861’de ortaya çıktığı sanılan bu sert ve stratejik oyunun aslında çok daha eskilere dayanan bir hikayesi var!",
+      "answer_year": 1861,
+      "year_precision": "day",
+      "guess_range": [
+        1760,
+        1940
+      ],
+      "body": "Kanada futbolu, bugün bildiğimiz haliyle 1861 yılında Kanada’da resmileşmiş olsa da [DOĞRULA: bu tarih tam olarak hangi olayla ilişkilendirildi?], kökleri çok daha eskiye dayanıyor. Oyunun temelleri, İngiliz rugby ve futbolunun Kanada’ya adapte edilmesiyle atıldı. Özellikle 19. yüzyılın ortalarında, Montreal ve Toronto gibi şehirlerde yerel okullar ve üniversiteler arasında oynanan maçlar, bu sporun şekillenmesinde kritik rol oynadı.\n\n1861 yılı, Kanada futbolunun resmi olarak tanınmaya başladığı dönem olarak kabul edilir. Bu tarih, aynı zamanda Kanada’da rugby ve futbolun ayrışmaya başladığı bir döneme denk gelir. Ancak, oyunun kurallarının netleşmesi ve bugünkü formuna kavuşması için birkaç on yıl daha geçmesi gerekecekti. Örneğin, ileri pasın serbest bırakılması gibi modern unsurlar ancak 20. yüzyılın başlarında eklenmeye başladı.\n\nBugün Kanada futbolu, ülkenin en popüler sporlarından biri ve Kuzey Amerika’nın en önemli liglerinden biri olan CFL (Canadian Football League) tarafından temsil ediliyor. Peki ya sizce bu sert ve heyecanlı oyunun en ilginç yanı ne?",
+      "fun_fact": "Kanada futbolunun en uzun süren rekabeti, Toronto Argonauts ve Hamilton Tiger-Cats arasında geçen ve 1873 yılına kadar uzanan derbi maçlardır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q248534",
+        "https://tr.wikipedia.org/wiki/Kanada_futbolu",
+        "https://en.wikipedia.org/wiki/Canadian_football"
+      ],
+      "wikidata_qid": "Q248534"
+    },
+    {
+      "id": "Q219564",
+      "date": "2027-05-23",
+      "category": "kurum-marka",
+      "widget_title": "Tıp dünyasının devi Karolinska Enstitüsü ne zaman hayata geçti?",
+      "hook": "Tıp alanında dünyanın en prestijli kurumlarından biri olan Karolinska Enstitüsü'nün kökenleri nereye dayanıyor?",
+      "answer_year": 1810,
+      "year_precision": "year",
+      "guess_range": [
+        1710,
+        1890
+      ],
+      "body": "Bugün tıp ve yaşam bilimleri alanında dünyanın en saygın kurumlarından biri olarak bilinen Karolinska Enstitüsü, hikayesine 1810 yılında İsveç'in başkenti Stockholm'de başladı. Kuruluş amacı, o dönemdeki savaşlar ve salgın hastalıklar nedeniyle artan tıbbi personel ihtiyacını karşılamak, özellikle de askeri cerrahları eğitmekti. [DOĞRULA: Kuruluş amacı sadece askeri cerrah eğitimi miydi ve salgın hastalıklar da bir etken miydi?] Başlangıçta \"Mediko-Chirurgiska Institutet\" adıyla anılıyordu ve sağlık hizmetlerinde yenilikçi yaklaşımlar geliştirmeyi hedefliyordu. [DOĞRULA: İlk adı bu muydu ve hedefi neydi?] Geçen iki yüzyıl boyunca, enstitü misyonunu genişleterek sadece İsveç'e değil, tüm dünyaya hizmet eden bir araştırma ve eğitim merkezine dönüştü. Bünyesindeki bilim insanları ve araştırmacılar, kanserden bulaşıcı hastalıklara, nörolojiden genetiğe kadar pek çok alanda insan sağlığına yönelik sayısız önemli keşfe ve tedavi yöntemine imza attılar. Karolinska Enstitüsü'nün dünya çapındaki en belirgin özelliklerinden biri ise, her yıl fizyoloji veya tıp alanında Nobel Ödülü kazananlarını belirleyen Karolinska Enstitüsü Nobel Komitesi'ne ev sahipliği yapmasıdır. Bu komite, bilimin en prestijli ödüllerinden birinin sahiplerini seçerek küresel bilim sahnesine yön vermektedir. Enstitü, sunduğu üst düzey eğitim kalitesi ve yaptığı çığır açıcı araştırmalarla geleceğin tıp profesyonellerini yetiştirmeye ve insanlığın sağlık sorunlarına kalıcı çözümler bulmaya devam ediyor.",
+      "fun_fact": "1810'daki kuruluşundan bu yana, Karolinska Enstitüsü birçok Nobel Ödülü sahibi bilim insanına ev sahipliği yapmıştır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q219564",
+        "https://tr.wikipedia.org/wiki/Karolinska_Enstit%C3%BCs%C3%BC",
+        "https://en.wikipedia.org/wiki/Karolinska_Institute"
+      ],
+      "wikidata_qid": "Q219564"
+    },
+    {
+      "id": "Q973569",
+      "date": "2027-05-24",
+      "category": "iletisim",
+      "widget_title": "4shared ne zaman dijital dünyamıza adım attı?",
+      "hook": "Devasa dosyaları kolayca paylaşmanın yolu 4shared ile nasıl açıldı?",
+      "answer_year": 2005,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "2000'lerin ortalarına doğru internet daha hızlı hale geldikçe, kullanıcıların büyük dosyaları paylaşma ihtiyacı da katlanarak arttı. E-posta ekleri belirli bir boyutu aşamıyor, fiziksel harici diskler herkesin erişiminde değildi ve bulut depolama henüz bugünkü kadar yaygın değildi. İşte tam da bu boşluğu doldurmak için 4shared, 2005 yılında dijital dünyaya merhaba dedi. Bir dosya barındırma ve paylaşım servisi olarak hızla popülerlik kazandı. Kullanıcılar, ister müzik, ister video, isterse de yazılım veya belgeler olsun, devasa boyutlardaki dijital içeriklerini 4shared sunucularına kolayca yükleyip, başkalarıyla bir bağlantı aracılığıyla paylaşabiliyorlardı. Ücretsiz sunduğu depolama alanı ve basit, anlaşılır arayüzü sayesinde, özellikle internet erişiminin yeni yaygınlaştığı bölgelerde [DOĞRULA: geniş bir kullanıcı kitlesi edindi] ve dijital içerik alışverişinin önemli bir parçası haline geldi.\n\n4shared, sadece bir depolama alanı olmanın ötesinde, aynı zamanda kullanıcıların paylaşılan içerikleri keşfetmesine de olanak tanıyan bir arama motoru işlevi görüyordu. Bu, onu sadece kişisel dosyaları saklama yeri olmaktan çıkarıp, adeta küresel bir dijital içerik kütüphanesine dönüştürdü. Yıllar içinde teknoloji ve internet kullanımı değişse de, 4shared uzun süre boyunca dosya paylaşımının simge isimlerinden biri olarak kaldı. Dijital dünyanın hızla evrildiği bu dönemde, büyük dosyaları ulaştırmanın ne kadar değerli olduğunu bize bir kez daha gösterdi.",
+      "fun_fact": "4shared, dosya paylaşım dünyasında, kullanıcıların kendi içeriklerini yükleyip diğerleriyle paylaşabildiği ilk büyük platformlardan biriydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q973569",
+        "https://tr.wikipedia.org/wiki/4shared",
+        "https://en.wikipedia.org/wiki/4shared"
+      ],
+      "wikidata_qid": "Q973569"
+    },
+    {
+      "id": "Q15954148",
+      "date": "2027-05-25",
+      "category": "yazilim-internet",
+      "widget_title": "Glassdoor ne zaman kuruldu?",
+      "hook": "İş görüşmelerinden maaşlara kadar her şeyi 'cam gibi' şeffaf hale getiren platformun hikayesi, 2007 yılında başladı.",
+      "answer_year": 2007,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Glassdoor, çalışanların şirketler hakkında yorum yapabildiği, maaş bilgilerini paylaştığı ve iş görüşmelerinin nasıl geçtiğine dair ipuçları sunduğu devrim niteliğindeki platform olarak bilinir. 2007 yılında kurulan bu site, [DOĞRULA: Eric Sydell’in ilk CEO olarak atandığı tarih] Eric Sydell ve ekibi tarafından hayata geçirildi. Temel fikir, çalışanlara seslerini duyurma ve şirketleri daha şeffaf hale getirme amacı taşıyordu.\n\nBaşlangıçta ABD merkezli olan Glassdoor, kısa sürede global bir platform haline geldi. Kullanıcıların gönüllü olarak paylaştığı veriler sayesinde, iş arayanlar için değerli bir kaynak oldu. Platformun en dikkat çekici özelliklerinden biri, şirketlerin gizli kalmış kültürlerini ve çalışma koşullarını ortaya çıkarmasıydı. Bu da birçok şirketin itibar yönetimi stratejilerini yeniden gözden geçirmesine neden oldu.\n\nGlassdoor’un başarısının ardında, kullanıcıların güvenine dayalı bir ekosistem yaratması yatıyor. Ancak platformun büyümesiyle birlikte, şirketlerin itibarlarını korumak için farklı stratejiler geliştirmesi de kaçınılmaz oldu.",
+      "fun_fact": "Glassdoor’un ilk yorumu, kurucu ortaklardan biri olan Rich Barton tarafından yazılan ve şirketin kendi iç dinamiklerini ele alan bir değerlendirmeydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15954148",
+        "https://tr.wikipedia.org/wiki/Glassdoor_(%C5%9Firket)",
+        "https://en.wikipedia.org/wiki/Glassdoor"
+      ],
+      "wikidata_qid": "Q15954148"
+    },
+    {
+      "id": "Q2736",
+      "date": "2027-05-26",
+      "category": "oyun-spor",
+      "widget_title": "Futbol ne zaman icat edildi?",
+      "hook": "Topun peşinde koşarken aslında tarihin de peşinde koşuyorsunuz!",
+      "answer_year": 1863,
+      "year_precision": "year",
+      "guess_range": [
+        1760,
+        1940
+      ],
+      "body": "Bugün bildiğimiz anlamda futbolun temelleri, 1863 yılında İngiltere’de atıldı. Bu yıl, dünyanın ilk futbol kuralları olan *Cambridge Kuralları*na dayanan ve Futbol Birliği’nin (Football Association) kurulduğu yıl olarak kabul ediliyor. [DOĞRULA: Bu kuralların tam olarak hangi kurum tarafından yayımlandığı ve diğer futbol türlerinden (örneğin rugby) net ayrımının nasıl yapıldığı].\n\nAslında futbol benzeri oyunlar çok daha eskilere, antik Çin’e (MÖ 2-3. yüzyıl) kadar uzanıyor. Ortaçağ Avrupa’sında da farklı versiyonları oynanıyordu ama bu oyunlar bugünkü kurallardan oldukça farklıydı. Örneğin, top elle de sürülebiliyor ya da şiddet içeren hareketler serbest bırakılabiliyordu. 19. yüzyılın ortalarında İngiltere’deki okullarda oynanan oyunların standartlaştırılması ihtiyacı doğunca, futbolun modern hali şekillenmeye başladı.\n\n1863 yılında kurulan Futbol Birliği, aynı yıl ilk resmi maçı da organize etti. Bu gelişme, futbolun sadece bir sokak oyunu olmaktan çıkıp organize bir spor haline gelmesini sağladı. Uluslararası arenada ise ilk resmi maç 1872 yılında İngiltere ve İskoçya arasında oynandı.",
+      "fun_fact": "Dünyanın en eski futbol kulübü, 1857 yılında İngiltere’de kurulan Sheffield FC’dir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2736",
+        "https://tr.wikipedia.org/wiki/Futbol",
+        "https://en.wikipedia.org/wiki/Association_football"
+      ],
+      "wikidata_qid": "Q2736"
+    },
+    {
+      "id": "Q230899",
+      "date": "2027-05-27",
+      "category": "kurum-marka",
+      "widget_title": "Manchester Üniversitesi'nin kökleri ne zamana dayanıyor?",
+      "hook": "İngiltere'nin en prestijli eğitim kurumlarından birinin hikayesi, sanayi devriminin kalbinde atılan bir tohumla başlıyor.",
+      "answer_year": 1824,
+      "year_precision": "year",
+      "guess_range": [
+        1720,
+        1900
+      ],
+      "body": "Manchester Üniversitesi'nin hikayesi, modern bilimin ve eğitimin sadece belirli bir zümrenin ayrıcalığı olmadığını göstermeyi amaçlayan büyük bir vizyonla 1824'te başladı. Bu yıl, kentin sanayi devrimine yön veren işçilerine ve zanaatkarlarına yönelik bir eğitim kurumu olarak Manchester Mekanik Enstitüsü'nün temelleri atıldı. Enstitü, bilginin yayılması ve uygulamalı eğitimin herkes için erişilebilir olması gerektiği inancıyla yola çıktı.\n\nYıllar içinde, bu mütevazı başlangıçtan çok daha fazlası filizlendi. Özellikle 1851'de John Owens'ın mirasıyla kurulan Owens Koleji, şehrin akademik yüzünü şekillendiren önemli bir adım oldu. Kolej, zamanla Victoria Üniversitesi of Manchester'a dönüştü ve İngiltere'nin önde gelen araştırma üniversitelerinden biri haline geldi. Öte yandan, Mekanik Enstitüsü de kendi yolculuğuna devam ederek Manchester Bilim ve Teknoloji Üniversitesi Enstitüsü (UMIST) olarak bilinen güçlü bir teknik üniversiteye evrildi.\n\nİki büyük kurumun bilgi ve mirası, 2004 yılında birleşerek bugünkü modern Manchester Üniversitesi'ni oluşturdu. Bu birleşme, yaklaşık iki yüz yıllık bir mirasın doruk noktasıydı ve üniversiteyi bugün olduğu gibi, dünya çapında etkili bir araştırma ve eğitim merkezine dönüştürdü. Dolayısıyla 1824, sadece bir başlangıç noktası değil, aynı zamanda gelecekteki büyük başarıların tohumlarının atıldığı bir dönüm noktasıydı.",
+      "fun_fact": "Manchester Üniversitesi ile bağlantılı, aralarında atomu parçalayanlar ve grafeni izole edenlerin de bulunduğu [DOĞRULA: yaklaşık 25] Nobel ödüllü bilim insanı bulunmaktadır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q230899",
+        "https://tr.wikipedia.org/wiki/Manchester_%C3%9Cniversitesi",
+        "https://en.wikipedia.org/wiki/University_of_Manchester"
+      ],
+      "wikidata_qid": "Q230899"
+    },
+    {
+      "id": "Q1755887",
+      "date": "2027-05-28",
+      "category": "yazilim-internet",
+      "widget_title": "OpenServer ne zaman ortaya çıktı?",
+      "hook": "1980'lerin sonlarında sunucular için geliştirilen bir işletim sistemi olarak ortaya çıkan OpenServer'ın hikayesini keşfetmeye ne dersin?",
+      "answer_year": 1989,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "OpenServer, 1989 yılında ortaya çıkan bir sunucu işletim sistemidir. O dönemlerde sunucular için geliştirilen bu işletim sistemi, [DOĞRULA: hangi şirketler tarafından geliştirildi], sunucuların yönetimini ve işletimini kolaylaştırmak amacıyla tasarlandı. Açık kaynaklı ve esnek bir yapıya sahip olan OpenServer, özellikle küçük ve orta ölçekli işletmeler tarafından tercih edildi. OpenServer'ın geliştirilmesinde [DOĞRULA: hangi programlama dilleri kullanıldı] ve bu sayede sistem, yüksek performans ve güvenirlik sunmayı amaçladı. OpenServer, sunucu yönetimi ve ağ hizmetleri sunan bir işletim sistemi olarak, özellikle 1990'lı yıllarda yaygın bir kullanıma sahip oldu.",
+      "fun_fact": "OpenServer, günümüzde hala bazı küçük ölçekli işletmeler tarafından kullanılmaktadır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1755887",
+        "https://tr.wikipedia.org/wiki/OpenServer",
+        "https://en.wikipedia.org/wiki/OpenServer"
+      ],
+      "wikidata_qid": "Q1755887"
+    },
+    {
+      "id": "Q3108874",
+      "date": "2027-05-29",
+      "category": "oyun-spor",
+      "widget_title": "Panfu ne zaman icat edildi?",
+      "hook": "Sanal bir ada düşünün: palmiyeler, penguenler ve gizli tüneller... Peki ya bu dünyanın 2007'den beri milyonlarca çocuğu ekran başına kilitlediğini söylesek?",
+      "answer_year": 2007,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Panfu, 2007 yılında yayınlanan ve özellikle çocuklar arasında popüler hale gelen çevrimiçi bir oyun olarak hayatımıza girdi. Teması, sevimli penguenlerin maceralarını konu alan bu oyun, kullanıcılarına sanal bir ada keşfetme ve sosyal etkileşim kurma fırsatı sunuyordu. Panfu’nun en ilginç yanlarından biri, oyun içindeki mini oyunların yanı sıra, kullanıcıların birbirleriyle sohbet edebildiği ve işbirliği yapabildiği bir topluluk oluşturmasıydı.\n\nOyunun arkasındaki ekip veya tam olarak kimler tarafından geliştirildiği hakkında fazla bilgi bulunmaması, Panfu’yu biraz gizemli kılıyor. [DOĞRULA: Panfu’nun geliştiricisi veya yayıncısının kim olduğu ve oyun şirketinin tam adı] Bazı kaynaklarda Almanca konuşulan ülkelerde daha fazla tanınmış olmasına rağmen, uluslararası alanda da geniş bir kullanıcı kitlesine ulaştı.\n\nPanfu, 2000’lerin ortalarında yükselen çevrimiçi oyun trendinin bir parçasıydı ve çocuklara dijital dünyada güvenli bir şekilde vakit geçirme imkanı sunarak ebeveynlerin de güvenini kazandı. Oyunun kapanışıyla ilgili net bir tarih verilmese de, zamanla yerini yeni oyunlara bıraktığı düşünülüyor.",
+      "fun_fact": "Panfu, adını 'penguin' (penguen) ve 'fugu' (Japonca'da balon balığı anlamına gelen ve oyun içindeki bir mini oyunun adı) kelimelerinin birleşiminden alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3108874",
+        "https://tr.wikipedia.org/wiki/Panfu",
+        "https://en.wikipedia.org/wiki/Panfu"
+      ],
+      "wikidata_qid": "Q3108874"
+    },
+    {
+      "id": "Q2310883",
+      "date": "2027-05-30",
+      "category": "kurum-marka",
+      "widget_title": "Spinnin' Records müzik sahnesine ne zaman adım attı?",
+      "hook": "Elektronik dans müziğinin devlerinden Spinnin' Records'ın kuruluş hikayesi seni büyüleyecek!",
+      "answer_year": 1999,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Yıl 1999... Elektronik dans müziğinin (EDM) küresel çapta yükselişe geçtiği, kulüplerin ve festivallerin sınırlarını zorladığı bir dönemdi. Hollanda ise bu hareketin kalbiydi ve işte tam da bu heyecan verici atmosferde, Spinnin' Records isimli bir plak şirketi müzik sahnesine ilk adımını attı.\n\nKuruluşundan itibaren Spinnin' Records, dans müziği dünyasının en yetenekli DJ'lerini ve prodüktörlerini keşfetme misyonunu benimsedi. Sadece müzik yayınlamakla kalmayıp, aynı zamanda sanatçıların kariyerlerini şekillendiren ve onların özgün seslerini geniş kitlelere ulaştıran bir platform olmayı başardı. Şirket, house müzikten trance'e, progressive'den daha sert elektronik türlere kadar geniş bir yelpazede yayınlar yaparak kısa sürede sektörün en etkili ve tanınmış isimlerinden biri haline geldi.\n\nSpinnin' Records'ın başarısı, sadece hit parçalar çıkarmasından değil, aynı zamanda dans müziği kültürünü ana akım haline getirme konusundaki vizyonundan da kaynaklanıyor. 2000'li yılların başından itibaren küresel EDM patlamasında kilit bir rol oynadılar. Onların sayesinde birçok ikonik parça kulüplerden radyolara, oradan da tüm dünyanın müzikseverlerinin çalma listelerine girdi. Bugün bile Spinnin' Records, dans müziğinin nabzını tutmaya, yeni yetenekleri desteklemeye ve milyonlara dans ettirmeye devam ediyor.",
+      "fun_fact": "Spinnin' Records'ın YouTube kanalı, milyarlarca izlenme ile elektronik dans müziği dünyasının en büyük platformlarından biridir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2310883",
+        "https://tr.wikipedia.org/wiki/Spinnin%27_Records",
+        "https://en.wikipedia.org/wiki/Spinnin%27_Records"
+      ],
+      "wikidata_qid": "Q2310883"
+    },
+    {
+      "id": "Q18012472",
+      "date": "2027-05-31",
+      "category": "yazilim-internet",
+      "widget_title": "Apple Watch’un işletim sistemi watchOS ne zaman çıktı?",
+      "hook": "Akıllı saatlerin kalbindeki sistemi hiç merak ettiniz mi? Peki, onun doğum tarihini biliyor musunuz?",
+      "answer_year": 2015,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Apple’ın akıllı saat serisi Apple Watch’un kalbinde çalışan watchOS, kullanıcıların bileklerinde minyatür bir bilgisayar deneyimi yaşamasını sağlıyor. Bu özel işletim sistemi, 24 Nisan 2015 tarihinde [DOĞRULA: resmi olarak piyasaya sürüldü].\n\nwatchOS’un hikayesi, Apple’ın uzun yıllardır cihazlar arasındaki uyumu mükemmelleştirme çabalarının bir parçası. İlk nesil Apple Watch’un tanıtıldığı 9 Eylül 2014 tarihinde, sistemin adı henüz \"Apple Watch OS\" olarak anılıyordu. Ancak cihazın piyasaya çıkışına kadar geçen süreçte, işletim sistemi geliştirilmeye devam etti ve nihai adı olan watchOS ile birlikte 2015’in başlarında kullanıcılarla buluştu. watchOS’un ilk sürümü, akıllı bildirimler, fitness takibi ve Apple cihazlarıyla senkronizasyon gibi temel özellikleri içeriyordu.\n\nZamanla watchOS, Apple Watch’un donanım gelişimine paralel olarak yenilikler kazandı. Örneğin, kalp atış hızı izleme, EKG ölçümü ve hatta uyku takibi gibi sağlık odaklı özellikler eklendi. Her yeni sürümle birlikte, Apple’ın \"kişisel cihazlar\" vizyonunu daha da ileriye taşıyan watchOS, akıllı saat pazarında bir standart haline geldi.\n\nPeki, watchOS’un ilk versiyonu ile bugünkü sürümü arasında ne gibi farklar var? [DOĞRULA: Geliştirici belgeleri ve kullanıcı yorumları karşılaştırılmalı.]",
+      "fun_fact": "watchOS’un ilk sürümü, Apple Watch’un piyasaya çıkışından yaklaşık 7 ay önce tanıtılan iOS 8.2 ile birlikte çalışacak şekilde tasarlandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18012472",
+        "https://tr.wikipedia.org/wiki/WatchOS",
+        "https://en.wikipedia.org/wiki/WatchOS"
+      ],
+      "wikidata_qid": "Q18012472"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "schema_version": 1,
+  "month": "2027-02",
+  "items": [
+    {
+      "id": "Q1022075",
+      "date": "2027-02-01",
+      "category": "kurum-marka",
+      "widget_title": "BİM marketler zinciri Türkiye'ye ne zaman merhaba dedi?",
+      "hook": "Türkiye'de alışveriş alışkanlıklarını değiştiren BİM'in hikayesi ne zaman başladı dersiniz?",
+      "answer_year": 1995,
+      "year_precision": "month",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Türkiye'nin perakende sektörüne damga vuran BİM Birleşik Mağazalar A.Ş., ilk şubesini 1995 yılında açarak tüketicilerle buluştu. Bu tarih, sadece bir marketin doğuşu değil, aynı zamanda Türkiye'de \"indirim marketi\" anlayışının da köklü bir şekilde yerleşmesinin başlangıcıydı. BİM, kurulduğu günden itibaren belirlediği sade ve etkin iş modeliyle hızla büyüdü. Geniş ürün yelpazesi yerine temel gıda ve ihtiyaç maddelerine odaklanarak, operasyonel maliyetleri düşük tutmayı ve bu sayede müşterilerine her zaman en uygun fiyatları sunmayı hedefledi. Raflarında daha çok kendi markalı ürünlerine yer vermesi de, bu stratejinin önemli bir parçasıydı. O yıllarda bu kadar hızlı büyüyeceği ve bugünkü devasa boyutlara ulaşacağı belki de tahmin edilemezdi. Ancak BİM, müşteri memnuniyetini ve verimliliği ön planda tutan yapısıyla kısa sürede milyonlarca hanenin vazgeçilmezi haline geldi. Bugün Türkiye'nin dört bir yanında binlerce şubesiyle hizmet veren BİM, sadece bir alışveriş noktası olmanın ötesinde, uygun fiyatlı ve kaliteli ürün arayışındaki tüketiciler için bir referans noktası haline geldi. Özellikle ekonomik dönemlerde, BİM'in sunduğu avantajlar daha da belirginleşerek, pek çok ailenin bütçesine destek oldu. Kuruluşundan bu yana geçen yıllar, BİM'in sadece bir market olmaktan çıkıp, bir markaya ve hatta bir yaşam tarzına dönüştüğünü gösteriyor. Bu başarı hikayesi, perakendecilikte farklı bir yol izlemenin ve müşteri odaklı olmanın ne denli önemli olduğunu kanıtlıyor.",
+      "fun_fact": "BİM, Türkiye'deki faaliyetlerinin yanı sıra, Fas ve Mısır gibi ülkelerde de mağazalar açarak uluslararası alanda da önemli bir oyuncu haline gelmiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1022075",
+        "https://tr.wikipedia.org/wiki/B%C4%B0M",
+        "https://en.wikipedia.org/wiki/Bim_(company)"
+      ],
+      "wikidata_qid": "Q1022075"
+    },
+    {
+      "id": "Q104378621",
+      "date": "2027-02-02",
+      "category": "ulasim",
+      "widget_title": "Ever Given gemisi ne zaman suya indirildi?",
+      "hook": "Dünyanın en ünlü konteyner gemilerinden biri olan Ever Given, 2021'de Süveyş Kanalı'nda yaptığı manevra ile tüm dünyanın gündemine oturdu. Peki, bu devasa gemi ne zaman suya indirildi?",
+      "answer_year": 2018,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Ever Given, dünyanın en büyük konteyner gemilerinden biri olarak tanınan ve Evergreen Marine Corporation’a ait olan bir gemidir. Bu devasa gemi, 2018 yılında Japonya’nın Imari şehrindeki Oshima Shipbuilding tersanesinde inşa edildi ve aynı yılın içerisinde suya indirildi. [DOĞRULA: Gemi inşasının tamamlandığı tarih ve suya indirilme süreci hakkında daha detaylı bilgi bulunmamaktadır.] \n\nEver Given, 20.883 TEU (Twenty-foot Equivalent Unit) kapasitesiyle, dünyanın en büyük gemileri arasında yer alıyor. Geminin uzunluğu 400 metreyi, genişliği ise 59 metreyi aşmaktadır. Bu boyutlarıyla Ever Given, sadece yük taşıma kapasitesi değil, aynı zamanda tasarımı ve mühendislik özellikleriyle de dikkat çekiyor. \n\n2021 yılında Süveyş Kanalı’nda karaya oturarak küresel ticaretin aksamasına neden olan gemi, medyanın da ilgisini çekti ve adını dünya çapında duyurdu. Ever Given’in suya indirilmesi, gemi inşa sektöründe bir dönüm noktası olarak kabul edilebilir, ancak bu süreç hakkında daha fazla teknik detay [DOĞRULA: suya indirme töreni ve teknik özelliklerin detaylandırılması] gerekiyor.",
+      "fun_fact": "Ever Given’in karaya oturduğu 2021 olayında, geminin kurtarılması için 8 adet büyük çekici ve aylar süren çalışmalar gerekmişti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104378621",
+        "https://tr.wikipedia.org/wiki/Ever_Given",
+        "https://en.wikipedia.org/wiki/Ever_Given"
+      ],
+      "wikidata_qid": "Q104378621"
+    },
+    {
+      "id": "Q105584",
+      "date": "2027-02-03",
+      "category": "yazilim-internet",
+      "widget_title": "Rotten Tomatoes ne zaman kuruldu?",
+      "hook": "Filmleri izlemeden önce puanlarını mı kontrol ediyorsun? Peki bu puanları toplayan sistem ne zaman doğdu dersin?",
+      "answer_year": 1998,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Rotten Tomatoes, 1998 yılında Amerika’da doğan bir film ve televizyon eleştirisi derleme platformu. Adını, çürük (rotten) ya da taze (fresh) domatesler atılan eski bir tiyatro geleneğinden alıyor. İzleyiciler, eleştirmenlerin filmler hakkındaki görüşlerini bu platformda bulabilir ve filmlerin kalitesini domates sembolleriyle değerlendirebilirler.\n\nBaşlangıçta, üç kurucu — Senh Duong, Patrick Y. Lee ve Stephen Wang — hayranları için bir film inceleme sitesi olarak hayal etmişlerdi. [DOĞRULA: Bu üç isim arasındaki roller ve siteyi kurma motivasyonları hakkında daha detaylı bilgi var mı?] Zamanla, Rotten Tomatoes sadece eleştirmenlerin değil, izleyicilerin de film seçimlerinde etkili bir referans noktası haline geldi. 2010 yılında Flixster’a, ardından 2011’de Warner Bros’a satıldı, ancak bağımsız bir platform olarak varlığını sürdürdü.\n\nBugün milyonlarca kullanıcıya hizmet veren Rotten Tomatoes, film endüstrisinde önemli bir söz sahibi. Peki, senin en sevdiğin filmi kaç yıldız aldı acaba?",
+      "fun_fact": "Rotten Tomatoes’un ilk incelemesi, 1998 yılında *Your Friends & Neighbors* filmi hakkında yazılmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105584",
+        "https://tr.wikipedia.org/wiki/Rotten_Tomatoes",
+        "https://en.wikipedia.org/wiki/Rotten_Tomatoes"
+      ],
+      "wikidata_qid": "Q105584"
+    },
+    {
+      "id": "Q106548888",
+      "date": "2027-02-04",
+      "category": "oyun-spor",
+      "widget_title": "Avrupa Süper Ligi ne zaman kuruldu?",
+      "hook": "Futbola damga vurmaya hazırlanan bir ligin hikayesi, aslında sadece birkaç gün içinde nasıl altüst oldu?",
+      "answer_year": 2021,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Avrupa Süper Ligi fikri, Nisan 2021’de dünyanın dört bir yanındaki futbolseverleri şok eden bir şekilde gündeme geldi. 12 büyük Avrupa kulübü (Arsenal, Chelsea, Liverpool, Manchester United, Manchester City, Tottenham Hotspur, Real Madrid, Barcelona, Atlético Madrid, Inter, Juventus ve AC Milan), kendi aralarında daha prestijli ve kazançlı bir lig kurma planlarını açıkladılar. Bu haber, futbolun geleneksel yapısına meydan okuyan bir adım olarak algılandı ve hem taraftarlar hem de futbol otoriteleri tarafından büyük tepki topladı.\n\nAncak bu fikrin temelleri aslında çok daha eskiye dayanıyor. [DOĞRULA: 2009 yılında] bazı kulüplerin benzer bir süper lig kurulması yönündeki tartışmaları gündeme geldi, fakat hiçbir zaman somut bir adım atılmadı. 2021’deki girişim, bu tartışmaları bir anda somut bir plana dönüştürdü. Ne var ki, planın açıklanmasından sadece iki gün sonra, birçok kulüp projeden çekildiğini duyurdu ve Avrupa Süper Ligi, hayata geçirilmeden tarihe karıştı.\n\nPeki, bu ani yükseliş ve düşüşün ardındaki gerçekler nelerdi? Her şeyden önce, Avrupa Süper Ligi’nin kurucu kulüpleri, UEFA Şampiyonlar Ligi’ne alternatif olarak daha fazla maç ve daha yüksek gelir vaat eden bir yapı öneriyorlardı. Ancak taraftarların, yerel liglerin ve hatta bazı oyuncuların tepkisi, projenin çok hızlı bir şekilde çökmesine neden oldu. Bu olay, futbolun küresel ekosistemindeki güç dengelerini yeniden düşünmeye yol açtı.",
+      "fun_fact": "Avrupa Süper Ligi’nin ilk maçlarının bile oynanmamış olmasına rağmen, bazı tahminlere göre ligin yıllık geliri 4 milyar avroyu aşabilirdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106548888",
+        "https://tr.wikipedia.org/wiki/Avrupa_S%C3%BCper_Ligi",
+        "https://en.wikipedia.org/wiki/European_Super_League"
+      ],
+      "wikidata_qid": "Q106548888"
+    },
+    {
+      "id": "Q121713",
+      "date": "2027-02-05",
+      "category": "tibbi-buluslar",
+      "widget_title": "Akupunktur ne zaman icat edildi?",
+      "hook": "İğnelerle tedavi binlerce yıldır var ama akupunkturun kökenleri tam olarak nerede başlıyor dersiniz?",
+      "answer_year": -100,
+      "year_precision": "year",
+      "guess_range": [
+        -200,
+        -20
+      ],
+      "body": "Akupunkturun kökenleri, tahminlere göre [DOĞRULA: hangi antik uygarlıkta ilk kez kullanıldığı] MÖ 2. binyıla, hatta belki de daha da eskiye, Çin’in Neolitik dönemine kadar uzanıyor. İlk yazılı kayıtlar ise MÖ 100 civarına tarihlenen *Huangdi Neijing* (Sarı İmparator’un İç Kitabı) adlı eserde karşımıza çıkıyor. Bu metin, Çin tıbbının temellerini atarken akupunkturun da ilk kez sistematik bir şekilde tarif edildiği yer olarak kabul ediliyor.\n\nPeki bu tedavi yöntemi nasıl ortaya çıktı? Efsanelere göre, savaşçılar ok ya da mızrakla yaralandıklarında beklenmedik iyileşmeler gözlemlemişler. Bu gözlemler, vücutta belirli noktalara baskı ya da delme yoluyla tedavi uygulamanın yolunu açmış. Zamanla bu noktaların haritaları çıkarılmış ve *qi* (yaşam enerjisi) akışını düzenlemek için kullanılmış.\n\nBatı dünyasıyla tanışması ise 17. yüzyılda, Cizvit misyonerleri aracılığıyla olmuş. Ancak modern tıbbın ilgisini çekmesi 20. yüzyılın ortalarını buldu. Bugün bile akupunkturun nasıl işlediği tam olarak anlaşılamamış olsa da, birçok kültürde binlerce yıldır kullanılan bu yöntem hâlâ merak uyandırıyor.",
+      "fun_fact": "Akupunkturun ilk kullanıldığı yer olan Çin’de, iğnelerin yanı sıra taş ve kemikten yapılan aletlerin de kullanıldığına dair arkeolojik bulgular var.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q121713",
+        "https://tr.wikipedia.org/wiki/Akupunktur",
+        "https://en.wikipedia.org/wiki/Acupuncture"
+      ],
+      "wikidata_qid": "Q121713"
+    },
+    {
+      "id": "Q15078152",
+      "date": "2027-02-06",
+      "category": "iletisim",
+      "widget_title": "Tinder ne zaman ortaya çıktı ve flörtleşmeyi değiştirdi?",
+      "hook": "Sağa kaydırmak, artık sadece fotoğraflara bakmak değil, değil mi?",
+      "answer_year": 2012,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Ah, o meşhur sağa kaydırma hareketi! Tinder, dijital çağda flört etme şeklimizi kökten değiştiren bir uygulama olarak 2012 yılında hayatımıza girdi. Öncesinde online tanışma siteleri vardı elbette, ancak Tinder, cebimizdeki telefonla her an potansiyel eşleşmelerle anında buluşabilme kolaylığını getirdi. Uygulamanın basit arayüzü ve \"evet\" demek için sağa, \"hayır\" demek için sola kaydırma mekaniği, yani \"match\" sistematiğiyle kısa sürede tüm dünyada popüler oldu ve geleneksel tanışma yöntemlerine modern bir alternatif sundu.\n\nTinder'ın asıl dehası, tanışmayı adeta bir oyuna dönüştürmesiydi. Yalnızca bir fotoğrafa ve kısa bir biyografiye bakıp hızlıca karar vermek, o zamana kadarki utangaçlık bariyerlerini yıkarak çok daha fazla insanın dijital flörtleşmeyi denemesini sağladı. Artık insanlar, sadece arkadaşlarının arkadaşları veya sosyal çevresiyle sınırlı kalmayıp, yepyeni ve geniş bir insan havuzuyla tanışma şansına sahip oldu. Uygulama, kimileri için bir gecelik ilişkilerin kapısını aralarken, kimileri içinse hayatlarının aşkını bulduğu ciddi ilişkilerin başlangıcı oldu. Tinder, dijital flörtleşmenin öncüsü olmasının yanı sıra, sosyal etkileşimlerimizi de yeniden şekillendiren bir fenomen haline geldi. Kim bilir, belki de sen bile ilk tanıştığın yer Tinder'dı!",
+      "fun_fact": "Tinder'ın orijinal adı Matchbox olacaktı, ancak daha sonra daha ilgi çekici olan \"Tinder\" isminde karar kılındı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15078152",
+        "https://tr.wikipedia.org/wiki/Tinder",
+        "https://en.wikipedia.org/wiki/Tinder_(app)"
+      ],
+      "wikidata_qid": "Q15078152"
+    },
+    {
+      "id": "Q1551658",
+      "date": "2027-02-07",
+      "category": "gunluk-nesneler",
+      "widget_title": "Şarlman'ın kutsal sandukası ne zaman yapıldı?",
+      "hook": "Tarihin en büyük imparatorlarından birinin ebedi istirahatgahı, ölümünden çok sonra, ihtişamlı bir sanat eseri olarak ortaya çıktı.",
+      "answer_year": 1215,
+      "year_precision": "year",
+      "guess_range": [
+        1110,
+        1290
+      ],
+      "body": "Şarlman, Orta Çağ Avrupa'sının en ikonik figürlerinden biriydi. Peki, onun ismini taşıyan o muhteşem sandukanın ne zaman yapıldığını biliyor musunuz? Cevap, onun ölümünden çok sonraki bir tarih: tam olarak 1215 yılı! Aachen Katedrali'nin kalbinde yer alan bu kutsal emanet, Şarlman'ın kalıntılarını barındırmak üzere, imparatorun ölümünden yaklaşık 400 yıl sonra, o dönemin en yetenekli zanaatkarları tarafından özenle inşa edildi.\n\nBu sanduka, sadece bir tabut değil, aynı zamanda Gotik sanatının erken dönemlerine ait, yaldızlı ve mücevherlerle bezeli, göz kamaştırıcı bir şaheserdir. Üzerindeki kabartmalar, Şarlman'ın hayatından ve döneminden önemli sahneleri betimler, onu hem bir aziz hem de ilahi bir hükümdar olarak yüceltir. Yapıldığı dönemde, bu tür değerli emanet sandıkları, azizlerin hatırasını canlı tutmak ve hacıları çekmek için büyük bir önem taşıyordu. Şarlman'ın 1165'te aziz ilan edilmesiyle birlikte, onun için daha görkemli bir anıt yaratma ihtiyacı doğmuştu. 1215'te tamamlanan bu sanduka, bu ihtiyacın bir karşılığıydı. Sanatçıların kim olduğu bugün kesin olarak bilinmiyor [DOĞRULA: Dönemin Aachen veya Köln bölgelerinden sanatçıların çalıştığına dair daha kesin bir bilgi var mı?], ancak dönemin ustalarının işçiliğini ve zanaatını yansıttığı ortada. Bugün bile Aachen Katedrali'nin en değerli hazinelerinden biri olarak kabul edilir ve ziyaretçileri Orta Çağ'ın mistik atmosferine taşır.",
+      "fun_fact": "Şarlman'ın ölümünden dört asır sonra yapılan bu sanduka, aslında onun aziz ilan edilmesinden yaklaşık 50 yıl sonra tamamlandı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1551658",
+        "https://tr.wikipedia.org/wiki/%C5%9Earlman_sandukas%C4%B1",
+        "https://en.wikipedia.org/wiki/Karlsschrein"
+      ],
+      "wikidata_qid": "Q1551658"
+    },
+    {
+      "id": "Q41225",
+      "date": "2027-02-08",
+      "category": "muzik-enstruman",
+      "widget_title": "Big Ben ne zaman inşa edildi?",
+      "hook": "Londra'nın simgesi o ünlü çanı duyunca hepimizin aklına aynı soru gelir: Bu devasa saat kulesi aslında ne zaman ortaya çıktı?",
+      "answer_year": 1858,
+      "year_precision": "day",
+      "guess_range": [
+        1750,
+        1930
+      ],
+      "body": "Big Ben’in hikayesi, 1858 yılında Westminster Sarayı’nın saat kulesinin tamamlanmasıyla başlıyor. Peki, bu ikonik yapıyı hepimizin bildiği adıyla anmamızın sebebi ne? Aslında \"Big Ben\" çoğunlukla kuleye değil, kuledeki **13,7 ton ağırlığındaki büyük çana** verilen isim olarak kabul edilir. [DOĞRULA: Big Ben’in çan mı yoksa kule mi olduğu konusunda kaynaklarda net bir fikir birliği olup olmadığı] Kulenin resmi adı ise **Elizabeth Kulesi** (daha önce Clock Tower olarak bilinirdi), ancak 2012 yılında Kraliçe II. Elizabeth’in taht yıldönümü şerefine adı değiştirildi.\n\nSaat kulesinin inşa edilme amacı, 1834 yılında sarayda çıkan büyük yangından sonra yenilenme sürecinin bir parçasıydı. Tasarımında Augustus Pugin’in mimari çizimlerinden esinlenen Charles Barry imzası bulunuyor. İnşaatı neredeyse 16 yıl süren kule, 1859 yılında tamamen faaliyete geçti. İlk çan sesi ise 31 Mayıs 1859’da duyuldu — ancak o an biraz aksaklıklıydı: Çanın çatlaması nedeniyle kısa süre sonra değiştirilmesi gerekti.\n\nBugün Big Ben, sadece Londra’nın değil, tüm dünyanın en tanınan sembollerinden biri. Her yıl milyonlarca ziyaretçinin akınına uğrayan kule, aynı zamanda BBC’nin radyo yayını için de önemli bir referans noktası oldu. O ünlü \"bong\" sesi, yüzyıllardır zamanı haber vermeye devam ediyor.",
+      "fun_fact": "Big Ben’in çanının çatlamasının sebebi, ilk kez çalınırken yapılan bir hata: Çekiç, çanın yanlış noktasına vurmuş ve bu da çatlamaya yol açmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41225",
+        "https://tr.wikipedia.org/wiki/Big_Ben",
+        "https://en.wikipedia.org/wiki/Big_Ben"
+      ],
+      "wikidata_qid": "Q41225"
+    },
+    {
+      "id": "Q938131",
+      "date": "2027-02-09",
+      "category": "giyim",
+      "widget_title": "Lady Gaga'nın Et Elbisesi Ne Zaman Giydi?",
+      "hook": "Bir moda ifadesi mi, yoksa tartışmalı bir sanat eseri mi?",
+      "answer_year": 2010,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Sahneye çıktığı her an olay yaratan Lady Gaga, 2010 yılındaki MTV Video Müzik Ödülleri'nde yine tüm gözleri üzerine çekmeyi başardı. Ancak bu kez tercih ettiği elbise, sadece şık ya da avangart olmaktan çok öteydi: Tamamen çiğ etten yapılmıştı! Bu ikonik elbiseyi tasarımcı Franc Fernandez yarattı ve stilist Nicola Formichetti şekillendirdi. 'Et elbisesi', popüler kültür tarihine damga vuran en tartışmalı kıyafetlerden biri olarak kayıtlara geçti.\n\nGaga, bu radikal tercihiyle aslında sadece moda sınırlarını zorlamıyordu; aynı zamanda önemli bir mesaj veriyordu. O dönem ABD ordusunda eşcinsel askerlerin açıkça kimliklerini belirtmelerini engelleyen 'Don't Ask, Don't Tell' politikasına karşı bir protesto olarak yorumlanan bu elbise, 'haklarınız için savaşmazsanız, derinizdeki et kadar değeriniz olur' anlamını taşıyordu.\n\nElbise, dünya genelinde büyük yankı uyandırdı. Hayvan hakları aktivistlerinden sert eleştiriler alırken, bazıları ise onu cesur bir sanat eseri ve aktivist bir duruş olarak alkışladı. Her ne olursa olsun, 2010 yılından bu yana Lady Gaga'nın et elbisesi, moda, sanat ve aktivizmin kesişim noktasında eşsiz bir ikon olmaya devam ediyor. Bu elbise, Gaga'nın sahnedeki yaratıcılığının ve toplumsal mesaj verme arzusunun en çarpıcı örneklerinden biri.",
+      "fun_fact": "Elbise, ödül töreninden sonra özel bir süreçten geçirilerek mumyalandı ve Cleveland'daki Rock and Roll Hall of Fame'de sergilendi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q938131",
+        "https://tr.wikipedia.org/wiki/Lady_Gaga%27n%C4%B1n_et_elbisesi",
+        "https://en.wikipedia.org/wiki/Meat_dress_of_Lady_Gaga"
+      ],
+      "wikidata_qid": "Q938131"
+    },
+    {
+      "id": "Q1027874",
+      "date": "2027-02-10",
+      "category": "kurum-marka",
+      "widget_title": "Calzedonia Group ne zaman Oniverse adını aldı?",
+      "hook": "Tanıdığınız bir markanın aslında adını değiştirdiğini biliyor muydunuz?",
+      "answer_year": 2017,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Her gün gördüğünüz, mağazalarına girdiğiniz ya da ürünlerini severek kullandığınız bazı markaların arkasındaki hikayeler bazen sizi şaşırtabilir. İşte Calzedonia Group da bunlardan biri! Çorap ve mayo denince akla gelen Calzedonia'dan, iç giyimde Intimissimi ve Tezenis'e, kaşmirde Falconeri'ye kadar pek çok sevilen markayı çatısı altında barındıran bu dev grup, aslında uzun yıllardır hayatımızda. Ancak grubun kendisi, 2017 yılında büyük bir isim değişikliğine gitti.\n\nPeki neden? Grubun kurucusu [DOĞRULA: Sandro Veronesi] liderliğindeki İtalyan kökenli bu holding, zamanla o kadar büyüdü ve farklı alanlarda o kadar çok marka edindi ki, artık sadece \"Calzedonia Group\" ismi tüm bu çeşitliliği yansıtmakta yetersiz kalmaya başladı. Tek bir markanın adını taşıyan bir grubun, aslında bambaşka sektörlerdeki diğer markaları da kapsadığını anlatmak zor oluyordu. Bu nedenle, 2017'de alınan kararla, grubun şemsiye adı \"Oniverse\" olarak belirlendi. \"Oniverse\", 'one' (bir) ve 'universe' (evren) kelimelerinin birleşimiyle, grubun tek bir çatı altında birleşen geniş marka evrenini simgeliyor.\n\nBu isim değişikliği, Calzedonia, Intimissimi veya diğer markaların kendilerinin adını değiştirdiği anlamına gelmiyor, sadece çatı şirketinin, yani grubun ana isminin modernize edilmesi ve geniş portföyünü daha iyi temsil etmesi için yapılmış bir adımdı. Böylece, 2017 yılı itibarıyla, bildiğimiz Calzedonia Group'un yeni ve kapsayıcı ismi Oniverse oldu.",
+      "fun_fact": "Oniverse, çoraptan iç giyime, mayodan kaşmire kadar uzanan geniş portföyüyle [DOĞRULA: sekizden fazla markayı] tek çatı altında topluyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1027874",
+        "https://tr.wikipedia.org/wiki/Calzedonia",
+        "https://en.wikipedia.org/wiki/Oniverse"
+      ],
+      "wikidata_qid": "Q1027874"
+    },
+    {
+      "id": "Q11442",
+      "date": "2027-02-11",
+      "category": "ulasim",
+      "widget_title": "Bisiklet ne zaman icat edildi?",
+      "hook": "İki tekerleğin arasında denge kurmak için sadece ayağınızı değil, tarih boyunca insanlığın da zekasını gerektiren bir icat mı arıyorsunuz?",
+      "answer_year": 1885,
+      "year_precision": "year",
+      "guess_range": [
+        1780,
+        1960
+      ],
+      "body": "Bisikletin hikayesi, 19. yüzyılın ortalarında İskoçyalı bir demircinin aklına dank eden bir fikirle başlıyor. **Kirkpatrick Macmillan**, 1839 yılında [DOĞRULA: pedal sistemini mi yoksa sadece arka tekerleği itme mekanizmasını mı icat ettiğini] ilk defa bir bisikletin arka tekerleğini pedal yardımıyla hareket ettiren sistemi geliştirdi. Ancak unutmamak gerekir ki, Macmillan’ın icadı modern bisiklete doğrudan bir öncü olsa da, o dönemdeki tasarımlar hantal ve kullanması zor araçlardı.\n\nAsıl devrim ise 1885 yılında, **John Kemp Starley** tarafından yapılan *Rover Safety Bicycle* ile geldi. Bu model, eşit büyüklükteki iki tekerlek, zincir tahriki ve lastik tekerlekler gibi özellikleriyle bugünkü bisikletlerin temelini attı. Starley’nin tasarımı, kullanıcı dostu olması sayesinde bisikleti yaygınlaştırdı ve ulaşımda devrim yarattı.\n\nPeki, bisikletin icadı sadece bir mucize miydi? Hayır! Tekerleğin icadından (MÖ 3500) [DOĞRULA: hangi uygarlık tarafından ilk kez kullanıldığını] bu yana, insanlar denge ve hareketin sırlarını çözmeye çalışıyordu. Macmillan’ın ve Starley’nin başarıları, bu uzun sürecin sadece iki önemli halkası.",
+      "fun_fact": "İlk bisikletler ahşap ve metalden yapılırken, tekerlekleri o kadar büyüktü ki biniciler neredeyse bir atın sırtındaymış gibi oturuyorlardı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11442",
+        "https://tr.wikipedia.org/wiki/Bisiklet",
+        "https://en.wikipedia.org/wiki/Bicycle"
+      ],
+      "wikidata_qid": "Q11442"
+    },
+    {
+      "id": "Q105607376",
+      "date": "2027-02-12",
+      "category": "yazilim-internet",
+      "widget_title": "Android 12 ne zaman çıktı?",
+      "hook": "Peki ya telefonunun en gizli sırlarını bile koruyabilen bir işletim sistemi olsaydı?",
+      "answer_year": 2021,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Android 12, Google’ın mobil dünyaya sunduğu en yenilikçi işletim sistemlerinden biri olarak 4 Ekim 2021 tarihinde resmi olarak kullanıma sunuldu. Bu sürüm, kullanıcı deneyimini baştan sona yeniden düşünen bir yaklaşımla tasarlandı. Örneğin, arayüzde kullanılan \"Material You\" adı verilen tasarım dili, kişiselleştirmeyi bir adım öteye taşıyarak kullanıcıların duvar kağıtlarına göre sistem renklerini otomatik olarak uyarlamasına olanak tanıdı. Ayrıca, gizlilik konusunda da önemli adımlar atıldı: uygulama izinleri daha sıkı hale getirildi ve kullanıcılara hangi verilerinin paylaşıldığına dair daha fazla kontrol sağlandı.\n\nAndroid 12’nin geliştirme süreci, Google’ın \"Platform Stability\" adı verilen aşamasına 19 Ağustos 2021’de ulaşmasıyla hız kazandı. Bu aşama, geliştiricilerin uygulamalarını yeni sisteme hazırlaması için kritik bir dönemdi. Ancak, işletim sisteminin arkasındaki ekibin tam olarak kimlerden oluştuğu halka açık bir şekilde paylaşılmadı. [DOĞRULA: Geliştirme sürecinde yer alan kilit isimler veya ekipler hakkında resmi kaynaklarda detay var mı?]\n\nSürümün yayınlanmasının ardından, hem kullanıcılar hem de geliştiriciler tarafından büyük ilgi gördü. Özellikle performans iyileştirmeleri ve yeni özellikler, Android 12’yi diğer sürümlerden ayıran başlıca faktörler oldu. Google, bu sürümle birlikte mobil teknolojinin sınırlarını yeniden tanımlamayı hedeflediğini açıkça ortaya koydu.",
+      "fun_fact": "Android 12, \"Android 11\"den sadece 11 ay sonra yayınlandı ve bu, Google’ın işletim sistemi güncellemelerinde ne kadar hızlı hareket ettiğinin bir göstergesi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105607376",
+        "https://tr.wikipedia.org/wiki/Android_12",
+        "https://en.wikipedia.org/wiki/Android_12"
+      ],
+      "wikidata_qid": "Q105607376"
+    },
+    {
+      "id": "Q1071285",
+      "date": "2027-02-13",
+      "category": "oyun-spor",
+      "widget_title": "Paris Maratonu ne zaman başladı?",
+      "hook": "Dünyanın en ünlü koşu etkinliklerinden biri olan Paris Maratonu’nun ilk adımları hangi yılda atıldı sence?",
+      "answer_year": 1976,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Paris Maratonu, Fransa’nın başkenti Paris’in sokaklarını renkli bir şölen havasına bürüyen efsanevi bir koşu etkinliği. Bu büyük organizasyonun ilk resmi edition’ı 1976 yılında gerçekleşti. O yıl, yüzlerce koşucu Sen Nehri’nin kıyılarından geçen parkurlarda ter döktü ve bu sayede Paris Maratonu, dünya çapında tanınan bir spor etkinliğine dönüştü.\n\nAncak maratonun kökenlerine biraz daha derine inersek, aslında uzun bir geçmişe sahip olduğunu görüyoruz. Modern maraton koşusu, antik Yunan’dan esinlense de, Paris’teki bu özel etkinlik 20. yüzyılın ikinci yarısında şekillenmeye başladı. 1976 yılına kadar Paris’te düzenli bir maraton organizasyonu olmaması, bu tarihin önemini daha da artırıyor. [DOĞRULA: 1976’dan önceki yıllarda Paris’te düzenlenen maraton benzeri etkinlikler olup olmadığı]\n\nParis Maratonu, sadece bir spor etkinliği olmanın ötesinde, kentin farklı bölgelerini keşfetmek için de harika bir fırsat sunuyor. Her yıl binlerce koşucu, Eyfel Kulesi’nin gölgesinde, Champs-Élysées’nin görkemli bulvarlarında ve Paris’in diğer ikonik noktalarında yarışarak, hem kendilerine hem de izleyicilere unutulmaz anlar yaşatıyor.",
+      "fun_fact": "Paris Maratonu’nun parkuru, tam 42.195 kilometrelik standart mesafesinin yanı sıra, koşucuları Fransa’nın en ünlü simgelerinden geçirir: başta Eyfel Kulesi olmak üzere, Louvre Müzesi ve Notre-Dame Katedrali’nin yakınlarından da geçen bir rota!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1071285",
+        "https://tr.wikipedia.org/wiki/Paris_Maratonu",
+        "https://en.wikipedia.org/wiki/Paris_Marathon"
+      ],
+      "wikidata_qid": "Q1071285"
+    },
+    {
+      "id": "Q166543",
+      "date": "2027-02-14",
+      "category": "tibbi-buluslar",
+      "widget_title": "Narkoz ne zaman icat edildi?",
+      "hook": "Tarihte ilk ameliyatlar acıdan kurtulmak için dua ederken mi yapılıyordu dersin?",
+      "answer_year": -3499,
+      "year_precision": "year",
+      "guess_range": [
+        -3600,
+        -3420
+      ],
+      "body": "İnsanlık tarihinin en eski tıbbi uygulamalarından biri olan narkozun kökenleri, MÖ 3500’lere kadar uzanıyor. Eski Mısır’da ve Mezopotamya’da cerrahi müdahalelerde bitkisel ilaçlar, alkol ve hatta opium gibi maddelerin kullanıldığına dair kayıtlar var. Ancak bu yöntemlerin modern anlamda bir \"narkoz\" olarak kabul edilip edilmediği tartışmalı. [DOĞRULA: Narkozun tıbbi koma olarak tanımlanması için gerekli koşulların o dönemde karşılanıp karşılanmadığı]\n\nAntik Yunan ve Roma’da da benzer uygulamalar görüyoruz. Örneğin, Hipokrat narkoz benzeri durumları tanımlamış, Dioscorides ise opiumun uyuşturucu etkilerinden bahsetmiş. Fakat bu yöntemler genellikle hastayı sakinleştirmekten öteye geçmiyordu ve cerrahi müdahaleler sırasında hasta hâlâ acı hissediyordu.\n\nModern narkozun doğuşu ise 19. yüzyılın ortalarına denk geliyor. 1846’da ABD’li diş hekimi William T.G. Morton, eter kullanarak ilk başarılı genel anestezi denemesini gerçekleştirdi. Bu olay, cerrahide devrim yarattı ve narkozun tıptaki yerini sağlamlaştırdı. Peki, MÖ 3500’lere tarihlenen bulgularla ilgili ne düşünüyorsun? Acaba o dönemdeki uygulamalar, narkozun ilk adımları mıydı yoksa sadece geçici rahatlama mıydı?",
+      "fun_fact": "Eski Mısır’da cerrahi müdahalelerde kullanılan \"şifalı bitkiler\" listesinin, günümüzde de bazı ağrı kesicilerin temelini oluşturan maddeleri içerdiği keşfedildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q166543",
+        "https://tr.wikipedia.org/wiki/Narkoz",
+        "https://en.wikipedia.org/wiki/General_anaesthesia"
+      ],
+      "wikidata_qid": "Q166543"
+    },
+    {
+      "id": "Q15893711",
+      "date": "2027-02-15",
+      "category": "iletisim",
+      "widget_title": "Gboard klavye ne zaman hayatımıza girdi?",
+      "hook": "Telefonunuzda hızlıca bir şeyler yazmak, emojilerle kendinizi ifade etmek veya anında GIF bulmak artık çok daha kolay, değil mi?",
+      "answer_year": 2016,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Akıllı telefonlarımızda yazışmak günlük rutinimizin ayrılmaz bir parçası. Peki, klavyenin sadece harflerden ibaret olmadığı, aynı zamanda içinden arama yapabileceğiniz, yüzlerce emojiye kolayca ulaşabileceğiniz veya ruh halinize uygun bir GIF bulabileceğiniz bir araç olduğunu hayal edin. İşte tam da bu deneyimi bize sunan Gboard, mobil dünyaya ne zaman adım attı dersiniz?\n\nCevap, 2016 yılı! Google'ın geliştirdiği bu yenilikçi klavye, önce iOS kullanıcılarıyla buluştu ve kısa süre sonra Android dünyasına da yayılarak milyonlarca akıllı telefon kullanıcısının vazgeçilmezi oldu. Gboard, adından da anlaşılacağı gibi, \"Google\" ve \"Keyboard\" kelimelerinin birleşimiyle oluşuyor ve sunduğu özelliklerle sadece bir yazma aracından çok daha fazlasını vaat ediyor. En dikkat çekici özelliklerinden biri, klavyenin içinden doğrudan Google araması yapabilme yeteneğiydi. Bu sayede, sohbet ederken başka bir uygulamaya geçmeden bilgiye ulaşmak mümkün hale geldi. Bu özellik, özellikle arkadaşlarınıza yemek tarifi gönderirken veya bir mekan adresi paylaşırken inanılmaz bir kolaylık sağladı. Ayrıca, Glide Typing gibi kaydırmalı yazma özellikleri sayesinde, parmağınızı ekrandan kaldırmadan hızlı ve akıcı bir şekilde yazmak mümkün oldu. Emoji ve GIF zenginliğiyle de kullanıcıların kendilerini daha eğlenceli ve dinamik bir şekilde ifade etmelerini sağladı, kelimelerin bazen yetersiz kaldığı anlarda adeta kurtarıcı rolü üstlendi. Gboard, mobil klavye deneyimini baştan tanımlayarak, akıllı telefonlarımızla olan etkileşimimizi çok daha akıcı ve keyifli bir hale getirdi.",
+      "fun_fact": "Gboard'daki \"Glide Typing\" özelliği sayesinde parmağınızı kaldırmadan kelimeleri kaydırarak yazabilirsiniz, bu da çoğu zaman hızınızı artırır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15893711",
+        "https://tr.wikipedia.org/wiki/Gboard",
+        "https://en.wikipedia.org/wiki/Gboard"
+      ],
+      "wikidata_qid": "Q15893711"
+    },
+    {
+      "id": "Q516559",
+      "date": "2027-02-16",
+      "category": "muzik-enstruman",
+      "widget_title": "Cümbüş ne zaman icat edildi?",
+      "hook": "Türk müziğinin en eğlenceli enstrümanlarından biri olan cümbüş, aslında bir Osmanlı hayalinin ürünüydü — peki kim icat etti ve hikayesi ne?",
+      "answer_year": 1929,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Cümbüş, telli bir çalgı olarak 1929 yılında Zeynel Abidin Cümbüş tarafından icat edildi. Bu enstrüman, Osmanlı İmparatorluğu'nun son dönemlerinde ortaya çıkan yenilikçi bir projenin ürünüydü. Zeynel Abidin, enstrümanı tasarlarken hem yerel hem de batı müziğinin unsurlarını bir araya getirmeyi hedefledi. Cümbüşün tasarımı, [DOĞRULA: telli çalgıların hangi geleneksel formlarından esinlendiği] ve batı enstrümanlarından hangi özelliklerin alındığı konusunda net bilgiler bulunmamakla birlikte, genellikle mandolin ve ut gibi enstrümanların bir karışımı olarak tanımlanır.\n\nEnstrümanın adı, icadının arkasındaki isim olan Zeynel Abidin Cümbüş'ten geliyor. Zeynel Abidin, aynı zamanda bir müzisyen ve besteciydi, ancak cümbüşün icadı onun müzik dünyasına en kalıcı katkısı oldu. Cümbüş, Türkiye'de ve uluslararası alanda özellikle caz ve popüler müzikte sıkça kullanıldı. Tasarımındaki basitlik ve taşınabilirliği, onu caz müzisyenleri arasında da popüler hale getirdi.\n\nCümbüşün icadı, Türkiye'nin müzik aletleri tarihinde önemli bir dönüm noktası olarak kabul edilir. Ancak, bu enstrümanın tasarım süreci ve ilham kaynakları hakkında daha fazla araştırma yapılması gerekmektedir. Zeynel Abidin'in hayatı ve diğer çalışmaları hakkında da sınırlı bilgi bulunmaktadır, bu da onun hikayesini daha da gizemli kılıyor.",
+      "fun_fact": "Cümbüş, 1930'larda Türkiye'den çıkıp dünyaya yayılan nadir müzik aletlerinden biri oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q516559",
+        "https://tr.wikipedia.org/wiki/C%C3%BCmb%C3%BC%C5%9F",
+        "https://en.wikipedia.org/wiki/C%C3%BCmb%C3%BC%C5%9F"
+      ],
+      "wikidata_qid": "Q516559"
+    },
+    {
+      "id": "Q1047366",
+      "date": "2027-02-17",
+      "category": "kurum-marka",
+      "widget_title": "Cash Money Records ne zaman kuruldu?",
+      "hook": "Hip-hop dünyasını kasıp kavuran Cash Money Records, sahneye ne zaman çıktı?",
+      "answer_year": 1991,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Cash Money Records'ın hikayesi, hip-hop'ın en büyük başarı öykülerinden biri. 1991 yılında Bryan \"Birdman\" Williams ve kardeşi Ronald \"Slim\" Williams tarafından New Orleans'ta kurulan bu bağımsız plak şirketi, şehrin eşsiz seslerini ve enerjisini dünyaya tanıtma vizyonuyla yola çıktı. Başlangıçta yerel yeteneklere odaklanan Cash Money, kısa sürede kendine özgü \"bounce\" sesini geliştirdi ve New Orleans'ın sokaklarından çıkan genç sanatçılara bir platform sundu.\n\nKardeşlerin müziğe olan tutkusu ve iş zekası, Cash Money'yi hızla yükselişe geçirdi. Özellikle Hot Boys gibi gruplar ve daha sonra solo kariyerleriyle efsaneleşecek olan Lil Wayne, Juvenile ve B.G. gibi isimlerle adını duyurdu. Onların enerjik şarkıları ve cesur tarzları, hip-hop sahnesinde yeni bir rüzgar estirdi. Cash Money, sadece müzik üretmekle kalmadı, aynı zamanda bir yaşam tarzını, bir kültürü temsil etti. Göz alıcı mücevherleri, pahalı arabaları ve kendine güvenli duruşlarıyla sanatçıları, hayranlarına ilham verdi ve başarıya giden yolun mümkün olduğunu gösterdi.\n\n1998'de Universal Records ile imzaladıkları [DOĞRULA: Universal Records ile dağıtım anlaşmasının tarihi] çığır açan dağıtım anlaşması, Cash Money'nin ulusal ve küresel çapta tanınmasını sağladı. Bu anlaşma, bağımsız bir plak şirketinin müzik endüstrisinin devleriyle nasıl başa çıkabileceğini gösteren bir model haline geldi. Cash Money Records, sadece bir plak şirketi olmanın ötesine geçerek, hip-hop tarihindeki en etkili ve başarılı markalardan biri haline geldi.",
+      "fun_fact": "Cash Money Records, kendi bünyesinden Young Money Entertainment gibi başarılı alt etiketlerin de çıkışına zemin hazırladı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1047366",
+        "https://tr.wikipedia.org/wiki/Cash_Money_Records",
+        "https://en.wikipedia.org/wiki/Cash_Money_Records"
+      ],
+      "wikidata_qid": "Q1047366"
+    },
+    {
+      "id": "Q15003",
+      "date": "2027-02-18",
+      "category": "ulasim",
+      "widget_title": "Yürüyen merdiven ne zaman icat edildi?",
+      "hook": "Asansörün icadından sonra insanlar 'Acaba bir de yatayda gidebilsek?' diye düşünmüş olmalı... Peki bu hayal ne zaman gerçek oldu?",
+      "answer_year": 1891,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Yürüyen merdiven, adını ilk patentini alan Jesse W. Reno’dan alan ve 1891 yılında icat edilen bir ulaşım aracı. Reno’nun icadı, asansörlerin dikey hareketine karşı yatay hareketi sağlamak için tasarlanmıştı. İlk versiyonu, eğimli bir bant sistemiyle çalışıyordu ve daha çok eğlence parklarında ya da kısa mesafelerde kullanılmak üzere düşünülmüştü.\n\nAncak [DOĞRULA: yürüyen merdivenin ilk halka açık kullanımı ve ticari başarısı hakkında detaylar] Reno’nun icadı, zamanla modern şehirlerin vazgeçilmez bir parçası haline geldi. Günümüzde metro istasyonlarından alışveriş merkezlerine kadar birçok yerde karşımıza çıkan yürüyen merdivenler, aslında 19. yüzyılın sonundaki bu basit ama devrim niteliğindeki fikrin bir ürünü.\n\nİlginç olan, Reno’nun icadının ilk adı 'eğimli asansör' (inclined elevator) olarak geçiyor. 'Escalator' kelimesi ise daha sonra, 1897 yılında bir başka mucit olan Charles Seeberger tarafından ticari bir marka olarak kullanıldı ve zamanla genel bir terime dönüştü.",
+      "fun_fact": "İlk yürüyen merdivenler, bugün bildiğimiz otomatik bant sisteminden çok, elle çalıştırılan ve eğimli bir banttan ibaretti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15003",
+        "https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCyen_merdiven",
+        "https://en.wikipedia.org/wiki/Escalator"
+      ],
+      "wikidata_qid": "Q15003"
+    },
+    {
+      "id": "Q1061188",
+      "date": "2027-02-19",
+      "category": "yazilim-internet",
+      "widget_title": "Yahoo! Answers ne zaman yayına girdi?",
+      "hook": "İnternetin ilk büyük 'soru-cevap' platformlarından biri olan Yahoo! Answers, milyonların merakını giderdi — peki sence tam olarak hangi yılda doğdu?",
+      "answer_year": 2005,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Yahoo! Answers, internet kullanıcılarının birbirlerine yardım ettiği, bilgi paylaştığı ve bazen de eğlendiği devasa bir platformdu. 2005 yılında hayata geçen bu hizmet, Yahoo!’nun kullanıcıların ürettiği içeriğe dayanan stratejisinin önemli bir parçasıydı. [DOĞRULA: Platformun ilk olarak hangi ülkede veya dilde başladığını] Dönemin diğer forum ve bilgi paylaşım sitelerinden farklı olarak, Yahoo! Answers kullanıcıların sorularına puan sistemiyle ödüllendirilen en iyi cevapları öne çıkarıyordu. Bu sayede, kaliteli yanıtlar daha görünür hale geliyor, topluluk içinde güvenilir bir kaynak oluşuyordu.\n\nYıllar içinde milyonlarca kullanıcı tarafından milyonlarca sorunun sorulduğu ve cevaplandığı bu platform, zamanla popülerliğini yitirse de internet tarihindeki yerini aldı. Özellikle 2000’lerin ortası ve sonlarında, evde ödev yapan öğrencilerden tutun da acil cevap arayan meraklılara kadar geniş bir kitleye hizmet etti. Yahoo! Answers’ın kapatılmasının ardından, benzer işlevleri yerine getiren yeni platformlar ortaya çıktı, ancak hiçbiri aynı topluluk ruhunu tam anlamıyla yakalayamadı.\n\nPlatformun arkasındaki şirket olan Yahoo!’nun kendisi de zamanla değişim geçirdi, ancak Answers’ın doğduğu yıl olan 2005, internetin kullanıcı tarafından üretilen içerikle şekillendiği bir dönemin de simgesi haline geldi.",
+      "fun_fact": "Yahoo! Answers’ta en çok beğeni alan cevaplardan biri, \"Neden gökyüzü mavidir?\" sorusuna verilen ve basitçe \"Çünkü mavi en güzel renk!\" yanıtıydı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1061188",
+        "https://tr.wikipedia.org/wiki/Yahoo!_Answers",
+        "https://en.wikipedia.org/wiki/Yahoo_Answers"
+      ],
+      "wikidata_qid": "Q1061188"
+    },
+    {
+      "id": "Q11413",
+      "date": "2027-02-20",
+      "category": "oyun-spor",
+      "widget_title": "Go oyunu ne zaman icat edildi?",
+      "hook": "Dünyanın en eski strateji oyunlarından biri olan Go, tam olarak hangi yılda ortaya çıktı hiç düşündünüz mü?",
+      "answer_year": -2254,
+      "year_precision": "year",
+      "guess_range": [
+        -2360,
+        -2180
+      ],
+      "body": "Go oyunu, Çin kökenli bir strateji oyunu olarak biliniyor ve tarihi o kadar eski ki, neredeyse 4.000 yıl öncesine dayanıyor! MÖ 2254 yılı, oyunun en erken dönemlerine işaret eden bir tahmin olarak karşımıza çıkıyor. Ancak Go’nun tam olarak ne zaman icat edildiği konusunda kesin bir bilgi bulunmuyor. Oyunun ilk olarak Çin’in efsanevi imparatorlarından Shun döneminde (MÖ 2255–MÖ 2206) ortaya çıktığına dair hikâyeler olsa da, bu sadece bir rivayet. [DOĞRULA: Go’nun ilk kayıtlı kullanımı ve yaygınlaşma süreci hakkında daha fazla belgeye ihtiyaç var.]\n\nGo, başlangıçta Çin’de \"Weiqi\" (围棋) olarak adlandırılıyordu ve zamanla Kore’de \"Baduk\", Japonya’da ise \"Igo\" adıyla benimsendi. Oyunun kuralları yüzyıllar boyunca gelişti ve nihayet 19. yüzyılda modern standartlara kavuştu. Bugün bile, Go’nun basit kurallarına rağmen sonsuz stratejik derinliğiyle dünya genelinde milyonlarca oyuncu tarafından oynanıyor.",
+      "fun_fact": "Go, yapay zekâ araştırmalarında da önemli bir rol oynadı; 2016 yılında Google’ın AlphaGo’su, dünya şampiyonu Lee Sedol’u yenerek büyük bir çığır açtı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11413",
+        "https://tr.wikipedia.org/wiki/Go",
+        "https://en.wikipedia.org/wiki/Go_(game)"
+      ],
+      "wikidata_qid": "Q11413"
+    },
+    {
+      "id": "Q183057",
+      "date": "2027-02-21",
+      "category": "tibbi-buluslar",
+      "widget_title": "Reiki ne zaman ortaya çıktı?",
+      "hook": "Duygularınızı ellerinizle iyileştirebileceğinizi hiç düşündünüz mü? Peki bu fikrin sadece 100 yıldan biraz daha eski olduğunu biliyor muydunuz?",
+      "answer_year": 1922,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Reiki, 1922 yılında Japonya’da ortaya çıkan ve elle iyileştirmeyi temel alan bir enerji terapisi olarak bilinir. Bu uygulamanın temellerini atan kişi, Mikao Usui adında bir Japon rahip ve eğitimcidir. Usui, yıllarca süren araştırmalarının ardından bir dağda yaptığı meditasyon sırasında bu tekniği keşfettiğine inanır. [DOĞRULA: Usui’nin reiki’yi tam olarak nerede ve nasıl keşfettiği konusunda detaylı güvenilir kaynaklar yetersizdir.] Reiki’nin temel prensibi, evrensel yaşam enerjisinin (ki buna *ki* denir) eller aracılığıyla aktarılarak bedensel ve ruhsal dengeyi sağlamaktır.\n\nReiki’nin popülerliği, Usui’nin ölümünden sonra öğrencileri tarafından dünyaya yayılmasıyla artmıştır. Özellikle Batı ülkelerinde 20. yüzyılın ikinci yarısında ilgi gören bu uygulama, günümüzde stres azaltma, ağrı yönetimi ve genel iyilik hali için kullanılıyor. Ancak, bilimsel topluluk tarafından etkinliği konusunda halen tartışmalar devam etmektedir. Reiki’nin tıbbi bir tedavi yöntemi olarak kabul edilip edilmemesi gerektiği konusu da [DOĞRULA: farklı ülkelerde ve sağlık kuruluşlarında değişiklik göstermektedir.]",
+      "fun_fact": "Reiki kelimesi Japoncada 'evrensel yaşam enerjisi' anlamına gelen *rei* (霊) ve *ki* (気) kelimelerinin birleşiminden oluşur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q183057",
+        "https://tr.wikipedia.org/wiki/Reiki",
+        "https://en.wikipedia.org/wiki/Reiki"
+      ],
+      "wikidata_qid": "Q183057"
+    },
+    {
+      "id": "Q15958643",
+      "date": "2027-02-22",
+      "category": "iletisim",
+      "widget_title": "Popcorn Time uygulaması ne zaman kullanıma sunuldu?",
+      "hook": "Torrent indirme derdi olmadan film izleme fikri kulağa hoş geliyor, değil mi?",
+      "answer_year": 2014,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "2014 yılı, internet dünyasında bir dizi ilginç gelişmeye sahne oldu. Bunlardan biri de, adını duyurur duymaz büyük yankı uyandıran Popcorn Time adlı uygulamaydı. Kısaca 'korsan Netflix' olarak da anılan bu yazılım, BitTorrent teknolojisini kullanarak film ve dizileri doğrudan internet üzerinden izleme imkanı sunuyordu. Kullanıcıların bir içeriği tamamen indirmesini beklemek yerine, sanki bir akış platformundaymış gibi anında oynatmaya başlaması, o dönem için devrim niteliğindeydi. Uygulamanın sade arayüzü ve kolay kullanımı, birçok kişinin ilgisini çekti. Özellikle yüksek kalitede, geniş bir içerik kütüphanesine zahmetsizce erişim sağlaması, Popcorn Time'ı kısa sürede popüler yaptı ve adeta \"torrent indirmeden film izleme\" kavramını hayatımıza soktu.\n\nAncak bu hızlı yükseliş beraberinde telif hakları tartışmalarını da getirdi. Yasal boşluklar ve telif hakkı ihlalleri iddiaları, uygulamanın yaratıcılarını ve sunucularını sık sık zor durumda bıraktı. İlk ortaya çıktığı günden itibaren [DOĞRULA: uygulama farklı geliştirici ekiplerinin elinden geçti ve çeşitli isimler altında yeniden doğdu.] Hatta bazı eleştirmenler, uygulamanın mevcut telif hakları yasalarını esnettiğini veya doğrudan ihlal ettiğini savundu. İlk sürümü kısa süre içinde kapatılsa da, açık kaynak kodlu olması sayesinde defalarca farklı versiyonları ortaya çıktı ve bir \"hidra\" gibi yeniden dirildi. Bu durum, hem içerik tüketim alışkanlıklarının değiştiğini hem de dijital dünyada yasal düzenlemelerin bu hıza ayak uydurmakta zorlandığını gösterdi. Popcorn Time'ın hikayesi, dijital çağda içerik erişimi, telif hakları ve internetin sınırları üzerine düşünmek için önemli bir örnek teşkil ediyor.",
+      "fun_fact": "Popcorn Time'ın kod tabanı açık kaynaklı olduğu için, kapatılsa bile başka geliştiriciler tarafından defalarca yeniden hayata geçirildi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15958643",
+        "https://tr.wikipedia.org/wiki/Popcorn_Time",
+        "https://en.wikipedia.org/wiki/Popcorn_Time"
+      ],
+      "wikidata_qid": "Q15958643"
+    },
+    {
+      "id": "Q106013567",
+      "date": "2027-02-23",
+      "category": "kurum-marka",
+      "widget_title": "MrBeast Burger ne zaman kuruldu?",
+      "hook": "Sanal bir mutfak konseptiyle tüm dünyayı saran bu hamburger zinciri nasıl bu kadar hızlı büyüdü?",
+      "answer_year": 2020,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Bugün pek çoğumuzun telefonundan sipariş verdiği veya en azından adını duyduğu MrBeast Burger, aslında sandığımızdan çok daha genç bir marka. Hikayesi, 2020 yılında, dünyayı saran bir salgının ortasında başladı. Ancak onu diğer fast-food zincirlerinden ayıran çok önemli bir özelliği vardı: MrBeast Burger'ın geleneksel bir restoranı veya fiziksel bir mekanı yoktu.\n\nBu yenilikçi konsept, 'hayalet mutfak' veya 'sanal restoran' olarak bilinen bir modelle ortaya çıktı. Yani, mevcut restoranların mutfaklarını kullanarak MrBeast Burger menüsünü hazırlıyor ve teslimat uygulamaları aracılığıyla müşterilere ulaşıyordu. Bu sayede, devasa bir altyapı yatırımı gerektirmeden, hızla yüzlerce noktaya yayılabildi.\n\nMarkanın arkasındaki isim, dünyaca ünlü YouTuber Jimmy Donaldson, yani MrBeast'ten başkası değildi. Milyonlarca abonesi olan MrBeast, kendi markasını hayranlarına sunarken, geleneksel iş modellerinin dışına çıkarak hem dikkatleri çekti hem de büyük bir başarıya imza attı. Lansmanının ardından kısa sürede küresel çapta bir fenomen haline gelen MrBeast Burger, özellikle genç nesiller arasında büyük bir popülerlik kazandı ve dijital dünyanın gücünü yemek sektörüne nasıl entegre edebileceğinin en çarpıcı örneklerinden biri oldu. [DOĞRULA: İlk lansman videosunun başarısı ve büyüme hızı ile ilgili spesifik detaylar eklenebilir mi?]",
+      "fun_fact": "MrBeast Burger, açıldığı gün MrBeast'in takipçilerine bedava hamburger dağıtmasıyla büyük ilgi görmüştü!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106013567",
+        "https://tr.wikipedia.org/wiki/MrBeast_Burger",
+        "https://en.wikipedia.org/wiki/MrBeast_Burger"
+      ],
+      "wikidata_qid": "Q106013567"
+    },
+    {
+      "id": "Q168001",
+      "date": "2027-02-24",
+      "category": "ulasim",
+      "widget_title": "Santa Justa Asanseri ne zaman inşa edildi?",
+      "hook": "Lizbon’un kalbindeki bu demir dev, şehri bir uçurum gibi bölen tepelere nasıl meydan okudu sizce?",
+      "answer_year": 1901,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Lizbon’un tarihi dokusunda yükselen Santa Justa Asanseri, şehrin en ikonik ulaşım araçlarından biri. Bu demirden yapı, 1901 yılında tamamlandığında, Portekiz’in başkentini birbirinden farklı iki seviyeye bağlayan bir mucize gibiydi. Asanser, aşağıdaki Baixa bölgesiyle yukarıdaki Chiado ve Carmo bölgeleri arasındaki ulaşımı kolaylaştırmak için inşa edildi. Tasarımı ise mimar Raoul Mesnier du Ponsard’a ait — [DOĞRULA: mimarın Fransız mı yoksa Portekizli mi olduğu]. \n\nİronik olan şu ki, asanser başlangıçta Lizbonlular tarafından pek de coşkuyla karşılanmadı. Dönemin bazı sakinleri, bu demir yapının şehrin tarihî dokusuna zarar vereceğinden endişe etmişti. Ancak zamanla Santa Justa Asanseri, hem yerel halkın hem de turistlerin gözdesi haline geldi. Bugün, asanserin tepesinden Lizbon’un muhteşem manzarasını izlemek, şehrin en unutulmaz deneyimlerinden biri.\n\nAslında, bu asanser sadece bir ulaşım aracı değil, aynı zamanda bir sanat eseri. Demir işçiliğinin ve endüstriyel tasarımın birleştiği bu yapı, 19. yüzyılın sonları ile 20. yüzyılın başlarındaki mühendislik ve mimarlık anlayışının da bir yansıması.",
+      "fun_fact": "Santa Justa Asanseri’nin orijinal adı \"Elevador do Carmo\" idi ve ilk çalıştırıldığında elektrikle değil, buhar gücüyle işliyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q168001",
+        "https://tr.wikipedia.org/wiki/Elevador_de_Santa_Justa",
+        "https://en.wikipedia.org/wiki/Santa_Justa_Lift"
+      ],
+      "wikidata_qid": "Q168001"
+    },
+    {
+      "id": "Q106650129",
+      "date": "2027-02-25",
+      "category": "yazilim-internet",
+      "widget_title": "OpenSea ne zaman kuruldu?",
+      "hook": "Dijital sanatın ve NFT’lerin adresi olan OpenSea’nin ilk adımı hangi yılda atıldı dersin?",
+      "answer_year": 2017,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "OpenSea, 2017 yılında kurulan ve kullanıcıların dijital varlıklarını (NFT’ler, koleksiyonlar vb.) alıp satabildiği dünyanın en büyük merkeziyetsiz pazar yerlerinden biri olarak tanınıyor. Platform, blok zinciri teknolojisinin sanat, oyun ve dijital koleksiyonerlik dünyasına nasıl damga vurduğunun en bariz örneklerinden biri. Peki, bu devasa ekosistemin temelleri nasıl atıldı?\n\nOpenSea’nin hikayesi, 2017 yılında Devin Finzer ve Alex Atallah adlı iki girişimcinin basit bir fikirle yola çıkmasıyla başladı. İlk versiyonunda platform, Ethereum blok zinciri üzerinde çalışan nadir dijital öğeleri (örneğin CryptoPunks gibi) listelemek ve ticaretini yapmak için tasarlanmıştı. O dönemde NFT kavramı henüz yeni yeni filizleniyordu ve OpenSea, bu alanda öncülerden biri olarak hızla büyüdü. [DOĞRULA: Finzer ve Atallah’ın geçmiş deneyimleri hakkında detaylı bilgi bulunmamaktadır.]\n\nZamanla platform, sadece CryptoPunks gibi sınırlı sayıda dijital varlıkla sınırlı kalmadı. Kullanıcıların kendi NFT’lerini oluşturup satmalarına olanak tanıyan araçlar ekledi ve böylece piyasa daha da genişledi. 2021 yılında NFT’lerin patlama yapmasıyla birlikte OpenSea’nin kullanıcı sayısı ve işlem hacmi de astronomik bir şekilde arttı. Bugün milyonlarca kullanıcıya ev sahipliği yapan platform, blok zinciri teknolojisinin ve dijital mülkiyetin geleceğinde kilit bir rol oynuyor.",
+      "fun_fact": "OpenSea’nin ilk yatırım turunda, platforma sadece 2 milyon dolar yatırım yapıldı — bugünse şirketin değeri milyarlarca doları buluyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106650129",
+        "https://tr.wikipedia.org/wiki/Opensea",
+        "https://en.wikipedia.org/wiki/OpenSea"
+      ],
+      "wikidata_qid": "Q106650129"
+    },
+    {
+      "id": "Q1187515",
+      "date": "2027-02-26",
+      "category": "oyun-spor",
+      "widget_title": "Dubai Maratonu ne zaman başladı?",
+      "hook": "Dünyanın en hızlı maratonlarından biri olan Dubai Maratonu, çölde koşmanın nasıl bir his olduğunu hiç merak ettiniz mi?",
+      "answer_year": 2000,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Dubai Maratonu, 2000 yılında ilk kez koşucularla buluştu ve o günden beri her yıl Ocak ayında Dubai’nin kalbinde, Palm Jumeirah’dan başlayıp city walk’larda son bulan heyecan verici bir parkurda gerçekleşiyor. Bu etkinlik, sadece hız rekorlarına tanık olmakla kalmıyor, aynı zamanda Dubai’nin küresel spor haritasındaki yerini sağlamlaştırmasına da yardımcı oluyor.\n\nİlk yıllarında daha küçük çaplı bir etkinlik olarak başlayan Dubai Maratonu, zamanla uluslararası üne kavuştu ve dünya genelindeki elit koşucuların yanı sıra amatörler için de cazip bir yarışma haline geldi. [DOĞRULA: Dubai’nin iklimi nedeniyle yarışın Ocak ayında yapılmasının özel bir nedeni var mı?] Örneğin, 2019 yılında Kenya’dan Abraham Kiptum, 2:04:16’lık dünya rekoruna imza attı — bu, maratonun ne kadar prestijli bir yarış olduğunu gösteriyor.\n\nPeki, Dubai Maratonu’nun arkasındaki organizatörler kim? Maalesef, etkinliğin ilk yıllarına dair detaylar net olmasa da, [DOĞRULA: yarışın başlangıcından itibaren sponsorluk ilişkileri nasıl gelişti?] son dönemlerde Dubai Sports Council’in liderliğinde ve yerel şirketlerin desteğiyle organize edildiği biliniyor.",
+      "fun_fact": "Dubai Maratonu’nda 2019 yılında kadınlar kategorisinde ilk kez bir kadın, Ruth Chepngetich, 2:17:08’lik derecesiyle dünya rekoru kırmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1187515",
+        "https://tr.wikipedia.org/wiki/Dubai_Maratonu",
+        "https://en.wikipedia.org/wiki/Dubai_Marathon"
+      ],
+      "wikidata_qid": "Q1187515"
+    },
+    {
+      "id": "Q207684",
+      "date": "2027-02-27",
+      "category": "tibbi-buluslar",
+      "widget_title": "Lobotomi ne zaman icat edildi?",
+      "hook": "Beyin cerrahisinin en tartışmalı ve karanlık hikâyelerinden biri olan lobotominin ardındaki isim hakkında hiçbir fikrin var mı?",
+      "answer_year": 1930,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Lobotomi, beyin cerrahisinde çığır açan bir yöntem olarak 1930’larda gündeme geldi. Portekizli nörolog **Egas Moniz** tarafından geliştirilen bu prosedür, özellikle ruhsal hastalıkların tedavisinde bir umut olarak görülüyordu. Moniz, 1935 yılında yaptığı çalışmalarla bu tekniği popülerleştirse de, aslında lobotominin kökenleri çok daha eskilere dayanıyor olabilir. [DOĞRULA: Lobotominin ilk olarak hangi yıl veya kim tarafından uygulandığına dair kesin kayıtlar bulunmuyor.] Yine de, Moniz’in çalışmaları sayesinde yöntem dünya çapında yaygınlaştı ve 1940’larda ABD’de de kullanılmaya başlandı.\n\nAncak lobotominin hikayesi, tıp tarihindeki en karanlık sayfalardan biri olarak da anılıyor. Başlangıçta şizofreni, depresyon ve diğer ruhsal bozuklukların tedavisinde kullanılan bu yöntem, zamanla ciddi yan etkileri nedeniyle eleştirilmeye başlandı. Hastaların kişilik değişiklikleri, kalıcı hasarlar ve hatta ölümler, lobotominin giderek terk edilmesine yol açtı. 1950’lerden itibaren yerini daha güvenli ve etkili tedavilere bırakan lobotomi, bugün neredeyse hiç uygulanmıyor.\n\nMoniz’in bu buluşu, 1949 yılında Nobel Tıp Ödülü’ne layık görüldü — ancak ödülü almasından yıllar sonra yöntemin yol açtığı zararlar daha net anlaşıldı. Bugün lobotomi, tıbbın hem en parlak hem de en karanlık anlarından biri olarak hatırlanıyor.",
+      "fun_fact": "Lobotomi, 1940’larda ABD’de o kadar yaygınlaştı ki, bazı akıl hastanelerinde hastaların %50’sine bu işlem uygulandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q207684",
+        "https://tr.wikipedia.org/wiki/Lobotomi",
+        "https://en.wikipedia.org/wiki/Lobotomy"
+      ],
+      "wikidata_qid": "Q207684"
+    },
+    {
+      "id": "Q16186120",
+      "date": "2027-02-28",
+      "category": "iletisim",
+      "widget_title": "Düşüncelerinizi paylaşma platformu Medium ne zaman başladı?",
+      "hook": "Derinlemesine yazıların ve özgün fikirlerin dijital buluşma noktası Medium'un hikayesini merak ediyor musunuz?",
+      "answer_year": 2012,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "İnternet dünyasında herkesin sesi olmaya aday, derinlemesine yazıların ve kaliteli içeriğin buluşma noktası Medium, dijital yayıncılık sahnesine 2012 yılında çıktı. Amacı, blog dünyasının karmaşasından ve sosyal medya platformlarının kısa ömürlü paylaşımlarından sıyrılıp, okuyuculara değerli fikirler ve hikayeler sunan bir alan yaratmaktı.\n\nMedium, basit ve şık arayüzü sayesinde yazarların içeriklerini kolayca yayınlamasına olanak tanırken, okuyucuların da ilgi alanlarına göre içerik keşfetmesini kolaylaştırdı. Platform, sadece bireysel yazarlara değil, aynı zamanda yayıncılara ve markalara da kendi hikayelerini anlatma ve geniş kitlelere ulaşma fırsatı sundu. Geleneksel blog platformlarının ötesine geçerek, daha profesyonel bir içerik ortamı vaat etti. Okuyucuların 'alkış' sistemiyle yazarlara geri bildirim vermesi ve popüler yazıların öne çıkarılması, platformun dinamik yapısının bir parçası oldu. Dijital yayıncılığın evriminde önemli bir adım olan Medium, internet üzerindeki içerik tüketim alışkanlıklarımızı derinden etkiledi ve düşüncelerin özgürce paylaşıldığı bir merkez haline geldi.",
+      "fun_fact": "Medium'daki 'alkış' (clap) butonu, bir yazıyı sadece bir kere değil, birden fazla kez beğendiğinizi göstermenize olanak tanır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16186120",
+        "https://tr.wikipedia.org/wiki/Medium",
+        "https://en.wikipedia.org/wiki/Medium_(website)"
+      ],
+      "wikidata_qid": "Q16186120"
+    }
+  ]
+}

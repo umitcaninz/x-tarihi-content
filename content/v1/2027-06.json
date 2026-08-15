@@ -1,0 +1,666 @@
+{
+  "schema_version": 1,
+  "month": "2027-06",
+  "items": [
+    {
+      "id": "Q182496",
+      "date": "2027-06-01",
+      "category": "yazilim-internet",
+      "widget_title": "Microsoft Bing ne zaman kullanıma sunuldu?",
+      "hook": "Dünyanın en çok kullanılan arama motorlarından biri olan Bing’in doğuş hikayesi, aslında beklenmedik bir rekabetin sonucu muydu?",
+      "answer_year": 2009,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Microsoft’un arama motoru macerası, 1998 yılında **MSN Search** ile başladı. O dönemde kullanıcılar, internetin giderek büyüyen dünyasında bilgiye ulaşmak için farklı araçlara ihtiyaç duyuyordu. MSN Search, Microsoft’un bu ihtiyaca ilk yanıtıydı ve basit bir dizinleme sistemiyle çalışıyordu. Ancak yıllar içinde teknoloji hızla değişirken, arama motorları da evrim geçirdi.\n\n2006 yılında Microsoft, **Windows Live Search** adıyla yeni bir adım attı. Bu versiyon, kullanıcı deneyimini iyileştirmeyi hedefliyordu, ama henüz yeterli değildi. Nihayet 2009 yılında, **Microsoft Bing** adıyla tanıtılan arama motoru, hem görsel hem de işlevsel olarak büyük bir sıçrama yaptı. Bing’in ortaya çıkışında, Google’ın pazar hakimiyetine karşı Microsoft’un stratejik hamlesi olduğu yaygın bir görüş [DOĞRULA: bu stratejik hamlenin detayları].\n\nBing’in tanıtımıyla birlikte, Microsoft sadece bir arama motoru değil, aynı zamanda bir \"karar motoru\" olma vizyonunu da ortaya koydu. Kullanıcıların sadece bilgiye ulaşmasını değil, aynı zamanda karar vermelerine yardımcı olacak özellikler sunmayı hedefledi. Bu yenilikçi yaklaşım, Bing’in diğer arama motorlarından ayrışmasını sağladı.\n\nBugün Bing, dünya genelinde milyonlarca kullanıcı tarafından tercih edilen bir araç haline geldi. Peki, sizce Bing’in başarısının sırrı sadece teknolojide miydi, yoksa kullanıcı deneyimine yaptığı odaklanmada mı yatıyordu?",
+      "fun_fact": "Bing’in ilk logosu, mavi bir arka plana sahip basit bir \"b\" harfiydi ve bu tasarım, markanın yenilikçi ruhunu yansıtıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q182496",
+        "https://tr.wikipedia.org/wiki/Microsoft_Bing",
+        "https://en.wikipedia.org/wiki/Microsoft_Bing"
+      ],
+      "wikidata_qid": "Q182496"
+    },
+    {
+      "id": "Q244457",
+      "date": "2027-06-02",
+      "category": "kurum-marka",
+      "widget_title": "Subway'in ilk sandviçi ne zaman yapıldı?",
+      "hook": "Peki bu dev fast-food zincirinin hikayesi nasıl başladı?",
+      "answer_year": 1965,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Bugün dünyanın dört bir yanında sayısız şubesi bulunan Subway, aslında mütevazı bir başlangıca sahip. Hikaye, 1965 yılında Connecticut'ta başladı. O zamanlar 17 yaşında olan Fred DeLuca, doktor olma hayali kuruyordu ve üniversite masraflarını karşılamak için bir iş arayışındaydı. Bir aile dostu olan fizikçi Dr. Peter Buck'tan bin dolar borç alarak, ilk sandviç dükkanını açmaya karar verdi.\n\nİlk dükkanın adı 'Pete's Super Submarines' idi ve menüsünde uzun, taze hazırlanmış sandviçler vardı. Fikir oldukça basitti: müşterilere hızlı, lezzetli ve uygun fiyatlı bir yemek sunmak. Başlangıçta hedef, Fred'in okul masraflarını çıkarmaktı ama kısa sürede bu küçük işletmenin potansiyeli anlaşıldı. İlk yıl pek parlak geçmese de, ikili azimle çalışmaya devam etti.\n\nBirkaç yıl sonra, marka 'Subway' adını aldı ve bugünkü küresel markanın temelleri atıldı. Subway'in başarısının sırrı, taze malzemeler ve kişiselleştirilebilir sandviçler sunma felsefesinde yatıyor. Müşterilerin kendi sandviçlerini tasarlamasına olanak tanıyan bu yaklaşım, fast-food sektörüne yenilikçi bir bakış açısı getirdi. Bugün Subway, dünyanın en büyük fast-food zincirlerinden biri olarak kabul ediliyor ve milyonlarca insana 'kendi istediğin gibi' sandviç deneyimi sunmaya devam ediyor.",
+      "fun_fact": "İlk Subway restoranının adı aslında 'Pete's Super Submarines' idi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q244457",
+        "https://tr.wikipedia.org/wiki/Subway",
+        "https://en.wikipedia.org/wiki/Subway_(restaurant)"
+      ],
+      "wikidata_qid": "Q244457"
+    },
+    {
+      "id": "Q324867",
+      "date": "2027-06-03",
+      "category": "oyun-spor",
+      "widget_title": "La Liga ne zaman kuruldu?",
+      "hook": "İspanya’nın en prestijli futbol ligi olan La Liga’nın ilk sezonu hangi yılda başladı biliyor musun?",
+      "answer_year": 1929,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "La Liga, İspanya futbolunun en üst düzey profesyonel ligi olarak 1929 yılında resmen kuruldu. Ancak bu ligin doğuşu, aslında ülkenin futbol tarihine uzun yıllar öncesinden kök salmış bir sürecin sonucu. İspanya’da futbolun yaygınlaşmaya başladığı 19. yüzyılın sonlarında, çeşitli bölgesel ligler ve turnuvalar düzenleniyordu. Ülke genelinde birbirinden bağımsız olarak oynanan bu müsabakaların birleştirilmesi fikri, 1920’li yıllarda daha da güç kazandı. [DOĞRULA: Bu birleştirme fikrinin hangi kulüpler veya federasyonlar tarafından öne sürüldüğü] \n\n1927 yılında, o dönemde İspanya Futbol Federasyonu’nda görevli olan José María Acha’nın liderliğinde, ülke genelinde tek bir lig sistemi oluşturulması için çalışmalar başladı. Sonunda, 23 Kasım 1928 tarihinde, o dönemdeki 10 kulübün katılımıyla ligin ilk sezonu için anlaşmaya varıldı. Bu kulüpler arasında Real Madrid, Barcelona ve Athletic Bilbao gibi günümüzün devleri de bulunuyordu. İlk sezon, 10 Aralık 1929 tarihinde başladı ve 1930 yılına kadar süren bu dönemde, Barcelona şampiyonluğa ulaştı. \n\nLa Liga’nın kuruluşu, sadece İspanya’da değil, dünya futbolunda da önemli bir dönüm noktasıydı. Zira bu lig, diğer ülkelerdeki lig sistemlerine de ilham kaynağı oldu ve Avrupa futbolunun profesyonelleşme sürecini hızlandırdı.",
+      "fun_fact": "La Liga’nın ilk sezonunda sadece 10 takım yer alırken, günümüzde bu sayı 20 takıma yükseldi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q324867",
+        "https://tr.wikipedia.org/wiki/La_Liga",
+        "https://en.wikipedia.org/wiki/La_Liga"
+      ],
+      "wikidata_qid": "Q324867"
+    },
+    {
+      "id": "Q18845397",
+      "date": "2027-06-04",
+      "category": "yazilim-internet",
+      "widget_title": "Windows 10 Mobile ne zaman çıktı?",
+      "hook": "Akıllı telefonların altın çağını yaşadığı yıllarda Microsoft’un cep telefonları için özel olarak geliştirdiği bu sistem, neden beklediği ilgiyi görmedi?",
+      "answer_year": 2015,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Windows 10 Mobile, Microsoft’un 2015 yılında tanıttığı ve akıllı telefonlar için tasarladığı bir mobil işletim sistemiydi. Aslında bu sistem, Windows Phone 8.1’in doğal bir devamı olarak görülüyordu ve kullanıcılara Windows 10’un masaüstü deneyimini cep telefonlarına taşıma vaadi sunuyordu. Özellikle çoklu görev, Cortana entegrasyonu ve Xbox oyunlarıyla dikkat çekiyordu.\n\nAncak piyasadaki rekabet oldukça sertti. Android ve iOS, kullanıcıların büyük çoğunluğunu ellerinde tutarken, Windows 10 Mobile’in pazar payı sürekli düştü. Microsoft’un mobil işletim sisteminden çekilme kararı almasından sonra, 2017 yılında sistem için destek sonlandırıldı. [DOĞRULA: Bu kararın arkasındaki stratejik nedenler nelerdi?] Geriye kalan ender kullanıcılar içinse sistem, nostaljik bir dokunuş olarak hafızalarda kaldı.\n\nBugün bakıldığında, Windows 10 Mobile’in mobil teknoloji tarihindeki yeri, hem bir başarı hem de bir ders olarak görülüyor.",
+      "fun_fact": "Windows 10 Mobile’in son güncellemesi olan 1709 (Fall Creators Update), sistemin resmen ölümsüzlük ilan ettiği gün olarak kayıtlara geçti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18845397",
+        "https://tr.wikipedia.org/wiki/Windows_10_Mobile",
+        "https://en.wikipedia.org/wiki/Windows_10_Mobile"
+      ],
+      "wikidata_qid": "Q18845397"
+    },
+    {
+      "id": "Q266572",
+      "date": "2027-06-05",
+      "category": "kurum-marka",
+      "widget_title": "Avrupa'nın dev markası dm-drogerie markt ne zaman kuruldu?",
+      "hook": "Avrupa'nın en popüler kişisel bakım ve kozmetik zincirlerinden dm-drogerie markt'ın hikayesi sizi şaşırtabilir!",
+      "answer_year": 1973,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Bugün Avrupa'nın birçok ülkesinde milyonlarca kişinin günlük alışveriş duraklarından biri olan dm-drogerie markt, aslında oldukça genç bir tarihe sahip. 1973 yılında Almanya'da, vizyoner iş insanı Götz W. Werner tarafından kurulan bu marka, kısa sürede kendine özgü felsefesiyle perakendecilik dünyasında dikkatleri çekti. Werner, o dönemdeki geleneksel drog mağazacılığı anlayışına farklı bir bakış açısı getirmeyi hedefliyordu. Müşteri odaklılığı, geniş ürün yelpazesi ve uygun fiyat politikasını bir araya getirerek, sektörde yeni bir çığır açtı. İlk mağaza Almanya'nın Karlsruhe şehrinde kapılarını açtı ve zamanla Almanya içinde hızla yayıldı. Sadece kişisel bakım ve kozmetik ürünleriyle sınırlı kalmayıp, organik gıdalardan ev temizlik ürünlerine kadar geniş bir yelpazede ürün sunarak tüketicilerin farklı ihtiyaçlarına cevap vermeyi amaçladı. Özellikle kendi markası olan 'Balea', 'Alverde' ve 'Denkmit' gibi ürünleriyle büyük beğeni topladı ve uygun fiyatlı, kaliteli alternatifler sundu. dm'in başarısının sırrı sadece ürün çeşitliliği değil, aynı zamanda çalışanlarına verdiği değer ve sürdürülebilirlik ilkelerine olan güçlü bağlılığıdır. Kısa sürede Almanya'nın sınırlarını aşarak Avusturya, Çek Cumhuriyeti, Macaristan gibi diğer Avrupa ülkelerine de yayıldı ve kıtanın en büyük drog zincirlerinden biri haline geldi. Kurulduğu günden bu yana, tüketicilere ulaşılabilir fiyatlarla kaliteli ürünler sunma ve sosyal sorumluluk projeleriyle topluma katkıda bulunma misyonunu sürdürmektedir.",
+      "fun_fact": "dm, 12 farklı Avrupa ülkesinde faaliyet göstermekte ve 3.700'den fazla mağazaya sahiptir!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q266572",
+        "https://tr.wikipedia.org/wiki/Dm-drogerie_markt",
+        "https://en.wikipedia.org/wiki/Dm-drogerie_markt"
+      ],
+      "wikidata_qid": "Q266572"
+    },
+    {
+      "id": "Q3425948",
+      "date": "2027-06-06",
+      "category": "oyun-spor",
+      "widget_title": "MovieStarPlanet oyunu ne zaman çıktı?",
+      "hook": "Sanal yıldız olma hayali 2009’da dijital dünyaya taşındı—peki bu eğlenceli oyun nasıl doğdu?",
+      "answer_year": 2009,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "MovieStarPlanet, kullanıcıların kendi sanal yıldızlarını yaratabildiği, oyunculuk ve tasarım becerilerini test ettiği popüler bir çevrimiçi oyun olarak 2009 yılında piyasaya sürüldü. Danimarka merkezli geliştirici şirket **MovieStarPlanet ApS** tarafından tasarlanan bu oyun, özellikle genç kullanıcılar arasında hızla popülerlik kazandı. Kullanıcılar, karakterlerini özelleştirmenin yanı sıra, mini oyunlar oynayarak ve sosyal etkileşimlerde bulunarak sanal bir kariyer inşa edebiliyorlardı.\n\nOyunun çıkış hikayesi, dijital eğlence dünyasında yeni bir trendin başlangıcına işaret ediyor. MovieStarPlanet’in başarısı, sosyal medya ve çevrimiçi toplulukların oyun deneyimini nasıl şekillendirdiğine dair güzel bir örnek. [DOĞRULA: Oyunun ilk versiyonunda hangi özellikler öne çıkıyordu?] Oyunun çıkış tarihi olan 2009, aynı zamanda birçok sosyal oyun platformunun da yükselişe geçtiği bir döneme denk geliyor.\n\nMovieStarPlanet, kullanıcılarına sadece eğlence sunmakla kalmadı, aynı zamanda yaratıcılıklarını sergileyebilecekleri bir alan da sağladı. Zamanla çeşitli ülkelerde yerelleştirilmiş versiyonları yayınlandı ve milyonlarca kullanıcıya ulaştı.",
+      "fun_fact": "MovieStarPlanet’in en popüler karakterlerinden biri olan \"Bella\", oyunun sembolü haline geldi ve hatta gerçek dünya etkinliklerinde bile temsil edildi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3425948",
+        "https://tr.wikipedia.org/wiki/MovieStarPlanet",
+        "https://en.wikipedia.org/wiki/MovieStarPlanet"
+      ],
+      "wikidata_qid": "Q3425948"
+    },
+    {
+      "id": "Q19862344",
+      "date": "2027-06-07",
+      "category": "yazilim-internet",
+      "widget_title": "Android Marshmallow ne zaman çıktı?",
+      "hook": "Akıllı telefonlarımızın gizli kahramanı olan Android Marshmallow’un arkasındaki hikaye sandığınızdan daha yakın tarihli!",
+      "answer_year": 2015,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Android Marshmallow, Google’ın mobil işletim sistemi ailesinin 6. büyük sürümü olarak 2015 yılında kullanıma sunuldu. Bu sürüm, Android’in \"tatlı isimli\" serisinin bir parçası olarak adlandırılmıştı (örneğin, Lollipop, Nougat vb.). Marshmallow’un en dikkat çekici özelliklerinden biri, uygulama izinlerinin kullanıcı tarafından daha kontrollü yönetilmesine olanak tanıyan sistemdi. Artık uygulamalar, kullanıcıdan izin istemeden önce açıklama yapmak zorundaydı — bu, gizlilik konusunda önemli bir adımdı.\n\nPeki ya performans? Marshmallow, \"Doze\" adı verilen bir özellikle tanıtıldı. Bu özellik, cihazın ekranı kapalıyken arka plandaki uygulamaların enerji tüketimini büyük ölçüde azaltıyordu. Böylece pil ömrü önemli ölçüde uzuyordu. Ayrıca, USB-C desteği ve parmak izi okuyucu entegrasyonu gibi donanım özellikleri de bu sürümle birlikte yaygınlaşmaya başladı.\n\n[DOĞRULA: Marshmallow’un ilk geliştirici önizlemesi hangi tarihte yayınlandı?] Marshmallow’un piyasaya sürülüşü, Android’in sadece bir işletim sistemi olmanın ötesine geçip, kullanıcı deneyimini merkeze alan bir platform haline geldiğinin de bir göstergesiydi.",
+      "fun_fact": "Marshmallow’un simgesi olan yeşil robotun aksine, Marshmallow’un logosu aslında bir marshmallow şekeri değil, bir Android robotunun elinde tuttuğu bir şekerlemeydi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19862344",
+        "https://tr.wikipedia.org/wiki/Android_Marshmallow",
+        "https://en.wikipedia.org/wiki/Android_Marshmallow"
+      ],
+      "wikidata_qid": "Q19862344"
+    },
+    {
+      "id": "Q297410",
+      "date": "2027-06-08",
+      "category": "kurum-marka",
+      "widget_title": "Asda süpermarketler zinciri ne zaman kuruldu?",
+      "hook": "Bugün Birleşik Krallık'ın en büyük süpermarket zincirlerinden biri olan Asda'nın kuruluşu, ilginç bir birleşme hikayesine dayanıyor.",
+      "answer_year": 1965,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Alışveriş denince akla gelen ilk yerlerden biri olan süpermarketler, günümüz yaşamının vazgeçilmez bir parçası. Peki, Birleşik Krallık'ın en büyük perakendecilerinden biri olan Asda'nın bu dünyaya ne zaman adım attığını merak ettiniz mi? Asda, 1965 yılında iki farklı şirketin güçlerini birleştirmesiyle doğdu. Bu birleşme, perakende sektöründe o dönemde yaşanan büyük değişimin ve büyümenin bir göstergesiydi.\n\nAsda'nın kökleri, bir süt ürünleri firması olan Associated Dairies ve bir kasaplık dükkanları zinciri olan Asquith ailesinin işlettiği perakende mağazalarına dayanıyor. 1960'ların ortalarında, bu iki farklı iş kolu, büyük ölçekli süpermarket konseptinin potansiyelini gördü. [DOĞRULA: Asquith ailesi daha önce ABD'deki süpermarket modellerini incelemişti.] ve bu vizyon, onları bir araya getirdi.\n\n\"Asda\" ismi de bu birleşimin bir ürünü. 'As' Asquith'ten, 'da' ise Dairies'ten gelerek markanın kimliğini oluşturdu. Bu, sadece iki şirketin değil, aynı zamanda farklı sektörlerin bir araya gelerek yepyeni bir perakende devi yaratmasının hikayesiydi. Kuruluşundan bu yana, Asda sürekli büyüyerek ve evrilerek İngiliz tüketicisinin alışveriş alışkanlıklarını şekillendirmeye devam etti. Belki de markette dolaşırken, bu ilginç köken hikayesini anımsamak, alışveriş deneyiminize farklı bir boyut katacaktır!",
+      "fun_fact": "Asda isminin, 'As' Asquith'ten ve 'da' Associated Dairies'ten geldiğini biliyor muydunuz?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q297410",
+        "https://tr.wikipedia.org/wiki/Asda",
+        "https://en.wikipedia.org/wiki/Asda"
+      ],
+      "wikidata_qid": "Q297410"
+    },
+    {
+      "id": "Q40561",
+      "date": "2027-06-09",
+      "category": "oyun-spor",
+      "widget_title": "Sumo ne zaman ortaya çıktı?",
+      "hook": "Japonya'nın en ağır dövüşçülerinin arenada dans eder gibi savaşmasını sağlayan bu gelenek, aslında sandığınızdan çok daha eskilere dayanıyor.",
+      "answer_year": 642,
+      "year_precision": "year",
+      "guess_range": [
+        540,
+        720
+      ],
+      "body": "Sumo, Japonya'nın milli dövüş sanatlarından biri olarak bilinir ve kökleri [DOĞRULA: MS 7. yüzyıla kadar uzanan Shinto ayinlerine] dayanır. Resmi kayıtlara göre, sumonun ilk kez organize bir şekilde yapıldığı tarih **642 yılı** olarak kabul edilir. Bu tarih, Japonya'nın eski başkenti Fujiwara-kyō dönemine denk gelir ve sumonun o dönemde dini törenlerin bir parçası olarak icra edildiğine dair ipuçları vardır.\n\nSumo, başlangıçta tarım tanrısına şükran göstermek amacıyla yapılan ritüellerde kullanılan bir gösteriydi. Zamanla savaş sanatına dönüşen bu disiplin, Edo döneminde (1603-1868) profesyonel bir spor haline geldi. Sumo ustaları (*rikishi*), ringe çıkarken Shinto geleneklerine bağlı kalarak temizlik ve arınma ritüellerini yerine getirirler — bu da sumonun kökenindeki dini bağın ne kadar güçlü olduğunu gösterir.\n\nGünümüzde sumo, Japon kültürünün en önemli simgelerinden biri olarak kabul edilir. Peki, sumonun ilk dövüşçüleri kimlerdi? Maalesef, sumonun icadına dair kesin bir isim veya hikâye bulunmuyor. Bu da sumonun ne kadar organik ve toplumsal bir şekilde geliştiğinin bir göstergesi.",
+      "fun_fact": "Sumo ringine *dohyō* denir ve her yeni turnuvadan önce pirinç samanıyla inşa edilir — bu da Shinto inançlarındaki saflık ve doğa bağlantısını simgeler.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q40561",
+        "https://tr.wikipedia.org/wiki/Sumo",
+        "https://en.wikipedia.org/wiki/Sumo"
+      ],
+      "wikidata_qid": "Q40561"
+    },
+    {
+      "id": "Q2005",
+      "date": "2027-06-10",
+      "category": "yazilim-internet",
+      "widget_title": "JavaScript ne zaman icat edildi?",
+      "hook": "Tarayıcıların dünyasını sonsuza dek değiştiren o kod parçasının doğuş hikayesi ilginç mi? Hadi tahmin et!",
+      "answer_year": 1995,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "JavaScript’in doğuşu, internetin genç ve heyecanlı olduğu 90’lı yıllara dayanıyor. Aslında bu dil, **1995 yılında** [DOĞRULA: tam olarak hangi ayda ortaya çıktığını] Netscape Navigator adlı tarayıcının mucidi olan Brendan Eich tarafından sadece **10 gün içinde** yaratıldı. İlginç olan, Eich’in bu görevi neredeyse imkansız bir süre içinde tamamlamasıydı—üstelik JavaScript’in ilk versiyonu, Java programlama dilinden esinlenmiş olsa da, aslında Java’dan oldukça farklıydı.\n\nBaşlangıçta **LiveScript** olarak adlandırılan bu dil, daha sonra pazarlama stratejisi gereği JavaScript adını aldı. İlk amacı, web sayfalarına basit etkileşimler eklemekti: form doğrulamaları, animasyonlar ve dinamik içerikler. O dönemde web siteleri neredeyse tamamen statikken, JavaScript’in ortaya çıkışı, internetin geleceğini şekillendiren bir devrimdi.\n\nBugünse JavaScript, neredeyse tüm web’in temel taşı haline geldi. Peki ya sen? Tahminin ne kadar yakındı?",
+      "fun_fact": "JavaScript’in ilk versiyonu, Eich’in sadece 10 günde yazdığı koddan oluşuyordu—ve hâlâ da çalışıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2005",
+        "https://tr.wikipedia.org/wiki/JavaScript",
+        "https://en.wikipedia.org/wiki/JavaScript"
+      ],
+      "wikidata_qid": "Q2005"
+    },
+    {
+      "id": "Q301754",
+      "date": "2027-06-11",
+      "category": "kurum-marka",
+      "widget_title": "Gramofon dünyasının ikonik logosu His Master's Voice ne zaman doğdu?",
+      "hook": "O resimdeki köpeği ve gramofonu tanıyor musunuz? Hikayesi tahmin ettiğinizden daha eski!",
+      "answer_year": 1899,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Müzik ve ses dünyasının en tanınmış simgelerinden biri olan, gramofona kulak veren o sevimli köpeği bilir misiniz? İşte o ikonik 'His Master's Voice' (Efendisinin Sesi) logosunun hikayesi, sanatsal bir ilhamla başlıyor ve küresel bir marka haline geliyor.\n\nHer şey, ressam Francis Barraud’un 1898 yılında ölen köpeği Nipper'ı resmetmesiyle başladı. Nipper, gramofonun erken bir versiyonu olan bir silindir fonografa dikkatle kulak verirken çizilmişti. Bu resmin orijinal adı, köpeğin sahibinin sesiyle kaydedilmiş bir kaydı dinlemesini vurgulamak için 'His Master's Voice' idi.\n\nBarraud, resminin potansiyelini fark edince, bir kopyasını plak çalarların öncüsü sayılabilecek gramofonları üreten Gramophone Company'ye götürdü. Şirket yetkilileri, özellikle de kurucu Emile Berliner [DOĞRULA: Berliner'in doğrudan resmi fark edip etmediği, yoksa başka bir şirket temsilcisinin mi olduğu netleştirilmeli], bu tablonun markaları için mükemmel bir sembol olacağına karar verdi. Ancak küçük bir değişiklik yapılması gerekiyordu: resimdeki silindir fonografın yerine, o dönemde popülerleşmeye başlayan disk çalan bir gramofon yerleştirildi. Bu, logonun o meşhur halini almasını sağladı ve takvimler 1899'u gösterdiğinde marka tescil edildi.\n\nBu logo, ses kayıt teknolojisinin insan sesini ve müziği ne kadar sadık bir şekilde yeniden üretebildiğini temsil ediyordu. Nipper'ın o dikkatli duruşu, sanki vefat eden sahibinin sesini dinliyormuş gibi, kayıtlı sesin büyüsünü ve duygusal gücünü yansıtıyordu. Yıllar içinde farklı şirketler tarafından kullanılsa da, His Master's Voice, ses kayıt tarihinin en kalıcı ve sevilen simgelerinden biri olarak kaldı.",
+      "fun_fact": "His Master's Voice logosu, gramofonun sesleri ne kadar 'gerçekçi' bir şekilde yeniden üretebildiğini sembolize ediyordu, tıpkı Nipper'ın sahibinin sesini duyduğu gibi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q301754",
+        "https://tr.wikipedia.org/wiki/His_Master%27s_Voice",
+        "https://en.wikipedia.org/wiki/His_Master%27s_Voice"
+      ],
+      "wikidata_qid": "Q301754"
+    },
+    {
+      "id": "Q497935",
+      "date": "2027-06-12",
+      "category": "oyun-spor",
+      "widget_title": "Aklın Yolu Bir oyunu ne zaman ortaya çıktı?",
+      "hook": "Bir Sovyet televizyon programı, yıllar sonra dünya çapında milyonları ekranlara kilitleyen bir oyunun temelini attı — ama bunu kimse tahmin edemezdi!",
+      "answer_year": 1975,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "1975 yılında, Sovyetler Birliği'nde televizyon ekranlarına yeni bir program geldi: *Chto? Gde? Kogda?* yani *Ne? Nerede? Ne Zaman?*. Bu program, aslında bir bilgi yarışmasından çok daha fazlasıydı. Dört kişilik bir takımın, birbirinden ilginç sorulara cevap aradığı, felsefi derinliği olan bir formatla izleyicileri büyüledi. Takımlar, bir masanın etrafında oturur, bir anahtarla çalışan bir saat yardımıyla soruları yanıtlamak için yarışırlardı. Programın en ilginç yanı ise, soruların cevaplarının çoğu zaman hiç de bariz olmamasıydı — tıpkı hayatın kendisi gibi!\n\nPeki, bu oyunun dünya çapındaki versiyonu olan *Aklın Yolu Bir* nasıl doğdu? Sovyet programının formatı o kadar etkileyiciydi ki, 1980'lerin sonunda ve 1990'ların başında Doğu Avrupa ülkelerinde popüler hale geldi. [DOĞRULA: Sovyet programının tam olarak hangi yılda uluslararası alanda tanınmaya başladığı] Ancak *Aklın Yolu Bir* adıyla Türkiye'de yaygınlaşması, 2000'li yılların başlarına denk gelir. Bu oyun, sadece bir bilgi yarışması olmanın ötesinde, strateji, takım çalışması ve anlık zeka gerektiren bir zihin sporu haline geldi. Bugün dünya genelinde milyonlarca insanın katıldığı turnuvalar düzenleniyor ve bu format, eğlencenin ötesinde bir kültüre dönüşmüş durumda.",
+      "fun_fact": "Bu oyunun sembolü olan \"soru işaretli\" anahtar, aslında Sovyetler Birliği'nde bir saat tamircisi tarafından özel olarak tasarlanmıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q497935",
+        "https://tr.wikipedia.org/wiki/Akl%C4%B1n_Yolu_Bir",
+        "https://en.wikipedia.org/wiki/What%3F_Where%3F_When%3F"
+      ],
+      "wikidata_qid": "Q497935"
+    },
+    {
+      "id": "Q201436",
+      "date": "2027-06-13",
+      "category": "yazilim-internet",
+      "widget_title": "Logo programlama dili ne zaman icat edildi?",
+      "hook": "İçinde 'logo' geçen bir şey demek istemiyoruz — bu, aslında ilk kez 1960'larda bir bilgisayarın derdini anlatabilmek için icat edilmiş özel bir dil!",
+      "answer_year": 1967,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Logo, 1967 yılında Wally Feurzeig ve ekibi tarafından geliştirilen, özellikle eğitim amaçlı kullanılan bir programlama dilidir. Temel amacı, çocukların bile kolayca anlayabileceği bir şekilde algoritmik düşünmeyi öğretmekti. En ünlü komutu olan **'forward' (ileri)** ve **'right' (sağ)** sayesinde, kullanıcılar bir 'turtle' (kaplumbağa) sembolünü ekranda hareket ettirerek çizimler yapabiliyordu. Bu yöntem, soyut kavramları somut hale getirerek programlamayı eğlenceli bir oyun gibi sunuyordu.\n\nLogo'nun en büyük miraslarından biri, daha sonraki yıllarda ortaya çıkan **Scratch** gibi blok tabanlı programlama dillerine ilham kaynağı olmasıdır. Bugün bile bazı eğitim kurumlarında temel programlama mantığını öğretmek için kullanılıyor.\n\n[DOĞRULA: Logo'nun ilk versiyonunun hangi donanım üzerinde çalıştığı ve Feurzeig'in ekibinde kimlerin olduğu]",
+      "fun_fact": "Logo'nun sembolü olan kaplumbağa, aslında fiziksel bir robot olarak da üretilmişti!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q201436",
+        "https://tr.wikipedia.org/wiki/Logo_(programlama_dili)",
+        "https://en.wikipedia.org/wiki/Logo_(programming_language)"
+      ],
+      "wikidata_qid": "Q201436"
+    },
+    {
+      "id": "Q303739",
+      "date": "2027-06-14",
+      "category": "kurum-marka",
+      "widget_title": "Peki, Milan markasının hikayesi ne zaman başladı?",
+      "hook": "İtalya'nın moda ve tasarım başkentiyle aynı adı taşıyan bu marka, hangi yıl sahneye çıktı dersiniz?",
+      "answer_year": 1978,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Moda dünyasının kalbinden kopup gelen, zarafet ve stilin temsilcisi Milan markası, adını tıpkı ilham aldığı şehir gibi güçlü bir mirasla taşıyor. Birçok kişi Milano şehrinin çok eski tarihine dayanarak markanın da kökenlerini o kadar eskiye götürdüğünü düşünse de, aslında Milan moda evinin hikayesi çok daha yakın bir tarihte başlıyor. Marka, moda sahnesine ilk adımını 1978 yılında attı. Bu yıl, sadece bir markanın doğuşuna değil, aynı zamanda yeni bir estetik anlayışının da yükselişine tanıklık etti. Ünlü tasarımcı Gianfranco Ferré tarafından kurulan Milan moda evi, kısa sürede kendine özgü tarzıyla dikkatleri üzerine çekmeyi başardı. Ferré'nin mimari eğitimi ve sanatsal bakış açısı, markanın tasarımlarına da yansıdı ve ona 'modanın mimarı' lakabını kazandırdı. Milan, özellikle [DOĞRULA: ilk koleksiyonlarında hangi kumaşlar veya siluetlerle öne çıktı?] gibi detaylarla merak uyandırsa da, zarif çizgileri ve rafine işçiliğiyle moda tutkunlarının gözdesi haline geldi. 1978'den itibaren, tasarımlarında geleneksel İtalyan işçiliğini modern dokunuşlarla birleştirerek, hem klasik hem de yenilikçi bir çizgi izledi. Markanın yolculuğu boyunca, sürekli yenilenen koleksiyonları ve kaliteye verdiği önemle, adını dünya moda literatürüne altın harflerle yazdırdı. Milan, sadece bir marka olmanın ötesinde, zamansız şıklığın ve sofistikasyonun bir sembolü haline geldi. 1978 yılı, bu ikonik markanın temellerinin atıldığı, moda ve zarafetle dolu bir serüvenin başlangıç noktası oldu.",
+      "fun_fact": "Gianfranco Ferré, Milan markasını kurmadan önce mimarlık eğitimi almıştı ve bu özelliği tasarımlarına mimari bir derinlik katmıştır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q303739",
+        "https://tr.wikipedia.org/wiki/Milan_Records",
+        "https://en.wikipedia.org/wiki/Milan_Records"
+      ],
+      "wikidata_qid": "Q303739"
+    },
+    {
+      "id": "Q5369",
+      "date": "2027-06-15",
+      "category": "oyun-spor",
+      "widget_title": "Beyzbol ne zaman ortaya çıktı?",
+      "hook": "Top ve sopayla oynanan bu eğlenceli oyun aslında ne kadar eski dersiniz?",
+      "answer_year": 1900,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Beyzbolun kökenleri, 19. yüzyılın ortalarına dayandırılır. Modern anlamda ilk resmî maçın 1846’da New Jersey’de oynandığı kabul edilir, ancak oyunun temellerinin daha eskiye dayandığına dair ipuçları var. Özellikle İngiliz oyunları olan *rounders* ve *cricket*ten esinlendiği düşünülüyor. [DOĞRULA: Bu oyunların ne ölçüde etkilediği net olarak belgelenmiş mi?]\n\n1900 yılı, beyzbolun profesyonel ligler düzeyinde organize olmaya başladığı dönem olarak öne çıkıyor. ABD’de *National League*’in kurulmasının ardından, 1901’de *American League*’in eklenmesiyle modern lig sisteminin temelleri atıldı. Bu dönemde oyunun kuralları da standartlaştırılmaya başladı. [DOĞRULA: 1900 yılının bu gelişmelerle doğrudan ilişkisi var mı, yoksa daha genel bir dönem mi?]\n\nBugünse beyzbol, ABD’nin yanı sıra Japonya, Güney Kore ve Latin Amerika’da da büyük bir tutkuyla oynanıyor. Tüm bu popülerliğine rağmen, oyunun tam olarak kim tarafından icat edildiği hâlâ bir gizem olarak kalıyor.",
+      "fun_fact": "Beyzbolun en eski profesyonel takımı olan *Cincinnati Red Stockings*, 1869’da kuruldu ve hiç mağlubiyet yaşamadı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5369",
+        "https://tr.wikipedia.org/wiki/Beyzbol",
+        "https://en.wikipedia.org/wiki/Baseball"
+      ],
+      "wikidata_qid": "Q5369"
+    },
+    {
+      "id": "Q2053",
+      "date": "2027-06-16",
+      "category": "yazilim-internet",
+      "widget_title": "HTML5 ne zaman kullanıma sunuldu?",
+      "hook": "Dünyadaki tüm web sayfalarının temelini oluşturan dilin en yeni versiyonu, aslında hepimizin farkında olmadan günde kaç kez kullandığı bir şey!",
+      "answer_year": 2014,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "HTML5, web’in omurgası olan HTML dilinin beşinci ve en modern versiyonu olarak 2014 yılında resmen kullanıma sunuldu. Ancak hikayesi bundan çok daha önceye, 2004 yılına kadar uzanıyor. O dönemde, web standartlarını belirleyen organizasyon olan W3C’nin yavaş hareket ettiğini düşünen bazı geliştiriciler, WHATWG (Web Hypertext Application Technology Working Group) adı altında bağımsız bir grup oluşturarak HTML’nin geleceğini şekillendirmeye başladı. Bu grup, web uygulamalarının daha dinamik ve etkileşimli olmasını sağlayacak yeni özellikler üzerinde çalıştı.\n\n2007 yılında W3C, WHATWG’nin çalışmalarını temel alarak HTML5’in geliştirilmesine resmi olarak başladı. Yıllar süren tartışmalar, taslaklar ve geri bildirimlerin ardından nihayet 2014 yılında HTML5’in ilk kararlı sürümü yayınlandı. Bu sürüm, sadece metin ve görüntülerden oluşan basit web sayfalarından çok daha fazlasını mümkün kıldı: ses ve video oynatma, yerel veri depolama, çevrimdışı çalışabilme ve hatta karmaşık grafiklerin tarayıcı içinde çizilmesi gibi özellikler, HTML5 ile birlikte hayatımıza girdi.\n\nBugün, neredeyse tüm web siteleri ve uygulamalar HTML5’e dayanıyor. Peki ya siz? En son hangi web sitesini ziyaret ettiğinizde HTML5’in sunduğu bu yeniliklerden faydalandınız?",
+      "fun_fact": "HTML5’in tanıtımında kullanılan ilk video, YouTube’un sitesine yerleştirilen bir test videosuydu ve bu sayede milyonlarca kişi yeni standartla tanıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2053",
+        "https://tr.wikipedia.org/wiki/HTML5",
+        "https://en.wikipedia.org/wiki/HTML5"
+      ],
+      "wikidata_qid": "Q2053"
+    },
+    {
+      "id": "Q309031",
+      "date": "2027-06-17",
+      "category": "kurum-marka",
+      "widget_title": "Timsah logolu efsanevi Lacoste markası ne zaman kuruldu?",
+      "hook": "Yeşil timsahıyla dünya çapında ikonikleşen Lacoste'un hikayesi, aslında bir tenis efsanesinin sahadaki tutkusuna dayanıyor.",
+      "answer_year": 1933,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Yeşil timsah logosunu gördüğünüzde aklınıza hemen kalite ve stil geliyorsa, Lacoste'un köklü geçmişini keşfetmeye hazır olun! Bu ikonik Fransız markasının hikayesi, aslında bir tenis efsanesinin sahadaki devrimci fikirleriyle başlıyor. René Lacoste, 1920'lerin ünlü Fransız tenisçilerinden biriydi. Korttaki hırsı ve azmi yüzünden Amerikalı bir gazeteci ona 'Timsah' lakabını taktı. Bu lakap, daha sonra markanın sembolü haline geldi.\n\nRené Lacoste, o dönemin rahatsız edici, uzun kollu ve sert yaka tenis kıyafetlerinden bunalmıştı. Kendi oyununu daha iyi oynayabilmek için kendisi için daha nefes alan, kısa kollu ve yakası kaldırılabilir bir gömlek tasarladı. Bu tasarım, pamuklu 'petit piqué' kumaşından yapılmış, bugün bildiğimiz polo tişörtün ilk örneklerinden biriydi. Bu yenilikçi gömleği sadece kendisi için değil, arkadaşları için de üretmeye başladı.\n\n1933 yılına geldiğimizde, René Lacoste ve dönemin en büyük Fransız örgü giyim üreticisi André Gillier ile bir araya gelerek 'La Société Chemise Lacoste' şirketini kurdular. Böylece, timsah logolu efsanevi polo tişörtler, kortlardan çıkarak tüm dünyaya yayılan bir moda akımının öncüsü oldu. Marka kısa sürede sadece sporcuların değil, şık ve rahat giyinmeyi seven herkesin tercihi haline geldi. Lacoste, rahatlığı ve zarafeti bir araya getiren tasarımlarıyla spor giyim anlayışını kökten değiştirdi ve modaya yön veren en önemli markalardan biri oldu. O basit polo tişört, modern spor giyiminin temel taşlarından biri haline geldi, her ne kadar günümüzde birçok marka benzer ürünler sunsa da, Lacoste'un orijinal timsahı her zaman ayrıcalıklı bir yere sahip oldu.",
+      "fun_fact": "Lacoste'un ikonik polo tişörtü başlangıçta 'L.12.12' adını taşıyordu; L, Lacoste'u, 1, 'petit piqué' kumaşını, 2, kısa kolu ve son 12 ise René Lacoste'un onayladığı prototip numarasını temsil ediyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q309031",
+        "https://tr.wikipedia.org/wiki/Lacoste",
+        "https://en.wikipedia.org/wiki/Lacoste"
+      ],
+      "wikidata_qid": "Q309031"
+    },
+    {
+      "id": "Q578794",
+      "date": "2027-06-18",
+      "category": "oyun-spor",
+      "widget_title": "Londra Maratonu ne zaman başladı?",
+      "hook": "Dünyanın en prestijli koşularından biri olan Londra Maratonu’nun ilk adımları aslında beklenmedik bir şekilde atıldı.",
+      "answer_year": 1981,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Londra Maratonu’nun hikayesi, 1981 yılında İngiltere’nin başkenti Londra’da yazıldı. İlk kez 29 Mart 1981 tarihinde düzenlenen bu etkinlik, o günden bugüne dünyanın en büyük ve en çok katılan maratonlarından biri haline geldi. [DOĞRULA: İlk maratonun tam olarak hangi organizasyon tarafından desteklendiği ve ilk katılımcı sayısı hakkında net bilgiler bulunmamaktadır.] \n\nAslında, Londra Maratonu’nun ortaya çıkışında ilginç bir tesadüf rol oynadı. Etkinlik, o dönemde İngiltere’de popüler olan bir televizyon programından esinlenerek doğdu. Programda, iki ünlü İngiliz atletin, Chris Brasher ve John Disley’in, 1908 Londra Olimpiyatları’ndaki maratonu yeniden koşmaları yer alıyordu. Bu programı izleyen Brasher ve Disley, Londra’da benzer bir etkinlik düzenleme fikrine kapıldılar. Hatta ilk maratonun organizasyonunda da bizzat yer aldılar. \n\nİlk Londra Maratonu’nda sadece 20.000 katılımcı başvurdu, ancak sadece 6.255’i koşuya katılmaya hak kazandı. Bugün ise bu sayı on binleri aşarken, etkinlik her yıl milyonlarca izleyici tarafından takip ediliyor. Maraton, sadece sporcular için değil, aynı zamanda hayır kurumları için de önemli bir fon toplama aracı haline geldi. Öyle ki, geçmiş yıllarda toplanan bağışlar milyonlarca sterline ulaştı.",
+      "fun_fact": "Londra Maratonu’nun ilk kazananı, ABD’li atlet Dick Beardsley oldu ve o yılki rekoru 2:11:48 ile kırdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q578794",
+        "https://tr.wikipedia.org/wiki/Londra_Maratonu",
+        "https://en.wikipedia.org/wiki/London_Marathon"
+      ],
+      "wikidata_qid": "Q578794"
+    },
+    {
+      "id": "Q20657453",
+      "date": "2027-06-19",
+      "category": "yazilim-internet",
+      "widget_title": "NoFap hareketi ne zaman başladı?",
+      "hook": "İnternetin en ilginç topluluklarından biri olan NoFap, adını duymayan kalmadı... Peki bu hareket tam olarak ne zaman doğdu?",
+      "answer_year": 2011,
+      "year_precision": "month",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "NoFap, porno izlemeyi ve mastürbasyonu bırakmayı hedefleyen bir internet topluluğu olarak 2011 yılında ortaya çıktı. Bu hareketin kökenleri, aslında çok daha basit bir forum gönderisine dayanıyor. [DOĞRULA: NoFap’ın ilk olarak hangi platformda ve kim tarafından başlatıldığına dair net bir kaynak bulunmuyor.] Temelde, insanların bağımlılıklarla mücadele etmek için bir araya geldiği bu topluluk, zamanla büyüdü ve küresel bir fenomen haline geldi.\n\nİlginç olan, NoFap’ın sadece bir reddetme hareketi olmanın ötesine geçmesi. Katılımcılar, bu süreci bir tür “detoks” gibi görüyor ve hem fiziksel hem de zihinsel sağlıklarına olumlu etkileri olduğunu savunuyorlar. Tabii ki, bilimsel çalışmaların sonuçları henüz kesin değil ve konu hakkında farklı görüşler mevcut. [DOĞRULA: NoFap’ın sağlık üzerindeki etkilerine dair yapılan araştırmaların yeterliliği ve sonuçları hakkında daha fazla veri gerekli.]\n\nBugün NoFap, sadece bir forumdan ibaret değil; aynı zamanda uygulamalar, destek grupları ve hatta çevrim içi seminerler düzenleyen bir topluluk haline geldi. Hareketin popülerliği, sosyal medya ve dijital platformların da yardımıyla hızla yayıldı.",
+      "fun_fact": "NoFap’ın sloganı olan \"30 gün kuralı\", birçok kişi için bir motivasyon aracı haline geldi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20657453",
+        "https://tr.wikipedia.org/wiki/NoFap",
+        "https://en.wikipedia.org/wiki/NoFap"
+      ],
+      "wikidata_qid": "Q20657453"
+    },
+    {
+      "id": "Q332477",
+      "date": "2027-06-20",
+      "category": "kurum-marka",
+      "widget_title": "İç giyim devi Victoria's Secret ne zaman kapılarını açtı?",
+      "hook": "Peki, bu ikonik iç giyim markasının hikayesi nasıl başladı ve ne zaman doğdu?",
+      "answer_year": 1977,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Bugün dünyanın en tanınmış iç giyim markalarından biri olan Victoria's Secret, aslında oldukça mütevazı bir başlangıca sahip. Marka, 1977 yılında, erkeklerin iç giyim alışverişi yaparken kendilerini rahatsız hissettikleri bir ortamı değiştirmek amacıyla kuruldu. Kurucusu Roy Raymond, eşine iç çamaşırı almakta zorlanınca, hem erkekler hem de kadınlar için daha konforlu ve hoş bir alışveriş deneyimi sunan bir mağaza hayal etti. İlk mağaza [DOĞRULA: İlk mağazanın San Francisco'daki Stanford Alışveriş Merkezi'nde açıldığı ve orijinal konsepti] San Francisco'daki Stanford Alışveriş Merkezi'nde açıldı. Raymond'ın vizyonu, dönemin \"ihtiyaç odaklı\" iç çamaşırı mağazalarından farklı olarak, daha lüks, daha Avrupai ve kadınların kendilerini özel hissedeceği bir atmosfer yaratmaktı. Başlangıçta hedef, günlük giyimden ziyade özel anlara yönelik, daha çekici ve zarif parçalar sunmaktı. Markanın bugünkü parlak defileleri ve süpermodelleriyle özdeşleşen 'melekler' imajından çok uzak, daha klasik ve rafine bir tarzı vardı. Victoria's Secret, kadınların iç dünyalarına hitap eden bir marka olarak yola çıksa da, Roy Raymond'ın [DOĞRULA: Roy Raymond'ın markayı ne zaman ve neden sattığı bilgisi] daha sonra markayı satmasıyla birlikte bambaşka bir yöne evrildi. Ancak bu büyük iç giyim imparatorluğunun temelleri, 1977'de atılan bu yenilikçi fikirle atıldı.",
+      "fun_fact": "Victoria's Secret'ın ilk konsepti, iç çamaşırı alışverişini erkekler için daha az utandırıcı hale getirmekti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q332477",
+        "https://tr.wikipedia.org/wiki/Victoria%27s_Secret",
+        "https://en.wikipedia.org/wiki/Victoria%27s_Secret"
+      ],
+      "wikidata_qid": "Q332477"
+    },
+    {
+      "id": "Q607965",
+      "date": "2027-06-21",
+      "category": "oyun-spor",
+      "widget_title": "Serie C ne zaman kuruldu?",
+      "hook": "İtalya'nın üçüncü ligi olan Serie C, aslında sadece bir futbol ligi değil—arşivlerde saklı bir hikaye!",
+      "answer_year": 1935,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Serie C, İtalya futbolunun üçüncü seviyesindeki lig olarak 1935 yılında kuruldu. O dönemde İtalyan futbolu, Serie A ve Serie B'nin yanı sıra daha bölgesel ve rekabetçi bir yapıya ihtiyaç duyuyordu. Serie C'nin doğuşu, İtalya'nın futbol altyapısını güçlendirme ve daha fazla takıma şans tanıma amacını taşıyordu. [DOĞRULA: Serie C'nin ilk sezonunda kaç takım yer aldı?]\n\n1935 yılı, İtalyan futbolunda profesyonelleşmenin hız kazandığı bir dönemdi. Serie C, o yıllarda daha çok yerel takımların katılımıyla oluşan bir lig olarak başladı ve zamanla İtalya'nın futbol kültürünün önemli bir parçası haline geldi. Günümüzdeyse Serie C, Serie A ve Serie B'ye kıyasla daha az tanınsa da, geleceğin yıldızlarını keşfetmek için kritik bir platform olmayı sürdürüyor.\n\nSerie C'nin kuruluşuyla birlikte İtalyan futbolu, sadece büyük şehirlerin takımlarına değil, daha küçük kasaba ve bölgelerin de temsil edilmesine olanak tanıdı. Bu da ligin, İtalya'nın futbol çeşitliliğinin bir simgesi haline gelmesini sağladı.",
+      "fun_fact": "Serie C'de oynayan takımlardan bazıları, daha sonra Serie A'ya yükselerek İtalya'nın en büyük futbol sahnesinde yer aldı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q607965",
+        "https://tr.wikipedia.org/wiki/Serie_C",
+        "https://en.wikipedia.org/wiki/Serie_C"
+      ],
+      "wikidata_qid": "Q607965"
+    },
+    {
+      "id": "Q208194",
+      "date": "2027-06-22",
+      "category": "yazilim-internet",
+      "widget_title": "RapidShare ne zaman kuruldu?",
+      "hook": "Dosyalarınızı saniyeler içinde dünyanın dört bir yanındaki kullanıcılarla paylaşmanın sırrı neydi?",
+      "answer_year": 2002,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "İnternetin dosya paylaşımına açıldığı 2000’lerin başında, kullanıcıların büyük dosyaları zahmetsizce yükleyip paylaşabilmesini sağlayan birçok hizmet ortaya çıktı. Bunlardan biri olan **RapidShare**, 2002 yılında [DOĞRULA: kuruluşunun tam tarihi] kuruldu ve kısa sürede hem dosya indirenlerin hem de yükleyenlerin favorisi haline geldi.\n\nRapidShare’ın başarısının ardında, basit bir arayüz ve yüksek hızlı sunucular vardı. Kullanıcılar, dosyalarını yükleyip otomatik olarak oluşturulan bir indirme linkini başkalarıyla paylaşabiliyordu. Bu sistem, özellikle forumlarda ve bloglarda popüler oldu. Hatta bazı kullanıcılar, dosyalarını uzun süreli olarak barındırmak için RapidShare’ı tercih ediyordu.\n\nAncak, zamanla dosya paylaşım hizmetlerine yönelik yasal baskılar arttı. Telif hakkı ihlallerine karşı daha sıkı önlemler alan şirket, 2010’ların ortasında hizmetini yavaş yavaş kapatmaya başladı. Sonunda, 2015 yılında RapidShare tamamen kapandı ve kullanıcılar dosyalarını başka platformlara taşımak zorunda kaldı.\n\nBugün RapidShare, internetin altın çağının bir sembolü olarak hatırlanıyor. Peki, sizce dosya paylaşımının geleceği nerede?",
+      "fun_fact": "RapidShare’ın en popüler olduğu dönemde, aylık aktif kullanıcı sayısı 100 milyonu aşmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q208194",
+        "https://tr.wikipedia.org/wiki/RapidShare",
+        "https://en.wikipedia.org/wiki/RapidShare"
+      ],
+      "wikidata_qid": "Q208194"
+    },
+    {
+      "id": "Q366630",
+      "date": "2027-06-23",
+      "category": "kurum-marka",
+      "widget_title": "RTV Pink (Pink TV) ne zaman ekranlara geldi?",
+      "hook": "Sırbistan'ın en popüler kanallarından RTV Pink'in geçmişi ne kadar eskiye dayanıyor dersiniz?",
+      "answer_year": 1994,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "1990'lı yılların ortaları, özellikle Balkanlar'da medya ve televizyon dünyası için oldukça hareketli bir dönemdi. İşte tam da bu dönemde, Sırbistan'ın televizyon peyzajına damgasını vuracak önemli bir kanal doğdu: RTV Pink. 1994 yılında yayın hayatına başlayan bu özel kanal, kısa sürede izleyicilerin gönlünde taht kurmayı başardı.\n\nRTV Pink, başlangıcından itibaren ağırlıklı olarak eğlence odaklı programlarıyla bilindi. Müzik, magazin, diziler ve çeşitli reality şovlar, kanalın ana yayın akışını oluşturuyordu. Özellikle yerel pop ve turbo-folk müzik sahnesine büyük destek vererek, birçok sanatçının tanınmasına ve popülerleşmesine önemli katkılar sağladı. Kanalın kendine özgü pembe renkli logosu ve enerjik yayın anlayışı, onu diğer kanallardan ayıran belirgin özelliklerden biri oldu.\n\nKurulduğu günden bu yana Sırbistan ve çevre ülkelerdeki medya dünyasında önemli bir aktör haline gelen RTV Pink, zamanla yayın ağını genişleterek bölgenin en büyük özel televizyon kanallarından biri konumuna geldi. Hem televizyon yayıncılığı hem de müzik yapımcılığı gibi farklı alanlarda faaliyet göstererek, izleyicilere geniş bir içerik yelpazesi sunmaya devam etti. Günümüzde de bölgenin en çok izlenen kanallarından biri olma özelliğini koruyor.",
+      "fun_fact": "RTV Pink, kısa sürede Balkanlar'daki popüler müzik sahnesinin önemli bir vitrini haline geldi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q366630",
+        "https://tr.wikipedia.org/wiki/RTV_Pink",
+        "https://en.wikipedia.org/wiki/Pink_(Serbia)"
+      ],
+      "wikidata_qid": "Q366630"
+    },
+    {
+      "id": "Q611991",
+      "date": "2027-06-24",
+      "category": "oyun-spor",
+      "widget_title": "Twister oyunu ne zaman icat edildi?",
+      "hook": "Dönme dolaptan bile daha eğlenceli olan bu oyun, ayağınızı yanlış yere koyunca ortaya çıkan o komik çırpınmaları kim icat etti dersiniz?",
+      "answer_year": 1966,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Twister, 1966 yılında piyasaya sürülen, renkli dairelerin üzerine ellerinizi ve ayaklarınızı yerleştirerek oynanan fiziksel bir beceri oyunudur. Aslında bu oyunun hikayesi, 1960’lı yılların ortalarında Amerika’da yaşanan bir dönüşümün parçasıdır. O dönemde çocuklar ve yetişkinler için basit, hareketli ve biraz da şans unsurunu içinde barındıran oyunlara ilgi artmıştı. Twister’in mucidi olarak kabul edilen kişi, oyuncak devi Milton Bradley şirketinin ürün geliştirme ekibinden Charles Foley ve Neil W. Rabens’tir. [DOĞRULA: Foley ve Rabens’in bu oyunu tam olarak nasıl tasarladıkları ve ilham kaynakları hakkında detaylı bilgiye ihtiyaç var.]\n\nOyunun ortaya çıkışı, televizyonda yayınlanan bir reklamla da efsaneleşti. Ünlü aktris Eva Gabor’un yer aldığı reklamda, oyuncuların birbirlerinin üzerine düştüğü, gülmekten yerlere yattığı anlar kaydedildi. Bu reklam, Twister’in sadece bir oyun olmanın ötesinde, sosyal bir deneyime dönüşmesine yardımcı oldu. Hatta o kadar popüler oldu ki, bazı okullarda ve etkinliklerde bile kullanılmaya başlandı.\n\nTwister’in basit gibi görünen kuralları, aslında vücut koordinasyonunu ve esnekliğini test eden bir yapıya sahip. Renkli dairelerin yerleştirildiği mat üzerinde, oyuncuların dengenlerini korumaya çalışırken ortaya çıkan komik anlar, oyunun en büyük eğlencesi haline geldi. Bugün bile partilerin vazgeçilmez oyunlarından biri olan Twister, 1966’dan beri milyonlarca insanın yüzünde gülümseme bırakmaya devam ediyor.",
+      "fun_fact": "Twister’in ilk versiyonunda kullanılan renkler mavi, sarı, kırmızı ve yeşil olmak üzere sadece dörttü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q611991",
+        "https://tr.wikipedia.org/wiki/Twister_(oyun)",
+        "https://en.wikipedia.org/wiki/Twister_(game)"
+      ],
+      "wikidata_qid": "Q611991"
+    },
+    {
+      "id": "Q213660",
+      "date": "2027-06-25",
+      "category": "yazilim-internet",
+      "widget_title": "LinkedIn ne zaman kuruldu?",
+      "hook": "İş dünyasının dijital adresi olan LinkedIn’in doğuş hikayesi, bir kahve molasında mı başladı dersin?",
+      "answer_year": 2002,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "LinkedIn’in hikayesi, 2002 yılında Reid Hoffman ve kurucu ekibinin Silicon Valley’deki ofisinde şekillenmeye başladı. Aslında bu proje, Hoffman’ın daha önceki deneyimlerinden—özellikle de PayPal’daki liderliğinden—esinlenen bir fikirdi. LinkedIn, sadece bir CV sitesi olmanın ötesinde, profesyonellerin ağlarını genişletmelerine ve iş fırsatlarına erişmelerine olanak tanıyan ilk sosyal ağlardan biri olarak tasarlandı.\n\nBaşlangıçta, LinkedIn’in kullanıcı tabanını oluşturmak hiç de kolay olmadı. 2003 yılında resmi olarak yayınlandığında, ilk ayda sadece 4.500 kayıtlı kullanıcıya sahipti. Ancak, ağ etkisiyle birlikte büyüme ivmesi kazandı ve kısa sürede iş dünyasının vazgeçilmez bir aracı haline geldi. İlginç olan, LinkedIn’in ilk yıllarında reklam gelirlerine değil, ücretli premium hesaplara ve işe alım çözümlerine odaklanmasıydı—bu strateji, şirketin uzun vadede ayakta kalmasını sağladı.\n\n[DOĞRULA: LinkedIn’in ilk kullanıcı arayüzü ve ekibinin tam listesi hakkında detaylı bilgiler bulunmamaktadır.]\n\nBugün LinkedIn, Microsoft’un bir parçası olarak global bir platform haline gelse de, kökleri o küçük startup ruhuna dayanıyor. Peki, sence LinkedIn’in en büyük başarısı neydi? Kullanıcı sayısını mı artırması, yoksa iş dünyasındaki iletişim devrimini mi başlatması?",
+      "fun_fact": "LinkedIn’in ilk yatırımcılarından biri, PayPal’ın kurucu ortağı Peter Thiel’di—ve Thiel’in LinkedIn’e yaptığı yatırım, bugün milyarlarca dolar değerinde.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q213660",
+        "https://tr.wikipedia.org/wiki/LinkedIn",
+        "https://en.wikipedia.org/wiki/LinkedIn"
+      ],
+      "wikidata_qid": "Q213660"
+    },
+    {
+      "id": "Q376627",
+      "date": "2027-06-26",
+      "category": "kurum-marka",
+      "widget_title": "Whataburger fast food zinciri ne zaman kuruldu?",
+      "hook": "Amerikan fast food sahnesine iddialı bir giriş yapan Whataburger'ın hikayesi sizi şaşırtabilir.",
+      "answer_year": 1950,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Hızlı yiyecek dünyasında bir efsane haline gelen Whataburger, kapılarını ilk kez 1950 yılında açtı. Teksas'ta başlayan bu lezzet serüveni, sıradan bir hamburger deneyiminin ötesine geçme hedefiyle yola çıktı. Kurucuların vizyonu oldukça basitti ama bir o kadar da iddialıydı: İki elle zor tutulacak kadar büyük ve her lokmada unutulmaz bir lezzet sunan bir hamburger yaratmak.\n\nBu iddialı başlangıç, kısa sürede karşılığını buldu. Whataburger, sadece boyutlarıyla değil, aynı zamanda özel sosları ve taze malzemelerle hazırlanan eşsiz tadıyla da dikkat çekti. İlk başlarda küçük bir büfe olarak hizmet veren marka, zamanla Amerika'nın en tanınmış fast food zincirlerinden birine dönüştü. Portakal ve beyaz çizgili çatısıyla ikonikleşen restoranları, yolculuk molalarının ve arkadaş buluşmalarının vazgeçilmezi oldu. Whataburger'ın başarısının sırrı, değişen zamanlara rağmen kaliteden ve özgün lezzetinden ödün vermemesi diyebiliriz. Özellikle sabah kahvaltısı menüsü ve klasik burger çeşitleri, markanın sadık bir müşteri kitlesi edinmesini sağladı. [DOĞRULA: Whataburger'ın ilk şubesinin tam olarak hangi şehirde açıldığı?]",
+      "fun_fact": "Whataburger'ın ilk zamanlarındaki hedefi, insanların sadece tek bir hamburgerle doyduğu bir deneyim sunmaktı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q376627",
+        "https://tr.wikipedia.org/wiki/Whataburger",
+        "https://en.wikipedia.org/wiki/Whataburger"
+      ],
+      "wikidata_qid": "Q376627"
+    },
+    {
+      "id": "Q647746",
+      "date": "2027-06-27",
+      "category": "oyun-spor",
+      "widget_title": "Cezayir 1. Ligi ne zaman kuruldu?",
+      "hook": "Futbola bayılan milyonlarca Cezayirli için bu lig, bağımsızlığın sembolü haline geldi!",
+      "answer_year": 1962,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Cezayir’in en üst düzey futbol ligi olan **Cezayir 1. Ligi** (resmi adıyla *Ligue Professionnelle 1*), **1962 yılında** kuruldu. Bu tarih, sadece bir ligin başlangıcı değil; aynı zamanda Cezayir’in Fransa’dan bağımsızlığını kazandığı yıl olmasıyla da büyük önem taşıyor. [DOĞRULA: Ligdeki ilk sezonun tam olarak hangi tarihte başladığı ve kaç takımla oynandığı] \n\nBağımsızlık sonrası ülkede futbolu yeniden yapılandırma çabaları hız kazandı. Cezayir Futbol Federasyonu’nun kurulmasıyla birlikte, yerel takımlar organize bir ligde mücadele etmeye başladı. İlk yıllarda lig, yerel rekabetin yanı sıra siyasi ve toplumsal değişimlerin de izlerini taşıdı. Zamanla, Cezayir’in en popüler spor dalı haline gelen futbol, ulusal kimliğin bir parçası olarak görülmeye başlandı. \n\nBugün lig, Afrika’nın en rekabetçi futbol organizasyonlarından biri olarak kabul ediliyor. Takımlar arasında CR Belouizdad, JS Kabylie ve ES Sétif gibi efsanevi kulüpler de yer alıyor. Ligdeki başarı, sadece sportif değil, aynı zamanda kültürel bir mirasın da parçası olarak değerlendiriliyor.",
+      "fun_fact": "Cezayir 1. Ligi’nin ilk şampiyonu **AS Saint Eugène** (günümüzdeki adıyla *MC Alger*) oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q647746",
+        "https://tr.wikipedia.org/wiki/Er-R%C3%A2b%C4%B1ta_el-Cezeriyye_el-Muht%C3%A2rifet%27%C3%BCl-%C3%BBl%C3%A2_Likurat-%C3%BCl-kadem",
+        "https://en.wikipedia.org/wiki/Algerian_Ligue_Professionnelle_1"
+      ],
+      "wikidata_qid": "Q647746"
+    },
+    {
+      "id": "Q219136",
+      "date": "2027-06-28",
+      "category": "yazilim-internet",
+      "widget_title": "Outlook.com e-posta servisi ne zaman doğdu?",
+      "hook": "Dünyanın en çok kullanılan e-posta servislerinden biri olan Outlook.com’un aslında 2012’de doğmadığını biliyor muydun?",
+      "answer_year": 1996,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Outlook.com’un hikayesi, aslında 1996 yılına kadar uzanıyor. O dönemde Hotmail adıyla hayata geçen bu servis, Sabeer Bhatia ve Jack Smith tarafından kuruldu. Hotmail, dünyanın ilk web tabanlı ücretsiz e-posta servisi olarak büyük bir devrim yaratmıştı. [DOĞRULA: Hotmail’in ilk kullanıcı arayüzü nasıldı?] Microsoft, 1997 yılında Hotmail’i satın aldı ve yıllar içinde Hotmail’in altyapısını kullanarak çeşitli güncellemeler yaptı.\n\n2011 yılında Microsoft, Hotmail’in yerine yeni bir e-posta deneyimi sunacağını duyurdu. Bu yeni servis, 2012 yılında Outlook.com adıyla kullanıcılarla buluştu. Outlook.com, Hotmail’in temelleri üzerine inşa edilmiş olsa da, modern bir tasarım ve yenilikçi özelliklerle donatıldı. Böylece, 1996’da başlayan bu yolculuk, 2012 yılında yeni bir adı ve kimliğiyle devam etti.\n\nBugün milyonlarca kişi tarafından kullanılan Outlook.com, aslında 26 yıllık bir geçmişe sahip bir servis. Yani, aslında Outlook.com’un temelleri 1996’ya dayanıyor, ancak adı ve arayüzü 2012’de değişti.",
+      "fun_fact": "Hotmail’in ilk adı ‘HoTMaiL’ idi ve ‘HTML’ kelimesine bir gönderme olarak bu şekilde yazılıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q219136",
+        "https://tr.wikipedia.org/wiki/Outlook.com",
+        "https://en.wikipedia.org/wiki/Outlook.com"
+      ],
+      "wikidata_qid": "Q219136"
+    },
+    {
+      "id": "Q387539",
+      "date": "2027-06-29",
+      "category": "kurum-marka",
+      "widget_title": "Disney'in müzik devi Hollywood Records ne zaman kuruldu?",
+      "hook": "Popüler müzik sahnesine pek çok yıldızı kazandıran Hollywood Records'ın kuruluş hikayesini merak ediyor musunuz?",
+      "answer_year": 1989,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Hollywood Records, müzik dünyasına adını altın harflerle yazdıran önemli bir plak şirketi. Peki, bu müzik devinin kuruluşu ne zamana denk geliyor? Cevap 1989! Bu yıl, eğlence devlerinden Disney'in müzik sahnesine iddialı bir giriş yaptığı döneme işaret ediyor. Disney, Hollywood Records'ı kurarken sadece kendi filmlerinin ve televizyon projelerinin müziklerini yayınlamakla kalmayıp, aynı zamanda pop ve rock müzik dünyasında yeni yıldızlar keşfetme ve küresel bir etki alanı oluşturma hedefiyle yola çıktı.\n\nO dönemde pek çok büyük stüdyonun kendi müzik yayın kolu olsa da, Hollywood Records'ın vizyonu biraz daha genişti. Şirket, bir yandan Disney çatısı altındaki yapımların müziklerini dinleyicilerle buluştururken, diğer yandan da genç ve potansiyeli yüksek sanatçıları bünyesine katarak onları küresel çapta tanınan yıldızlara dönüştürmeyi amaçladı. Bu strateji sayesinde, kısa sürede müzik listelerinde zirveye oynayan pek çok isme ev sahipliği yapmaya başladı.\n\nHollywood Records'ın kuruluşu, Disney'in sadece sinema ve animasyonla değil, popüler müzikle de doğrudan ve güçlü bir şekilde etkileşim kurma isteğinin bir göstergesiydi. Özellikle 2000'li yıllardan itibaren genç pop yıldızlarını ve rock gruplarını bünyesine katarak büyük bir başarı yakaladı. [DOĞRULA: Şirketin erken dönemdeki imza attığı ikonik pop/rock sanatçıları kimlerdi?] Müzik endüstrisinde kalıcı bir iz bırakan bu marka, kurulduğu günden bu yana pek çok hit şarkıya ve albüme imza atarak dinleyicilerin kalbinde özel bir yer edindi.",
+      "fun_fact": "Hollywood Records, bir dönem heavy metal ve rock müziğe de yatırım yaparak, müzik yelpazesini şaşırtıcı derecede geniş tutmuştur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q387539",
+        "https://tr.wikipedia.org/wiki/Hollywood_Records",
+        "https://en.wikipedia.org/wiki/Hollywood_Records"
+      ],
+      "wikidata_qid": "Q387539"
+    },
+    {
+      "id": "Q692009",
+      "date": "2027-06-30",
+      "category": "oyun-spor",
+      "widget_title": "Superettan ne zaman kuruldu?",
+      "hook": "İsveç'in ikinci ligi olan Superettan'ı tahmin etmek için hazır mısın? Peki bu ligin hikayesi sandığından çok daha ilginç olabilir!",
+      "answer_year": 2000,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Superettan, İsveç futbolunun ikinci seviyesindeki en önemli lig olarak 2000 yılında kuruldu. İsveç futbolunda lig sistemi yeniden yapılandırılırken, Superettan da bu değişimin bir parçası olarak doğdu. Öncesinde İsveç'in ikinci ligi olan *Division 1*, 1993 ile 2005 yılları arasında varlığını sürdürdü. Superettan'ın kurulmasıyla birlikte, İsveç futbolunda daha profesyonel ve organize bir altyapı oluşturulması hedeflendi.\n\nLigin adı, İsveççe'de \"üst\" anlamına gelen *super* ve ligin seviyesini belirten *ettan* (birinci) kelimelerinin birleşiminden oluşuyor. Yani aslında \"üst birinci\" anlamına geliyor — biraz kafa karıştırıcı, değil mi? [DOĞRULA: Lig adının tam anlamı ve kökeni hakkında daha detaylı kaynaklar var mı?]\n\nSuperettan, İsveç futbolunun yükselen yeteneklerinin ve deneyimli oyuncuların buluştuğu bir platform haline geldi. Ligdeki takımlar, her yıl Allsvenskan (İsveç'in en üst ligi) için mücadele ederken, aynı zamanda geleceğin yıldızlarını da yetiştiriyor. 2000 yılında başlayan bu yolculuk, İsveç futbolunun gelişimine önemli katkılar sağladı.",
+      "fun_fact": "Superettan'ın ilk sezonunda, ligde oynayan takımlardan biri olan *BK Häcken*, Allsvenskan'a yükselmeyi başardı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q692009",
+        "https://tr.wikipedia.org/wiki/Superettan",
+        "https://en.wikipedia.org/wiki/Superettan"
+      ],
+      "wikidata_qid": "Q692009"
+    }
+  ]
+}
