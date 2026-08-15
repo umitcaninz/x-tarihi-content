@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2028-01",
+  "items": [
+    {
+      "id": "Q86901049",
+      "date": "2028-01-01",
+      "category": "tibbi-buluslar",
+      "widget_title": "COVID-19 testi ne zaman ortaya çıktı?",
+      "hook": "2020 yılında, pandemik olacak bir virüse karşı ilkPCR testi nasıl geliştirildi?",
+      "answer_year": 2020,
+      "year_precision": "year",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "2020 yılında, pandemik olacak bir virüse karşı ilk PCR testi geliştirildi. Ancak, bu testin tam olarak ne zaman ortaya çıktığı kesin olarak bilinmemektedir. [DOĞRULA: 2020 yılındaki tarih]. Genel olarak, pandeminin başlamasından kısa bir süre sonra, uzmanlar ve bilim insanları, yeni ortaya çıkan SARS-CoV-2 virüsünün tanınıp tanılamasına yönelik testler geliştirdiler. Bu testler, virüsten korunmak veya hastalara yardımcı olmak için çok önemli rol oynayan bir araç oldu. Ancak, testin tam olarak hangi tarihte geliştirildiği ve piyasaya sürüldüğü konusunda daha fazla belgeye ihtiyaç vardır.",
+      "fun_fact": "PCR testi, 1983 yılında ilk kez kullanılan bir teknolojiyi temel alarak geliştirildi, ancak bu testin COVID-19 için nasıl uyarlanması ve uygulanması, 2020 yılında pandeminin ortasında oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q86901049",
+        "https://tr.wikipedia.org/wiki/COVID-19_testi",
+        "https://en.wikipedia.org/wiki/COVID-19_testing"
+      ],
+      "wikidata_qid": "Q86901049"
+    }
+  ]
+}
