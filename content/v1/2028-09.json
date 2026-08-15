@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2028-09",
+  "items": [
+    {
+      "id": "Q55931",
+      "date": "2028-09-01",
+      "category": "kurum-marka",
+      "widget_title": "Hyundai Motor Company ne zaman kuruldu?",
+      "hook": "Güney Kore'nin en büyük otomobil üreticilerinden biri olan Hyundai Motor Company, 1967 yılında kuruldu. Bu şirket ne zaman ve nasıl doğdu?",
+      "answer_year": 1967,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Hyundai Motor Company, Güney Kore'nin en büyük otomobil üreticilerinden biridir. Şirket 1967 yılında kuruldu ve Güney Kore'nin ekonomisinin önemli bir parçası haline geldi. Başlangıçta küçük bir mimari firması olan Hyundai, 1960'ların sonlarına doğru otomobil üretimine girdi. İlk olarak, işbirliği anlaşmaları ile Toyota ve Ford ile birlikte otomobil üretimine başladı. 1970'lerde, Hyundai kendi otomobil üretimi programına başladı ve 1980'lerde kendi markasını tanıttı. Şirket, zaman içinde büyüdü ve güçlendi, sonunda 2009 yılında Hyundai Motor Group olarak yeniden isimlendirildi. [DOĞRULA: Hyundai Motor Company'nin 1967 yılında kurulduğu tarihi.]",
+      "fun_fact": "Hyundai'nin ilk modeli, 1983 yılında piyasaya sürüldü ve bu model Hyundai Motor Company'nin marka tanıtılmaya başlamasına yardımcı oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55931",
+        "https://tr.wikipedia.org/wiki/Hyundai_Motor_Company",
+        "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+      ],
+      "wikidata_qid": "Q55931"
+    }
+  ]
+}

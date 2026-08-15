@@ -1,0 +1,688 @@
+{
+  "schema_version": 1,
+  "month": "2028-08",
+  "items": [
+    {
+      "id": "Q106621124",
+      "date": "2028-08-01",
+      "category": "kurum-marka",
+      "widget_title": "Zeekr markası ne zaman kuruldu?",
+      "hook": "Elektrikli otomobil devrini başlatan markalardan biri olan Zeekr, adını duymaya başladığımız o ilk yılda neler yaşandı?",
+      "answer_year": 2021,
+      "year_precision": "day",
+      "guess_range": [
+        1920,
+        2026
+      ],
+      "body": "Zeekr, Çin merkezli bir elektrikli otomobil markası olarak 2021 yılında kuruldu. [DOĞRULA: Bu tarihin sadece yıl olarak mı yoksa belirli bir ay/gün olarak mı kayıtlara geçtiği] Bu marka, Geely Holding’in bir parçası olarak, yenilikçi elektrikli araçlar üretme vizyonuyla yola çıktı. Zeekr’ın ilk modeli olan Zeekr 001, aynı yılın ilerleyen dönemlerinde tanıtıldı ve kısa sürede dikkatleri üzerine çekti.\n\nMarkanın adı, \"ZEEK\" ve \"R\" harflerinin birleşiminden oluşuyor. \"ZEEK\", hızlı ve akıcı bir hareketi simgelerken, \"R\" ise hem \"Revolution\" (devrim) hem de \"Range\" (menzil) kavramlarını temsil ediyor. Zeekr, sadece elektrikli araçlar üretmekle kalmıyor, aynı zamanda otonom sürüş teknolojileri ve dijital deneyimler üzerine de yoğunlaşıyor.\n\nZeekr’ın kuruluşu, elektrikli otomobil pazarındaki rekabetin giderek kızıştığı bir döneme denk geldi. Çin’in bu alandaki liderliğini pekiştirme çabalarının bir parçası olarak görülüyor. Marka, Avrupa ve diğer uluslararası pazarlara da hızla açılmaya başladı ve bu genişleme stratejisiyle global bir oyuncu olmayı hedefliyor.",
+      "fun_fact": "Zeekr’ın ilk modeli olan Zeekr 001, aynı zamanda Çin’in ilk tamamen elektrikli shooting brake modeli olarak da tarihe geçti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106621124",
+        "https://tr.wikipedia.org/wiki/Zeekr",
+        "https://en.wikipedia.org/wiki/Zeekr"
+      ],
+      "wikidata_qid": "Q106621124"
+    },
+    {
+      "id": "Q117892",
+      "date": "2028-08-02",
+      "category": "kurum-marka",
+      "widget_title": "Dünya Doğayı Koruma Vakfı ne zaman kuruldu?",
+      "hook": "Doğayı kurtarmak için bir araya gelenler, aslında bir hayali kurtarmak için yola çıktılar: nesli tükenen hayvanları korumak!",
+      "answer_year": 1961,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Dünya Doğayı Koruma Vakfı (WWF), 1961 yılında resmen kurulan ve doğal yaşamın korunmasına odaklanan uluslararası bir sivil toplum örgütü olarak hayatımıza girdi. [DOĞRULA: Kuruluşunun ardındaki ilk itici güç neydi?] Aslında, vakfın temelleri, nesli tükenmekte olan hayvanları koruma ihtiyacından doğdu. Özellikle, soyu ciddi şekilde tehdit altında olan hayvanların avlanmasının ve yaşam alanlarının yok olmasının önüne geçmek amacıyla bir grup bilim insanı ve doğa koruma uzmanı harekete geçti.\n\nWWF’in kuruluşunda, ünlü biyolog Sir Peter Scott’un da aralarında bulunduğu bir ekip önemli rol oynadı. İlk yıllarında, örgüt daha çok nadir hayvan türlerinin korunması üzerine odaklanırken, zamanla çalışmalarını genişleterek ormanların, okyanusların ve tüm ekosistemlerin korunmasına dahil etti. Bugün WWF, 100’den fazla ülkede faaliyet gösteren ve milyonlarca insanın doğa bilincini artırmaya çalışan bir dev haline geldi.\n\nKuruluşundan bu yana geçen yıllarda, WWF’in sembolü haline gelen panda, örgütün misyonunu da özetler nitelikte: sevimli ama aynı zamanda hassas bir tür olarak, doğanın dengesindeki ince ipuçlarını temsil ediyor.",
+      "fun_fact": "WWF’in ilk logosundaki panda, aslında Çin’den ödünç alınan bir hayvandı ve çizim için sadece 90 dolar harcanmıştı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q117892",
+        "https://tr.wikipedia.org/wiki/D%C3%BCnya_Do%C4%9Fay%C4%B1_Koruma_Vakf%C4%B1",
+        "https://en.wikipedia.org/wiki/World_Wildlife_Fund"
+      ],
+      "wikidata_qid": "Q117892"
+    },
+    {
+      "id": "Q1353013",
+      "date": "2028-08-03",
+      "category": "kurum-marka",
+      "widget_title": "Pantene markası ne zaman ortaya çıktı?",
+      "hook": "Saçlarınızı her yıkadığınızda elinizde duran şampuanın ardındaki markanın hikayesi, aslında bir mucizeyle başlıyor!",
+      "answer_year": 1945,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Pantene markasının doğuşu, 1945 yılına dayanıyor. İsviçreli kimyagerler tarafından geliştirilen bu marka, başlangıçta saç bakımında devrim yaratacak bir keşif olarak ortaya çıktı. Pantene’nin hikayesi, Procter & Gamble (P&G) tarafından 1985 yılında satın alınmasıyla yeni bir döneme girdi. Markanın adının kökeni, \"panthenol\" adlı bileşene dayanıyor—bu madde saçın protein yapısını güçlendirerek onarımına yardımcı oluyor.\n\nPantene’nin ilk yıllarında, panthenol içeren ürünler sadece eczanelerde satılırken, zamanla geniş kitlelere ulaşan bir marka haline geldi. [DOĞRULA: Pantene’nin ilk ürünleri arasında yer alan ve markayı ünlü yapan özel formülün tam olarak hangi yılda piyasaya sürüldüğü]. 1980’lerde P&G’nin eline geçtikten sonra, marka global bir fenomen haline geldi ve bugün hala saç bakımında lider markalardan biri olarak kabul ediliyor.\n\nPantene’nin hikayesi, sadece bir markanın değil, aynı zamanda saç bakımındaki bilimsel ilerlemelerin de bir özeti niteliğinde. Ürünlerin arkasındaki araştırma ve geliştirme çalışmaları, markayı diğerlerinden ayıran en önemli faktörlerden biri olmuş.",
+      "fun_fact": "Pantene’nin ünlü sloganı \"Hair So Healthy It Shines\", 1980’lerin sonunda P&G tarafından eklenmiş ve markanın imzası haline gelmiş!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1353013",
+        "https://tr.wikipedia.org/wiki/Pantene",
+        "https://en.wikipedia.org/wiki/Pantene"
+      ],
+      "wikidata_qid": "Q1353013"
+    },
+    {
+      "id": "Q1371867",
+      "date": "2028-08-04",
+      "category": "kurum-marka",
+      "widget_title": "Kleenex ne zaman icat edildi?",
+      "hook": "Burnunuzu sümkürmek için kullandığınız o yumuşacık mendiller aslında bir tesadüfün ürünü müydü?",
+      "answer_year": 1924,
+      "year_precision": "day",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Kleenex’in hikayesi, 1924 yılında Amerika Birleşik Devletleri’nde tamamen farklı bir amaç için üretilmeye başlandığında başlıyor. O dönemde Kimberly-Clark şirketi, **Cellucotton** adı verilen, ameliyatlarda kullanılan ve oldukça dayanıklı bir pamuklu bez üretiyordu. Bu malzeme, I. Dünya Savaşı sırasında askerlerin yaralarını temizlemek için de kullanılmıştı. Savaş bittikten sonra şirket, bu hafif ve emici materyali sivil hayatta da değerlendirmek istedi.\n\nİlk olarak **1924’te** piyasaya sürülen Kleenex, aslında **yüz kremi ve makyaj temizleme mendili** olarak pazarlanıyordu. O zamanlar insanlar, ciltlerine sürdükleri kremleri çıkarmak için bez parçaları kullanıyordu ve Kimberly-Clark bu ihtiyaca yönelik bir çözüm sunduğunu düşündü. Ancak kullanıcılar, mendilleri asıl olarak burunlarını sümkürmek için kullanmaya başlayınca şirket de ürünün yönünü değiştirdi. 1930’larda yapılan bir pazarlama kampanyasıyla Kleenex, **‘soğuk algınlığı mendili’** olarak yeniden konumlandırıldı ve kısa sürede evlerin vazgeçilmezi haline geldi.\n\nBugün Kleenex, dünya çapında bir marka olarak anılsa da aslında orijinal amacı tamamen farklıydı. Bir tesadüf sonucu doğan bu ürün, günlük hayatımızın küçük ama önemli bir parçası haline geldi.",
+      "fun_fact": "Kleenex’in ilk reklamlarında ürünün ‘yüz kremi temizleyici’ olarak tanıtıldığını ve ambalajında da bu şekilde yazdığını biliyor muydunuz?",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1371867",
+        "https://tr.wikipedia.org/wiki/Kleenex",
+        "https://en.wikipedia.org/wiki/Kleenex"
+      ],
+      "wikidata_qid": "Q1371867"
+    },
+    {
+      "id": "Q15799",
+      "date": "2028-08-05",
+      "category": "kurum-marka",
+      "widget_title": "River Plate ne zaman kuruldu?",
+      "hook": "Dünyanın en tutkulu futbol maçlarından bazılarını sahneleyen River Plate’in hikayesi, Arjantin’in sokaklarında başlıyor.",
+      "answer_year": 1901,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "River Plate’in temelleri, 1901 yılında Arjantin’in başkenti Buenos Aires’in güneyindeki La Boca semtinde atıldı. O dönemde yerel gençler, futbolu keşfetmeye başlamıştı ve bu heyecan, 25 Mayıs 1901 tarihinde resmen *Club Atlético River Plate*’in kuruluşuyla sonuçlandı. Kulübün adı, İngiliz göçmenlerin yoğun yaşadığı La Boca’daki *Río de la Plata* nehrinden esinlendi — ilginçtir ki, nehrin adı İspanyolcada \"Gümüş Nehir\" anlamına gelse de, aslında bu isim, kaşiflerin nehrin sularında gördükleri gümüş rengi parıltılardan değil, [DOĞRULA: nehrin adının kökeninin tam olarak hangi olaya dayandığı] esinlenerek verilmişti.\n\nRiver Plate’in ilk yılları, yerel liglerde mücadele etmekle geçti. 1930’lara gelindiğindeyse, kulüp *La Máquina* olarak anılan efsanevi bir takım kurdu — bu takımın oyuncuları, futbolda estetiği ve takım ruhunu bir araya getiren oyun tarzlarıyla unutulmazlar arasına girdi. Stadyumlarının adı olan *El Monumental*, 1938 yılında inşa edildi ve o günden beri River Plate’in gurur kaynağı oldu. Bugün, River Plate’in Arjantin’in en başarılı kulüplerinden biri olması, bu uzun ve heyecan dolu yolculuğun bir kanıtı.\n\nKulübün renkleri olan kırmızı-beyazın hikayesi de ilginç: Kuruluşunda kullanılan formaların rengi, Uruguay’ın *Montevideo Wanderers* takımından esinlenmişti. Bu detay, o dönemdeki futbol kültürünün ne kadar uluslararası olduğunu gösteriyor.",
+      "fun_fact": "River Plate’in *El Monumental* stadyumu, 1978 FIFA Dünya Kupası finaline de ev sahipliği yaptı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15799",
+        "https://tr.wikipedia.org/wiki/CA_River_Plate",
+        "https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate"
+      ],
+      "wikidata_qid": "Q15799"
+    },
+    {
+      "id": "Q15975817",
+      "date": "2028-08-06",
+      "category": "kurum-marka",
+      "widget_title": "Kinder Joy ne zaman piyasaya çıktı?",
+      "hook": "Çikolata ve oyunun birleştiği o anı hiç merak ettiniz mi? Peki bu lezzetli buluşun hikayesi sizi şaşırtabilir!",
+      "answer_year": 2001,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Kinder Joy, Ferrero’nun 2001 yılında piyasaya sürdüğü, çikolata ve oyuncağın bir arada sunulduğu ikonik bir ürün. İtalyan şeker devi Ferrero’nun markası olan Kinder’in bu ürünü, özellikle çocukların hem lezzet hem de oyunla keyifli vakit geçirmesini hedefliyor. Kinder Joy’un en ilginç yanı, iki ayrı bölmeden oluşması: bir tarafında sütlü çikolata kaplı gofret, diğerindeyse küçük bir oyuncak bulunuyor. Bu tasarım, hem annelerin hem de çocukların favori anlarından biri haline geldi.\n\nPeki bu fikir nereden çıktı? Ferrero’nun Kinder serisindeki diğer ürünler gibi Kinder Joy da, markanın çocuklara yönelik yenilikçi yaklaşımının bir parçası. [DOĞRULA: Kinder Joy’un tasarımında ilham alınan başka bir ürün ya da fikir var mıydı?] Ürünün ilk çıktığı yıllarda, özellikle Avrupa ve Orta Doğu pazarlarında büyük ilgi gördü. Zamanla dünya genelinde milyonlarca çocuğun kalbinde yer eden Kinder Joy, Ferrero’nun global başarısının sembollerinden biri haline geldi.\n\nKinder Joy’un piyasaya çıkış yılı olan 2001, Ferrero’nun yenilikçi ürün stratejisinin bir parçasıydı. O dönemde, çocukların hem tatlı hem de oyunla ilgilenmesini sağlayan bu ürün, rakiplerinden sıyrılmayı başardı. Bugün bile, Kinder Joy’un orijinal formülü ve tasarımı büyük ölçüde korunuyor.",
+      "fun_fact": "Kinder Joy’un oyuncak kısmında kullanılan figürler, genellikle koleksiyonculuk amacıyla da tercih ediliyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15975817",
+        "https://tr.wikipedia.org/wiki/Kinder_Joy",
+        "https://en.wikipedia.org/wiki/Kinder_Joy"
+      ],
+      "wikidata_qid": "Q15975817"
+    },
+    {
+      "id": "Q16242180",
+      "date": "2028-08-07",
+      "category": "kurum-marka",
+      "widget_title": "Galaxy çikolatası ne zaman piyasaya çıktı?",
+      "hook": "Dünyanın en sevilen çikolatalarından biri olan Galaxy, aslında bir İngiliz markası — ama ilk çıktığı yıl hakkında ilginç bir sır saklı!",
+      "answer_year": 1960,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Galaxy çikolatasının hikayesi, 1960 yılında İngiltere’nin Manchester kentinde başladı. O dönemde Mars Incorporated tarafından piyasaya sürülen bu lezzetli marka, kaliteli sütlü çikolatasıyla kısa sürede tüketicilerin kalbini kazandı. Galaxy’nin en dikkat çekici özelliği, o dönemde nadir görülen yumuşak ve kremsi dokusuydu. Bu özellik, markayı diğerlerinden ayıran en önemli detaylardan biriydi.\n\nPeki, Galaxy’nin ilk çıktığı yıl olan 1960 hakkında ilginç bir detay: [DOĞRULA: Galaxy’nin ilk ürünlerinin ambalaj tasarımı ve pazarlama stratejisi hakkında daha fazla kaynak bulunmuyor.] Mars Incorporated, Galaxy’yi piyasaya sürerken, o dönemde çikolata sektöründe yeni bir trend olan \"sütlü ve kremsi\" lezzeti öne çıkarmayı hedefledi. Bu strateji, markanın hızla büyümesini sağladı.\n\nBugün Galaxy, dünya genelinde milyonlarca kişi tarafından sevilen bir marka haline geldi. Peki, sizce ilk çıktığı yıllarda Galaxy’nin tadını nasıl bulmuş olabilirlerdi?",
+      "fun_fact": "Galaxy’nin ilk ürünleri, o dönemde İngiltere’de oldukça yenilikçi sayılan yumuşak ve kremsi dokusuyla dikkat çekiyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16242180",
+        "https://tr.wikipedia.org/wiki/Galaxy_(marka)",
+        "https://en.wikipedia.org/wiki/Galaxy_(chocolate_bar)"
+      ],
+      "wikidata_qid": "Q16242180"
+    },
+    {
+      "id": "Q164836",
+      "date": "2028-08-08",
+      "category": "kurum-marka",
+      "widget_title": "FIBA Avrupa ne zaman kuruldu?",
+      "hook": "Basketboldan bahsediyorsak akla ilk gelen isimler Michael Jordan ya da LeBron James olabilir, ama FIBA Avrupa’nın hikayesi çok daha eskiye dayanıyor!",
+      "answer_year": 1957,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "FIBA Avrupa, uluslararası basketbolun Avrupa ayağını temsil eden ve basketbolseverlerin yakından tanıdığı bir kurum. Peki, bu önemli yapı ne zaman kuruldu dersiniz? FIBA Avrupa’nın temelleri **1957 yılında atıldı**. Kuruluşundan bu yana Avrupa’daki basketbolun gelişimine büyük katkı sağlayan FIBA Avrupa, ulusal federasyonlar arasında köprü görevi görüyor ve turnuvaların düzenlenmesine öncülük ediyor.\n\nFIBA’nın (Uluslararası Basketbol Federasyonu) 1932 yılında İsviçre’de kurulduğunu biliyoruz, ancak FIBA Avrupa’nın ayrı bir yapı olarak ortaya çıkışı daha sonra gerçekleşti. 1950’lerin ortalarında Avrupa’daki basketbolun hızla büyümesi ve uluslararası arenada daha fazla yer alma ihtiyacı, FIBA Avrupa’nın kurulmasını tetikledi. [DOĞRULA: FIBA Avrupa’nın kuruluşunda rol oynayan kişiler veya resmi belgelerdeki detaylar hakkında daha fazla bilgi bulunuyor mu?]\n\nFIBA Avrupa’nın kuruluşuyla birlikte, Avrupa Şampiyonası gibi önemli turnuvalar da daha organize bir şekilde düzenlenmeye başladı. Bu sayede Avrupa basketbolu, dünya sahnesinde daha güçlü bir konuma yükseldi.",
+      "fun_fact": "FIBA Avrupa’nın kurulmasından sadece iki yıl sonra, 1959’da ilk Avrupa Basketbol Şampiyonası düzenlendi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q164836",
+        "https://tr.wikipedia.org/wiki/FIBA_Avrupa",
+        "https://en.wikipedia.org/wiki/FIBA_Europe"
+      ],
+      "wikidata_qid": "Q164836"
+    },
+    {
+      "id": "Q168360",
+      "date": "2028-08-09",
+      "category": "kurum-marka",
+      "widget_title": "Afrika Futbol Konfederasyonu ne zaman kuruldu?",
+      "hook": "Dünyanın en heyecanlı maçlarını izlediğimiz Afrika Kupası’nın ardındaki örgütlenme ne zaman doğdu dersiniz?",
+      "answer_year": 1957,
+      "year_precision": "day",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Futbola dair büyük hikayelerin çoğu gibi, Afrika Futbol Konfederasyonu’nun (CAF) kuruluş hikayesi de sömürgecilik sonrası bir uyandırışın öyküsü. 1957 yılında, futbolun kıtada daha organize bir şekilde temsil edilmesi amacıyla Mısır, Etiyopya, Güney Afrika ve Sudan’ın öncülüğünde kuruldu. İlk yıllarında, üyeler arasında ulaşım ve iletişim zorlukları [DOĞRULA: bu zorlukların detayları] nedeniyle koordinasyon zor olsa da, CAF’in temelleri, Afrika’nın futbol sahalarında kendi sesini duyurma arzusuyla atıldı.\n\nKuruluşundan kısa bir süre sonra, 1957 yılında ilk Afrika Uluslar Kupası düzenlendi. Bu turnuva, kıtadaki futbolun gelişimine büyük katkı sağladı ve CAF’in uluslararası arenada tanınmasına yardımcı oldu. Zamanla, üyeleri artan konfederasyon, futbolun yanı sıra sosyal ve kültürel alanlarda da etkili bir aktör haline geldi.\n\nBugün CAF, 54 üye ülkeye ev sahipliği yapıyor ve Afrika futbolunun küresel arenada daha fazla temsil edilmesi için çalışmalarını sürdürüyor.",
+      "fun_fact": "Afrika Uluslar Kupası’nın ilk şampiyonu Mısır oldu ve bu başarı, kıtadaki futbolun potansiyelini dünyaya gösterdi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q168360",
+        "https://tr.wikipedia.org/wiki/Afrika_Futbol_Konfederasyonu",
+        "https://en.wikipedia.org/wiki/Confederation_of_African_Football"
+      ],
+      "wikidata_qid": "Q168360"
+    },
+    {
+      "id": "Q170703",
+      "date": "2028-08-10",
+      "category": "kurum-marka",
+      "widget_title": "Boca Juniors ne zaman kuruldu?",
+      "hook": "Arjantin’in en çok sevilen takımlarından biri olan Boca Juniors’un hikayesi, liman işçilerinin top koşturmasıyla başladı desem inanır mısın?",
+      "answer_year": 1905,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Boca Juniors, 1905 yılında Arjantin’in başkenti Buenos Aires’in bohem semti La Boca’da kuruldu. Hikaye, yerel liman işçilerinin ve göçmenlerin bir araya gelmesiyle başladı. Takımın kuruluşunda İtalyan göçmenlerin büyük etkisi vardı—hatta takımın mavi ve sarı renkleri, göçmenlerin memleketlerinden esinlenerek seçildiği söylenir. [DOĞRULA: Bu renklerin tam olarak hangi ülke veya şehirlerin renklerinden ilham aldığı doğrulanmalı.] İlk yıllarında Boca Juniors, yerel liglerde mücadele ederken, 1913 yılında resmen Arjantin Futbol Federasyonu’na katıldı ve profesyonel liglerde yer almaya başladı.\n\nTakımın efsanevi Maradona’nın da formasını giydiği unutulmaz bir geçmişi var. La Bombonera olarak bilinen ikonik stadyumu, takıma ayrı bir ruh katıyor. Boca Juniors, sadece Arjantin’in değil, dünya futbolunun da en tanınmış kulüplerinden biri haline geldi.",
+      "fun_fact": "Boca Juniors’un kuruluşunda yer alan ilk oyuncuların çoğu, liman işçisi olarak çalışırken boş zamanlarında futbol oynardı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q170703",
+        "https://tr.wikipedia.org/wiki/CA_Boca_Juniors",
+        "https://en.wikipedia.org/wiki/Boca_Juniors"
+      ],
+      "wikidata_qid": "Q170703"
+    },
+    {
+      "id": "Q17479",
+      "date": "2028-08-11",
+      "category": "kurum-marka",
+      "widget_title": "Flamengo futbol kulübü ne zaman kuruldu?",
+      "hook": "Brezilya’nın en popüler futbol kulübü Flamengo’nun hikayesi, sadece şampiyonluklarla değil, aynı zamanda bir tesadüfle başlıyor.",
+      "answer_year": 1895,
+      "year_precision": "day",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Flamengo’nun kuruluş hikayesi, Brezilya’nın Rio de Janeiro kentinde 1895 yılında, kürek sporu seven bir grup genç tarafından yazıldı. Resmi kayıtlara göre kulüp, **17 Kasım 1895 tarihinde** [DOħRULA: bu tarih sadece yıl olarak mı geçiyor yoksa gün-ay olarak mı?] kuruldu. İlginç olan, Flamengo’nun başlangıçta sadece bir kürek kulübü olmasıydı. Futbol takımının kurulması ise yıllar sonra, 1911 yılında gerçekleşti. O dönemde, Fluminense takımından kovulan bazı oyuncular Flamengo’ya katıldı ve böylece futbol şubesi resmen doğmuş oldu.\n\nKulübün adı, *Clube de Regatas do Flamengo* (Flamengo Kürek Kulübü) olarak geçiyor. Flamengo kelimesi, Portekizcede ‘Flaman’ anlamına geliyor ve bu isim, Brezilya’ya yerleşen Flaman göçmenlerine atıfta bulunuyor. Renkleri olan kırmızı ve siyah ise, o dönemde popüler olan kürek takımının renklerinden esinlenilmiş.\n\nBugün Flamengo, Brezilya’nın en başarılı ve en çok taraftarı olan futbol kulüplerinden biri. Şampiyonluklarının yanı sıra, sosyal projeleriyle de dikkat çekiyor. Peki, sence Flamengo’nun futbol takımı ne zaman şampiyon oldu ilk kez?",
+      "fun_fact": "Flamengo’nun maskotu, bir papağan olan *Urubu* (akbaba), aslında 1960’larda hayranlar tarafından alaycı bir şekilde takılan bir lakaptan doğmuş!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17479",
+        "https://tr.wikipedia.org/wiki/CR_Flamengo",
+        "https://en.wikipedia.org/wiki/CR_Flamengo"
+      ],
+      "wikidata_qid": "Q17479"
+    },
+    {
+      "id": "Q18208332",
+      "date": "2028-08-12",
+      "category": "kurum-marka",
+      "widget_title": "Johnson’s Baby ürünleri ne zaman piyasaya çıktı?",
+      "hook": "Bebeğinizin pudrasından şampuanına kadar her şeyi güvenle kullanıyoruz—peki bu güvenin başlangıcı ne zaman başladı dersiniz?",
+      "answer_year": 1893,
+      "year_precision": "year",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Johnson’s Baby’nin hikayesi, aslında bir doktorun annelerin endişelerine kulak vermesiyle başlıyor. 1893 yılında ABD’nin New Jersey eyaletinde, Johnson & Johnson firması tarafından geliştirilen bu ürün serisi, bebek bakımında hijyen ve hassasiyeti ön planda tutan ilk ticari girişimlerden biriydi. [DOĞRULA: Bu ürünlerin ilk olarak hangi formda (toz, yağ vb.) piyasaya sürüldüğü] O dönemde bebeklerin cildini korumak için talk pudrası gibi basit ürünler yaygınken, Johnson’s Baby’nin sunduğu formüller, daha nazik ve kontrollü içeriklere sahipti.\n\nFirmanın kurucuları olan Johnson kardeşler, aslen cerrahi malzemeler üretiyordu. Ancak annelerin bebeklerinin cildine sürdükleri ürünlerin güvenilir olmaması, onları bu alana yönlendirdi. Johnson’s Baby’nin ilk ürünleri arasında bebek pudrası ve losyon yer alıyordu. Bu ürünler, zamanla sadece ABD’de değil, dünya genelinde annelerin güvenilir birer seçeneği haline geldi. Bugün bile, Johnson’s Baby markası, bebek bakımında kalite ve güvenin sembollerinden biri olarak kabul ediliyor.\n\nTabii ki, 1893 yılından bu yana ürün formülleri ve ambalajları birçok kez yenilendi. Ancak markanın temel felsefesi—bebeklerin hassas cildine saygı—değişmedi.",
+      "fun_fact": "Johnson’s Baby pudrasının karakteristik kokusu, 1904 yılında eklenen ve bugün hala kullanılan bir formülün parçasıdır.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18208332",
+        "https://tr.wikipedia.org/wiki/Johnson%27s_Baby",
+        "https://en.wikipedia.org/wiki/Johnson%27s_Baby"
+      ],
+      "wikidata_qid": "Q18208332"
+    },
+    {
+      "id": "Q1846049",
+      "date": "2028-08-13",
+      "category": "kurum-marka",
+      "widget_title": "Tropicana meyve suyu ne zaman ortaya çıktı?",
+      "hook": "Dünyanın en tanınan meyve suyu markalarından biri olan Tropicana’ın hikayesi, bir kamyonetin arkasında başlamış olabilir mi?",
+      "answer_year": 1947,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Tropicana’nın temelleri, 1940’ların sonunda ABD’nin Florida eyaletinde atıldı. 1947 yılında [DOĞRULA: kurucuların isimleri ve ilk üretim tesisinin yeri] Anthony Rossi tarafından kurulan şirket, başlangıçta yerel pazarlarda satılan taze portakal suyunu hedefliyordu. İlginç bir detay: Rossi’nin meyve suyu işine adım atması, aslında bir kamyonetin arkasında portakal satmasıyla başladı. Zamanla talebin artmasıyla birlikte, 1954 yılında Tropicana adı altında ilk kez paketlenmiş meyve suyunu piyasaya sürdü.\n\nMarkanın hızla büyümesinde, Florida’nın portakal yetiştiriciliğine uygun iklimi ve ABD’de işlenmiş meyve suyuna olan talebin artması büyük rol oynadı. 1960’larda şirket, meyve suyunu konsantre hale getirme teknolojisini geliştirerek dağıtım ağını genişletti. Bugün Tropicana, dünya genelinde milyonlarca insanın kahvaltısına eşlik eden bir marka haline geldi — hepsi bir kamyonetin arkasından başlayan bir girişimin sonucu olarak.\n\nTropicana’nın hikayesi, inovasyonun ve yerel kaynakların nasıl küresel bir marka yaratabileceğinin güzel bir örneği.",
+      "fun_fact": "Tropicana’nın ünlü logo tasarımındaki turuncu ve beyaz renkler, portakalın kabuğu ve içindeki meyveyi temsil ediyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1846049",
+        "https://tr.wikipedia.org/wiki/Tropicana",
+        "https://en.wikipedia.org/wiki/Tropicana_Brands_Group"
+      ],
+      "wikidata_qid": "Q1846049"
+    },
+    {
+      "id": "Q205685",
+      "date": "2028-08-14",
+      "category": "kurum-marka",
+      "widget_title": "SK Brann ne zaman kuruldu?",
+      "hook": "Norveç’in en eski futbol kulüplerinden biri olan SK Brann’ın hikayesi, bir grup gençle başladı — tahmin edin bakalım hangi yılda?",
+      "answer_year": 1908,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "1908 yılında, Bergen şehrinde birkaç genç futbolsever bir araya geldi ve SK Brann’ı kurdu. [DOĞRULA: Kuruluşun tam tarihi ve ilk üyeleri hakkında detaylı bilgi bulunuyor mu?] O yıllarda Norveç’te futbol henüz emekleme dönemindeydi ve SK Brann, ülkenin en önemli kulüplerinden biri haline gelerek bu sürece damgasını vurdu.\n\nKulüp, yerel liglerdeki başarısıyla kısa sürede dikkat çekti ve 1910’larda ulusal arenada boy göstermeye başladı. SK Brann, sadece bir futbol kulübü olmanın ötesinde, Bergen’in kültürel ve sosyal hayatında da önemli bir yer edindi. Stadyumunun adı olan *Brann Stadion*, kulübün simgelerinden biri haline geldi ve yıllar içinde birçok unutulmaz maçlara ev sahipliği yaptı.\n\nBugün SK Brann, Norveç futbolunun en tanınmış kulüplerinden biri olarak varlığını sürdürüyor. Peki, sizce bu uzun soluklu hikaye hangi yılda başladı?",
+      "fun_fact": "SK Brann’ın kuruluşundan sadece 2 yıl sonra, 1910’da ilk resmi maçını oynadığı biliniyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q205685",
+        "https://tr.wikipedia.org/wiki/SK_Brann",
+        "https://en.wikipedia.org/wiki/SK_Brann"
+      ],
+      "wikidata_qid": "Q205685"
+    },
+    {
+      "id": "Q212193",
+      "date": "2028-08-15",
+      "category": "kurum-marka",
+      "widget_title": "Nutella ne zaman icat edildi?",
+      "hook": "Dünyanın en çok sevilen fındık-kakao karışımının ardındaki tesadüfü hiç merak ettiniz mi?",
+      "answer_year": 1964,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Nutella’nın hikayesi, II. Dünya Savaşı sonrası İtalya’sında başladı. O dönemde kakao kıtlığı nedeniyle birçok İtalyan, kahvaltılarında geleneksel çikolatayı fındık ezmesiyle karıştırarak tüketiyordu. 1946’da Pietro Ferrero adlı bir pastacı, bu karışımı daha kolay yayılabilir ve lezzetli bir macun haline getirerek **Giandujot** adını verdiği bir ürün üretti. Zamanla tarif gelişti ve 1951’de **SuperCrema** adıyla piyasaya sürüldü.\n\nAncak asıl devrim, 1964 yılında gerçekleşti. Ferrero firması, SuperCrema’nın formülünü yeniden gözden geçirerek onu daha pürüzsüz ve lezzetli hale getirdi. Bu yeni versiyon, **Nutella** adıyla anılmaya başladı. Adının kökeni, İngilizce *nut* (fındık) ve *ella* (İtalyanca’da sevimli bir ek) kelimelerinin birleşiminden geliyor. [DOĞRULA: Nutella’nın ilk piyasaya çıkışında kullanılan orijinal tarifin detayları hakkında daha fazla kaynak bulunmalı.]\n\nBugün Nutella, 100’den fazla ülkede milyonlarca insanın kahvaltısının vazgeçilmezi. Ferrero’nun gizli tuttuğu tarifine göre, üretim hala İtalya’nın Alba şehrindeki fabrikalarda gerçekleştiriliyor.",
+      "fun_fact": "Nutella’nın ilk versiyonu olan Giandujot, II. Dünya Savaşı sırasında çikolata kıtlığı nedeniyle doğmuş bir \"çikolata ikamesi\"ydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q212193",
+        "https://tr.wikipedia.org/wiki/Nutella",
+        "https://en.wikipedia.org/wiki/Nutella"
+      ],
+      "wikidata_qid": "Q212193"
+    },
+    {
+      "id": "Q219235",
+      "date": "2028-08-16",
+      "category": "kurum-marka",
+      "widget_title": "Servette FC ne zaman kuruldu?",
+      "hook": "İsviçre’nin en köklü futbol kulüplerinden biri olan Servette FC’nin hikayesi, bir tesadüfle başlıyor!",
+      "answer_year": 1890,
+      "year_precision": "day",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Servette FC’nin temelleri, 1890 yılında Cenevre’de atıldı. [DOĞRULA: Kuruluşun tam olarak hangi ayda gerçekleştiği] Bu tarih, İsviçre futbolunun erken dönemlerine denk geliyor ve kulüp, ülkenin en eski futbol kulüplerinden biri olarak kabul ediliyor. İsminin kaynağına dair farklı teoriler var: bazılarına göre Cenevre’nin Fransızca adı olan *Genève* kelimesinin telaffuzundan esinlenilmiş, diğerleri ise İngilizce *servette* (küçük servis) kelimesinden türediğini öne sürüyor. [DOĞRULA: Bu teorilerin doğruluğu] Kuruluşunda futbolun yanı sıra kriket ve ragbi gibi sporlar da yer alıyordu, ancak zamanla futbol kulübün odak noktası haline geldi.\n\nServette FC, İsviçre futbolunun gelişiminde önemli bir rol oynadı. 1907 yılında İsviçre Şampiyonası’nın ilk sezonunda mücadele eden kulüp, tarih boyunca birçok başarıya imza attı. Stadyumunun adı olan *Charmilles*, kulübün yerel kimliğini yansıtıyor ve Cenevre halkı için bir gurur kaynağı olmayı sürdürüyor.\n\nKulübün hikayesi, sadece başarılarla değil, aynı zamanda zorluklarla da dolu. Finansal sıkıntılar ve düşüş dönemleri yaşasa da, Servette FC her seferinde toparlanmayı başardı. Bu dayanıklılık, onu İsviçre futbolunun simge kulüplerinden biri haline getirdi.",
+      "fun_fact": "Servette FC’nin kuruluşunda yer alan ilk sporlardan biri olan kriket, bugün İsviçre’de neredeyse hiç oynanmayan bir spor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q219235",
+        "https://tr.wikipedia.org/wiki/Servette_FC",
+        "https://en.wikipedia.org/wiki/Servette_FC"
+      ],
+      "wikidata_qid": "Q219235"
+    },
+    {
+      "id": "Q219555",
+      "date": "2028-08-17",
+      "category": "kurum-marka",
+      "widget_title": "New York Halk Kütüphanesi ne zaman kuruldu?",
+      "hook": "Dünyanın en ünlü kütüphanelerinden biri olan NYPL’nin hikayesi, aslında birbirine rakip iki kütüphanenin birleşmesiyle başladı.",
+      "answer_year": 1895,
+      "year_precision": "day",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "New York Halk Kütüphanesi (NYPL), 1895 yılında resmen kapılarını açtı — ancak hikayesi bundan yıllar öncesine dayanıyor. Aslında NYPL, **Astor Kütüphanesi** (1849’da kurulan özel bir kütüphane) ve **Lenox Kütüphanesi** (1877’de açılan, nadir eserlere ev sahipliği yapan bir diğer kurum) adlı iki rakip kütüphanenin birleşmesiyle doğdu. Bu iki kütüphane, 1895 yılında birleşme kararı aldı ve ardından **New York Halk Kütüphanesi** adı altında tek bir çatı altında toplandı. [DOĞRULA: Astor ve Lenox Kütüphanelerinin kuruluş tarihleri ve birleşme süreci hakkında daha detaylı bilgi bulunabilir mi?]\n\nNYPL’nin kuruluşunda en ilginç detaylardan biri, **Andrew Carnegie** adlı sanayici ve hayırseverin rolü. Carnegie, kütüphanenin büyümesi için milyonlarca dolar bağışladı ve bu sayede NYPL, ABD’nin en önemli halk kütüphanelerinden biri haline geldi. Bugün NYPL, sadece kitapların değil, aynı zamanda araştırma merkezleri, dijital arşivler ve kültürel etkinliklerin de merkezi konumunda.\n\nPeki, NYPL’nin ilk binası neredeydi? Aslında, ilk olarak **Fifth Avenue ve 42nd Street** adresindeki görkemli binada hizmet vermeye başladı. Bu bina, mimar **Carrère and Hastings** tarafından tasarlandı ve 1911 yılında tamamlandı. NYPL’nin bugünkü hali, 1895’teki bu küçük adımın ardından yıllar içinde nasıl şekillendiğini gösteriyor.",
+      "fun_fact": "NYPL’nin koleksiyonunda, ABD’nin ilk basılı anayasası olan *Federalist Papers*’ın bir kopyası da bulunuyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q219555",
+        "https://tr.wikipedia.org/wiki/New_York_Halk_K%C3%BCt%C3%BCphanesi",
+        "https://en.wikipedia.org/wiki/New_York_Public_Library"
+      ],
+      "wikidata_qid": "Q219555"
+    },
+    {
+      "id": "Q220621",
+      "date": "2028-08-18",
+      "category": "kurum-marka",
+      "widget_title": "Argentinos Juniors hangi yılda kuruldu?",
+      "hook": "1904'te Arjantin'de kurulan bu takımın hikayesi, adını aldığı efsanevi futbolcuya nasıl borçlu olabilir?",
+      "answer_year": 1904,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Argentinos Juniors’ın temelleri, 1904 yılında Buenos Aires’in batısında, **La Paternal** adlı semtte atıldı. Kuruluş hikayesi, o dönemde Arjantin’e göç eden Avrupalı ailelerin çocuklarının futbola olan tutkusuyla şekillendi. Kulübün adı, **\"Argentinos\"** (Arjantinliler) kelimesinden geliyor — yani kurucuları, takımın sadece yerel değil, ulusal bir kimliğe sahip olmasını hedeflemişti. [DOĞRULA: Kurucuların isimleri kayıtlarda net olarak yer almıyor, ancak çoğunlukla İtalyan ve İspanyol göçmenlerin çocukları olduğu biliniyor.] \n\nKulüp, ilk yıllarında yerel liglerde mücadele ederken, 1930’larda profesyonel lige geçiş yaptı. 1980’lerde ise adını tüm dünyaya duyuran bir efsaneye imza attı: **Diego Armando Maradona**. Maradona, 1976 yılında henüz 15 yaşındayken Argentinos Juniors formasıyla ilk maçına çıktı ve burada yetişti. Takımın genç yeteneklere verdiği önem, bugün hâlâ kulübün en büyük miraslarından biri olarak görülüyor. \n\nBugün, **Estadio Diego Armando Maradona** adıyla anılan stadyumda ev sahibi maçlarını oynayan Argentinos Juniors, Arjantin futbolunun önemli bir parçası olmayı sürdürüyor.",
+      "fun_fact": "Maradona, Argentinos Juniors’ta geçirdiği 5 yıl boyunca tam 116 gol attı — ve bunların hiçbiri penaltıdan değildi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q220621",
+        "https://tr.wikipedia.org/wiki/AA_Argentinos_Juniors",
+        "https://en.wikipedia.org/wiki/Argentinos_Juniors"
+      ],
+      "wikidata_qid": "Q220621"
+    },
+    {
+      "id": "Q223041",
+      "date": "2028-08-19",
+      "category": "kurum-marka",
+      "widget_title": "Uluslararası Tenis Federasyonu ne zaman kuruldu?",
+      "hook": "Tenis kortlarında adaletin bekçisi olan bu kurumun hikayesi, yeşil filizin ötesine geçiyor!",
+      "answer_year": 1912,
+      "year_precision": "day",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Uluslararası Tenis Federasyonu (ITF), tenis dünyasının en köklü kurumlarından biri olarak 1912 yılında resmen kuruldu. O yıllarda tenis, hızla popülerlik kazanan bir spor olsa da, uluslararası düzeyde standartların belirlenmesi ve müsabakaların düzenlenmesi için ortak bir çatıya ihtiyaç duyuluyordu. İşte ITF, bu ihtiyacı karşılamak üzere kuruldu ve o günden bu yana tenis kurallarının korunması, Grand Slam turnuvalarının yanı sıra Davis Kupası ve Fed Kupası gibi prestijli organizasyonların yönetilmesinde kilit bir rol oynadı.\n\nKuruluşundan itibaren ITF, tenis sporunun küresel ölçekte büyümesine katkı sağladı. Ancak [DOĞRULA: ITF'nin ilk adı ve kuruluşundaki diğer detaylar] tam olarak hangi ülkelerin öncülük ettiği veya ilk yıllarında nasıl bir yapıya sahip olduğu konusunda net bilgiler bulunmuyor. Yine de, tenis tarihine yön veren kararların alındığı bu kurumun, sporun gelişimindeki etkisi tartışılmaz.\n\nBugün ITF, 210'dan fazla ulusal tenis federasyonunu bir araya getiriyor ve tenis dünyasının geleceğini şekillendiren projeler yürütüyor. Peki, sence tenis kortlarındaki bu gizli güç ne zaman doğdu?",
+      "fun_fact": "ITF, tenis topunun standart ağırlığını ve boyutunu belirleyen kurumdur — yani her maçta aynı topun kullanılması onun sayesinde mümkün!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q223041",
+        "https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_Tenis_Federasyonu",
+        "https://en.wikipedia.org/wiki/World_Tennis"
+      ],
+      "wikidata_qid": "Q223041"
+    },
+    {
+      "id": "Q228389",
+      "date": "2028-08-20",
+      "category": "kurum-marka",
+      "widget_title": "Voice of America ne zaman yayına başladı?",
+      "hook": "Soğuk Savaş'ın gölgesinde doğan ve dünyanın en uzak köşelerine kadar ulaşan bir radyo dalgası... Peki, bu güçlü ses ilk kez ne zaman duyuldu?",
+      "answer_year": 1942,
+      "year_precision": "day",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "İkinci Dünya Savaşı'nın ortasında, 1942 yılında ABD hükümeti, dünya genelinde doğru ve güvenilir bilgiyi yaymak amacıyla **Voice of America (VOA)** adıyla bilinen uluslararası yayıncılığı resmen başlattı. İlk yayınlar, savaşın en sıcak günlerinde, ABD’nin dış dünyaya sesini duyurma ihtiyacından doğdu. [DOĞRULA: VOA’nın ilk programlarının içeriği ve yayınlanan diller hakkında detaylı bilgiye ihtiyaç var.] \n\nVOA, başlangıçta sadece Avrupa’ya yönelik İngilizce ve Almanca yayınlarla başladı. Zamanla, Sovyetler Birliği’nin propaganda yayınına karşı koymak için Rusça, Mandarin ve diğer dillerde de yayınlara başladı. Bu, ABD’nin Soğuk Savaş dönemindeki en etkili enstrümanlarından biri haline geldi. \n\nGünümüzde VOA, 40’tan fazla dilde yayın yaparak dünyanın en geniş kapsamlı uluslararası yayıncılarından biri olmayı sürdürüyor. Peki, sizce bu devasa yayın ağı nasıl bu kadar genişledi?",
+      "fun_fact": "VOA’nın ilk yayınlarından biri, 1942 yılında Nazi Almanyası’na yönelikti ve ABD’nin savaş çabalarını desteklemek amacıyla hazırlanmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q228389",
+        "https://tr.wikipedia.org/wiki/Amerika%27n%C4%B1n_Sesi",
+        "https://en.wikipedia.org/wiki/Voice_of_America"
+      ],
+      "wikidata_qid": "Q228389"
+    },
+    {
+      "id": "Q2297653",
+      "date": "2028-08-21",
+      "category": "kurum-marka",
+      "widget_title": "Kinder Bueno ne zaman çıktı?",
+      "hook": "Dünyanın en sevilen çikolata barlarından biri olan Kinder Bueno'nun ilk kez raftaki yerini aldığı yıl hangisiydi?",
+      "answer_year": 1990,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Kinder Bueno, 1990 yılında piyasaya sürüldü. Bu lezzetli çikolata barı, Kinder markasının en ikonik ürünlerinden biri haline geldi. Kinder Bueno, içindeki kremanın hafifliği ve dışındaki çıtır çikolata katmanıyla hemen tanınan bir lezzet sunuyor. Peki, bu lezzetin arkasındaki hikaye nasıl başladı?\n\nKinder Bueno, İtalyan çikolata devi Ferrero tarafından geliştirildi. Ferrero, Kinder markası altında birçok yenilikçi ürün çıkarmış olsa da, Kinder Bueno'nun ortaya çıkışı özellikle dikkat çekici. Ürünün tasarımı ve lezzeti, Ferrero'nun uzun yıllara dayanan çikolata üretim tecrübesinin bir ürünü olarak görülüyor. Kinder Bueno'nun ilk kez hangi ülkede satışa sunulduğu konusunda net bir bilgi bulunmasa da, kısa sürede dünya genelinde büyük bir hayran kitlesi edindi.\n\n[DOĞRULA: Kinder Bueno'nun ilk kez hangi ülkede piyasaya sürüldüğü ve ilk yıllarında hangi pazarlara odaklandığı hakkında daha detaylı bilgiye ihtiyaç var.]\n\nBugün Kinder Bueno, farklı boyutlarda ve hatta çeşitli lezzet varyasyonlarıyla (örneğin fındıklı, bademli) tüketicilerin beğenisine sunuluyor. Ferrero, bu ürünü sürekli olarak geliştirmeye devam ediyor ve Kinder Bueno, dünya genelinde milyonlarca insanın favori atıştırmalıklarından biri olmayı sürdürüyor.",
+      "fun_fact": "Kinder Bueno'nun içindeki kremanın adı 'Kinder Maxi', yani Kinder'in en büyük lezzetlerinden biri olarak anılıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2297653",
+        "https://tr.wikipedia.org/wiki/Kinder_Bueno",
+        "https://en.wikipedia.org/wiki/Kinder_Bueno"
+      ],
+      "wikidata_qid": "Q2297653"
+    },
+    {
+      "id": "Q2372729",
+      "date": "2028-08-22",
+      "category": "kurum-marka",
+      "widget_title": "Mercedes markası ne zaman doğdu?",
+      "hook": "Bugün neredeyse her sokakta gördüğümüz Mercedes’in doğuş hikayesi, aslında bir aşk mektubuyla başlıyor.",
+      "answer_year": 1902,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Mercedes markasının resmi olarak doğumu 1902 yılına denk geliyor. Peki bu tarih neden bu kadar önemli? Her şey, Avusturyalı iş adamı Emil Jellinek’in kızına olan hayranlığından ilham alan bir otomobil hayaliyle başlıyor. Jellinek, o dönemlerde otomobil yarışlarına büyük ilgi duyuyordu ve kızının adı olan *Mercedes*i, yarış arabalarına isim olarak kullanmaya başladı. Hatta 1901 yılında, Fransız otomobil üreticisi Panhard et Levassor ile yaptığı bir anlaşmada, arabalarına *Mercedes* adını koyma şartını kabul ettirdi. Bu isim o kadar popüler oldu ki, Jellinek’in de desteklediği Daimler Motoren Gesellschaft firması, 1902 yılında ticari marka olarak *Mercedes*’i resmen tescil ettirdi. [DOĞRULA: Jellinek’in kızının adı olan Mercedes’in soyadı mı yoksa doğrudan adı mı olduğu konusunda kaynaklarda net bir bilgi bulunmamaktadır.] Markanın simgesi olan üç kollu yıldız ise, Gottlieb Daimler’in 1872 yılında karısına yazdığı bir mektupta, şirketin dünya genelinde ulaşımın her alanında var olma hedefini simgelemek için çizdiği bir eskizden ilham alıyor. Yani Mercedes’in hikayesi, aslında bir babanın kızına olan sevgisinin ve bir mühendisin vizyonunun birleşimiyle ortaya çıktı.",
+      "fun_fact": "Mercedes’in ünlü üç kollu yıldız logosu, aslında birbirine bağlı üç boyutu temsil ediyor: kara, deniz ve hava ulaşımı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2372729",
+        "https://tr.wikipedia.org/wiki/Mercedes_(marka)",
+        "https://en.wikipedia.org/wiki/Mercedes_(car_brand)"
+      ],
+      "wikidata_qid": "Q2372729"
+    },
+    {
+      "id": "Q246",
+      "date": "2028-08-23",
+      "category": "kurum-marka",
+      "widget_title": "Volkswagen ne zaman kuruldu?",
+      "hook": "Dünyanın en çok tanınan otomobil markalarından biri olan Volkswagen’in hikayesi, aslında bir diktatörün hayalinden doğdu.",
+      "answer_year": 1937,
+      "year_precision": "day",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Volkswagen’in temelleri, 1937 yılında Almanya’da atıldı. Resmi kayıtlara göre marka, bu yılda kuruldu — ancak hikayesi çok daha öncesine, 1930’ların başındaki ekonomik ve siyasi koşullara dayanıyor. [DOĞRULA: Volkswagen’in kuruluşunda doğrudan rol alan isimler ve resmi belgelerdeki ilk geçiş tarihi] \n\nMarkanın doğumunda en büyük itici güç, o dönemdeki Alman hükümetiydi. Adolf Hitler’in emriyle, sıradan insanların bile sahip olabileceği, ekonomik bir otomobil üretmek amacıyla \"Halk Arabası\" (Almanca: *Volks-Wagen*) projesi başlatıldı. Projenin teknik direktörlüğünü, daha sonra Porsche adıyla tanınacak olan Ferdinand Porsche üstlendi. İlk prototipler 1930’ların ortalarında ortaya çıktı, ancak seri üretime geçilmesi İkinci Dünya Savaşı’nın başlamasıyla ertelendi. Savaş sırasında, Volkswagen fabrikaları askeri araçlar üretmek için kullanıldı. \n\nSavaşın ardından, İngiliz işgal kuvvetleri tarafından yeniden değerlendirilen fabrika, 1945 yılında sivil otomobil üretimine geri döndü. Bu dönemde, marka adını resmen Volkswagen olarak değiştirdi ve dünya pazarına açılmaya başladı. 1949’dan itibaren ABD dahil birçok ülkede satışa sunuldu ve kısa sürede küresel bir başarıya imza attı.",
+      "fun_fact": "Volkswagen’in en ünlü modeli olan Beetle (Küf), 1938 yılında tasarlandı ve toplamda 21 milyonun üzerinde satılarak tarihin en çok satılan otomobillerinden biri oldu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q246",
+        "https://tr.wikipedia.org/wiki/Volkswagen",
+        "https://en.wikipedia.org/wiki/Volkswagen"
+      ],
+      "wikidata_qid": "Q246"
+    },
+    {
+      "id": "Q253414",
+      "date": "2028-08-24",
+      "category": "kurum-marka",
+      "widget_title": "FIFA ne zaman kuruldu?",
+      "hook": "Uluslararası futbolun kalbi 1904'te attı — peki bu dev organizasyonun doğuş hikayesi nasıl başladı?",
+      "answer_year": 1904,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "FIFA’nın kuruluş yılı olan **1904**, aslında futbolun dünya sahnesine çıktığı bir döneme denk geliyor. O yılın **21 Mayıs’ında** (gün hassasiyetiyle), Belçika, Danimarka, Fransa, Hollanda, İspanya, İsveç ve İsviçre’nin temsilcileri Paris’te bir araya geldi ve **Uluslararası Futbol Federasyonları Birliği** (kısaca FIFA) adıyla resmen kuruldu. Kuruluş amacı, uluslararası maçların düzenlenmesini standartlaştırmak ve futbolun küresel bir dil olmasını sağlamaktı.\n\nİlginç bir detay: FIFA’nın ilk başkanı **Robert Guérin** oldu, ancak organizasyonun temelleri aslında daha eskiye dayanıyordu. 19. yüzyılın sonlarında futbolun popülerleşmesiyle birlikte, farklı ülkelerdeki federasyonlar arasında maçların nasıl organize edileceği konusunda kafa karışıklığı yaşanıyordu. FIFA’nın kurulması, bu karmaşayı ortadan kaldırmak için atılmış büyük bir adım olarak görülüyor.\n\n[DOĞRULA: FIFA’nın ilk yıllarında kaç ülkeden üye olduğu ve ilk resmi uluslararası maçın hangi tarihte yapıldığı]\n\nBugün FIFA, dünya çapında 200’den fazla üye federasyona sahip bir dev haline geldi. Peki, sence ilk Dünya Kupası ne zaman düzenlendi?",
+      "fun_fact": "FIFA’nın ilk uluslararası turnuvası 1908 Londra Olimpiyatları’nda futbol dalında yapıldı — o zamanlar Dünya Kupası henüz yoktu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q253414",
+        "https://tr.wikipedia.org/wiki/FIFA",
+        "https://en.wikipedia.org/wiki/FIFA"
+      ],
+      "wikidata_qid": "Q253414"
+    },
+    {
+      "id": "Q2947936",
+      "date": "2028-08-25",
+      "category": "kurum-marka",
+      "widget_title": "Ruffles cipsi ne zaman piyasaya çıktı?",
+      "hook": "Dilimlenmiş patatesleriyle ünlü bu cips markası, aslında bir mutfak kazası sonucu doğmuş olabilir mi?",
+      "answer_year": 1948,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Ruffles cipsinin hikayesi, 1940’ların sonunda ABD’nin güneyinde başlıyor. 1948 yılında [DOĞRULA: hangi şirket tarafından?] tarafından piyasaya sürülen bu cips, adını karakteristik dalgalı şeklinden alıyor. İlginç olanı, bu şeklin aslında bir üretim hatası sonucu ortaya çıktığına dair yaygın bir inanış var. Rivayete göre, o dönemde kullanılan kesme makinesinde oluşan bir sorun, patates dilimlerinin dalgalı çıkmasına neden olmuş. Ancak bu hikaye ne kadar doğru? Gerçek şu ki, Ruffles’ın dalgalı tasarımı kısa sürede bir marka imzasına dönüştü ve tüketiciler tarafından çok sevildi.\n\nBaşlangıçta yerel bir ürün olan Ruffles, zamanla ulusal bir marka haline geldi ve Frito-Lay’in portföyüne katıldı. Bugün dünya genelinde tanınan bir cips markası olan Ruffles, lezzeti ve eşsiz dokusuyla öne çıkıyor. Peki, sizce bu ikonik şekil gerçekten bir tesadüf müydü, yoksa bilinçli bir tasarım mıydı?",
+      "fun_fact": "Ruffles’ın dalgalı şekli, patatesin daha fazla tuz ve baharat tutmasını sağlayarak lezzetini artırıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2947936",
+        "https://tr.wikipedia.org/wiki/Ruffles",
+        "https://en.wikipedia.org/wiki/Ruffles_(potato_chips)"
+      ],
+      "wikidata_qid": "Q2947936"
+    },
+    {
+      "id": "Q30113",
+      "date": "2028-08-26",
+      "category": "kurum-marka",
+      "widget_title": "Jeep ne zaman icat edildi?",
+      "hook": "Askerlerin bileğine sarılan dayanıklılık efsanesinin doğuşunu hiç merak ettiniz mi?",
+      "answer_year": 1941,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Jeep’in hikayesi, II. Dünya Savaşı’nın en sıkıntılı günlerine dayanıyor. 1940 yılında, ABD Ordusu, her türlü arazide yol alabilecek, hafif ve dayanıklı bir arazi aracı ihtiyacıyla yola çıktı. Bu ihtiyacı karşılamak için 135 üretici firmaya bir teklif gönderdiler. Sonunda, **Bantam, Willys-Overland ve Ford** gibi devlerin yanı sıra daha küçük firmaların da katılımıyla bir yarış başladı. [DOĞRULA: Üç firmadan hangisinin ilk prototipi sunduğu net olarak belgelenmiş mi?]\n\n1941 yılının ortalarında, Willys MB modeli orduyla sözleşme imzaladı ve **Jeep** adı resmen doğmuş oldu. Peki, adı nereden geldi? İşte burada birkaç teori devreye giriyor: Bazıları, **‘General Purpose’** (genel amaçlı) kısaltmasının telaffuzundan türediğini söylüyor. Diğerleri ise **Eugene the Jeep** adlı bir çizgi roman karakterinden esinlendiğini iddia ediyor. [DOĞRULA: Jeep adı konusunda resmi bir kaynakta doğrulanmış bir bilgi var mı?]\n\nSavaş bittiğindeyse, Jeep sadece bir asker değil, aynı zamanda barışın simgesi haline geldi. Sivil hayatta da büyük ilgi gören bu araç, zamanla **Willys-Overland’ın** markası olarak benimsendi ve günümüzdeki Jeep serisinin temeli atıldı. Bugünse, 80 yılı aşkın bir geçmişe sahip bu efsanevi araç, hem off-road tutkunlarının hem de otomobil tarihinin en ikonik parçalarından biri olarak yoluna devam ediyor.",
+      "fun_fact": "Jeep’in ilk modellerinden biri olan Willys MB, sadece 3 yıl içinde 600.000’in üzerinde üretilerek savaşın en çok üretilen arazi aracı unvanını kazandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30113",
+        "https://tr.wikipedia.org/wiki/Jeep",
+        "https://en.wikipedia.org/wiki/Jeep"
+      ],
+      "wikidata_qid": "Q30113"
+    },
+    {
+      "id": "Q40966",
+      "date": "2028-08-27",
+      "category": "kurum-marka",
+      "widget_title": "Opel ne zaman kuruldu?",
+      "hook": "Fransız-İtalyan otomotiv firması Opel, bir zamanlar bir hayal gibiydi. Ne zaman doğmuş ve kim tarafından kurulmuş?",
+      "answer_year": 1862,
+      "year_precision": "day",
+      "guess_range": [
+        1760,
+        1940
+      ],
+      "body": "Opel, 1862 yılında Fransa'da doğmuş, ancak gerçek kurucularının kim olduğu henüz tam olarak belirlenmemiş. [DOĞRULA: Opel'in doğduğu yıl ve kurucuları] Bu firmanın başlangıçta bir kahve mağazası olarak faaliyet gösterdiği söylenir. 1899 yılında, Adam Opel, bir otoped fabrikasına sahip olan bir iş adamı, bu mağazayı kendi adını taşıyan bir otomotiv markası haline getirmeye karar verdi. Bu döneme, Opel'in modern otomotiv tarihindeki ilk adımları denir. [DOĞRULA: Adam Opel'in Opel'i kurduğu yıl] Fransa'dan Almanya'ya taşınması ve 1929 yılında Opel Auto AG olarak yeniden isimlendirilmesi, Opel'in hala hayalindeki gibi büyümesini ve gelişimini gösterir.",
+      "fun_fact": "Adam Opel, Opel'in kurucusu olmasına rağmen, firmanın ilk otomobilini kendisi bile inşa etmedi! Bu, Opel'in hayal kırıklığına uğramasının en ilginç anılarından biri.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q40966",
+        "https://tr.wikipedia.org/wiki/Opel",
+        "https://en.wikipedia.org/wiki/Opel"
+      ],
+      "wikidata_qid": "Q40966"
+    },
+    {
+      "id": "Q503191",
+      "date": "2028-08-28",
+      "category": "kurum-marka",
+      "widget_title": "Nescafé ne zaman ortaya çıktı?",
+      "hook": "Günlük kahvenizle başlamanızı hatırlatan bu marka, ne zaman dünyaya geldi?",
+      "answer_year": 1938,
+      "year_precision": "day",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Nescafé, 1938 yılında Suisse Alpes Şirketi tarafından icat edilmiştir. İcatının arkasındaki hikaye, bir dizi sorunla dolu bir yolculuk oldu. 1901 yılında İsviçreli kimya mühendisi Gérard Deprez, kahve icat ederken karşılaştığı problemleri çözmeyi düşündü. Deprez, kahvenin taze ve lezzetli kalabilmesi için bir yöntem aradı. 1930'ların başında, bir kahve madencisi olan Alfred Martini ile ortaklaşa, bir hafif kahve karışımı geliştirdiler. Bu karışım, 1938 yılında Nescafé olarak piyasaya sürüldü. Nescafé, kahve taze kalmasını sağlayacak ve daha kolay bir şekilde tüketilebilecek bir ürün olacak hale getirdi. Bu icat, kahve tüketiminin tarihinin önemli bir dönüm noktasını oluşturdu.",
+      "fun_fact": "Nescafé, icat edildiği sene 1938'den beri dünya çapında popüler bir marka olma yolunda ilerlemiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q503191",
+        "https://tr.wikipedia.org/wiki/Nescaf%C3%A9",
+        "https://en.wikipedia.org/wiki/Nescaf%C3%A9"
+      ],
+      "wikidata_qid": "Q503191"
+    },
+    {
+      "id": "Q503592",
+      "date": "2028-08-29",
+      "category": "kurum-marka",
+      "widget_title": "Gillette ne zaman ortaya çıktı?",
+      "hook": "Bir günlük tahmin oyunu! Amerikan jilet sektörünün başlangıcını tespit edebilir misiniz?",
+      "answer_year": 1901,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Gillette, bir günlük tahmin oyunu kapsamında sizinle buluşuyor. Amerika Birleşik Devletleri'nde jilet sektörünün gelişimini takip edenler, 1901 yılında bu markanın ortaya çıkışıyla ilgilenmiş olabilirler. Ancak, bu tarihin tam olarak ne zaman olduğunu kesin olarak belirleyebilmek için daha fazla araştırma yapmamız gerekebilir. [DOĞRULA: 1901 yılından ne kadar eminiz?] Gillette, jilet sektöründe önemli bir marka olarak tanınmış ve bugüne kadar devam etmiş bir isimdir. Bunu, 1901 yılında bir patent almasıyla ilk göstermiştir. Bu patent, jiletin kullanımının kolaylaştırılmasına ve daha etkili olmasını sağlamıştır. [DOĞRULA: Patent numarası ve tarihi]",
+      "fun_fact": "Gillette, jilet sektörünün ilk eldeci markası olarak tanınırken, aslında jiletin icat edildiği 1880'lerden önce de kullanılıyordu, ancak Gillette'nin geliştirdiği jilet sistemi, kullanıcılara daha iyi deneyim sağladı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q503592",
+        "https://tr.wikipedia.org/wiki/Gillette",
+        "https://en.wikipedia.org/wiki/Gillette"
+      ],
+      "wikidata_qid": "Q503592"
+    },
+    {
+      "id": "Q528187",
+      "date": "2028-08-30",
+      "category": "kurum-marka",
+      "widget_title": "Pringles ne zaman ortaya çıktı?",
+      "hook": "Pringles, belki istediğiniz bir tatlıya sahipsiniz. Ancak bu tatlı, 1960'ların sonlarına doğru bir bilim adamının bir deneyi sonucunda doğdu. Tıpkı bir keşif gibi, Pringles'ın ortaya çıkışı ne kadar ilginç!",
+      "answer_year": 1968,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "1960'ların sonlarına doğru, Amerika Birleşik Devletleri'ndeki Alton, Illinois şehrinde yaşayan ve çalıştığı Mondelez International'un bir bakanı olan Fred Baur, bir deney sırasında bir keşif yaptı. Baur, patateslerin farklı bir şekle getirilmesi ve bu şekle göre daha kolay ve daha iyi bir şekilde işlenmesi için deneyler yaparken, bir acil durumda patateslerin yuvarlak bir şekle getirilmesi gerekti. Bu durumda, patatesler daha iyi bir şekilde kaplamak ve daha uzun süre saklanabilmesi için yuvarlak bir şekle getirildi. Baur, bu keşiften yola çıkarak patateslerin yuvarlak bir şekle getirilmesi ve bu şekle göre daha iyi bir şekilde işlenmesi için önerilen bir yöntem geliştirdi. Bu önerilen yöntemin Mondelez International tarafından dikkat çekildiğinde, Pringles markası 1968 yılında ortaya çıktı. [DOĞRULA: Pringles'ın 1968 yılında ortaya çıkışı konusunda]",
+      "fun_fact": "Pringles'in ismi, İngilizce 'pringle' kelimesinden gelir, bu kelime İngilizce'de 'kuyruk' anlamına gelir. Bu, Pringles'in yuvarlak şekli ve kuyruklu yapısıyla ilişkilendirilebilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q528187",
+        "https://tr.wikipedia.org/wiki/Pringles",
+        "https://en.wikipedia.org/wiki/Pringles"
+      ],
+      "wikidata_qid": "Q528187"
+    },
+    {
+      "id": "Q555900",
+      "date": "2028-08-31",
+      "category": "kurum-marka",
+      "widget_title": "Head&Shoulders ne zaman ortaya çıktı?",
+      "hook": "Şampuan markasının tarihi, her daim biraz merak uyandırıyor. Head&Shoulders'ın ilk kez hangi yılda dünyaya geldi?",
+      "answer_year": 1946,
+      "year_precision": "month",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Head&Shoulders, 1940'lı yılların sonlarında, belirli bir sorunla karşı karşıya olan bir doktor tarafından icat edildi. Doktor, bir hastasının saklanan saçlarının daha iyi temizlenmesi gerektiğini fark etti ve bu fikir üzerine bir shampoo geliştirdi. Bu shampoo, 1946 yılında piyasaya sürüldü ve orijinal olarak 'Head & Shoulders' adıyla satıldı. Bu isim, doktorun hastanın saklanan saçlarının ve kollarının (head ve shoulders) temizlenmesi gerektiğini vurgulamak için seçildi. Head&Shoulders, ilk başta Amerika'da popüler oldu ve bu markanın etkisiyle, şampuanlar ve saç bakım ürünleri için yeni bir kategori yaratmakla tanındı.",
+      "fun_fact": "Head&Shoulders, ilk keşifinden bu yana birçok değişiklik yaşamış ve zaman içinde birçok yeni özellik eklenmiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q555900",
+        "https://tr.wikipedia.org/wiki/Head%26Shoulders",
+        "https://en.wikipedia.org/wiki/Head_%26_Shoulders"
+      ],
+      "wikidata_qid": "Q555900"
+    }
+  ]
+}
