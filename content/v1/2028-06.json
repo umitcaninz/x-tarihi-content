@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "month": "2028-06",
+  "items": [
+    {
+      "id": "Q1329463",
+      "date": "2028-06-01",
+      "category": "kurum-marka",
+      "widget_title": "Quiksilver markası ne zaman kuruldu?",
+      "hook": "Sörfçülerin dalgalarla dansını simgeleyen bu marka, adını bile 'hızlı' ve 'gümüş' kelimelerinin birleşiminden alıyor olabilir mi?",
+      "answer_year": 1969,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Quiksilver, 1969 yılında Amerika Birleşik Devletleri'nde kurulan bir sörf ve açık hava giyim markasıdır. Temelleri, Kaliforniya'nın dinamik sörf kültürüne dayanan bu marka, adını dalgaların üzerinde hızla kayan sörfçülerin hareketinden esinlenerek almış olabilir. Quiksilver'ın kuruluş hikayesi, o dönemde sörfün popülerleşmeye başladığı ve bu spora özel ekipmanlara olan ihtiyacın arttığı bir döneme denk gelir.\n\nMarkanın ilk ürünleri arasında sörf tahtaları ve bunlara uygun kıyafetler bulunuyordu. Quiksilver, zamanla sadece sörfçülerin değil, aynı zamanda kaykaycılar ve snowboardcuların da tercih ettiği bir marka haline geldi. 1970'lerin sonunda ve 1980'lerin başında, marka uluslararası arenada da tanınmaya başladı ve dünya genelinde birçok ülkede mağazalar açtı.\n\nQuiksilver'ın başarısının ardında, sadece kaliteli ürünler üretmekle kalmayıp, aynı zamanda sörf ve açık hava kültürünü de desteklemesi yatıyor. Marka, birçok profesyonel sörfçüyü ve sporcuyu destekleyerek, bu alandaki etkinliklere sponsorluk yaptı. Bugün Quiksilver, dünya genelinde milyonlarca insanın gardırobunda yer alan bir marka olarak, sörf ve açık hava sporlarının simgelerinden biri haline gelmiştir.",
+      "fun_fact": "Quiksilver'ın logosu, bir dalga ve bir dağın stilize edilmiş hali olan 'Mountain & Wave' sembolüdür ve markanın kökenlerini temsil eder.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1329463",
+        "https://tr.wikipedia.org/wiki/Quiksilver",
+        "https://en.wikipedia.org/wiki/Quiksilver"
+      ],
+      "wikidata_qid": "Q1329463"
+    },
+    {
+      "id": "Q147662",
+      "date": "2028-06-02",
+      "category": "kurum-marka",
+      "widget_title": "Zara markası ne zaman kuruldu?",
+      "hook": "İspanyol moda devi Zara, adını sıkça duyduğumuz ama aslında köken hikayesi hakkında ne kadar az şey bildiğimiz bir marka!",
+      "answer_year": 1975,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Zara’nın hikayesi, 1975 yılında İspanya’nın A Coruña şehrinde Amancio Ortega tarafından kurulan ilk mağaza ile başladı. Ortega, o dönemde kadınların giydiği giyim parçalarını daha uygun fiyatlarla sunmayı hedefliyordu. İlk mağaza, yerel halkın ilgisini hızla çekti ve bu başarı, Ortega’nın işini büyütmesine zemin hazırladı.\n\nZara, hızlı moda (fast fashion) kavramının öncülerinden biri olarak kabul edilir. Marka, tasarımından üretimine, dağıtımından satışına kadar tüm süreci optimize ederek, yeni trendleri sadece birkaç hafta içinde mağazalara taşıyabilmeyi başardı. Bu yenilikçi yaklaşım, Zara’yı diğer giyim markalarından ayırdı ve global bir moda devi haline getirdi.\n\nBugün Zara, Inditex grubunun bir parçası olarak dünyanın dört bir yanında yüzlerce mağazaya sahip. Peki, markanın adının nereden geldiği hakkında ne biliyoruz? Aslında bu konuda net bir bilgi yok. [DOĞRULA: Zara adının kaynağı hakkında resmi bir açıklama var mı?] Ortaya atılan teorilerden biri, adın Slav dillerinde \"göz alıcı\" anlamına gelen \"zarya\" kelimesinden geldiği yönünde, ancak bu sadece bir varsayım.\n\nZara’nın hikayesi, bir girişimcinin basit bir fikir ile nasıl devasa bir marka yaratabileceğinin en güzel örneklerinden biri.",
+      "fun_fact": "Zara’nın ilk mağazası, bugün hâlâ A Coruña’da aynı adreste faaliyet gösteriyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q147662",
+        "https://tr.wikipedia.org/wiki/Zara_(%C5%9Firket)",
+        "https://en.wikipedia.org/wiki/Zara_(retailer)"
+      ],
+      "wikidata_qid": "Q147662"
+    },
+    {
+      "id": "Q154008",
+      "date": "2028-06-03",
+      "category": "kurum-marka",
+      "widget_title": "Vogue dergisi ne zaman yayınlandı?",
+      "hook": "1892’de çıkan bir dergi, bugün hala dünyanın en prestijli moda yayınlarından biri olarak anılıyor — peki sence hangisi?",
+      "answer_year": 1892,
+      "year_precision": "day",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Vogue dergisi, 1892 yılında ABD’nin New York kentinde yayın hayatına başladı. Kurucusu Arthur Baldwin Turnure, dergiyi öncelikle New York sosyetesinin ilgisini çekecek bir yayın olarak tasarlamıştı. İlk sayısı 1 Aralık 1892’de okuyucularla buluştu ve başlangıçta yerel bir dergi olarak yola çıktı.\n\nAncak Vogue’un hikayesi, moda ve yaşam tarzına odaklanarak uluslararası arenada da ses getirmesiyle farklı bir boyut kazandı. 1909 yılında Condé Nast tarafından satın alındıktan sonra dergi, küresel bir moda ikonu haline geldi. Condé Nast, dergiyi sadece ABD sınırları içinde değil, İngiltere (1916) ve Fransa (1920) gibi moda merkezlerinde de yayınlamaya başladı. Bu genişleme, Vogue’un dünya çapında tanınmasını sağladı.\n\nVogue’un yayınlandığı ilk yıllarda içeriği, daha çok yüksek sosyetenin etkinlikleri, sosyal davetler ve elit yaşam tarzına dair yazılardan oluşuyordu. Zamanla moda fotoğrafçılığı ve tasarımcıların çalışmalarına daha fazla yer veren bir dergi haline geldi. Bugün Vogue, sadece bir moda dergisi olmanın ötesinde, kültürel bir fenomen olarak kabul ediliyor.\n\n[DOĞRULA: Vogue’un ilk sayısının tam olarak hangi tarihte yayınlandığı (gün, ay, yıl) konusunda bazı kaynaklarda farklı bilgiler bulunabilir. Bu içerikte 1 Aralık 1892 tarihi esas alınmıştır.]\n\nVogue’un bu kadar uzun ömürlü olmasının sırrı, moda dünyasındaki değişimlere ayak uydurabilmesi ve her dönemde kendini yenileyebilmesiyle açıklanabilir.",
+      "fun_fact": "Vogue’un ilk sayısında yer alan reklamların çoğu, o dönemde kadınlara yönelik lüks ürünler (parfüm, kürk, mücevher) ve ev dekorasyonuna dair ilanlardan oluşuyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q154008",
+        "https://tr.wikipedia.org/wiki/Vogue_(dergi)",
+        "https://en.wikipedia.org/wiki/Vogue_(magazine)"
+      ],
+      "wikidata_qid": "Q154008"
+    },
+    {
+      "id": "Q163355",
+      "date": "2028-06-04",
+      "category": "kurum-marka",
+      "widget_title": "Whiskas ne zaman icat edildi?",
+      "hook": "Kedilerin en sevdiği mama markası olan Whiskas’in ardındaki hikayeyi biliyor musun?",
+      "answer_year": 1936,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Whiskas, 1936 yılında [DOĞRULA: ilk üretim yılı ve markanın kuruluş tarihi arasındaki ilişki] pazara sürülen, dünya çapında tanınan bir kedi maması markası. Aslında, kuru kedi maması kavramının kendisi 19. yüzyılın sonlarına kadar uzanıyor, ancak Whiskas’in başarısı, endüstriyel üretim ve pazarlama stratejileriyle modern evcil hayvan beslenmesinin temellerini atmasında yatıyor. Markanın hikayesi, 19. yüzyılda başlayan evcil hayvan endüstrisinin büyümesiyle doğrudan bağlantılı. [DOĞRULA: Whiskas’in ilk formülü ve üretim süreci hakkında detaylar] dönemde, insanlar evcil hayvanlarına daha sağlıklı ve pratik besinler sunma arayışındaydı. Whiskas’in 1936’da piyasaya çıkışı, bu alandaki önemli bir dönüm noktası olarak kabul ediliyor. Markanın ismi, İngilizcede kedilerin favorisi olan \"whiskers\" (bıyıklar) kelimesinden türetilmiş, ancak kısaltılarak \"Whiskas\" olarak kullanılmaya başlanmış. Whiskas, yıllar içinde sadece bir mamadan ibaret olmayan, aynı zamanda kedi sahiplerinin güvenilir bir marka olarak gördüğü bir sembol haline geldi. Bugün, dünya genelinde milyonlarca kedinin beslenme ihtiyacını karşılayan Whiskas, evcil hayvan endüstrisinin en ikonik markalarından biri olarak yerini koruyor.",
+      "fun_fact": "Whiskas’in ilk reklamlarında, kedilerin mamayı yemesi için özel olarak hazırlanmış \"mama orkestrası\" gibi eğlenceli kampanyalar kullanılmış!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q163355",
+        "https://tr.wikipedia.org/wiki/Whiskas",
+        "https://en.wikipedia.org/wiki/Whiskas"
+      ],
+      "wikidata_qid": "Q163355"
+    },
+    {
+      "id": "Q1636655",
+      "date": "2028-06-05",
+      "category": "kurum-marka",
+      "widget_title": "Melodiya ne zaman kuruldu?",
+      "hook": "Sovyetler Birliği'nde doğan ve tüm dünyaya yayılan bir marka düşünün — adını duymuş olabilirsiniz!",
+      "answer_year": 1964,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Melodiya, 1964 yılında Sovyetler Birliği'nde kurulan ve klasik müzikten popüler parçalara kadar geniş bir yelpazede plaklar üreten bir marka olarak ortaya çıktı. Dönemin siyasi ve kültürel ortamında, devlet destekli bir proje olarak hayata geçirilen Melodiya, sadece Sovyet vatandaşlarının değil, uluslararası dinleyicilerin de ilgisini çekti. [DOĞRULA: Melodiya'nın kuruluşunun tam olarak hangi kurum veya kişiler tarafından başlatıldığına dair net bir kaynak bulunmamaktadır.] \n\nMarka, plak üretiminin yanı sıra, Sovyetler Birliği'nin kültürel ihracatında önemli bir rol oynadı. Batı dünyasında nadir bulunan Sovyet müziklerini dünya pazarına sunarak, klasik ve modern eserlerin sınırlar ötesine taşınmasına katkı sağladı. Melodiya'nın plakları, dayanıklı yapısı ve yüksek ses kalitesi ile de dikkat çekti.\n\nBugün Melodiya, Sovyet dönemiyle özdeşleşmiş bir marka olarak koleksiyoncuların ve müzikseverlerin ilgisini çekmeye devam ediyor. Peki, bu efsanevi markanın hikayesi sizi ne kadar şaşırttı?",
+      "fun_fact": "Melodiya'nın ürettiği plakların bazıları, Sovyetler Birliği'nde nadir bulunan enstrümanların seslerini kaydetmek için özel olarak tasarlanmıştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1636655",
+        "https://tr.wikipedia.org/wiki/Melodiya",
+        "https://en.wikipedia.org/wiki/Melodiya"
+      ],
+      "wikidata_qid": "Q1636655"
+    },
+    {
+      "id": "Q167447",
+      "date": "2028-06-06",
+      "category": "kurum-marka",
+      "widget_title": "Barbie ne zaman icat edildi?",
+      "hook": "Plastik bir dünya hayal eden bir anne, 1959’da oyuncak endüstrisini sonsuza dek değiştirdi — peki ya senin tahminin?",
+      "answer_year": 1959,
+      "year_precision": "day",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "1959 yılında, New York’taki bir fuarda ilk kez sahne alan Barbie, aslında bir gecede ortaya çıkmadı. Oyuncak bebeklerin çoğu o dönemde bebeklere benzeyen tasarımlara sahipti, ancak Ruth Handler adında bir anne, kızı Barbara’nın boşlukta kalan hayal gücünü fark etti. Ruth, kızının yetişkin kadınları canlandırdığı oyunlarından ilham aldı ve 1940’ların sonlarından itibaren [DOĞRULA: Barbie’nin prototiplerini geliştirmeye başladı]. Nihayet 1959’da, o dönemde kocası Mattel’in kurucu ortağı olan Ruth, ilk Barbie bebeğini tanıttı: sarı saçlı, siyah ve beyaz çizgili mayo giymiş, uzun bacaklı bir kadın figürü.\n\nBarbie’nin ilk modeli, Alman *Bild Lilli* adındaki yetişkin bebeklerinden esinlenmişti, ancak Ruth Handler ve ekibi, onu tamamen yeni bir hikayenin kahramanı haline getirdi. Başlangıçta bazı eleştirilere maruz kalan Barbie, zamanla sadece bir oyuncaktan öte, moda, kariyer ve hayallerin sembolü oldu. Bugünse, 60 yılı aşkın süredir milyonlarca çocuğun ve koleksiyonerin hayatında yer alıyor.\n\nPeki, Barbie’nin ilk versiyonu hangi mesleği temsil ediyordu? [DOĻRULA: Tahmin edilenin aksine, ilk Barbie modeli ",
+      "fun_fact": "Barbie’nin ilk adı, Ruth Handler’ın kızı Barbara’nın adıydı — bu yüzden de 'Barbie' ismi buradan geliyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q167447",
+        "https://tr.wikipedia.org/wiki/Barbie",
+        "https://en.wikipedia.org/wiki/Barbie"
+      ],
+      "wikidata_qid": "Q167447"
+    },
+    {
+      "id": "Q170484",
+      "date": "2028-06-07",
+      "category": "kurum-marka",
+      "widget_title": "LEGO ne zaman icat edildi?",
+      "hook": "Oyuncak kutusunun en sevilen parçası olan LEGO’nun hikayesi, bir marangozun hayal gücünden nasıl evrenlere sığan bir markaya dönüştü?",
+      "answer_year": 1949,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "LEGO’nun temelleri, 1930’ların Danimarka’sında bir marangoz olan Ole Kirk Christiansen’in atölyesinde atıldı. Başlangıçta ahşap oyuncaklar üreten Christiansen, 1949 yılında [DOĞRULA: plastik enjeksiyon makinelerinin yaygınlaşmaya başladığı dönemde] ilk plastik tuğlalarını üretmeye başladı. Bu tuğlalar, birbirine geçen sistemleriyle devrim yaratacaktı. Ancak asıl ikonik LEGO tuğlasının tasarımı, 1958 yılında [DOĘRULA: tüp şeklindeki içi boş tasarımın patentlendiği yıl] resmileşti. Bu tasarım, tuğlaların daha sağlam birleşmesini ve kolayca ayrılmasını sağladı.\n\nLEGO kelimesi, Danimarkaca \"leg godt\" (iyi oyna) ifadesinden türetilmiş olsa da, şirket 1960’larda bu hikayeyi resmi olarak benimsedi. 1949 yılı, LEGO’nun plastik çağını başlattığı yıl olarak kabul edilirken, aslında oyuncakların modern versiyonları 1950’lerde şekillenmeye başladı. Yani LEGO’nun icadı, tek bir tarihe sığmayacak kadar uzun ve renkli bir süreç!\n\nBugünse LEGO, sadece bir oyuncak değil, filmler, sergiler ve hatta mimari projelerle de varlığını sürdürüyor. Bir marangozun hayalinin, nasıl milyonlarca çocuğun (ve yetişkinin!) yaratıcılığını beslediğini düşününce, oyuncak kutusundaki bu küçük tuğlaların ne kadar büyük bir miras olduğunu anlıyorsunuz.",
+      "fun_fact": "LEGO, 1960’larda ürettiği tuğlaların birbirine geçme sistemini o kadar mükemmel tasarlamıştı ki, bugün üretilen herhangi bir LEGO parçası, 1958 modeliyle bile mükemmel şekilde uyum sağlayabiliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q170484",
+        "https://tr.wikipedia.org/wiki/Lego",
+        "https://en.wikipedia.org/wiki/Lego"
+      ],
+      "wikidata_qid": "Q170484"
+    }
+  ]
+}
