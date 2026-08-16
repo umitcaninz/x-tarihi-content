@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2029-08",
+  "items": [
+    {
+      "id": "Q154191",
+      "date": "2029-08-01",
+      "category": "kurum-marka",
+      "widget_title": "Almanya Futbol Federasyonu ne zaman kuruldu?",
+      "hook": "Futbola dair en prestijli turnuvalardan biri olan FIFA Dünya Kupası’nın ev sahibi Almanya... Peki bu ülkenin futbolun yönetim merkezi olan federasyonu ne zaman doğdu?",
+      "answer_year": 1900,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Almanya Futbol Federasyonu, yani resmi adıyla *German Football Association* (DFB), 1900 yılında kuruldu. Futbola olan düşkünlüğüyle tanınan Almanya’nın futbolun resmi kurallarını belirleyen ve uluslararası arenada temsilini sağlayan bu kurum, ülkenin futbol tarihine yön vermeye başladı.\n\nDFB’nin kuruluşu, Almanya’da futbolun hızla yaygınlaşmasıyla doğrudan bağlantılı. 19. yüzyılın sonlarında İngiltere’den ithal edilen bu spor, kısa sürede Alman gençleri arasında popüler hale geldi. Ancak o dönemde futbolun organizasyonu yerel düzeyde kalıyor, standart bir yönetim yapısı bulunmuyordu. İşte bu boşluğu doldurmak amacıyla 28 Ocak 1900 tarihinde Leipzig’de toplanan 86 temsilci, DFB’yi resmen kurdu. Kuruluşun ilk başkanı olarak Dr. Ferdinand Hueppe seçildi.\n\nDFB’nin kuruluşuyla birlikte Almanya’da futbolun profesyonelleşme ve standartlaşma süreci de hız kazandı. Kurum, 1903 yılında ilk ulusal şampiyonayı düzenledi ve bu turnuva daha sonra Bundesliga’nın temellerini oluşturdu. Ayrıca DFB, 1904 yılında FIFA’nın kurucu üyeleri arasında yer aldı ve uluslararası futbolun gelişimine önemli katkılarda bulundu.\n\nBugün DFB, Almanya’nın dört bir yanındaki yerel futbol federasyonlarını bir araya getiren ve milyonlarca futbolseveri temsil eden bir kurum haline geldi. Peki, sence Almanya’nın futbol tarihindeki en unutulmaz anı hangisi?",
+      "fun_fact": "DFB’nin merkezi olan Frankfurt’taki müzesi, futbol tarihine dair nadir eserleri ve kupaları sergiliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q154191",
+        "https://tr.wikipedia.org/wiki/Almanya_Futbol_Federasyonu",
+        "https://en.wikipedia.org/wiki/German_Football_Association"
+      ],
+      "wikidata_qid": "Q154191"
+    }
+  ]
+}
