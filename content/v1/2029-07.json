@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2029-07",
+  "items": [
+    {
+      "id": "Q11362472",
+      "date": "2029-07-01",
+      "category": "kurum-marka",
+      "widget_title": "Dünya Beyzbol ve Softbol Konfederasyonu ne zaman kuruldu?",
+      "hook": "Beyzbol ve softbolun küresel çatı kuruluşu olan WBSC’nin hikayesi, aslında birleşmeyle başlıyor — peki hangi yıl?",
+      "answer_year": 2013,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Beyzbol ve softbolun dünya çapındaki en büyük yönetim organı olan **Dünya Beyzbol ve Softbol Konfederasyonu (WBSC)**, 2013 yılında resmen kuruldu. Bu birleşme, uluslararası arenada bu iki spor dalının daha güçlü temsil edilmesini sağlamak amacıyla gerçekleşti. WBSC’nin oluşumu, Uluslararası Beyzbol Federasyonu (IBAF) ve Uluslararası Softbol Federasyonu’nun (ISF) bir araya gelmesiyle mümkün oldu. [DOĞRULA: IBAF ve ISF’nin hangi yıl birleşme kararı aldığı ve bu sürecin detayları].\n\nWBSC’nin kuruluşuyla birlikte, beyzbol ve softbolun olimpik statüsü yeniden güçlendi. Özellikle 2020 Tokyo Olimpiyatları’nda bu sporların programa dahil edilmesi, WBSC’nin uluslararası arenadaki önemini bir kez daha gözler önüne serdi. Konfederasyon, şu anda 140’tan fazla üye ülkeyle dünya genelinde bu sporların gelişimini destekliyor ve standartlarını belirliyor.\n\nBu birleşmenin arka planında, her iki spor dalının da benzer hedeflere sahip olması ve küresel düzeyde daha etkili bir şekilde temsil edilme ihtiyacı yatıyordu. WBSC’nin kuruluş tarihi olan 2013, bu anlamda bir dönüm noktası olarak kabul ediliyor.",
+      "fun_fact": "WBSC’nin logosunda yer alan mavi ve kırmızı renkler, beyzbol ve softbolun sırasıyla erkek ve kadın sporcularını temsil ediyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11362472",
+        "https://tr.wikipedia.org/wiki/D%C3%BCnya_Beyzbol_ve_Softbol_Konfederasyonu",
+        "https://en.wikipedia.org/wiki/World_Baseball_Softball_Confederation"
+      ],
+      "wikidata_qid": "Q11362472"
+    }
+  ]
+}
