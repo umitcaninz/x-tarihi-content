@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2031-09",
+  "items": [
+    {
+      "id": "Q129499",
+      "date": "2031-09-01",
+      "category": "kurum-marka",
+      "widget_title": "Gunma prefektörlüğü ne zaman kuruldu?",
+      "hook": "Japonya'nın dağlık bölgelerinden biri olan Gunma, tarih sahnesinde ne zaman yerini aldı dersiniz?",
+      "answer_year": 1871,
+      "year_precision": "day",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Gunma prefektörlüğü, Japonya'nın modern yerel yönetim sisteminin temellerinin atıldığı bir dönemde, 1871 yılında resmen kuruldu. Bu tarih, Japonya'nın Edo döneminden Meiji dönemine geçiş yaptığı ve feodal sistemin yerini merkeziyetçi bir yapının aldığı bir döneme denk gelir. Gunma'nın da aralarında bulunduğu prefektörlükler, ülkenin idari yapılanmasını çağdaşlaştırmak amacıyla oluşturuldu.\n\nAncak Gunma'nın tarih sahnesindeki rolü bundan çok daha eskiye dayanıyor. Bölge, antik çağlardan beri Japonya'nın önemli tarım ve ticaret merkezlerinden biriydi. Özellikle ipek üretimi ve seramikçiliğiyle tanınan Gunma, [DOĞRULA: Edo dönemindeki (1603-1868) idari yapılanması hakkında daha detaylı bilgi bulunmamaktadır].\n\n1871 yılında yapılan idari reformlarla birlikte, Gunma da diğer birçok bölge gibi prefektörlük statüsüne kavuştu. Bu reformlar, Japonya'nın batılılaşma ve modernleşme sürecinin önemli bir parçasıydı. Gunma prefektörlüğü, günümüzde de bu tarihi mirasını taşımakta ve Japonya'nın kültürel ve ekonomik dokusunda önemli bir yer tutmaktadır.",
+      "fun_fact": "Gunma, Japonya'nın en ünlü sıcak su kaynaklarından biri olan Kusatsu Onsen'e ev sahipliği yapıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q129499",
+        "https://tr.wikipedia.org/wiki/Gunma",
+        "https://en.wikipedia.org/wiki/Gunma_Prefecture"
+      ],
+      "wikidata_qid": "Q129499"
+    }
+  ]
+}
