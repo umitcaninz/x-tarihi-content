@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2031-10",
+  "items": [
+    {
+      "id": "Q696777",
+      "date": "2031-10-01",
+      "category": "kurum-marka",
+      "widget_title": "Nisshin şehri ne zaman kuruldu?",
+      "hook": "Japonya’nın kalbindeki bu şehrin adı, 20. yüzyılda bir anda ortaya çıkmadı — peki Nisshin’in hikayesi nasıl başladı?",
+      "answer_year": 1994,
+      "year_precision": "day",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Nisshin, Japonya’nın orta kesiminde yer alan Aichi prefektörlüğüne bağlı bir şehir. Günümüzdeki haliyle 1994 yılında resmi olarak kurulmuş olsa da, aslında çok daha eski köklere sahip. Nisshin’in tarihi, MS 7. yüzyıla kadar uzanıyor ve o dönemde **Nisshin** adıyla değil, **Otogawa** (乙川) olarak biliniyordu.\n\n14. yüzyılda, bölge **Imagawa klanının** etkisi altına girdi ve stratejik konumu nedeniyle önem kazandı. [DOĞRULA: Imagawa klanının Nisshin bölgesindeki varlığı ve etkisi hakkında detaylı bilgi toplanmalı.] Edo döneminde (1603-1868) ise ticaret yolları üzerinde yer alması, Nisshin’in gelişmesine katkı sağladı. Şehir, 1889 yılında **Nisshin** adını resmen aldı ve 1955 yılında kasaba statüsüne yükseldi.\n\nAncak bugünkü Nisshin’in temelleri, 1994 yılında **beş ayrı kasabanın birleşmesi**yle atıldı. Bu birleşme, yerel yönetimlerin verimliliğini artırmayı ve kentsel gelişimi hızlandırmayı hedefliyordu. Nisshin adı, birleşen bölgelerin ortak bir kimlik bulmasını simgeliyor — \"Nisshin\" (日進), Japoncada \"güneşin ilerlemesi\" veya \"günbegün ilerleme\" anlamına geliyor ve geleceğe umutla bakmayı temsil ediyor.",
+      "fun_fact": "Nisshin’in armasında yer alan güneş motifi, şehrin adının anlamını ve Japon kültüründeki yenilikçilik anlayışını yansıtıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q696777",
+        "https://tr.wikipedia.org/wiki/Nisshin",
+        "https://en.wikipedia.org/wiki/Nisshin,_Aichi"
+      ],
+      "wikidata_qid": "Q696777"
+    }
+  ]
+}
