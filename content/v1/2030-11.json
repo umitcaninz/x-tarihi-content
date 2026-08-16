@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-11",
+  "items": [
+    {
+      "id": "Q1668605",
+      "date": "2030-11-01",
+      "category": "kurum-marka",
+      "widget_title": "Kahramanmaraşspor hangi yıl kuruldu?",
+      "hook": "Türkiye’nin futbol tarihine damga vuran bir kulübün hikayesi, belki de senin tahmininden çok daha eskilere dayanıyor!",
+      "answer_year": 1969,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Kahramanmaraşspor, 1969 yılında kurulan ve Akdeniz’in güçlü ekiplerinden biri olarak tanınan bir futbol kulübü. Bu tarih, Türkiye’nin profesyonel futbol liglerinde adından sıkça söz ettiren bir dönemle de kesişiyor. Kuruluşundan bu yana yerel ve ulusal arenada mücadele eden takım, Maraş’ın spor kültürüne önemli katkılar sağlamış durumda.\n\nKulübün kuruluş hikayesi, o dönemdeki yerel futbolcuların ve yöneticilerin çabalarıyla şekillenmiş. Ancak kurucu isimler ve detaylı kuruluş süreci hakkında yeterli kayıt bulunmuyor. [DOĞRULA: Kuruluşunda etkili olan ilk başkan veya yöneticilerin isimleri ve ilk takım kadrosu hakkında daha fazla bilgi toplanabilir mi?]\n\n1969 yılı, Türkiye’de futbolun hızla geliştiği bir dönemdi. Kahramanmaraşspor’un da bu dalga içinde yer alarak, bölgenin futboluna ivme kazandırdığı söylenebilir. Takım, zaman içinde çeşitli liglerde boy gösterse de, en parlak dönemlerini 1980’li ve 1990’lı yıllarda yaşadı. Özellikle 1988-89 sezonunda Türkiye Kupası’nda çeyrek finale yükselmesi, kulüp tarihinde unutulmaz bir yer edindi.\n\nBugün Kahramanmaraşspor, yerel liglerde ve amatör futbolun içinde varlığını sürdürüyor. Geçmişteki başarıları ve Maraş halkının takımı olma özelliğiyle, şehirdeki sporseverler için önemli bir simge olmayı sürdürüyor.",
+      "fun_fact": "Kahramanmaraşspor’un kuruluşundan sadece birkaç yıl sonra, 1974’te Maraş’ta futbol ligi resmi olarak organize edilmeye başladı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1668605",
+        "https://tr.wikipedia.org/wiki/Kahramanmara%C5%9Fspor",
+        "https://en.wikipedia.org/wiki/Kahramanmara%C5%9Fspor"
+      ],
+      "wikidata_qid": "Q1668605"
+    },
+    {
+      "id": "Q1676156",
+      "date": "2030-11-02",
+      "category": "kurum-marka",
+      "widget_title": "İzmirspor ne zaman kuruldu?",
+      "hook": "1923’te İzmir’in sokaklarında doğan bu takımın hikayesi, sadece bir spor kulübünden çok daha fazlasını saklıyor olabilir!",
+      "answer_year": 1923,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "İzmirspor, Türk futbolunun köklü geçmişine sahip kulüplerinden biri olarak 1923 yılında İzmir’de kuruldu. Kuruluşundan bu yana yerel liglerde ve zaman zaman ulusal arenalarda boy gösteren takım, İzmir’in futbol kültüründe önemli bir yere sahip. [DOĞRULA: Kuruluşunda etkili olan isimler veya kurumsal yapı hakkında detaylı bilgiler var mı?]\n\n1920’lerin başı, Türkiye’nin futbola olan ilgisinin arttığı ve birçok kulübün temellerinin atıldığı bir dönemdi. İzmirspor da bu dönemde, kentin farklı mahallelerinde futbol oynayan gençlerin bir araya gelmesiyle ortaya çıktı. Takımın ilk yıllarında yerel liglerde mücadele ettiği ve zamanla profesyonel futbola adım attığı bilinmekte. Ancak kuruluşunda doğrudan rol alan isimler veya resmi kayıtlar hakkında yeterli bilgi bulunmamakta.\n\nGünümüzde İzmirspor, özellikle genç yetenekleri keşfetme ve geliştirme konusunda önemli bir rol üstleniyor. İzmir’in futbol haritasındaki yerini koruyan takım, geçmişten gelen mirasını gelecek nesillere aktarmaya devam ediyor.",
+      "fun_fact": "İzmirspor’un kuruluş yılı olan 1923, aynı zamanda Türkiye Cumhuriyeti’nin de kuruluş yılıdır!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1676156",
+        "https://tr.wikipedia.org/wiki/%C4%B0zmirspor",
+        "https://en.wikipedia.org/wiki/%C4%B0zmirspor"
+      ],
+      "wikidata_qid": "Q1676156"
+    }
+  ]
+}
