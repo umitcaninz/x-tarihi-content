@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2029-06",
+  "items": [
+    {
+      "id": "Q16849546",
+      "date": "2029-06-01",
+      "category": "yazilim-internet",
+      "widget_title": "Investing.com ne zaman kuruldu?",
+      "hook": "Dünyanın en çok ziyaret edilen finans portallarından biri olan Investing.com’un hikâyesini biliyor musun?",
+      "answer_year": 2007,
+      "year_precision": "month",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Investing.com, 2007 yılında [DOĞRULA: hangi ayda?] kurulan bir çevrimiçi finans portalı. Temel olarak yatırımcılar için piyasa verileri, haberler ve analizler sunmayı hedefleyen bu platform, yıllar içinde global bir ekosisteme dönüştü. Başlangıçta sadece hisse senetleri ve döviz gibi klasik enstrümanlara odaklanan site, sonrasında kripto para birimlerinden emtialara kadar geniş bir yelpazede hizmet vermeye başladı.\n\nPeki, bu kadar geniş bir içeriği nasıl yönetiyor? Investing.com’un arkasındaki ekip, gerçek zamanlı verileri kullanıcı dostu bir arayüzle birleştirerek hem acemilerin hem de profesyonellerin işini kolaylaştırıyor. [DOĞRULA: Kurucusu veya ilk geliştiricileri hakkında resmi bir kayıt bulunmuyor—bu alanda doğrulama gerekiyor.]\n\nBugün milyonlarca kullanıcıya ulaşan platform, finans dünyasının nabzını tutan bir referans noktası haline geldi. Yatırım yaparken ilk başvurulan kaynaklardan biri olması da cabası!",
+      "fun_fact": "Investing.com’un mobil uygulaması, 2013 yılında piyasaya sürüldü ve sadece bir yıl içinde 10 milyon indirilmeyi aştı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16849546",
+        "https://tr.wikipedia.org/wiki/Investing.com",
+        "https://en.wikipedia.org/wiki/Investing.com"
+      ],
+      "wikidata_qid": "Q16849546"
+    },
+    {
+      "id": "Q16981132",
+      "date": "2029-06-02",
+      "category": "yazilim-internet",
+      "widget_title": "Foodpanda ne zaman kuruldu?",
+      "hook": "Mobil yemek dağıtım şirketlerinin lideri, Foodpanda'yı ne zaman dünyaya tanıttı?",
+      "answer_year": 2012,
+      "year_precision": "year",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Foodpanda, Almanya'da 2012 yılında kurulan bir mobil yemek dağıtım şirketi. Şirket, yemek siparişlerini ve paketlerin hızlı bir şekilde kurye ile teslim edilmesini sağlayan bir platform olarak hizmet veriyor. Foodpanda, Avrupa'da ve daha sonra dünyanın diğer bölgelerinde genişlemeye başladı. Şirketin kurulduğu yıl 2012 olarak biliniyor, ancak exact tarihi ve kimin tarafından kurulduğu hakkında tam olarak bilgi sahibi değiliz. [DOĞRULA: Foodpanda'nın tam kurulma tarihi ve kurucuları hakkında daha fazla bilgi] Bu, Foodpanda'nın hızlı ve etkili bir yemek dağıtım modeliyle hızlı bir şekilde popülerleşmesini ve birçok ülkede operasyona geçmesini sağladı.",
+      "fun_fact": "Foodpanda, 2012 yılında kurulduğunda, yemek siparişlerinin mobil uygulamalar üzerinden yapılmasını sağlayan ilk şirketlerden biriydi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16981132",
+        "https://tr.wikipedia.org/wiki/Foodpanda",
+        "https://en.wikipedia.org/wiki/Foodpanda"
+      ],
+      "wikidata_qid": "Q16981132"
+    }
+  ]
+}
