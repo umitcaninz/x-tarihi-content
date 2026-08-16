@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2030-12",
+  "items": [
+    {
+      "id": "Q7946200",
+      "date": "2030-12-01",
+      "category": "yazilim-internet",
+      "widget_title": "W3Schools ne zaman ortaya çıktı?",
+      "hook": "Web geliştiricilerin rehberi W3Schools, hangi yıl dünyaya geldi?",
+      "answer_year": 1998,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "W3Schools, web geliştirme ve internet teknolojileri hakkında bilgi ve öğretim sunan bir web sitesidir. 1998 yılında, bu web sitesi ilk kez internet üzerinde ortaya çıktı. Ancak, W3Schools'ın kurucusu veya tam olarak hangi yılın sonunda veya başta ortaya çıktığı konusunda kesin bilgiye sahip değiliz. [DOĞRULA: W3Schools'ın tam olarak hangi yılın sonunda veya başta internet üzerinde ortaya çıktığı] Bu, web teknolojileri ve yazılım dünyasında hızlı gelişmekte olan bir alandır ve W3Schools, bu gelişmeleri takip etmek ve kullanıcılara güncel bilgi sunmak için sürekli olarak güncellenmektedir.",
+      "fun_fact": "W3Schools, birçok programcı tarafından öğrenme ve referans olarak kullanıldığı için, internet üzerinde en çok ziyaret edilen web sitelerinden biridir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7946200",
+        "https://tr.wikipedia.org/wiki/W3Schools",
+        "https://en.wikipedia.org/wiki/W3Schools"
+      ],
+      "wikidata_qid": "Q7946200"
+    }
+  ]
+}
