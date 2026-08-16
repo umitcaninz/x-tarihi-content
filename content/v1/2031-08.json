@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2031-08",
+  "items": [
+    {
+      "id": "Q895904",
+      "date": "2031-08-01",
+      "category": "kurum-marka",
+      "widget_title": "Boykot, tecrit ve yaptırımlar hareketi ne zaman başladı?",
+      "hook": "Dünya tarihinde bir hareketin kocaman bir ülkeyi diz çöktürdüğü nadır örneklerden biri olan bu kavramı hiç merak ettiniz mi?",
+      "answer_year": 2005,
+      "year_precision": "day",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Boykot, tecrit ve yaptırımlar (BDS) hareketi, 2005 yılında resmen başlatıldı. Bu tarih, Filistin sivil toplumunun çağrısıyla bir araya gelen yüzlerce örgütün, İsrail’in işgal politikalarına karşı küresel ölçekte barışçıl bir direniş başlatma kararı aldığı an olarak kayda geçti. Hareketin kökleri ise çok daha eskilere, hatta 20. yüzyılın ortalarına kadar uzanıyor. Ancak 2005 yılında Güney Afrika’daki ırkçı apartheid rejimine karşı uluslararası toplumun uyguladığı boykot ve yaptırımların ilham verdiği BDS, sistematik bir çerçeveye kavuştu.\n\nBDS’nin temel amacı, İsrail’in 1967’den beri devam eden işgaline son vermek, Filistinlilerin eşit haklara sahip olmasını sağlamak ve mültecilerin geri dönüş hakkını tanımaktı. Hareket, sadece siyasi bir araç olmanın ötesinde, ekonomik ve kültürel alanda da etkisini gösterdi. Üniversitelerden şirketlere, sanatçılardan sporculara kadar geniş bir yelpazede destek buldu. Tabii ki, bu durum tartışmaları da beraberinde getirdi; bazıları BDS’yi adil bir mücadele olarak görürken, diğerleri hareketin aşırıya kaçtığını veya tek taraflı olduğunu savunuyor.\n\n[DOĞRULA: BDS hareketinin liderleri ve kurucu örgütleri hakkında güvenilir kaynaklardan detaylı bilgi edinilmeli.]",
+      "fun_fact": "BDS hareketi, 2010 yılında Güney Afrika’daki apartheid karşıtı mücadeleye destek veren bir grup aktivist tarafından resmen desteklendi.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q895904",
+        "https://tr.wikipedia.org/wiki/Boykot,_Tecrit_ve_Yapt%C4%B1r%C4%B1mlar",
+        "https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions"
+      ],
+      "wikidata_qid": "Q895904"
+    }
+  ]
+}
