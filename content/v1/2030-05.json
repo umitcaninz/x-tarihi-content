@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-05",
+  "items": [
+    {
+      "id": "Q12236",
+      "date": "2030-05-01",
+      "category": "kurum-marka",
+      "widget_title": "Racing de Santander ne zaman kuruldu?",
+      "hook": "İspanya’nın deniz kenarındaki bu şirin kent, futbolseverlere 1913’ten beri adını taşıyan bir efsane armağan ettiğini biliyor muydun?",
+      "answer_year": 1913,
+      "year_precision": "day",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Racing de Santander’in temelleri, 1913 yılında İspanya’nın kuzeyindeki Santander kentinde atıldı. Kuruluşunun ardından kısa sürede bölgenin futboluna yön vermeye başlayan takım, yerel liglerde adından söz ettirdi. [DOĞRULA: Kuruluşunda etkili olan isimler veya detaylı ilk yıllar hakkında net bilgiler bulunmamaktadır.] İspanya İç Savaşı döneminde zorlu günler geçiren takım, savaş sonrası yeniden yapılanma sürecine girdi ve 1940’larda La Liga’ya yükselmeyi başardı.\n\nYıllar içinde inişli çıkışlı bir grafik çizen Racing de Santander, en parlak dönemini 2000’li yılların başında yaşadı. 2001-2002 sezonunda La Liga’da dördüncü sırayı elde eden takım, UEFA Kupası’na katılma hakkı kazandı. Stadyumunda, Cantabria bölgesinin coşkulu taraftarları tarafından desteklenen takım, hem yerel hem de ulusal arenada kendine özgü bir yer edindi.\n\nBugün hâlâ İspanya futbolunun önemli ekiplerinden biri olan Racing de Santander, tarihine yakışır bir şekilde yoluna devam ediyor.",
+      "fun_fact": "Racing de Santander’in stadyumu, Estadio El Sardinero, adını aldığı plajın yakınında bulunuyor ve deniz manzarasıyla ünlü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12236",
+        "https://tr.wikipedia.org/wiki/Racing_de_Santander",
+        "https://en.wikipedia.org/wiki/Racing_de_Santander"
+      ],
+      "wikidata_qid": "Q12236"
+    },
+    {
+      "id": "Q18708",
+      "date": "2030-05-02",
+      "category": "kurum-marka",
+      "widget_title": "Fulham FC ne zaman kuruldu?",
+      "hook": "Londra’nın en eski futbol kulüplerinden biri olan Fulham FC’nin hikayesi, tesadüflerle dolu bir başlangıca sahip!",
+      "answer_year": 1879,
+      "year_precision": "year",
+      "guess_range": [
+        1770,
+        1950
+      ],
+      "body": "Fulham Football Club’in temelleri, 1879 yılında Londra’nın Fulham bölgesinde atıldı. [DOĜRULA: Kuruluşun tam olarak hangi ay veya gün olduğu kayıtlarda net değil.] O dönemde futbol, İngiltere’de henüz profesyonel bir lig sistemiyle buluşmamıştı; dolayısıyla Fulham FC de amatör bir ruhla yola çıktı. Kulüp, yerel bir kilisenin gençleri tarafından kurulduğu rivayet edilir, ancak kurucuların isimleri günümüze ulaşmamış.\n\n1880’lerde Fulham, yerel maçlarda boy göstermeye başladı ve 1898 yılında, İngiltere’nin profesyonel futbol ligine katılan ilk güneyli kulüplerden biri oldu. Bu adım, Fulham’ın gelecekteki yükselişinin temelini attı. 1903 yılında ise Craven Cottage stadyumuna taşınarak, bugün hala iç saha maçlarını oynadığı mekana kavuştu.\n\nPeki, Fulham FC’nin kuruluş yılı neden 1879 olarak kabul ediliyor? Çünkü kulübün resmi kayıtlarında bu tarih yer alıyor. Ancak futbol tarihçileri, erken dönem kulüplerin kuruluş tarihlerinin bazen belirsiz olduğunu ve bu tarihin kesin olmaktan ziyade sembolik olduğunu vurguluyor.",
+      "fun_fact": "Fulham FC, 2010 yılında Avrupa Ligi finaline ulaşarak, bir İngiliz kulübü tarafından ulaşılan en yüksek Avrupa turnuvası derecesini elde etti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708",
+        "https://tr.wikipedia.org/wiki/Fulham_FC",
+        "https://en.wikipedia.org/wiki/Fulham_F.C."
+      ],
+      "wikidata_qid": "Q18708"
+    }
+  ]
+}
