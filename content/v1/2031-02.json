@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2031-02",
+  "items": [
+    {
+      "id": "Q460724",
+      "date": "2031-02-01",
+      "category": "kurum-marka",
+      "widget_title": "Hammarby IF futbol kulübü ne zaman kuruldu?",
+      "hook": "İsveç’in en ateşli futbol takımlarından biri olan Hammarby IF’nin hikayesi, bir liman mahallesinin umutla dokunan dokusundan doğdu desem, inanır mısın?",
+      "answer_year": 1915,
+      "year_precision": "day",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Hammarby IF, İsveç’in başkenti Stockholm’ün güneyindeki Södermalm bölgesinde, 1915 yılında kurulan bir futbol kulübü. [DOĞRULA: Kuruluşunun tam olarak hangi ay veya gün olduğu kayıtlarda net değil.] O yıllarda İsveç’te futbol hızla popülerleşirken, Hammarby de bu dalganın içinde yerini aldı. Kulüp, adını doğduğu semt olan Hammarby Sjöstad’dan aldı — ki bu isim de aslında bölgenin tarihine dayanıyor: Eski İskandinavcada \"Hamar\" (taşlık tepe) ve \"by\" (köy) kelimelerinin birleşimi.\n\nBaşlangıçta futbol dışında da birçok spor dalında faaliyet gösteren Hammarby, zamanla sadece futbola odaklandı ve İsveç futbolunun önemli ekiplerinden biri haline geldi. Özellikle 1980’lerde ve 2000’lerde ligde üst sıralarda yer alarak taraftarlarının gönlünde taht kurdu. Bugünyse sadece bir futbol kulübü olmanın ötesinde, Stockholm’ün kültürel simgelerinden biri olarak anılıyor.\n\nKulübün kuruluş hikayesi, aslında o dönemde İsveç’in sanayileşme ve şehirleşme sürecinin de bir yansıması. Liman bölgesinde yaşayan işçiler ve gençler için futbol, hem bir eğlence hem de topluluk duygusunu güçlendiren bir araçtı. Hammarby’nin bugünkü başarısının temelleri de işte bu komşuluk ruhuyla atıldı.",
+      "fun_fact": "Hammarby IF’nin takma adı \"Bajen\", aslında kulübün resmî adı olan \"Hammarby\" kelimesinin Stockholm ağzındaki kısaltılmış hali!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q460724",
+        "https://tr.wikipedia.org/wiki/Hammarby_IF",
+        "https://en.wikipedia.org/wiki/Hammarby_Fotboll"
+      ],
+      "wikidata_qid": "Q460724"
+    },
+    {
+      "id": "Q618990",
+      "date": "2031-02-02",
+      "category": "kurum-marka",
+      "widget_title": "CD Mafra ne zaman kuruldu?",
+      "hook": "Pek çok futbolseverin adını duyduğu, ama tarihini bilmediği bir takım var sence?",
+      "answer_year": 1965,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Futbola meraklı olanlar için oldukça tanıdık bir isim olan **CD Mafra**, Portekiz’in Lizbon bölgesine bağlı Mafra şehrinin temsilcisi. Bu takımın kuruluş hikayesi, aslında oldukça basit bir başlangıca dayanıyor: 1965 yılında, yerel futbolseverlerin bir araya gelmesiyle resmi olarak kuruldu. O günden bugüne, takımın renkleri olan mavi ve beyaz, Mafra’nın sembollerinden biri haline geldi.\n\nCD Mafra’nın kuruluşuyla ilgili en ilginç detaylardan biri, takımın adının doğrudan bağlı olduğu şehri temsil etmesi. [DOĞRULA: Kuruluşunda yer alan ilk yöneticilerin veya oyuncuların isimleri hakkında resmi kayıtlar bulunuyor mu?] Bu tür yerel takımların hikayeleri, genellikle o şehrin kültürel dokusuyla iç içe geçmiş durumda. CD Mafra da, Mafra’nın futboluna ve genç yeteneklerine ev sahipliği yaparak, zamanla Portekiz futbolunun alt liglerinde kendine sağlam bir yer edindi.\n\nBugün bile, takımın köklü geçmişi ve yerel destekçileri, CD Mafra’yı Portekiz futbolunun önemli bir parçası yapmaya devam ediyor.",
+      "fun_fact": "CD Mafra’nın maçlarını oynadığı Estádio Municipal de Mafra, sadece 2.500 kişilik kapasitesiyle oldukça samimi bir atmosfer sunuyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q618990",
+        "https://tr.wikipedia.org/wiki/CD_Mafra",
+        "https://en.wikipedia.org/wiki/C.D._Mafra"
+      ],
+      "wikidata_qid": "Q618990"
+    }
+  ]
+}
