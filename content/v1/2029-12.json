@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2029-12",
+  "items": [
+    {
+      "id": "Q2024644",
+      "date": "2029-12-01",
+      "category": "kurum-marka",
+      "widget_title": "Tide deterjanı ne zaman piyasaya çıktı?",
+      "hook": "Çamaşırlarınızın tertemiz kokmasını sağlayan o mavi kutu, aslında 1940’ların sonunda devrim yaratmıştı!",
+      "answer_year": 1946,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "Tide, Procter & Gamble tarafından 1946 yılında piyasaya sürülen bir çamaşır deterjanıdır. İkinci Dünya Savaşı’nın ardından evlerde temizlik standartlarının yükselmesiyle birlikte, Tide’nin formülü de bu ihtiyaca yanıt verecek şekilde geliştirildi. O dönemde mevcut deterjanların çoğu, sert sularda yeterince etkili olmuyordu. Tide’nin mucizevi yanı ise, \"synthetic detergent\" (sentetik deterjan) teknolojisini kullanarak, hem beyaz hem de renkli çamaşırlarda leke çıkarma gücünü artırmasıydı.\n\nPiyasaya çıktığı ilk yıllarda Tide, reklam kampanyalarıyla da dikkat çekti. Radyo ve televizyonda yayınlanan reklamlarda, \"Tide çıkarır!\" sloganıyla tanıtıldı ve kısa sürede Amerikan evlerinin vazgeçilmezi haline geldi. [DOĞRULA: Tide’nin ilk reklam kampanyasının tam olarak hangi yıl başladığı ve bu kampanyalarda kullanılan ilk sloganın detayları]\n\nTide’nin başarısı, sadece temizlik gücüyle sınırlı değildi; ambalaj tasarımı da markanın tanınırlığını artırdı. Mavi ve turuncu renkleriyle ünlenen Tide, yıllar içinde formülünü geliştirmeye devam etti ve günümüzde dünya çapında en çok satan deterjanlardan biri haline geldi. Peki, sizce Tide’nin piyasaya sürüldüğü yıl olan 1946’dan önce insanlar nasıl çamaşır yıkıyordu?",
+      "fun_fact": "Tide’nin orijinal formülünde, o dönemde çamaşır yıkamada devrim yaratan \"alkylbenzene sulfonate\" adı verilen bir bileşen kullanılıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2024644",
+        "https://tr.wikipedia.org/wiki/Alo_(marka)",
+        "https://en.wikipedia.org/wiki/Tide_(brand)"
+      ],
+      "wikidata_qid": "Q2024644"
+    },
+    {
+      "id": "Q2046939",
+      "date": "2029-12-02",
+      "category": "kurum-marka",
+      "widget_title": "Sensodyne diş macunu ne zaman icat edildi?",
+      "hook": "Diş hassasiyetiyle savaşmak için özel olarak tasarlanan bir markanın hikayesi, aslında bir tesadüfün ürünü olabilir mi?",
+      "answer_year": 1961,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Sensodyne’in hikayesi, 1960’ların başında hassas dişlere sahip insanların yaşadığı sorunlara çözüm arayışına dayanıyor. 1961 yılında [DOĞRULA: Sensodyne’in ilk formülünün hangi ülkede geliştirildiği] piyasaya sürülen bu diş macunu, özellikle soğuk, sıcak veya tatlı yiyecek-içeceklerden kaynaklanan diş ağrılarını hafifletmeyi hedefliyordu. Markanın arkasındaki bilimsel yaklaşım, diş minesini koruyan ve dentin tübüllerini bloke eden özel bileşenlere odaklanıyordu.\n\nİlginç olan, Sensodyne’in başlangıçta bir reçeteli ürün olarak mı yoksa doğrudan tüketiciye mi sunulduğu konusunda kaynaklar net değil. [DOĞRULA: Sensodyne’in ilk satışa çıktığı ülke ve pazar stratejisi hakkında doğrulama gerekiyor.] Ancak zamanla, hassas dişleri olan milyonlarca insanın güvenilir markası haline geldi. Bugün Sensodyne, diş hassasiyeti alanında dünya lideri olarak kabul ediliyor ve sürekli olarak yenilenen formülleriyle tanınıyor.\n\nPeki, bu markanın arkasındaki mucizevi formülü kim buldu? İşte burada tarih biraz sisli. Sensodyne’in ilk patentine veya buluşçusuna dair net bir kayıt bulunmuyor. Bu da onun, bir ekip çalışmasının ya da şirket Ar-Ge’sinin ürünü olabileceğini düşündürüyor.",
+      "fun_fact": "Sensodyne’in ilk formülünde kullanılan aktif bileşen olan potasyum nitrat, diş sinirlerini geçici olarak yatıştırarak hassasiyeti azaltıyordu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2046939",
+        "https://tr.wikipedia.org/wiki/Sensodyne",
+        "https://en.wikipedia.org/wiki/Sensodyne"
+      ],
+      "wikidata_qid": "Q2046939"
+    }
+  ]
+}
