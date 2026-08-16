@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-02",
+  "items": [
+    {
+      "id": "Q4816974",
+      "date": "2030-02-01",
+      "category": "kurum-marka",
+      "widget_title": "Atlético Español FC ne zaman kuruldu?",
+      "hook": "1971’de Meksika’da doğan bir futbol kulübünün hikayesine hazır mısın?",
+      "answer_year": 1971,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "1971 yılında Meksika’nın başkenti Meksiko’da kurulan Atlético Español FC, ülkenin futbol tarihine adını altın harflerle yazdırmış bir kulüp. İspanyolca’da “İspanyol Atlético” anlamına gelen isim, İspanya’nın köklü takımlarından Atlético Madrid ile olan güçlü bağını simgeliyor. Kulüp, [DOĞRULA: İspanyol kökenli yatırımcıların mı yoksa yerel girişimcilerin mi öncülüğünde kurulduğunu] net olarak bilinmese de, Meksika futboluna farklı bir dinamizm getirme amacı taşıyordu.\n\nAtlético Español FC, kurulduğu dönemde ülkenin en üst düzey ligi olan Primera División’da mücadele etmeye başladı. 1970’lerin ortalarında gösterdiği başarılı performanslarla dikkat çeken takım, 1975 yılında Copa México’yu (Meksika Kupası) kazanarak ilk büyük başarısını elde etti. Bu zafer, kulübün hem yerel hem de uluslararası arenada tanınmasına katkı sağladı. Takım, 1980’lere kadar ligde ve kupalarda boy göstermeye devam etti, ancak zamanla performansı düşüşe geçti.\n\n1990’larda mali sıkıntılar yaşayan kulüp, 1994 yılında ligden düşürüldü ve ardından kapandı. Atlético Español FC’nin mirası, Meksika futbolunun zengin tarihine kısa ama etkili bir şekilde katkıda bulunan bir dönem olarak hatırlanıyor. Bugün, eski oyuncuları ve taraftarları tarafından hâlâ sevgiyle anılan bir takım.",
+      "fun_fact": "Atlético Español FC’nin 1975’te kazandığı Copa México zaferi, kulübün tarihindeki tek büyük şampiyonluk olarak kayıtlara geçti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4816974",
+        "https://tr.wikipedia.org/wiki/Atl%C3%A9tico_Espa%C3%B1ol_FC",
+        "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Espa%C3%B1ol_F.C."
+      ],
+      "wikidata_qid": "Q4816974"
+    },
+    {
+      "id": "Q6054672",
+      "date": "2030-02-02",
+      "category": "kurum-marka",
+      "widget_title": "Saturday Mothers ne zaman ortaya çıktı?",
+      "hook": "1995 yılında İstanbul'da bir oturma eylemi gerçekleşti, ama Cumartesi Anneleri'nin (Saturday Mothers) gerçek hikayesi neydi?",
+      "answer_year": 1995,
+      "year_precision": "month",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "1995 yılında İstanbul, Galatasaray Meydanı'nda düzenlenen bu oturma eylemi, Türkiye'de kadın hakları mücadelesinin önemli bir dönüm noktasını temsil etti. 'Saturday Mothers' ismi, o dönemde İstanbul'da düzenlediği toplu oturma eylemlerine katılan kadınların adını yansıttı. Bu kadınlar, çocukların yetiştirilmesi ve eğitimini üstlenen ve vatandaşlık haklarını savunan bir topluluk olarak tanındı. Ancak Cumartesi Anneleri'nin (Saturday Mothers) gerçek kuruluşu ve kuruluş tarihi hakkında kesin bilgimiz yok. [DOĞRULA: Cumartesi Anneleri'nin tam olarak ne zaman ve kim tarafından kurulduğu hakkında bilgi sahibi olmak için daha fazla araştırma yapmalıyız.]",
+      "fun_fact": "Çoğunlukla bilinen bir yanlış bilgi, Cumartesi Anneleri'nin (Saturday Mothers) İstanbul'daki sadece bir eylem grubu değil, daha geniş bir hareketin temsilcisi olduğunu unutmamak.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6054672",
+        "https://tr.wikipedia.org/wiki/Cumartesi_Anneleri",
+        "https://en.wikipedia.org/wiki/Saturday_Mothers"
+      ],
+      "wikidata_qid": "Q6054672"
+    }
+  ]
+}
