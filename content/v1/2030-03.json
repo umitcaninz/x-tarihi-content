@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2030-03",
+  "items": [
+    {
+      "id": "Q107569",
+      "date": "2030-03-01",
+      "category": "kurum-marka",
+      "widget_title": "Roma Kulübü ne zaman kuruldu?",
+      "hook": "Dünyayı değiştirecek bir raporun doğumunu tetikleyen kulüp, tam olarak hangi yılda kuruldu sence?",
+      "answer_year": 1968,
+      "year_precision": "day",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Roma Kulübü, 1968 yılında İtalya’nın başkenti Roma’da kurulan uluslararası bir düşünce kuruluşu. [DOĞRULA: Kuruluşun tam tarihi ve ilk toplantının yapıldığı yer hakkında daha detaylı kaynaklara ihtiyaç var.] Kuruluş amacı, küresel sorunlara bilimsel ve çok disiplinli bir bakış açısıyla çözüm önerileri geliştirmek olan bu kulüp, dünya çapında tanınırlığını 1972 yılında yayımladığı *Büyümenin Sınırları* (*The Limits to Growth*) adlı raporla kazandı. Rapor, ekonomik büyümenin sınırlarına dair uyarılarıyla hem bilim dünyasında hem de politika yapıcılar arasında geniş yankı uyandırdı.\n\nRoma Kulübü’nün kuruluşunda itici güç olan isimlerden biri, sanayici Aurelio Peccei’dir. Peccei, küresel sorunlara duyarlı bir girişimci olarak, farklı ülkelerden gelen bilim insanları, ekonomistler ve düşünürleri bir araya getirme vizyonuyla hareket etti. Kuruluşun ilk yıllarında, üyeleri arasında geleceğin bilim insanları, siyasetçiler ve hatta devlet başkanları yer aldı — bu da onun etkisini hızla artırdı.\n\nBugün Roma Kulübü, hâlâ aktif olarak çalışmalarını sürdürüyor ve küresel sorunlara yenilikçi çözümler üretmeye devam ediyor. Peki, sence bu kulüp hangi yıl doğdu?",
+      "fun_fact": "Roma Kulübü’nün ilk toplantısı, adını aldığı Roma’daki *Accademia dei Lincei* adlı bilim akademisinde değil, Bellagio’daki Rockefeller Vakfı merkezinde yapıldı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q107569",
+        "https://tr.wikipedia.org/wiki/Roma_Kul%C3%BCb%C3%BC",
+        "https://en.wikipedia.org/wiki/Club_of_Rome"
+      ],
+      "wikidata_qid": "Q107569"
+    }
+  ]
+}
