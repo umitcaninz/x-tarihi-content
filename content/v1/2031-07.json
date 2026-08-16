@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2031-07",
+  "items": [
+    {
+      "id": "Q10333",
+      "date": "2031-07-01",
+      "category": "kurum-marka",
+      "widget_title": "Valencia CF ne zaman kuruldu?",
+      "hook": "İspanya’nın en eski futbol kulüplerinden biri olan Valencia CF’nin hikayesi, bir şehrin kaderini nasıl şekillendirdiğini anlatıyor.",
+      "answer_year": 1919,
+      "year_precision": "day",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "Valencia CF, 1919 yılında İspanya’nın Valensiya şehrinde kurulan efsanevi bir futbol kulübü. [DOĞRULA: Kuruluşunda tam olarak hangi gün ve ayda resmileşti?] Resmi kayıtlara göre, kulüp 1919 yılında tescil edilmiş olsa da, futbolseverler arasında 1919’un sadece bir tahmin olduğu ve aslında biraz daha erken bir tarihte, hatta 1918’in sonlarında kurulduğuna dair spekülasyonlar var. Ne var ki, bu detaylar belirsizliğini koruyor.\n\nValencia CF’nin kuruluş hikayesi, Valensiya’nın yerel futboluna olan tutkuyla başlıyor. Dönemin gençleri, şehrin farklı bölgelerinde futbol oynamaya başlamış, ancak organize bir yapıya ihtiyaç duyulmuştu. 1919 yılında resmileşen kulüp, kısa sürede yerel liglerde boy göstermeye başladı. 1923 yılında ise ünlü **Mestalla Stadyumu**’nun temelleri atıldı — ki bu stadyum, kulübün kimliğinin ayrılmaz bir parçası haline geldi.\n\n1940’lara gelindiğinde Valencia CF, İspanya’nın en güçlü takımlarından biri haline geldi. 1941-42 sezonunda La Liga şampiyonluğunu kazandı ve bu başarıyı 1943-44, 1946-47 ve 1970-71 sezonlarında tekrarladı. Aynı zamanda, Copa del Rey’i de birçok kez müzesine götürdü. Uluslararası arenada da parladı: 1980 yılında UEFA Kupa Galipleri Kupası’nı kazanarak, İspanyol futbolunun en prestijli kupalarından birine sahip oldu.\n\nBugün Valencia CF, hem sportif başarıları hem de genç yeteneklere verdiği önemle tanınıyor. Kulübün renkleri olan **kırmızı ve beyaz**, Valensiya şehrinin bayrağından ilham alıyor ve bu renkler, hem yerel gururu hem de futbolun heyecanını simgeliyor.",
+      "fun_fact": "Valencia CF’nin maskotu, Valensiya’nın simgesi olan *murciélago* yani yarasa — ki bu, kulübün lakabı olan *Los Murciélagos*’a da ilham vermiş!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10333",
+        "https://tr.wikipedia.org/wiki/Valencia_CF",
+        "https://en.wikipedia.org/wiki/Valencia_CF"
+      ],
+      "wikidata_qid": "Q10333"
+    },
+    {
+      "id": "Q11945",
+      "date": "2031-07-02",
+      "category": "kurum-marka",
+      "widget_title": "Girona FC ne zaman kuruldu?",
+      "hook": "İspanya’nın en heyecan verici futbol hikâyelerinden biri olan Girona FC’nin temelleri hangi yılda atıldı dersiniz?",
+      "answer_year": 1930,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Girona Futbol Kulübü’nün resmi kayıtlarına göre, bu heyecan verici takımın temelleri **1930 yılında** atıldı. Kuruluşunun üzerinden neredeyse bir asır geçen Girona, Katalonya’nın Girona şehrinin gururu olarak İspanyol futboluna damga vuruyor.\n\nKulübün ilk yıllarında yerel liglerde mücadele ettiği biliniyor, ancak [DOĞRULA: kuruluşunda yer alan ilk yönetim kurulu üyeleri ve ilk başkanının adı] gibi detaylar net olarak kayıtlarda yer almıyor. Girona FC’nin tarihindeki en önemli dönüm noktalarından biri, 2017 yılında City Football Group’un (Manchester City’nin de sahibi olan grup) kulübün çoğunluk hissesini satın almasıyla geldi. Bu adım, takımın hem sportif hem de finansal anlamda büyük bir ivme kazanmasını sağladı.\n\nGirona, La Liga’da gösterdiği performansla son yıllarda adından sıkça söz ettiriyor. Özellikle 2022-2023 sezonunda La Liga’da dördüncü olarak UEFA Şampiyonlar Ligi elemelerine katılmaya hak kazanmaları, kulüp tarihinde bir ilk oldu. Bu başarı, Girona’nın İspanyol futbolunun önemli bir parçası haline geldiğinin de bir göstergesi.\n\nBugün Girona, hem yerel hem de uluslararası arenada tanınan bir marka haline geldi. Stadyumunda yaşanan coşkulu atmosfer ve genç yeteneklere verdiği önem, kulübün geleceğe dair umutlarını da artırıyor.",
+      "fun_fact": "Girona FC’nin stadyumu Montilivi, 1970 yılında açılmış olmasına rağmen, kulüp tarihindeki en yüksek seyirci rekoru 2023 yılında Şampiyonlar Ligi maçında 14.500 taraftarla kırıldı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11945",
+        "https://tr.wikipedia.org/wiki/Girona_FC",
+        "https://en.wikipedia.org/wiki/Girona_FC"
+      ],
+      "wikidata_qid": "Q11945"
+    }
+  ]
+}
