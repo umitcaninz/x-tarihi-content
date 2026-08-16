@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "month": "2029-05",
+  "items": [
+    {
+      "id": "Q22274379",
+      "date": "2029-05-01",
+      "category": "yazilim-internet",
+      "widget_title": "Android 7.0 ne zaman çıktı?",
+      "hook": "Akıllı telefonlarımızın beyni olan Android’in en lezzetli versiyonlarından biri olan Nougat’ın gizemli doğum tarihini biliyor musun?",
+      "answer_year": 2016,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Android 7.0, yani daha çok bilinen adıyla **Android Nougat**, Android işletim sisteminin yedinci büyük güncellemesi olarak 2016 yılında kullanıcıların karşısına çıktı. Bu sürüm, akıllı telefon deneyimimizi daha akıcı, güvenli ve kişiselleştirilebilir hale getiren birçok yenilikle doluydu. Örneğin, çoklu pencere desteği sayesinde kullanıcılar iki uygulamayı aynı anda yan yana kullanabiliyor, bildirimlerde daha fazla kontrol sahibi olabiliyordu.\n\nNougat’ın adıysa tatlı sevenler için oldukça eğlenceli bir hikayeye sahip: Google, yeni sürümlerine genellikle tatlılardan isimler veriyor ve bu kez sıra **Nougat**a gelmişti. [DOĞRULA: Bu isimlendirme geleneğinin ne zaman başladığı ve neden tercih edildiği] Peki, bu lezzetli isimli sürümün tam olarak hangi ayda piyasaya sürüldüğüysa biraz gizemli. Resmi olarak 2016 yılı içinde yayınlandığı bilinse de, bazı cihazlara Ağustos ayında, bazılarındaysa Eylül ayında ulaşmıştı. Bu da kullanıcılar arasında küçük bir karışıklığa yol açmıştı!\n\nAndroid’in bu versiyonu, aynı zamanda **Vulkan API** desteğiyle oyun performansını da önemli ölçüde artırdı. Bu sayede mobil oyunlar daha akıcı ve görsel açıdan etkileyici hale geldi. Ayrıca, **Doze** adı verilen bir güç tasarrufu modu da eklenerek pil ömrünün uzatılması hedeflendi.",
+      "fun_fact": "Android Nougat’ın piyasaya sürüldüğü yıl, Google’ın kuruluşunun 18. yıl dönümüydü!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22274379",
+        "https://tr.wikipedia.org/wiki/Android_Nougat",
+        "https://en.wikipedia.org/wiki/Android_Nougat"
+      ],
+      "wikidata_qid": "Q22274379"
+    },
+    {
+      "id": "Q23310067",
+      "date": "2029-05-02",
+      "category": "yazilim-internet",
+      "widget_title": "Android 1.1 ne zaman çıktı?",
+      "hook": "Dünyanın en popüler mobil işletim sisteminin ilk adımları ne kadar eskiye dayanıyor dersiniz?",
+      "answer_year": 2009,
+      "year_precision": "year",
+      "guess_range": [
+        1900,
+        2026
+      ],
+      "body": "Android 1.1, Google’ın mobil dünyasına attığı ilk ciddi adım olarak kabul edilir. 2009 yılında piyasaya sürülen bu sürüm, aslında Android’in ikinci genel yayınlanan versiyonuydu — ilk çıkanı Android 1.0’dı, ama o kadar az cihazda yer aldı ki, çoğu kullanıcı doğrudan Android 1.1’le tanıştı. [DOĞRULA: Android 1.0’un ilk cihazı hangi marka ve modeldi?]\n\nAndroid 1.1, temelde Android 1.0’a göre daha kararlı bir deneyim sunmayı hedefliyordu. Kullanıcıların en çok şikayet ettiği eksiklikler giderildi: mesela arama fonksiyonu iyileştirildi, bildirim sistemi daha kullanışlı hale getirildi ve haritalar uygulaması ilk kez bu sürümde yer aldı. O dönemde akıllı telefonlar henüz yeni yeni yaygınlaşmaya başlamıştı, bu yüzden Android 1.1’in getirdiği yenilikler, kullanıcıların cihazlarını daha verimli kullanmalarına olanak tanıdı.\n\nPeki, Android 1.1’in çıkış tarihi neden bu kadar önemli? Çünkü bu sürüm, Android’in gelecekteki başarısının temelini attı. Google, Android’in açık kaynaklı yapısını kullanarak geliştiricilerin ve üreticilerin ilgisini çekmeyi başardı. Sonuçta, sadece birkaç yıl içinde Android, dünya genelinde en çok kullanılan mobil işletim sistemi haline geldi.",
+      "fun_fact": "Android 1.1’in kod adı ‘Petit Four’du — evet, tıpkı bir pastanın adı gibi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23310067",
+        "https://tr.wikipedia.org/wiki/Android_1.1"
+      ],
+      "wikidata_qid": "Q23310067"
+    },
+    {
+      "id": "Q29000531",
+      "date": "2029-05-03",
+      "category": "yazilim-internet",
+      "widget_title": "Android O ne zaman ortaya çıktı?",
+      "hook": "Android'un popüler bir işletim sistemiyken, Oreo'nun ne zaman ve nasıl ortaya çıktığını öğrenmek zengin bir tarihi sunar.",
+      "answer_year": 2017,
+      "year_precision": "day",
+      "guess_range": [
+        1910,
+        2026
+      ],
+      "body": "Android O, 2017 yılında Google tarafından tanıtılan bir işletim sistemidir. Oreo, Android'un 8.0 versiyonu olarak bilinen bu işletim sisteminin adıdır. Oreo'nun adının neden bu şekilde olduğuna dair birçok tezi var, ancak kesin bir tarih ve bulucu bilinmemektedir. Google, işletim sisteminin tanıtıldığı 2017 yılından sonra Oreo'nun adının hangi faktörlere dayandığını açıkladı, ancak tam olarak nasıl belirlendiği açıklandırmadı. [DOĞRULA: Oreo'nun tanıtıldığı yıl ve Google tarafından belirlendiği süreç hakkında daha fazla bilgi] Android'un popülerliği ve geniş kullanım alanındaki bir operasyonel sistem olarak Oreo'nun önemini göz önünde bulundurun. Bu işletim sisteminin özelliklerinden biri de daha iyi performans ve daha hızlı yüklemelerdir.",
+      "fun_fact": "Oreo'nun adının bir yumurta şerbeti ile ilişkili olması, Google'nin işletim sistemiyle ilgili şaka yapma eğilimini gösterir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29000531",
+        "https://tr.wikipedia.org/wiki/Android_Oreo",
+        "https://en.wikipedia.org/wiki/Android_Oreo"
+      ],
+      "wikidata_qid": "Q29000531"
+    }
+  ]
+}
