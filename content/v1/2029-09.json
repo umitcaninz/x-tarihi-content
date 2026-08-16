@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2029-09",
+  "items": [
+    {
+      "id": "Q328794",
+      "date": "2029-09-01",
+      "category": "kurum-marka",
+      "widget_title": "Sendling Camii ne zaman inşa edildi?",
+      "hook": "Bavaria’nın kalbinde, modern mimarinin sessiz bir şahidi olan bu cami, hangi yılda hayata geçirildi sizce?",
+      "answer_year": 1989,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Sendling Camii, Münih’in Sendling semtinde yer alan ve 1989 yılında inşa edilen bir ibadethane. Almanya’nın göçmen nüfusunun artmasıyla birlikte, Müslüman toplulukların ibadet ihtiyacını karşılamak amacıyla inşa edilen bu cami, aynı zamanda kentin sosyal ve mimari dokusuna da farklı bir renk katıyor.\n\nCaminin inşa edilme süreci, 1980’li yılların sonunda Almanya’daki İslam topluluklarının artan varlığına paralel olarak hız kazandı. [DOĞRULA: İnşaatın başlangıç yılı ve mimarı hakkında kesin bir bilgi bulunmamaktadır.] 1989 yılı, caminin resmen tamamlandığı ve ibadete açıldığı tarih olarak kayıtlara geçmiş durumda. Minaresiz tasarımıyla dikkat çeken Sendling Camii, modern ve minimalist mimarisiyle de öne çıkıyor.\n\nAlmanya’da birçok cami gibi, Sendling Camii de sadece bir ibadet yeri olmanın ötesinde, topluluk etkinliklerine ev sahipliği yapan bir merkez görevi görüyor. Yerel halkla diyalog kurma ve kültürel alışverişi destekleme amacı taşıyan bu yapı, aynı zamanda mimari bir sembol olarak da değerlendiriliyor.",
+      "fun_fact": "Sendling Camii, Münih’teki ilk cami olmamakla birlikte, modern mimarinin izlerini taşıyan nadir yapılardan biri.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q328794",
+        "https://tr.wikipedia.org/wiki/Sendling_Camii",
+        "https://en.wikipedia.org/wiki/Mosque_in_Sendling"
+      ],
+      "wikidata_qid": "Q328794"
+    }
+  ]
+}
