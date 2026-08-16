@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "month": "2029-02",
+  "items": [
+    {
+      "id": "Q1204169",
+      "date": "2029-02-01",
+      "category": "kurum-marka",
+      "widget_title": "MOS Burger ne zaman kuruldu?",
+      "hook": "Dünyanın en lezzetli hamburgerlerinden birini yediğinizi düşünün — peki ya bu lezzetin arkasında yatan hikaye 1970'lere dayanıyorsa?",
+      "answer_year": 1972,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "MOS Burger, Japonya'nın yerel lezzetlerini fast-food anlayışıyla harmanlayan, bugün dünya genelinde 1.700'den fazla şubesiyle tanınan bir marka. Bu lezzetli hikaye, 1972 yılında Tokyo'nun Minato bölgesinde, bir restoran olarak doğdu. Kuruluşuyla ilgili net bir isim ya da detay bulunmasa da, MOS isminin \"Mountain, Ocean, Sun\" (Dağ, Okyanus, Güneş) kelimelerinin baş harflerinden geldiği yaygın bir rivayet olarak karşımıza çıkıyor. [DOĞRULA: Bu rivayetin doğruluğu]\n\nBaşlangıçta küçük bir restoran olarak hizmet veren MOS Burger, Japon mutfağının geleneksel tatlarını fast-food dünyasına taşıyarak hızla popülerlik kazandı. Özellikle pirinçten yapılan burger ekmekleri ve yerel malzemelerle hazırlanan menüleriyle dikkat çekti. 1980'lerde ve 1990'larda Japonya içinde hızla büyüyen marka, 1990'ların sonunda uluslararası arenaya açılmaya başladı. Bugün, Asya'nın yanı sıra ABD, Hawaii ve hatta Ortadoğu'da şubeleri bulunan MOS Burger, kültürel bir fenomen haline geldi.",
+      "fun_fact": "MOS Burger'ın en ünlü menülerinden biri olan 'Teriyaki Burger', Japonya'nın geleneksel teriyaki sosunu fast-food ile buluşturan ilk örneklerden biri olarak kabul ediliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1204169",
+        "https://tr.wikipedia.org/wiki/MOS_Burger",
+        "https://en.wikipedia.org/wiki/MOS_Burger"
+      ],
+      "wikidata_qid": "Q1204169"
+    },
+    {
+      "id": "Q1205312",
+      "date": "2029-02-02",
+      "category": "kurum-marka",
+      "widget_title": "In-N-Out Burger ne zaman kuruldu?",
+      "hook": "Kaliforniya’nın simgelerinden biri olan bu burger zinciri, fast food denince akla ilk gelenlerden değil — ama neden mi özel?",
+      "answer_year": 1948,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "In-N-Out Burger, 1948 yılında Harry ve Esther Snyder çifti tarafından Los Angeles yakınlarında kuruldu. İlk şube, Baldwin Park’ta açılan küçük bir restorandı ve sadece hamburger, peynirli hamburger ve içeceklerden oluşan basit bir menü sunuyordu. İlginç olan, bu zincirin fast food sektöründe devrim yaratacak bir yeniliği erken benimsemesiydi: **drive-thru sistemi**. 1970’lerde, henüz pek yaygın olmayan bu sistemi kullanarak In-N-Out, hızlı ve pratik bir yemek deneyimi sundu.\n\nZincirin en dikkat çekici özelliklerinden biri de **sır menüsü** olarak bilinen gizli seçenekleri. Örneğin, \"Protein Stili\" patates kızartmasının ızgarada pişirilmesiyle yapılıyor — bu yöntem [DOĞRULA: orijinal olarak nasıl ortaya çıktı?] müşterilerin talepleriyle gelişmiş olabilir. Ayrıca, zincirin sadık müşteri kitlesi, In-N-Out’u sadece bir fast food zinciri olmanın ötesinde, kültürel bir fenomen haline getirdi.\n\nBugün In-N-Out, Kaliforniya’nın yanı sıra Arizona, Nevada, Utah ve Teksas gibi eyaletlerde de yüzlerce şubeye sahip. Peki, bu basit ama etkili iş modeli nasıl oldu da yıllar içinde bu kadar popüler kaldı? Belki de cevap, kaliteye ve sadeliğe verdiği önemde gizli.",
+      "fun_fact": "In-N-Out’un menüsünde sadece üç çeşit burger bulunuyor: hamburger, cheeseburger ve double double — ve bunların hiçbirinde tavuk ya da balık seçeneği yok!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1205312",
+        "https://tr.wikipedia.org/wiki/In-N-Out_Burger",
+        "https://en.wikipedia.org/wiki/In-N-Out_Burger"
+      ],
+      "wikidata_qid": "Q1205312"
+    },
+    {
+      "id": "Q1276832",
+      "date": "2029-02-03",
+      "category": "kurum-marka",
+      "widget_title": "Hesburger ne zaman kuruldu?",
+      "hook": "Finlandiya’nın en sevilen fast food zinciri olan Hesburger’in ilk dükkanının açıldığı yılı biliyor musun?",
+      "answer_year": 1980,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Hesburger’in hikayesi, 1980 yılında Finlandiya’nın güneybatısındaki küçük bir kasaba olan Naantali’de başladı. O yıl, yerel bir girişimci tarafından kurulan bu fast food zinciri, zamanla ülkenin dört bir yanına yayıldı ve Finlandiya’nın en büyük hamburger restoranları ağı haline geldi. Başlangıçta sadece bir yerel lezzet olarak başlayan Hesburger, bugün yüzlerce şubesiyle ve milyonlarca müşterisiyle Finlandiya’nın fast food kültürünün önemli bir parçası.\n\nPeki, Hesburger’in adının kökeni nedir? İsminin ‘Heikki’ (Fincede yaygın bir isim) ve ‘burger’ kelimelerinin birleşiminden geldiği söylense de, bu konuda resmi bir doğrulama bulunmuyor. [DOĞRULA: Hesburger adının kökeni ve ilk kurucusunun kim olduğu hakkında daha fazla bilgi var mı?]\n\nZamanla Hesburger, sadece Finlandiya’da değil, Estonya, Letonya ve hatta Almanya gibi ülkelerde de şubeler açarak uluslararası arenada da adından söz ettirmeye başladı. Menüsünde klasik hamburgerlerin yanı sıra, Fin mutfağından esinlenen özel lezzetler de sunan Hesburger, yerel tatları fast food ile buluşturmayı başardı.",
+      "fun_fact": "Hesburger’in en popüler menü öğesi olan ‘Kotkala’ burgeri, adını Finlandiya’nın Kotka şehrinden alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1276832",
+        "https://tr.wikipedia.org/wiki/Hesburger",
+        "https://en.wikipedia.org/wiki/Hesburger"
+      ],
+      "wikidata_qid": "Q1276832"
+    },
+    {
+      "id": "Q1330910",
+      "date": "2029-02-04",
+      "category": "kurum-marka",
+      "widget_title": "Popeyes ne zaman kuruldu?",
+      "hook": "Dünyanın en lezzetli kızarmış tavuklarından birini sunan Popeyes’in hikayesi, bir restorandan çok daha fazlasını saklıyor olabilir!",
+      "answer_year": 1972,
+      "year_precision": "day",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Popeyes’in temelleri 1972 yılında, Amerika’nın Louisiana eyaletinde atıldı. Kurucusu Al Copeland, aslında bir restoran işletmecisi olmaktan çok, yerel bir fast-food girişimcisiydi. İlk dükkanı, New Orleans’ın kuzeyindeki Arabi bölgesinde açılan \"Chicken on the Run\" adıyla bilinen basit bir mekandı. [DOĞRULA: Bu ilk mekanın tam adresi ve ilk menüdeki diğer seçenekler hakkında doğrulama gerekiyor.]\n\nZamanla, Copeland restoranını yeniden markalaştırdı ve adını, o dönem popüler olan *Popeye* çizgi film karakterinden esinlenerek \"Popeyes Mighty Good Fried Chicken\" olarak değiştirdi. Bu isim değişikliği, markanın yerel bir ikon haline gelmesinde büyük rol oynadı. 1970’lerin sonunda ve 1980’lerin başında, Louisiana’nın Cajun mutfağının lezzetlerini fast-food formatına taşıyan Popeyes, hızla büyümeye başladı.\n\n1980’lerde ulusal arenaya adım atan Popeyes, özellikle kızarmış tavuğunun baharatlı ve gevrek kabuğuyla tanındı. Bugün dünya genelinde binlerce şubesi bulunan marka, sadece Amerika Birleşik Devletleri’nde değil, uluslararası arenada da fast-food tarihinde önemli bir yere sahip. Peki, bu lezzet yolculuğunun ilk adımı olan 1972 yılı, aslında nasıl bir tesadüfün sonucu çıktı dersiniz?",
+      "fun_fact": "Popeyes’in ünlü sloganlarından biri olan \"Love That Chicken...\" aslında 1979 yılında kullanılmaya başlandı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1330910",
+        "https://tr.wikipedia.org/wiki/Popeyes",
+        "https://en.wikipedia.org/wiki/Popeyes"
+      ],
+      "wikidata_qid": "Q1330910"
+    }
+  ]
+}
