@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2031-06",
+  "items": [
+    {
+      "id": "Q298279",
+      "date": "2031-06-01",
+      "category": "kurum-marka",
+      "widget_title": "AS Cherbourg Football ne zaman kuruldu?",
+      "hook": "Fransa'nın deniz kenarındaki bu şirin takımın hikayesi, I. Dünya Savaşı'nın gölgesinde başlıyor...",
+      "answer_year": 1915,
+      "year_precision": "year",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "AS Cherbourg Football, 1915 yılında Fransa'nın Cherbourg kentinde kurulan bir futbol kulübü. Kuruluş tarihi olarak 1915 yılı kabul edilse de, [DOĞRULA: kulübün ilk kayıtlı faaliyetleri veya resmî kuruluş belgeleri] bu tarihin tam olarak doğrulanmasını gerektiriyor. I. Dünya Savaşı'nın ortasında doğan bu takım, bölgenin futbol tarihine damga vurmuş durumda.\n\nKulüp, yerel futbol camiasında uzun yıllar boyunca varlığını sürdürmüş ve Fransa'nın alt liglerinde mücadele etmiş. AS Cherbourg Football'un hikayesi, sadece bir spor kulübünden daha fazlası: aynı zamanda bir şehrin ve insanlarının dayanışmasının da öyküsü. Stadyumunda yankılanan tezahüratlar, savaşın yorgunluğunu unutturan bir neşe kaynağı olmuş olmalı.\n\nBugün bile, kulübün geçmişi ve mirası, Cherbourg'un futbolseverleri tarafından saygıyla anılıyor. Peki, sence bu takımın ilk yıllarında hangi zorluklarla karşılaştığını tahmin edebiliyor musun?",
+      "fun_fact": "AS Cherbourg Football'un kuruluşundan sadece bir yıl sonra, 1916'da Fransa'da futbol maçları için ilk kez kadın hakemler görevlendirilmeye başladı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q298279",
+        "https://tr.wikipedia.org/wiki/AS_Cherbourg_Football",
+        "https://en.wikipedia.org/wiki/AS_Cherbourg_Football"
+      ],
+      "wikidata_qid": "Q298279"
+    }
+  ]
+}
