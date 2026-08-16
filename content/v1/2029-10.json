@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2029-10",
+  "items": [
+    {
+      "id": "Q129673",
+      "date": "2029-10-01",
+      "category": "kurum-marka",
+      "widget_title": "Ulsan HD FC ne zaman kuruldu?",
+      "hook": "Güney Kore’nin endüstriyel başkenti Ulsan’ın simgesi olan futbol kulübünün hikayesi, sanayi devriminin gölgesinde nasıl şekillendi?",
+      "answer_year": 1983,
+      "year_precision": "day",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Ulsan HD FC’nin temelleri 1983 yılına dayanıyor. Güney Kore’nin doğu kıyısında, ülkenin sanayi devi Ulsan şehrinde kurulan bu kulüp, başlangıçta yerel bir takım olarak yola çıktı. [DOĞRULA: Kuruluş amacı ve ilk adı hakkında daha fazla detay bulunmamaktadır.] Zamanla, Ulsan’ın ekonomik büyümesiyle paralel olarak futbol kulübü de gelişti ve Güney Kore futbolunun önemli bir parçası haline geldi.\n\n1990’larda profesyonel liglerin kurulmasıyla birlikte Ulsan HD FC, K League’e katıldı ve ülke genelinde tanınırlık kazandı. Kulüp, 2010’larda Hyundai Heavy Industries’in (HD) sponsorluğunu almasıyla birlikte Ulsan Hyundai olarak yeniden yapılandı. Bu dönemde hem yerel hem de uluslararası arenada başarılar elde etti, AFC Şampiyonlar Ligi’ni kazanan ilk Güney Koreli takım unvanını da elinde bulunduruyor.\n\nBugün Ulsan HD FC, sadece bir futbol kulübü olmanın ötesinde, Ulsan şehrinin kimliğinin bir parçası olarak görülüyor. Endüstriyel mirası ve futbol başarılarıyla, Güney Kore’nin modernleşme hikayesinin canlı bir örneği olarak karşımıza çıkıyor.",
+      "fun_fact": "Ulsan HD FC, AFC Şampiyonlar Ligi’ni kazanan ilk Güney Koreli takım olmasının yanı sıra, 2020 yılında bu turnuvayı ikinci kez müzesine götürdü.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q129673",
+        "https://tr.wikipedia.org/wiki/Ulsan_HD_FC",
+        "https://en.wikipedia.org/wiki/Ulsan_HD_FC"
+      ],
+      "wikidata_qid": "Q129673"
+    },
+    {
+      "id": "Q132885",
+      "date": "2029-10-02",
+      "category": "kurum-marka",
+      "widget_title": "Olympique de Marseille ne zaman kuruldu?",
+      "hook": "Fransa'nın en tutkulu futbol kulüplerinden biri olan OM, tarih sahnesine nerede ve nasıl çıktı dersiniz?",
+      "answer_year": 1899,
+      "year_precision": "day",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "Olympique de Marseille, kısaca OM olarak da bilinen bu efsanevi Fransız kulübü, 1899 yılında Marsilya şehrinde kuruldu. Kuruluş hikayesi, o dönemde Fransa'da futbolun henüz yeni yeni yayılmaya başladığı bir döneme denk geliyor. Kulübün tam olarak hangi gün ve kimler tarafından kurulduğu konusunda net bir kayıt bulunmasa da, 1899 yılı resmî olarak kabul edilen tarih olarak kayıtlara geçti.\n\nOM'nin kuruluşuyla ilgili ilginç bir detay da, kulübün sadece futbol değil, aynı zamanda ragbi ve diğer spor dallarında da faaliyet göstermesiydi. Zamanla futbol, kulübün odak noktası haline geldi ve Marsilya'nın sembollerinden biri oldu. [DOĞRULA: Kuruluşunda rol alan ilk üyelerin isimleri ve kulübün ilk adı]\n\n1920'lerde profesyonel futbol sistemine geçişle birlikte OM, Fransız futbolunun önemli bir parçası haline geldi. 1932 yılında ise resmen profesyonel bir kulüp olarak liglere katılmaya başladı. Bu dönemden itibaren, hem yerel hem de ulusal arenada adından sıkça söz ettirdi.",
+      "fun_fact": "OM, Fransa'nın ilk profesyonel futbol ligi şampiyonu unvanını 1937 yılında kazandı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q132885",
+        "https://tr.wikipedia.org/wiki/Olympique_de_Marseille",
+        "https://en.wikipedia.org/wiki/Olympique_de_Marseille"
+      ],
+      "wikidata_qid": "Q132885"
+    }
+  ]
+}
