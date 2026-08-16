@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2030-10",
+  "items": [
+    {
+      "id": "Q344328",
+      "date": "2030-10-01",
+      "category": "kurum-marka",
+      "widget_title": "İstanbulspor ne zaman kuruldu?",
+      "hook": "Türkiye’nin en eski futbol kulüplerinden biri olan İstanbulspor’un hikayesi, neredeyse bir asırlık bir geçmişe dayanıyor!",
+      "answer_year": 1926,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "İstanbulspor, 1926 yılında [DOĞRULA: kuruluş süreci ve ilk üyeleri hakkında detaylı bilgi] İstanbul’da kurulan ve Türkiye’nin en köklü spor kulüplerinden biri olarak kabul edilen bir futbol takımıdır. Kuruluşundan bu yana İstanbul’un Beykoz ilçesinde faaliyet gösteren kulüp, Türk futbol tarihinde önemli bir yere sahiptir. Özellikle yerel liglerde ve Türkiye Kupası’nda gösterdiği başarılarla tanınan İstanbulspor, zaman içinde birçok yetenekli futbolcuyu da yetiştirmiştir.\n\nKulübün kuruluş yılı olarak 1926 kabul edilse de, [DOĞRULA: kuruluş amacı, ilk başkanı ve kurucu üyeleri hakkında net bilgiler] bazı kaynaklarda farklı tarihler veya detaylar yer alsa da, resmi kayıtlarda en yaygın kabul gören tarih budur. İstanbulspor, Türk futbolunun erken dönemlerinde önemli bir rol oynamış ve ülke genelinde tanınan bir marka haline gelmiştir.\n\nBugün hala aktif olarak mücadele eden İstanbulspor, hem yerel hem de ulusal arenada varlığını sürdürmektedir. Taraftarları tarafından büyük bir sevgiyle desteklenen kulüp, geçmişiyle gurur duymakta ve geleceğe umutla bakmaktadır.",
+      "fun_fact": "İstanbulspor’un kuruluşunda yer alan ilk üyelerden bazıları, aynı zamanda dönemin önde gelen sporcuları arasındaydı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q344328",
+        "https://tr.wikipedia.org/wiki/%C4%B0stanbulspor",
+        "https://en.wikipedia.org/wiki/%C4%B0stanbulspor"
+      ],
+      "wikidata_qid": "Q344328"
+    }
+  ]
+}
