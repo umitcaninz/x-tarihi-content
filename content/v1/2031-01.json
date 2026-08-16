@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "month": "2031-01",
+  "items": [
+    {
+      "id": "Q224164",
+      "date": "2031-01-01",
+      "category": "kurum-marka",
+      "widget_title": "Arizona Cardinals ne zaman kuruldu?",
+      "hook": "Amerika’nın en eski futbol takımlarından biri olan Arizona Cardinals’ın hikayesi, neredeyse bir asır öncesine dayanıyor!",
+      "answer_year": 1920,
+      "year_precision": "year",
+      "guess_range": [
+        1820,
+        2000
+      ],
+      "body": "Arizona Cardinals, Amerikan futbolu tarihinin en köklü takımlarından biri olarak kabul edilir. Takımın kökenleri, 1898 yılında Chicago’da **Morgan Athletic Club** adıyla kurulan bir amatör futbol grubuna kadar uzanır. Ancak resmi kayıtlara göre, takımın **1920 yılında** Amerikan Profesyonel Futbol Birliği’nin (APFA) bir üyesi olarak tanınması, modern Amerikan futbolunun temellerinin atıldığı dönem olarak kabul edilir. [DOĞRULA: Bu tarih, takımın profesyonel liglere resmen kaydedildiği yıl mı, yoksa ilk resmi maçını oynadığı yıl mı?]\n\n1920 yılı, aynı zamanda APFA’nın (daha sonra NFL olacak ligin öncüsü) kuruluş yılıdır. Cardinals, bu ligde yer alan ilk takımlardan biriydi ve **1944 yılında** St. Louis’e taşınana kadar Chicago’da kaldı. 1988 yılında ise Arizona’ya taşınarak adını **Arizona Cardinals** olarak değiştirdi. Takımın logosu ve kırmızı rengi, kuruluşundan beri neredeyse hiç değişmeyen semboller arasında yer alıyor.\n\nBugün, Arizona Cardinals sadece bir spor takımı olmanın ötesinde, Amerikan futbolunun evriminin canlı bir tanığı olarak görülüyor. Stadyumunda çınlayan tezahüratlar, geçmişin izlerini günümüze taşıyor.",
+      "fun_fact": "Arizona Cardinals, NFL tarihindeki en eski ikinci takımdır — ilk sırada ise Green Bay Packers bulunur.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q224164",
+        "https://tr.wikipedia.org/wiki/Arizona_Cardinals",
+        "https://en.wikipedia.org/wiki/Arizona_Cardinals"
+      ],
+      "wikidata_qid": "Q224164"
+    },
+    {
+      "id": "Q242540",
+      "date": "2031-01-02",
+      "category": "kurum-marka",
+      "widget_title": "İnternet Tahsisli Numaralar Otoritesi ne zaman kuruldu?",
+      "hook": "Dünyanın en önemli adres defterini kim yönetiyor dersiniz?",
+      "answer_year": 1981,
+      "year_precision": "year",
+      "guess_range": [
+        1880,
+        2026
+      ],
+      "body": "Bugün internetin omurgasını oluşturan sistemlerden biri olan İnternet Tahsisli Numaralar Otoritesi (IANA), 1981 yılında resmi olarak kuruldu. Peki, bu kuruluş neden bu kadar önemli? Çünkü IANA, dünya genelindeki IP adreslerinin, alan adlarının (DNS) ve diğer teknik parametrelerin düzenlenmesinden sorumlu. Yani, internetin kimlik sistemini yönetiyor diyebiliriz!\n\nAslında IANA'nın temelleri, 1970'lerin sonlarına dayanıyor. O dönemde, Amerikan hükümeti tarafından finanse edilen projelere teknik destek sağlamak amacıyla oluşturulan bir birim olarak başladı. Ancak resmi olarak tanınması ve uluslararası bir statü kazanması 1981 yılını buldu. [DOĞRULA: IANA'nın ilk resmi atamaları hangi yıl yapıldı?]\n\nBugün IANA, ICANN (Internet Corporation for Assigned Names and Numbers) altında faaliyet gösteriyor. Yani, internetin adres sistemini sadece Amerika değil, dünya çapında bir işbirliğiyle yönetiyoruz. İlginç olan şu ki, IANA'nın ilk yıllarında yaptığı atamaların birçoğu hala geçerli! Mesela, ülke kodları (.tr, .uk gibi) ve genel üst düzey alan adları (.com, .org gibi) o dönemde belirlenmeye başladı.",
+      "fun_fact": "IANA, ilk yıllarında sadece 6 genel üst düzey alan adı (.com, .edu, .gov, .mil, .org, .net) yönetiyordu!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q242540",
+        "https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_Otoritesi",
+        "https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority"
+      ],
+      "wikidata_qid": "Q242540"
+    },
+    {
+      "id": "Q252420",
+      "date": "2031-01-03",
+      "category": "kurum-marka",
+      "widget_title": "Uluslararası Barış Bürosu ne zaman kuruldu?",
+      "hook": "1891 yılında uluslararası bir barış hareketi doğurdu. Bu kurum, barışa ve insan haklarına odaklandı. Tarihi neydi?",
+      "answer_year": 1891,
+      "year_precision": "day",
+      "guess_range": [
+        1790,
+        1970
+      ],
+      "body": "1891 yılında, uluslararası bir barış hareketi doğrultusunda Uluslararası Barış Bürosu (International Peace Bureau) kuruldu. Bu kurum, barışa ve insan haklarına odaklanan uluslararası bir organizasyon olarak öne çıkmaya başladı. Kâşifleri ve kurucularının kimleri olduğu belirtilmemiş, ancak kurumun barış hareketinin merkezi bir nokta haline gelmesi ve uluslararası barışa odaklanma konusunda önemli bir rol oynaması bekleniyor. [DOĞRULA: Uluslararası Barış Bürosu'nun tam olarak kimin tarafından ve ne zaman kurulduğu] Bu kurum, barışa ve insan haklarına odaklanan uluslararası bir organizasyon olarak bir yolculuğu başlattı ve bu konuda önemli bir etkisi yaptı.",
+      "fun_fact": "Uluslararası Barış Bürosu, 1919 yılında barış barışma konusunda ilk uluslararası ödül olan Barış Ödülü'nü da kurdu.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q252420",
+        "https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_Bar%C4%B1%C5%9F_B%C3%BCrosu",
+        "https://en.wikipedia.org/wiki/International_Peace_Bureau"
+      ],
+      "wikidata_qid": "Q252420"
+    }
+  ]
+}
