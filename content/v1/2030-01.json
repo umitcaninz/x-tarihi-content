@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "month": "2030-01",
+  "items": [
+    {
+      "id": "Q1037394",
+      "date": "2030-01-01",
+      "category": "kurum-marka",
+      "widget_title": "Orta ve Güney Asya Futbol Federasyonu ne zaman kuruldu?",
+      "hook": "Futbola dair en heyecan verici hikâyelerden biri, belki de sahanın dışında yaşanıyor — bu örgütlenme de öyle!",
+      "answer_year": 1997,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Futbolun kalpgahı Avrupa’dan çok uzakta, Orta ve Güney Asya’nın geniş topraklarında da bir hikâye yazılıyor. **Orta ve Güney Asya Futbol Federasyonu (CSAFF)**, 1997 yılında bu coğrafyanın futbol potansiyelini bir araya getirmek için kuruldu. [DOĞRULA: Kuruluş amacı ve ilk üyeleri hakkında detaylı kaynak bulunamadı.] O yıllarda, Asya futbolunun büyük bir kısmı Doğu ve Güneydoğu Asya’daki federasyonlar tarafından temsil ediliyordu. CSAFF’nin ortaya çıkışı, bu geniş bölgenin — Afganistan’dan Maldivler’e, Hindistan’dan Tacikistan’a kadar — futbolcularını, takımlarını ve hayallerini tek bir çatı altında toplamayı hedefliyordu.\n\nBu federasyonun kurulması, sadece maç sonuçlarından ibaret olmayan bir hikâyenin başlangıcıydı. Yerel liglerin gelişimi, genç yeteneklerin keşfi ve uluslararası arenada daha fazla temsil edilme arzusu, CSAFF’nin omuzlarına yüklenen misyonlardandı. Tabii ki, futbolun evrensel dili sayesinde, kültürel ve coğrafi farklılıklar bu birlikteliğin temel taşlarını oluşturdu. Bugün CSAFF’nin faaliyetleri arasında bölgesel turnuvalar, eğitim programları ve altyapı projeleri yer alıyor — tıpkı diğer büyük konfederasyonlar gibi.\n\nFutbolun sadece bir oyun olmadığını, aynı zamanda birleştirici bir güç olduğunu hatırlatan bu tür oluşumlar, aslında sahaların ötesinde nelerin mümkün olduğunu gösteriyor.",
+      "fun_fact": "CSAFF’nin kuruluşundan yıllar önce, 1954’te Asya Futbol Konfederasyonu (AFC) kurulmuş olsa da, Orta ve Güney Asya’nın özel ihtiyaçları ancak 1990’ların sonunda ayrı bir yapılanma ile karşılanabilmişti.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1037394",
+        "https://tr.wikipedia.org/wiki/Orta_ve_G%C3%BCney_Asya_Futbol_Federasyonu"
+      ],
+      "wikidata_qid": "Q1037394"
+    }
+  ]
+}
