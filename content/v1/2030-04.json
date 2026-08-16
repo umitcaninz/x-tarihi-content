@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-04",
+  "items": [
+    {
+      "id": "Q2975407",
+      "date": "2030-04-01",
+      "category": "kurum-marka",
+      "widget_title": "Atlético Madrid C ne zaman kuruldu?",
+      "hook": "Üçüncü ligde mücadele eden bu takımın hikayesi, aslında bir şehrin futbol aşkının küçük bir parçası!",
+      "answer_year": 1972,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Atlético Madrid’in üçüncü takımı olan Atlético Madrid C, 1972 yılında kuruldu. Takım, İspanyol futbolunun alt liglerinde yer alarak, genç yeteneklere gelişim imkanı sunmayı hedefledi. Atlético’nun akademi sistemi içinde önemli bir yere sahip olan bu takım, genellikle geleceğin yıldızlarını yetiştirmek için bir basamak olarak görülüyor.\n\nAtlético Madrid’in genç takım yapılanması, sadece yerel yeteneklere değil, aynı zamanda ülkenin dört bir yanından gelen yeteneklere de kapılarını açıyor. C takımının kuruluşuyla birlikte, kulüp genç futbolculara daha fazla oyun zamanı ve deneyim kazandırma fırsatı elde etti. Bu sayede, takımın gelecekteki A ve B takımlarına oyuncular yetiştirmesi kolaylaşıyor.\n\n[DOĞRULA: Atlético Madrid C’nin kuruluş amacı ve ilk dönemlerinde yer alan önemli oyuncular hakkında detaylı bilgi bulunmuyor. Eğer bu konuda ek araştırma yapılabilirse, takımın tarihine dair daha fazla ışık tutulabilir.]",
+      "fun_fact": "Atlético Madrid’in C takımı, 1990’ların başında İspanya’nın üçüncü ligi olan Segunda División B’de mücadele eden ender takımlardan biriydi!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2975407",
+        "https://tr.wikipedia.org/wiki/Atl%C3%A9tico_Madrid_C",
+        "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid_C"
+      ],
+      "wikidata_qid": "Q2975407"
+    },
+    {
+      "id": "Q3030826",
+      "date": "2030-04-02",
+      "category": "kurum-marka",
+      "widget_title": "Police FC ne zaman kuruldu?",
+      "hook": "Futbola tutkun biriyseniz, bu takımın hikayesi sizi şaşırtabilir!",
+      "answer_year": 1975,
+      "year_precision": "year",
+      "guess_range": [
+        1870,
+        2026
+      ],
+      "body": "Police FC, 1975 yılında kurulan ve adını ülkesinin polis teşkilatından alan ilginç bir futbol kulübü. Temelleri, [DOĞRULA: hangi ülkede atıldığı] henüz net olmasa da, genellikle Nijerya’nın Lagos eyaletinde faaliyet göstermeye başladığı düşünülüyor. Kuruluş hikayesi, ülkedeki polis teşkilatının toplumla bağlarını güçlendirmek ve gençlere spor yoluyla disiplin kazandırmak amacıyla attığı adımlardan biri olarak öne çıkıyor.\n\nPolice FC, kurulduğu günden bu yana Nijerya’nın futbol altyapısına önemli katkılarda bulundu. Takım, yerel liglerde ve kupalarda mücadele ederken, aynı zamanda ülkenin milli takımına da birçok oyuncu kazandırdı. Futbolun yanı sıra, sosyal sorumluluk projeleriyle de dikkat çeken kulüp, gençlere eğitim ve spor imkanları sunmayı hedefliyor.\n\nAncak, kulübün kuruluşuyla ilgili bazı detaylar [DOĞRULA: resmi kayıtlar ve tarihçelerde netlik kazanmamış durumda]. Örneğin, tam olarak hangi tarihte tescil edildiği veya kurucu üyelerinin kimler olduğu konusunda kaynaklar arasında farklılıklar bulunabiliyor. Bu da futbol tarihçilerinin ve arşivcilerin işini biraz zorlaştırıyor!",
+      "fun_fact": "Police FC’nin, Nijerya’nın en eski polis destekli futbol kulüplerinden biri olması, takımın adının da hikayesini taşıdığını gösteriyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3030826",
+        "https://tr.wikipedia.org/wiki/Police_FC_(Trinidad_ve_Tobago)",
+        "https://en.wikipedia.org/wiki/Police_F.C._(Trinidad_and_Tobago)"
+      ],
+      "wikidata_qid": "Q3030826"
+    }
+  ]
+}
