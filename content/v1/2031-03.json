@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2031-03",
+  "items": [
+    {
+      "id": "Q157464",
+      "date": "2031-03-01",
+      "category": "kurum-marka",
+      "widget_title": "KFC Uerdingen 05 ne zaman kuruldu?",
+      "hook": "Almanya’nın Renanya bölgesinde doğan bu kulüp, futbolda efsanevi bir geçmişin temellerini ne zaman attı acaba?",
+      "answer_year": 1905,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "KFC Uerdingen 05’in hikayesi, 1905 yılında Almanya’nın Krefeld şehrinde başlıyor. O dönemde futbol, Avrupa’nın dört bir yanında hızla yayılırken, Krefeld’in gençleri de bu heyecana kapılmıştı. Kulüp, resmen 1905 yılında kuruldu ve o günden beri yerel liglerden ulusal arenalara kadar uzun bir yol kat etti. [DOĞRULA: Kuruluşunun ilk yıllarında kulübün tam adı neydi?] \n\n1905 yılı, futbolun Almanya’da henüz emekleme döneminde olduğu bir zaman dilimine denk geliyor. O yıllarda kulüpler genellikle mahalleler veya okullar etrafında şekillenirdi. KFC Uerdingen 05’in de benzer bir şekilde, yerel bir topluluk tarafından kurulduğu düşünülüyor. Zamanla, kulüp bölgesel liglerde mücadele etmeye başladı ve 1970’lere gelindiğinde Almanya’nın ikinci ligi olan 2. Bundesliga’da boy göstermeye hak kazandı. \n\n1980’lerde ise kulüp, en parlak dönemlerinden birini yaşadı. 1985 yılında DFB-Pokal’ı (Almanya Kupası) kazanarak tarihinde ilk büyük başarısını elde etti. Bu zafer, kulübün ulusal arenada tanınmasını sağladı. 1990’larda ise finansal zorluklar nedeniyle 2. Bundesliga’dan düştü, ancak 2000’lerin başında yeniden yükselişe geçti. Bugün, KFC Uerdingen 05, alt liglerde mücadele etse de, geçmişindeki başarılarla ve yerel kimliğiyle futbolseverlerin gönlünde özel bir yer edinmiş durumda.",
+      "fun_fact": "KFC Uerdingen 05’in 1985 yılında kazandığı DFB-Pokal zaferi, kulübün tarihindeki en büyük başarı olarak kabul ediliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q157464",
+        "https://tr.wikipedia.org/wiki/KFC_Uerdingen_05",
+        "https://en.wikipedia.org/wiki/KFC_Uerdingen_05"
+      ],
+      "wikidata_qid": "Q157464"
+    },
+    {
+      "id": "Q159936",
+      "date": "2031-03-02",
+      "category": "kurum-marka",
+      "widget_title": "Kickers Offenbach futbol kulübü ne zaman kuruldu?",
+      "hook": "Almanya'nın en eski futbol kulüplerinden biri olan Kickers Offenbach'ın hikayesi, yerel bir sporsever grubunun bir araya gelmesiyle başladı — peki tam olarak hangi yılda?",
+      "answer_year": 1901,
+      "year_precision": "year",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "Kickers Offenbach, Almanya'nın Hessen eyaletindeki Offenbach am Main şehrinin köklü futbol kulüplerinden biri. Resmi kayıtlara göre **1901 yılında** kurulan bu takım, [DOĞRULA: kuruluşunda tam olarak hangi olayların tetiklediği veya ilk üyelerinin kimler olduğu] konusunda net bilgiler bulunmuyor. Ancak, Almanya'da futbolun erken dönemlerinde yerel liglerde boy göstermeye başlayan Kickers Offenbach, zamanla şehrin ve bölgenin spor kültürünün önemli bir parçası haline geldi.\n\nKulüp, tarihinin büyük bölümünü Almanya'nın ikinci ve üçüncü liglerinde geçirdi. 1970'lerde ise en parlak dönemlerinden birini yaşayarak **Bundesliga'ya yükseldi** ve burada birkaç sezon mücadele etti. Kickers Offenbach, futbol dışında da sosyal sorumluluk projeleriyle ve genç yeteneklere verdiği destekle tanınıyor. Stadyumunun adı olan *Bieberer Berg*, kulübün sembollerinden biri olarak kabul ediliyor.\n\nBugün Kickers Offenbach, Almanya futbolunun alt liglerinde mücadele etse de, tarihi ve geleneğiyle dikkat çekmeye devam ediyor. Yerel halk arasında sevilen bir takım olan Kickers Offenbach, Offenbach am Main'ın spor geçmişinin canlı bir temsilcisi olarak varlığını sürdürüyor.",
+      "fun_fact": "Kickers Offenbach'ın stadyumu Bieberer Berg, adını bulunduğu tepeden alıyor ve Almanya'nın en eski stadyumlarından biri olarak kabul ediliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q159936",
+        "https://tr.wikipedia.org/wiki/Kickers_Offenbach",
+        "https://en.wikipedia.org/wiki/Kickers_Offenbach"
+      ],
+      "wikidata_qid": "Q159936"
+    }
+  ]
+}
