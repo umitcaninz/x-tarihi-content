@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-09",
+  "items": [
+    {
+      "id": "Q2445419",
+      "date": "2030-09-01",
+      "category": "kurum-marka",
+      "widget_title": "Gagavuzya - Oguzsport futbol kulübü ne zaman kuruldu?",
+      "hook": "1990’larda Moldova’nın güneyinde doğan bir futbol kulübü, adını aldığı bölgenin kültürünü nasıl sahaya taşıdı?",
+      "answer_year": 1996,
+      "year_precision": "year",
+      "guess_range": [
+        1890,
+        2026
+      ],
+      "body": "Gagavuzya - Oguzsport, Moldova’nın özerk bir bölgesi olan Gagavuzya’nın kültürünü ve kimliğini futbol sahalarında temsil etmek amacıyla 1996 yılında kuruldu. Kuruluşundan bu yana, bölgenin yerel liglerinde ve ulusal arenada mücadele eden takım, Gagavuzya’nın Türk kökenli nüfusunun sesi olmayı hedefledi. [DOĞRULA: Kulübün kuruluşunda yerel yönetimlerin veya spor federasyonlarının rolü hakkında resmi bir kaynak var mı?]\n\nKulübün adı, Gagavuzya’nın yanı sıra \"Oguzsport\" kısmıyla da dikkat çekiyor. Bu isim, bölgenin tarihsel olarak Oğuz Türkleriyle olan bağlarını simgeliyor ve takımın sadece sportif değil, kültürel bir misyon da taşıdığını gösteriyor. Moldova’nın güneyindeki Comrat şehrinde merkezlenen takım, yerel futbolun gelişimine katkıda bulunurken, aynı zamanda Gagavuzya’nın özerk yapısını da futbol sahalarında temsil ediyor.\n\nGagavuzya - Oguzsport’un kuruluş yılı olan 1996, Moldova’nın bağımsızlığını kazanmasından kısa bir süre sonrasına denk geliyor. Bu dönemde, bölgedeki spor kulüpleri hem yerel kimliklerini güçlendirmek hem de ulusal arenada var olmak için çaba gösteriyordu. Takımın kuruluşu, Gagavuzya’nın kültürel ve sportif anlamda kendini ifade etme yolculuğunun önemli bir parçası olarak görülüyor.",
+      "fun_fact": "Gagavuzya - Oguzsport, Moldova’nın en güneyindeki özerk bölge olan Gagavuzya’nın ilk profesyonel futbol takımlarından biri olarak kabul ediliyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2445419",
+        "https://tr.wikipedia.org/wiki/CF_Univer",
+        "https://en.wikipedia.org/wiki/CF_Univer_Comrat"
+      ],
+      "wikidata_qid": "Q2445419"
+    },
+    {
+      "id": "Q2590293",
+      "date": "2030-09-02",
+      "category": "kurum-marka",
+      "widget_title": "FK Orşa ne zaman kuruldu?",
+      "hook": "Sovyetler Birliği’nin derinliklerinde, Belarus’un soğuk topraklarında doğan bir futbol kulübü hikayesi duymaya hazır mısın?",
+      "answer_year": 1951,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "FK Orşa’nın kuruluş yılı olarak kayıtlara geçen 1951, aslında Belarus futbolunun Sovyet dönemindeki yeşeren hikayesinin sadece bir başlangıcı. Bu tarih, II. Dünya Savaşı’nın ardından Avrupa’nın doğusunda futbolun yeniden canlandırılma çabalarının bir parçası olarak ortaya çıkan birçok kulüpten biri olan Orşa’nın doğuşunu simgeliyor. [DOĞRULA: Kuruluşun resmi belgesi mi yoksa yerel kayıtlar mı esas alındı?] \n\n1950’lerin başı, Sovyetler Birliği’nin çeşitli bölgelerinde yerel takımların güçlendirilmeye çalışıldığı bir dönemdi. FK Orşa da bu hareketin bir ürünü olarak, Orşa şehrinin futbol kültürünün temellerini atmak için kuruldu. Ancak, kulübün ilk yıllarına dair detaylar oldukça sınırlı. Resmi kayıtlarda kuruluş yılı olarak 1951 geçse de, takımın ilk maçları, kadroları veya yerel liglerdeki performansı hakkında fazla bilgi bulunmuyor. \n\nBugün FK Orşa, Belarus’un ikinci ligi olan *Pershaya Liha*’da mücadele eden bir takım olarak futbolun yerel dokusunu temsil ediyor. Geçmişine dair sisli sayfalar, onun Sovyetler Birliği’nin futbol mirasının küçük ama önemli bir parçası olduğunu hatırlatıyor.",
+      "fun_fact": "FK Orşa’nın kuruluşundan yıllar sonra, 1990’larda Belarus’un bağımsızlığını kazanmasıyla birlikte takımın adı ve statüsü de değişime uğradı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2590293",
+        "https://tr.wikipedia.org/wiki/FK_Or%C5%9Fa",
+        "https://en.wikipedia.org/wiki/FC_Orsha"
+      ],
+      "wikidata_qid": "Q2590293"
+    }
+  ]
+}
