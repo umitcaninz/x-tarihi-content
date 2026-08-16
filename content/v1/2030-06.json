@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-06",
+  "items": [
+    {
+      "id": "Q18750",
+      "date": "2030-06-01",
+      "category": "kurum-marka",
+      "widget_title": "Wigan Athletic FC ne zaman kuruldu?",
+      "hook": "İngiltere’nin kuzeyindeki bu minik kulüp, 1932’de sahneye çıktığında kimse büyük bir gelecek hayal etmiyordu!",
+      "answer_year": 1932,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Wigan Athletic FC’nin hikayesi, 1932 yılında İngiltere’nin Greater Manchester bölgesindeki Wigan şehrinde başladı. O dönemde Wigan Borough FC adlı bir kulüp bölgede faaliyet gösteriyordu, ancak mali sıkıntılar nedeniyle 1931 yılında ligden ihraç edildi. Bu boşluğu doldurmak isteyen bir grup Wiganlı iş adamı ve futbolsever, 1932 yılında Wigan Athletic adıyla yeni bir kulüp kurmaya karar verdi. Resmi kayıtlara göre, kulüp 11 Eylül 1932 tarihinde resmen kuruldu ve yerel liglerde mücadele etmeye başladı.\n\nWigan Athletic’in ilk yılları oldukça mütevazıydı. Kulüp, başlangıçta Cheshire County League’de oynarken, zamanla yükselerek 1978 yılında Football League’e katılmayı başardı. 2005 yılında ise Premier League’e yükselen Wigan, 2013 yılında FA Cup şampiyonluğuyla tarihindeki en büyük başarıya imza attı. Bu zafer, kulübün adını sadece İngiltere’de değil, tüm dünyada duyurmasını sağladı.\n\nWigan Athletic’in kuruluşundan bu yana geçen yıllarda birçok zorlukla karşılaştığı bir gerçek. Özellikle 2010’lu yıllarda yaşanan mali sıkıntılar ve ligden düşüşler, kulübün geleceğini birkaç kez tehlikeye attı. Ancak Wiganlı taraftarların sadakati ve yerel topluluğun desteği sayesinde kulüp ayakta kaldı. Bugün Wigan Athletic, EFL League One’da mücadele ederken, geçmişinden aldığı güçle geleceğe umutla bakıyor.",
+      "fun_fact": "Wigan Athletic’in kuruluşundan sadece birkaç yıl sonra, 1935’te kulübün ilk resmi maçında forma giyen oyuncuların isimleri bugün hâlâ arşivlerde saklanıyor!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18750",
+        "https://tr.wikipedia.org/wiki/Wigan_Athletic_FC",
+        "https://en.wikipedia.org/wiki/Wigan_Athletic_F.C."
+      ],
+      "wikidata_qid": "Q18750"
+    },
+    {
+      "id": "Q19442",
+      "date": "2030-06-02",
+      "category": "kurum-marka",
+      "widget_title": "Barnsley FC ne zaman kuruldu?",
+      "hook": "İngiltere’nin endüstriyel kalbinin ortasında doğan bir kulüp, 19. yüzyılın sonlarına doğru sahneye çıktı — peki sence hangi yılda?",
+      "answer_year": 1887,
+      "year_precision": "year",
+      "guess_range": [
+        1780,
+        1960
+      ],
+      "body": "Barnsley Futbol Kulübü, 1887 yılında [DOĞRULA: Yorkshire bölgesindeki Barnsley kasabasında] yerel futbolseverler tarafından kuruldu. Kulübün kökenleri, kasabanın demir ve kömür endüstrilerinin hızla geliştiği bir döneme denk gelir. O yıllarda İngiltere’de futbol, hem işçi sınıfı arasında hem de okullarda hızla yaygınlaşırken, Barnsley’de de amatör takımlar oluşmaya başladı. Barnsley FC’nin ilk adı **Barnsley St. Peter’s** olarak kayıtlara geçti ve kuruluş amacı, kasabanın gençlerine sağlıklı bir uğraş sunmanın yanı sıra, yerel rekabeti artırmaktı.\n\nKulüp, 1890 yılında **Barnsley FC** adını aldı ve kısa sürede Northern League’e katılarak profesyonel futbola adım attı. 1898’de ise Football League’e kabul edilmesiyle birlikte, İngiltere’nin en üst düzey liglerinde boy göstermeye başladı. Barnsley FC’nin tarihindeki en parlak dönemlerden biri, 1912 yılında FA Cup finaline ulaşmalarıydı — ne yazık ki o maçta kaybettiler, ama bu başarı kulübün itibarını önemli ölçüde artırdı.\n\nBugün Barnsley FC, EFL Championship’te mücadele eden köklü bir kulüp olarak varlığını sürdürüyor. Stadyumunun adı **Oakwell**, 1887 yılında inşa edilen ve o günden beri kulübe ev sahipliği yapan tarihi bir mekân. Peki, sen Barnsley FC’nin ilk yıllarında hangi oyuncuların parladığını merak ediyor musun?",
+      "fun_fact": "Barnsley FC’nin 1912 FA Cup finalindeki rakibi, o dönemde İngiltere’nin en güçlü takımlarından biri olan West Bromwich Albion’du — maçı 1-0 kazanan taraf West Brom olsa da, Barnsley’in performansı unutulmazdı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19442",
+        "https://tr.wikipedia.org/wiki/Barnsley_FC",
+        "https://en.wikipedia.org/wiki/Barnsley_F.C."
+      ],
+      "wikidata_qid": "Q19442"
+    }
+  ]
+}
