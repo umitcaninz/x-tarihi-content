@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-08",
+  "items": [
+    {
+      "id": "Q270995",
+      "date": "2030-08-01",
+      "category": "kurum-marka",
+      "widget_title": "Atlético Mineiro ne zaman kuruldu?",
+      "hook": "Brezilya’nın en eski futbol kulüplerinden biri olan Atlético Mineiro’nun hikayesi, tesadüfler ve tutkuyla dolu!",
+      "answer_year": 1908,
+      "year_precision": "day",
+      "guess_range": [
+        1800,
+        1980
+      ],
+      "body": "1908 yılında Brezilya’nın Minas Gerais eyaletinin başkenti Belo Horizonte’de kurulan **Clube Atlético Mineiro**, ülkenin en köklü ve sevilen futbol kulüplerinden biri. Kuruluş hikayesi, o dönemde yerel gençlerin futbola olan ilgisinin bir araya gelmesiyle başladı. Resmi kayıtlara göre kulüp, **25 Mart 1908** tarihinde resmen tescil edildi, ancak bazı kaynaklar kuruluş tarihinin biraz daha eskiye dayandığını öne sürüyor. [DOĞRULA: Kuruluşun ilk toplantısının tam tarihi ve yerinin detaylı kaydı].\n\nAtlético Mineiro’nun ilk yılları, yerel turnuvalarda mücadele etmekle geçti. Kulüp, Brezilya futbolunun profesyonelleşmeye başladığı 1930’lu yıllara kadar bölgesel bir güç olarak kaldı. 1937 yılında ise **Campeonato Mineiro** (Minas Gerais Şampiyonası) tarihindeki ilk şampiyonluğunu kazandı ve bu başarı, kulübün ulusal arenada da söz sahibi olmasının ilk adımı oldu.\n\nGünümüzdeyse Atlético Mineiro, Brezilya futbolunun en önemli kulüplerinden biri olarak kabul ediliyor. **Copa Libertadores** ve **Copa do Brasil** gibi büyük turnuvalarda kazandığı şampiyonluklarla adından sıkça söz ettiriyor. Ayrıca, **Ronaldo, Ronaldinho ve Diego Tardelli** gibi dünya çapında ünlü futbolcuları da yetiştirmiş bir kulüp olarak tarihe geçti.",
+      "fun_fact": "Atlético Mineiro’nun maskotu olan *Galo* (Horoz), kulübün takma adı olan *Galo*’nun da ilham kaynağı olmuş ve bu sembol, Brezilya futbolunda en tanınan maskotlardan biri haline gelmiş.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q270995",
+        "https://tr.wikipedia.org/wiki/Atl%C3%A9tico_Mineiro",
+        "https://en.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro"
+      ],
+      "wikidata_qid": "Q270995"
+    },
+    {
+      "id": "Q272712",
+      "date": "2030-08-02",
+      "category": "kurum-marka",
+      "widget_title": "Çaykur Rizespor ne zaman kuruldu?",
+      "hook": "Türkiye'de en eski spor kulüplerinden biri olan Çaykur Rizespor'un kuruluş tarihi nedir?",
+      "answer_year": 1953,
+      "year_precision": "year",
+      "guess_range": [
+        1850,
+        2026
+      ],
+      "body": "Çaykur Rizespor, Türkiye'de eski ve değerli bir spor kulübüdür. Kulübün kuruluşununun 1953 yılında gerçekleştiği düşünülmektedir, ancak bu tarih hassasiyetinde olduğundan [DOĞRULA: 1953 yılındaki Çaykur Rizespor kurulma tarihi] doğrulanması gerekmektedir. Rize şehrinde yer alan bu kulüpten, eski ismiyle 'Rizespor' olarak da bilinen kulüp, Türkiye Sporlar Federasyonu'na (TFF) 1953 yılında düzenlenen il ve ilçe kulüpleri ligine katılmıştır. [DOĞRULA: Rizesporun TFF ligine katılım tarihi] Kulübün adı 1986 yılında 'Çaykur Rizespor' olarak değiştirilmiştir. Rizespor, Türkiye'deki spor tarihinde önemli bir yere sahip olan bir kulüptür ve birçok başarıya imza atmıştır.",
+      "fun_fact": "Çaykur Rizespor, Türkiye'deki en eski spor kulüplerinden biri ve Rize'nin ilk spor kulübüdür.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q272712",
+        "https://tr.wikipedia.org/wiki/%C3%87aykur_Rizespor",
+        "https://en.wikipedia.org/wiki/%C3%87aykur_Rizespor"
+      ],
+      "wikidata_qid": "Q272712"
+    }
+  ]
+}
