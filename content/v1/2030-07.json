@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2030-07",
+  "items": [
+    {
+      "id": "Q128148",
+      "date": "2030-07-01",
+      "category": "kurum-marka",
+      "widget_title": "Manisaspor ne zaman kuruldu?",
+      "hook": "Türkiye’nin en eski futbol takımlarından biri olan Manisaspor’un hikayesi, yeşil sahalara adım attığı yılın ötesine geçiyor!",
+      "answer_year": 1965,
+      "year_precision": "year",
+      "guess_range": [
+        1860,
+        2026
+      ],
+      "body": "Manisaspor, 1965 yılında kurulan ve Manisa şehrini temsil eden köklü bir futbol kulübü. Kuruluşundan bu yana yerel ve ulusal arenalarda adından sıkça söz ettiren takım, özellikle 2000’li yıllarda Süper Lig’e yükselerek büyük bir çıkış yakaladı. Peki, bu heyecan verici yolculuk nasıl başladı?\n\nKulübün temelleri, 1965 yılında atıldı ve o günden beri Manisa’nın renklerini taşıyan bir simge haline geldi. Manisaspor’un kuruluşuyla ilgili detaylar net olmasa da, takımın uzun yıllar boyunca yerel liglerde mücadele ettiği ve zamanla profesyonel futbolun önemli bir parçası haline geldiği biliniyor. [DOĞRULA: Kuruluşunda yer alan kurucu üyelerin isimleri ve kulübün ilk başkanı hakkında bilgi bulunuyor mu?]\n\nYıllar içinde birçok başarılı futbolcu yetiştiren Manisaspor, taraftarları için sadece bir takım değil, aynı zamanda bir gurur kaynağı oldu. Stadyumunda coşkuyla desteklenen takım, zorlu maçlarda gösterdiği dirençle de tanınıyor. Bugün ise hem genç yeteneklere ev sahipliği yapıyor hem de şehrin futbol kültürüne katkıda bulunmaya devam ediyor.",
+      "fun_fact": "Manisaspor’un maçlarını oynadığı 15.000 kapasiteli Manisa 19 Mayıs Stadyumu, adını 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı’ndan alıyor.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q128148",
+        "https://tr.wikipedia.org/wiki/Manisaspor",
+        "https://en.wikipedia.org/wiki/Manisaspor"
+      ],
+      "wikidata_qid": "Q128148"
+    },
+    {
+      "id": "Q131209",
+      "date": "2030-07-02",
+      "category": "kurum-marka",
+      "widget_title": "FK Austria Wien ne zaman kuruldu?",
+      "hook": "Avusturya’nın en köklü futbol kulüplerinden biri olan FK Austria Wien’in hikayesi, sizi 20. yüzyılın başlarına götürüyor.",
+      "answer_year": 1911,
+      "year_precision": "day",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "FK Austria Wien’in temelleri, 1910 yılında Viyana’nın [DOĞRULA: hangi semtinde] atıldı. Resmi olarak kuruluş tarihi olarak kabul edilen 1911 yılı, kulübün ilk adımlarını attığı ve yerel liglerde mücadele etmeye başladığı yıl olarak kayıtlara geçti. Kuruluşundan bu yana Avusturya futbolunun en önemli temsilcilerinden biri olan Austria Wien, uzun yıllar boyunca yerel ve uluslararası arenada adından söz ettirdi.\n\nKulüp, ilk yıllarında *Wiener Amateur-SV* adıyla anılıyordu. İsmi 1926 yılında *FK Austria Wien* olarak değiştirildi ve bu isimle bugüne kadar geldi. Austria Wien’in tarihindeki en parlak dönemlerden biri, 1930’lu yıllarda yaşandı. Bu dönemde takım, hem yerel ligde hem de uluslararası turnuvalarda büyük başarılara imza attı. [DOĞRULA: Bu başarıların hangi turnuvalarda gerçekleştiği] detayları hakkında daha fazla araştırma yapılması gerekiyor.\n\nGünümüzde Austria Wien, Avusturya Bundesliga’sında mücadele eden ve ülkenin en eski futbol kulüplerinden biri olarak varlığını sürdürüyor. Taraftarları tarafından *Die Veilchen* (Menekşeler) olarak da adlandırılan kulüp, Viyana’nın sembollerinden biri haline geldi.",
+      "fun_fact": "Austria Wien’in renkleri olan mor ve beyaza ilham veren şey, Viyana’nın lila çiçeklerinden esinlenildiği rivayet edilir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131209",
+        "https://tr.wikipedia.org/wiki/FK_Austria_Wien",
+        "https://en.wikipedia.org/wiki/FK_Austria_Wien"
+      ],
+      "wikidata_qid": "Q131209"
+    }
+  ]
+}
