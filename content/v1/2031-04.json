@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "month": "2031-04",
+  "items": [
+    {
+      "id": "Q209619",
+      "date": "2031-04-01",
+      "category": "kurum-marka",
+      "widget_title": "OFK Belgrad ne zaman kuruldu?",
+      "hook": "Sırbistan'ın en eski ve prestijli futbol kulüplerinden biri olan OFK Belgrad, hangi yılda ilk kez yüzlerini gösterdi?",
+      "answer_year": 1911,
+      "year_precision": "year",
+      "guess_range": [
+        1810,
+        1990
+      ],
+      "body": "OFK Belgrad, Sırbistan'ın en eski ve prestijli futbol kulüplerinden biridir. Kulübe ait ilk bilinen tarih 1911 yılında olup, bu tarihten itibaren Belgrad'daki futbolun gelişimi ve Sırbistan'ın futbol tarihindeki önemli rolüne katkıda bulunmuştur. Ancak, OFK Belgrad'ın kuruluşunu tam olarak belirleyen ilk belge veya kaynak bulunmamaktadır. [DOĞRULA: OFK Belgrad'ın 1911 yılında kurulduğu doğruluğunu kontrol etmek için hangi kaynakları incelemeliyiz?] Her ne kadar 1911 yılına dayalı olmakla birlikte, kulübe ait daha eski tarihler ve belgelerin bulunması durumunda, OFK Belgrad'ın tarihi daha fazla uzunluğa sahip olabilir.",
+      "fun_fact": "OFK Belgrad, Sırbistan'ın en büyük spor salonlarından biridir ve 20.000 kişilik kapasitede, 2022'de 111. yıldönümü kutlamasıyla dikkat çekici bir etkinlik düzenlemiştir.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q209619",
+        "https://tr.wikipedia.org/wiki/OFK_Beograd",
+        "https://en.wikipedia.org/wiki/OFK_Beograd"
+      ],
+      "wikidata_qid": "Q209619"
+    }
+  ]
+}
