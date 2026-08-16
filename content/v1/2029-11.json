@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "month": "2029-11",
+  "items": [
+    {
+      "id": "Q337377",
+      "date": "2029-11-01",
+      "category": "kurum-marka",
+      "widget_title": "Los Angeles Rams ne zaman kuruldu?",
+      "hook": "Süper Bowl şampiyonu olan bu efsanevi takımın hikayesi, 1930'ların futbol sahalarından Los Angeles'ın parlak ışıklarına nasıl uzandı?",
+      "answer_year": 1936,
+      "year_precision": "year",
+      "guess_range": [
+        1830,
+        2010
+      ],
+      "body": "Los Angeles Rams’in temelleri, 1936 yılında Cleveland, Ohio’da atıldı. O dönemde takım, **Cleveland Rams** adıyla Amerikan Futbolu Ligi’nde (AFL) mücadele ediyordu. Kuruluş hikayesi, yerel bir iş adamı olan Homer Marshman ve futbolcu Damon “Buzz” Wetzel’in girişimleriyle başladı. Wetzel, takımın adını, memleketi Ohio’daki bir kolejin lakabından esinlenerek seçmişti: *Ram* (Koç), güçlü ve saldırgan bir imajı temsil ediyordu.\n\nTakım, 1937 yılında NFL’e (Ulusal Futbol Ligi) katıldı ve ilk yıllarında pek parlak bir performans gösteremese de, 1945 yılında **şaşırtıcı bir hamleyle** Cleveland şampiyonluğunu kazandı. Bu başarı, takımın tarihindeki ilk büyük zaferdi. Ancak Rams’in asıl hikayesi, 1946 yılında başladı: Takım, **NFL tarihindeki ilk büyük şehir değişikliğini gerçekleştirerek Los Angeles’a taşındı**. Bu karar, Amerikan futbolunun batı kıyısına yayılmasında dönüm noktası oldu ve takımın popülaritesini artırdı.\n\nLos Angeles’taki ilk yıllarında Rams, televizyonda yayınlanan maçlarla Amerikan futboluna yeni bir soluk getirdi. 1951 yılında ise **NFL Şampiyonluğunu** kazandı. 1970’lerde ise **Fears ve “The Fearsome Foursome” savunma hattı** gibi efsanevi oyuncularla tanıştı ve 1979 yılında ikinci şampiyonluğunu elde etti. 1995 yılında tekrar St. Louis’e taşınan takım, 2016 yılında Los Angeles’a geri döndü ve bugün hala NFL’in en tanınan takımlarından biri olmayı sürdürüyor.\n\n[DOĞRULA: Cleveland Rams’in tam olarak hangi tarihte NFL’e katıldığı ve bu sürecin detayları.]",
+      "fun_fact": "Los Angeles Rams, NFL tarihindeki ilk televizyonda yayınlanan maçın takımıdır — 1951 yılında Detroit Lions ile yaptıkları karşılaşma, ülke çapında yayınlanan ilk maçtı.",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q337377",
+        "https://tr.wikipedia.org/wiki/Los_Angeles_Rams",
+        "https://en.wikipedia.org/wiki/Los_Angeles_Rams"
+      ],
+      "wikidata_qid": "Q337377"
+    },
+    {
+      "id": "Q337758",
+      "date": "2029-11-02",
+      "category": "kurum-marka",
+      "widget_title": "San Francisco 49ers ne zaman kuruldu?",
+      "hook": "Altına hücum etmekten çok daha fazlası var—bu takımın hikayesi, adını bile ilham verici bir döneme borçlu!",
+      "answer_year": 1946,
+      "year_precision": "year",
+      "guess_range": [
+        1840,
+        2020
+      ],
+      "body": "San Francisco 49ers, Amerikan futbolu dünyasında efsanevi bir yere sahip olan takım, **1946 yılında** kuruldu. Adını, 1849 yılında Kaliforniya'ya altın arayıcılarının akın ettiği *Altına Hücum (Gold Rush)* döneminden aldı. Takımın kurucusu olan Tony Morabito ve bir grup girişimci, bu altın çağı onurlandırmak için hem adını hem de ruhunu takımın kimliğine yansıttı. [DOĞRULA: Kuruluşunda takımın adı ve ilham kaynağı hakkında daha detaylı belge var mı?]\n\nBaşlangıçta All-America Football Conference (AAFC) liginde mücadele eden 49ers, 1950 yılında bu ligin kapanmasının ardından NFL’e katıldı. O dönemde henüz genç bir takım olmasına rağmen, hızla ligin önemli ekiplerinden biri haline geldi. 1970’lerde ve 1980’lerde, Joe Montana, Jerry Rice ve Bill Walsh gibi efsanelerin önderliğinde altın çağını yaşayan takım, Super Bowl şampiyonluklarıyla adını tarihe yazdırdı. Bugün bile, Amerikan futbolunun en tanınan markalarından biri olarak varlığını sürdürüyor.",
+      "fun_fact": "49ers, Super Bowl tarihinde en çok şampiyon olan ikinci takım unvanını elinde bulunduruyor—üstelik bunu sadece 5 kez kazanarak başardı!",
+      "image": null,
+      "sources": [
+        "https://www.wikidata.org/wiki/Q337758",
+        "https://tr.wikipedia.org/wiki/San_Francisco_49ers",
+        "https://en.wikipedia.org/wiki/San_Francisco_49ers"
+      ],
+      "wikidata_qid": "Q337758"
+    }
+  ]
+}
